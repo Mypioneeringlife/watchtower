@@ -1,0 +1,23 @@
+{
+  "name": "Watchtower",
+  "short_name": "Watchtower",
+  "description": "A phone-first personal web watcher that tracks chosen topics, filters useful signals, sends priority alerts, and saves Markdown notes into my second brain.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#031d35",
+  "theme_color": "#0076B6",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "assets/icons/watchtower.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ],
+  "shortcuts": [
+    {
+      "name": "Signal Inbox",
+      "short_name": "Inbox",
+      "description": "Open Watchtower signal inbox",
+      "url": "./index.html#signals",
+      "icons": [{ "src": "assets/icons/watchtower.svg", "sizes": "any", "type": "image/svg+xml" }]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Watchtower app icon">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%"><stop offset="0%" stop-color="#0d4d7a"/><stop offset="60%" stop-color="#07365d"/><stop offset="100%" stop-color="#031d35"/></radialGradient>
+    <linearGradient id="steel" x1="10%" y1="0%" x2="90%" y2="100%"><stop offset="0%" stop-color="#f7fbff"/><stop offset="18%" stop-color="#bfc9d4"/><stop offset="48%" stop-color="#eef4fb"/><stop offset="72%" stop-color="#9aa8b5"/><stop offset="100%" stop-color="#f8fbff"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.38"/></filter>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="168" fill="none" stroke="url(#steel)" stroke-width="30" filter="url(#shadow)"/>
+  <circle cx="256" cy="256" r="128" fill="none" stroke="url(#steel)" stroke-width="10" opacity="0.95"/>
+  <g fill="url(#steel)"><circle cx="256" cy="84" r="12"/><circle cx="342" cy="107" r="12"/><circle cx="405" cy="170" r="12"/><circle cx="428" cy="256" r="12"/><circle cx="405" cy="342" r="12"/><circle cx="342" cy="405" r="12"/><circle cx="256" cy="428" r="12"/><circle cx="170" cy="405" r="12"/><circle cx="107" cy="342" r="12"/><circle cx="84" cy="256" r="12"/><circle cx="107" cy="170" r="12"/><circle cx="170" cy="107" r="12"/></g>
+  <path d="M141 201c44-38 90-48 115-18 25-30 71-20 115 18-23 14-49 27-76 39 23 38 39 74 47 108-32-14-61-35-86-62-25 27-54 48-86 62 8-34 24-70 47-108-27-12-53-25-76-39z" fill="url(#steel)" filter="url(#shadow)"/>
+  <path d="M216 219c17 7 30 16 40 28 10-12 23-21 40-28-14 24-26 49-40 75-14-26-26-51-40-75z" fill="#07365d" opacity="0.82"/>
+</svg>

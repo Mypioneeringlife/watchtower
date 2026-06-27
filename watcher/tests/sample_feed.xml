@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Watchtower Sample Feed</title>
+    <link>https://example.com</link>
+    <description>Sample feed for local testing.</description>
+    <item>
+      <title>Highlander reboot gains a new production update with Henry Cavill</title>
+      <link>https://example.com/highlander-reboot-update</link>
+      <description>A new production update mentions the Highlander reboot, Henry Cavill, and Chad Stahelski.</description>
+      <pubDate>Sat, 27 Jun 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Toyota Highlander receives new trim package</title>
+      <link>https://example.com/toyota-highlander</link>
+      <description>This should be rejected by exclusion terms.</description>
+      <pubDate>Sat, 27 Jun 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>USDA announces food safety recall guidance update</title>
+      <link>https://example.com/usda-food-safety</link>
+      <description>The USDA issued a food safety guidance update related to recall procedures.</description>
+      <pubDate>Sat, 27 Jun 2026 13:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+{
+  "version": "1.1.1",
+  "note": "Real RSS URLs are intentionally disabled placeholders. Set enabled true only after confirming the source is useful.",
+  "sources": [
+    {
+      "id": "sample_highlander_feed",
+      "name": "Sample Highlander Feed",
+      "type": "rss",
+      "url": "watcher/tests/sample_feed.xml",
+      "topics": ["highlander_reboot"],
+      "reliability": "test",
+      "enabled": false
+    },
+    {
+      "id": "usda_news",
+      "name": "USDA News Releases",
+      "type": "rss",
+      "url": "ADD_REAL_RSS_URL_HERE",
+      "topics": ["food_law_usda", "food_prices_farming"],
+      "reliability": "official",
+      "enabled": false
+    },
+    {
+      "id": "fda_recalls",
+      "name": "FDA Recalls and Safety Alerts",
+      "type": "rss",
+      "url": "ADD_REAL_RSS_URL_HERE",
+      "topics": ["food_law_usda"],
+      "reliability": "official",
+      "enabled": false
+    },
+    {
+      "id": "oregon_extension",
+      "name": "Oregon State Extension",
+      "type": "rss",
+      "url": "ADD_REAL_RSS_URL_HERE",
+      "topics": ["gardening_zone8b", "my_pioneering_life"],
+      "reliability": "trusted",
+      "enabled": false
+    },
+    {
+      "id": "entertainment_trades",
+      "name": "Entertainment Trade Sources",
+      "type": "rss",
+      "url": "ADD_REAL_RSS_URL_HERE",
+      "topics": ["highlander_reboot"],
+      "reliability": "trusted",
+      "enabled": false
+    }
+  ]
+}

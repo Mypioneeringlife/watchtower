@@ -1,0 +1,71 @@
+{
+  "version": "1.1.1",
+  "topics": [
+    {
+      "id": "highlander_reboot",
+      "name": "Highlander Reboot",
+      "priority": "immediate",
+      "folder": "00-Inbox/Web Watch/Highlander",
+      "required_any": ["Highlander reboot", "Henry Cavill Highlander", "Chad Stahelski Highlander", "Gregory Widen", "Highlander movie remake"],
+      "include_any": ["Henry Cavill", "Chad Stahelski", "Amazon MGM", "Lionsgate", "casting", "filming", "production", "release date"],
+      "exclude": ["Toyota Highlander", "Dodge Highlander", "Highlander cattle", "Highlander cat", "Highlander school", "Highlander Games"],
+      "trusted_sources": ["deadline.com", "hollywoodreporter.com", "variety.com", "collider.com", "screenrant.com", "comicbook.com"],
+      "thresholds": { "alert": 88, "save": 70, "inbox": 50 }
+    },
+    {
+      "id": "food_law_usda",
+      "name": "Food Law USDA",
+      "priority": "high",
+      "folder": "00-Inbox/Web Watch/Food Law USDA",
+      "required_any": ["USDA", "FDA", "food additives", "food safety", "cottage food", "raw milk", "food recall"],
+      "include_any": ["rule", "guidance", "recall", "ban", "labeling", "inspection", "contamination"],
+      "exclude": ["restaurant review", "recipe only"],
+      "trusted_sources": ["usda.gov", "fda.gov", "fsis.usda.gov", "oregon.gov"],
+      "thresholds": { "alert": 90, "save": 70, "inbox": 50 }
+    },
+    {
+      "id": "food_prices_farming",
+      "name": "Food Prices Farming",
+      "priority": "high",
+      "folder": "00-Inbox/Web Watch/Food Prices Farming",
+      "required_any": ["beef prices", "egg prices", "dairy prices", "food inflation", "crop report", "drought agriculture", "fertilizer prices"],
+      "include_any": ["shortage", "prices", "supply", "ranchers", "farmers", "feed", "fuel"],
+      "exclude": ["stock photo", "recipe"],
+      "trusted_sources": ["usda.gov", "ers.usda.gov", "fb.org", "agweb.com"],
+      "thresholds": { "alert": 88, "save": 70, "inbox": 50 }
+    },
+    {
+      "id": "gardening_zone8b",
+      "name": "Gardening Zone 8B",
+      "priority": "digest",
+      "folder": "00-Inbox/Web Watch/Gardening Zone 8B",
+      "required_any": ["Oregon gardening", "Pacific Northwest gardening", "Zone 8B", "spider mites", "tomato blight", "garlic harvest", "onion harvest"],
+      "include_any": ["tomatoes", "peppers", "garlic", "onions", "beans", "squash", "pests", "drought"],
+      "exclude": ["indoor decor"],
+      "trusted_sources": ["extension.oregonstate.edu", "oregonstate.edu", "almanac.com"],
+      "thresholds": { "alert": 95, "save": 72, "inbox": 55 }
+    },
+    {
+      "id": "ai_creator_tools",
+      "name": "AI Creator Tools",
+      "priority": "digest",
+      "folder": "00-Inbox/Web Watch/AI Creator Tools",
+      "required_any": ["Codex", "PowerDirector", "Descript", "Riverside", "Canva", "vidIQ", "YouTube automation"],
+      "include_any": ["release", "update", "feature", "workflow", "API", "automation"],
+      "exclude": ["coupon", "affiliate"],
+      "trusted_sources": ["openai.com", "cyberlink.com", "descript.com", "riverside.fm", "canva.com", "vidiq.com"],
+      "thresholds": { "alert": 92, "save": 70, "inbox": 50 }
+    },
+    {
+      "id": "my_pioneering_life",
+      "name": "My Pioneering Life",
+      "priority": "digest",
+      "folder": "00-Inbox/Web Watch/My Pioneering Life",
+      "required_any": ["food preservation", "scratch cooking", "pantry cooking", "home canning", "old fashioned recipes", "grocery savings"],
+      "include_any": ["homestead", "traditional skills", "pantry", "frugal", "from scratch", "preserving"],
+      "exclude": ["restaurant menu"],
+      "trusted_sources": ["nchfp.uga.edu", "extension.oregonstate.edu", "usda.gov"],
+      "thresholds": { "alert": 95, "save": 72, "inbox": 55 }
+    }
+  ]
+}

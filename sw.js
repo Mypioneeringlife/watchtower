@@ -1,4 +1,4 @@
-const CACHE_NAME = 'watchtower-v1-4-1';
+const CACHE_NAME = 'watchtower-v1-5-run-log';
 const APP_SHELL = [
   './',
   './index.html',
@@ -6,10 +6,12 @@ const APP_SHELL = [
   './assets/icons/watchtower.svg',
   './assets/css/app.css',
   './assets/js/app.js',
+  './assets/js/runlog.js',
   './data/watchlists.json',
   './data/sources.json',
   './data/signals.json',
-  './data/watcher-meta.json'
+  './data/watcher-meta.json',
+  './data/run-log.json'
 ];
 
 self.addEventListener('install', function(event) {

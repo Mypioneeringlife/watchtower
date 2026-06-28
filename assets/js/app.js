@@ -4,6 +4,7 @@ const App = {
   signals: [],
   meta: {},
   filter: 'all',
+  sourceFilter: 'all',
   review: JSON.parse(localStorage.getItem('watchtower.review.v13') || '{}')
 };
 
@@ -68,6 +69,7 @@ async function boot(){
   App.meta = meta || {};
   bindNavigation();
   bindFilters();
+  bindSourceFilters();
   bindTools();
   renderAll();
 }
@@ -85,14 +87,23 @@ function bindFilters(){
     });
   });
 }
+function bindSourceFilters(){
+  document.querySelectorAll('[data-source-filter]').forEach(function(button){
+    button.addEventListener('click', function(){
+      App.sourceFilter = button.getAttribute('data-source-filter');
+      renderSources();
+    });
+  });
+}
 function bindTools(){
-  const noteFields = ['noteTitle','noteTopic','noteUrl','noteSummary'];
-  noteFields.forEach(function(id){
+  ['noteTitle','noteTopic','noteUrl','noteSummary'].forEach(function(id){
     const el = byId(id);
     if(el){ el.addEventListener('input', buildMarkdown); }
   });
   const copyButton = byId('copyMarkdown');
   if(copyButton){ copyButton.addEventListener('click', copyMarkdown); }
+  const copySourceButton = byId('copySourceSnippet');
+  if(copySourceButton){ copySourceButton.addEventListener('click', copySourceSnippet); }
 }
 
 function showView(name){
@@ -106,6 +117,7 @@ function renderAll(){
   renderTopics();
   renderSources();
   buildMarkdown();
+  buildSourceSnippet();
 }
 
 function renderDashboard(){
@@ -191,9 +203,85 @@ function renderTopics(){
   setText('topicNames', names || 'No topics loaded yet.');
 }
 
+function filteredSources(){
+  return App.sources.filter(function(source){
+    if(App.sourceFilter === 'all'){ return true; }
+    if(App.sourceFilter === 'enabled'){ return !!source.enabled; }
+    if(App.sourceFilter === 'disabled'){ return !source.enabled; }
+    if(App.sourceFilter === 'placeholder'){ return String(source.url || '').indexOf('ADD_REAL') >= 0; }
+    return source.reliability === App.sourceFilter || source.type === App.sourceFilter;
+  });
+}
+
 function renderSources(){
   const enabled = App.sources.filter(function(source){ return source.enabled; }).length;
+  const placeholders = App.sources.filter(function(source){ return String(source.url || '').indexOf('ADD_REAL') >= 0; }).length;
+  const official = App.sources.filter(function(source){ return source.reliability === 'official'; }).length;
   setText('sourceStatus', enabled ? enabled + ' sources enabled.' : 'All real sources are disabled until you choose feeds.');
+  setText('sourceEnabledMetric', String(enabled));
+  setText('sourceDisabledMetric', String(App.sources.length - enabled));
+  setText('sourceOfficialMetric', String(official));
+  setText('sourcePlaceholderMetric', String(placeholders));
+  document.querySelectorAll('[data-source-filter]').forEach(function(button){
+    button.classList.toggle('active', button.getAttribute('data-source-filter') === App.sourceFilter);
+  });
+  const list = byId('sourceList');
+  if(!list){ return; }
+  list.textContent = '';
+  const sources = filteredSources();
+  if(!sources.length){
+    list.appendChild(make('div','empty','No sources match this filter.'));
+    return;
+  }
+  sources.forEach(function(source){ list.appendChild(sourceCard(source)); });
+}
+
+function sourceCard(source){
+  const card = make('article','card source-row');
+  const left = make('div');
+  left.appendChild(make('h3','', source.name || source.id || 'Unnamed source'));
+  left.appendChild(make('p','', source.url || 'No URL set'));
+  const topicRow = make('div','pill-row');
+  (source.topics || []).forEach(function(topicId){ topicRow.appendChild(make('span','pill', topicLabel(topicId))); });
+  if(!topicRow.children.length){ topicRow.appendChild(make('span','pill bad','No topic attached')); }
+  left.appendChild(topicRow);
+  const right = make('div');
+  const isPlaceholder = String(source.url || '').indexOf('ADD_REAL') >= 0;
+  right.appendChild(make('span','source-status ' + (source.enabled ? 'on' : 'off'), source.enabled ? 'Enabled' : 'Disabled'));
+  const reliability = make('p','', (source.reliability || 'unknown') + ' • ' + (source.type || 'source'));
+  right.appendChild(reliability);
+  const health = make('div','pill-row');
+  health.appendChild(make('span','pill ' + (isPlaceholder ? 'bad' : 'good'), isPlaceholder ? 'Needs real URL' : 'URL set'));
+  health.appendChild(make('span','pill', source.id || 'no-id'));
+  right.appendChild(health);
+  card.appendChild(left);
+  card.appendChild(right);
+  return card;
+}
+
+function topicLabel(topicId){
+  const found = App.topics.find(function(topic){ return topic.id === topicId; });
+  return found ? found.name : topicId;
+}
+
+function buildSourceSnippet(){
+  const box = byId('sourceSnippet');
+  if(!box){ return; }
+  const snippet = {
+    id: 'new_source_id',
+    name: 'New Source Name',
+    type: 'rss',
+    url: 'https://example.com/feed.xml',
+    topics: ['highlander_reboot'],
+    reliability: 'trusted',
+    enabled: false
+  };
+  box.textContent = JSON.stringify(snippet, null, 2);
+}
+
+function copySourceSnippet(){
+  const box = byId('sourceSnippet');
+  if(box && navigator.clipboard){ navigator.clipboard.writeText(box.textContent || '').then(function(){ alert('Source snippet copied.'); }); }
 }
 
 function makeNote(signal){
@@ -215,11 +303,11 @@ function buildMarkdown(){
   const url = byId('noteUrl') ? byId('noteUrl').value : '';
   const summary = byId('noteSummary') ? byId('noteSummary').value : '';
   const markdown = '---\n' +
-    'title: "' + title.replaceAll('"', "'") + '"\n' +
+    'title: "' + title.split('"').join("'") + '"\n' +
     'type: "Web Watch"\n' +
     'status: "Inbox"\n' +
-    'topic: "' + topic.replaceAll('"', "'") + '"\n' +
-    'url: "' + url.replaceAll('"', "'") + '"\n' +
+    'topic: "' + topic.split('"').join("'") + '"\n' +
+    'url: "' + url.split('"').join("'") + '"\n' +
     'captured: "' + today() + '"\n' +
     'tags:\n  - web-watch\n  - ' + slug(topic) + '\n---\n\n' +
     '# ' + title + '\n\n' +

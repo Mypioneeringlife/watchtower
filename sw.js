@@ -1,11 +1,14 @@
-const CACHE_NAME = 'watchtower-v1-1-2-icon-fix';
+const CACHE_NAME = 'watchtower-v1-2-visual-rebuild';
 const APP_SHELL = [
   './',
   './index.html',
   './manifest.webmanifest',
   './assets/icons/watchtower.svg',
+  './assets/css/app.css',
+  './assets/js/app.js',
   './data/watchlists.json',
   './data/sources.json',
+  './data/signals.json',
   './data/watcher-meta.json'
 ];
 

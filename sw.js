@@ -1,4 +1,4 @@
-const CACHE_NAME = 'watchtower-v1-3-signal-inbox';
+const CACHE_NAME = 'watchtower-v1-4-source-manager';
 const APP_SHELL = [
   './',
   './index.html',

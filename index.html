@@ -2,31 +2,121 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Watchtower</title>
   <meta name="theme-color" content="#0076B6">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="assets/icons/watchtower.svg">
-  <style>
-    :root{--blue:#0076B6;--deep:#031d35;--panel:#092b4a;--line:#1b5278;--text:#eef7ff;--muted:#a9c5d8;--silver:#dce7ef;}
-    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:radial-gradient(circle at top,#0b4d78,#031d35 70%);color:var(--text)}
-    header{display:flex;gap:14px;align-items:center;padding:16px;background:rgba(3,29,53,.9);border-bottom:1px solid var(--line)}
-    header img{width:56px;height:56px;border-radius:14px} main{max-width:1050px;margin:auto;padding:16px 16px 80px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}.card{background:rgba(9,43,74,.9);border:1px solid var(--line);border-radius:18px;padding:16px;box-shadow:0 12px 28px #0004}.muted{color:var(--muted)}.pill{display:inline-flex;border:1px solid var(--line);border-radius:999px;padding:4px 8px;margin:2px;color:var(--muted);font-size:.82rem}a{color:#9be0ff}code,pre{background:#041a2f;border:1px solid var(--line);border-radius:10px;padding:2px 5px}pre{display:block;padding:12px;white-space:pre-wrap}
-  </style>
+  <link rel="stylesheet" href="assets/css/app.css">
 </head>
 <body>
-<header>
-  <img src="assets/icons/watchtower.svg" alt="Watchtower logo">
-  <div><h1>Watchtower</h1><p class="muted">Personal web watcher, signal filter, and second-brain intake desk.</p></div>
-</header>
-<main>
-  <section class="grid">
-    <article class="card"><h2>Signal Inbox</h2><p class="muted">The watcher writes matched articles and posts here after scoring them.</p><span class="pill">Immediate alerts</span><span class="pill">Digest items</span><span class="pill">Review gate</span></article>
-    <article class="card"><h2>Watch Topics</h2><p class="muted">Starter topics include Highlander Reboot, Food Law USDA, Food Prices Farming, Gardening Zone 8B, AI Creator Tools, and My Pioneering Life.</p></article>
-    <article class="card"><h2>Second Brain Output</h2><p class="muted">Strong results become Markdown notes under <code>00-Inbox/Web Watch</code>.</p></article>
-  </section>
-  <section class="card"><h2>Sample Markdown Note</h2><pre>---
-title: "Highlander reboot gains a new production update"
+  <main class="app-shell">
+    <header class="topbar">
+      <div class="brand">
+        <img class="logo" src="assets/icons/watchtower.svg" alt="Watchtower logo">
+        <div>
+          <h1>Watchtower</h1>
+          <p>Signals worth seeing. Noise worth ignoring.</p>
+        </div>
+      </div>
+      <div class="status-chip">v1.2 visual rebuild</div>
+    </header>
+
+    <section id="dashboard" class="view active">
+      <div class="hero">
+        <h2>Your personal intelligence desk</h2>
+        <p>Watchtower checks chosen topics, scores what matters, and keeps useful research ready for your second brain.</p>
+        <div class="quick-row">
+          <div class="metric"><b id="signalCount">0</b><span>Real signals</span></div>
+          <div class="metric"><b>2</b><span>Sample alerts</span></div>
+          <div class="metric"><b id="topicCount">0</b><span>Watch topics</span></div>
+          <div class="metric"><b id="sourceCount">0/0</b><span>Enabled sources</span></div>
+        </div>
+      </div>
+
+      <div class="section-title"><h2>System status</h2><span id="lastRun">Loading</span></div>
+      <section class="grid">
+        <article class="card">
+          <h3>Priority alerts</h3>
+          <p id="signalStatus">Checking signal file.</p>
+          <div class="pill-row"><span class="pill hot">Highlander</span><span class="pill hot">USDA</span><span class="pill">Food prices</span></div>
+        </article>
+        <article class="card">
+          <h3>Source readiness</h3>
+          <p id="sourceStatus">Checking sources.</p>
+          <div class="pill-row"><span class="pill bad">Placeholders disabled</span><span class="pill good">Sample feed ready</span></div>
+        </article>
+      </section>
+
+      <div class="section-title"><h2>Top sample signals</h2><span>useful layout preview</span></div>
+      <article class="card signal-card">
+        <div class="score-ring">96</div>
+        <div class="signal-body">
+          <div class="signal-title">Highlander reboot gains a new production update with Henry Cavill</div>
+          <div class="signal-meta">Highlander Reboot • Sample Feed • immediate</div>
+          <div class="pill-row"><span class="pill hot">Immediate</span><span class="pill">Highlander reboot</span><span class="pill">Henry Cavill</span><span class="pill good">Save note</span></div>
+          <div class="actions"><a class="btn" href="https://example.com/highlander-reboot-update">Open</a><button class="secondary" data-view="tools">Make note</button><button class="warn">Save</button></div>
+        </div>
+      </article>
+      <article class="card signal-card">
+        <div class="score-ring">84</div>
+        <div class="signal-body">
+          <div class="signal-title">USDA announces food safety recall guidance update</div>
+          <div class="signal-meta">Food Law USDA • Sample Feed • high</div>
+          <div class="pill-row"><span class="pill good">Strong</span><span class="pill">USDA</span><span class="pill">food safety</span><span class="pill">recall</span></div>
+          <div class="actions"><a class="btn" href="https://example.com/usda-food-safety">Open</a><button class="secondary" data-view="tools">Make note</button><button class="warn">Save</button></div>
+        </div>
+      </article>
+    </section>
+
+    <section id="signals" class="view">
+      <div class="section-title"><h2>Signal inbox</h2><span>v1.3 will make this fully interactive</span></div>
+      <article class="card">
+        <h3>Inbox purpose</h3>
+        <p>This screen will become the daily review desk. Each result will show source, score, match reasons, status, and second-brain actions.</p>
+        <div class="pill-row"><span class="pill hot">Alerts</span><span class="pill good">Saved</span><span class="pill">Reviewed</span><span class="pill bad">Ignored</span></div>
+      </article>
+      <article class="card signal-card">
+        <div class="score-ring">96</div>
+        <div class="signal-body">
+          <div class="signal-title">Highlander reboot gains a new production update with Henry Cavill</div>
+          <div class="signal-meta">Matched because the exact reboot phrase and actor name were present.</div>
+          <div class="actions"><a class="btn" href="https://example.com/highlander-reboot-update">Open source</a><button class="secondary" data-view="tools">Generate note</button></div>
+        </div>
+      </article>
+    </section>
+
+    <section id="topics" class="view">
+      <div class="section-title"><h2>Watch topics</h2><span>loaded from data</span></div>
+      <article class="card">
+        <h3>Active topic pack</h3>
+        <p id="topicNames">Loading topics.</p>
+      </article>
+      <section class="grid">
+        <article class="card topic-card"><h3>Highlander Reboot <span class="priority">immediate</span></h3><p>Strict watch for reboot news, casting, filming, release dates, production photos, and credible trade updates.</p><div class="pill-row"><span class="pill">Highlander reboot</span><span class="pill">Henry Cavill</span><span class="pill">Chad Stahelski</span><span class="pill bad">Reject Toyota</span></div></article>
+        <article class="card topic-card"><h3>Food Law USDA <span class="priority">high</span></h3><p>Watch official food safety, recalls, additives, labeling, raw milk, and cottage food changes.</p><div class="pill-row"><span class="pill">USDA</span><span class="pill">FDA</span><span class="pill">food recall</span></div></article>
+      </section>
+    </section>
+
+    <section id="sources" class="view">
+      <div class="section-title"><h2>Sources</h2><span>turn on slowly</span></div>
+      <article class="card">
+        <h3>Source rule</h3>
+        <p>Enable one or two trusted feeds first. Do not turn this into a random internet vacuum.</p>
+        <div class="pill-row"><span class="pill good">Official sources first</span><span class="pill">Trade sources second</span><span class="pill bad">Rumor sites last</span></div>
+      </article>
+      <article class="card source-row"><div><h3>USDA News Releases</h3><p>Placeholder feed waiting for the exact URL.</p></div><div><span class="source-status off">Disabled</span><p>official • rss</p></div></article>
+      <article class="card source-row"><div><h3>Entertainment Trade Sources</h3><p>Placeholder feed for Highlander trade coverage.</p></div><div><span class="source-status off">Disabled</span><p>trusted • rss</p></div></article>
+    </section>
+
+    <section id="tools" class="view">
+      <div class="section-title"><h2>Second-brain tools</h2><span>starter templates</span></div>
+      <section class="grid">
+        <article class="card">
+          <h3>Research note template</h3>
+          <p>Use this format when a signal deserves to enter the inbox.</p>
+          <pre>---
+title: "Captured signal"
 type: "Web Watch"
 status: "Inbox"
 topic: "Highlander Reboot"
@@ -35,19 +125,45 @@ tags:
   - highlander-reboot
 ---
 
-# Highlander reboot gains a new production update
+# Captured signal
 
 ## Summary
 
-A new signal was captured by Watchtower and should be reviewed before being promoted into permanent research.
+Review this before promoting it into permanent research.
 
 ## Processing log
 
 - [ ] Reviewed
 - [ ] Promoted to permanent note
 - [ ] Used in content
-- [ ] Discarded</pre></section>
-  <section class="card"><h2>Repository Setup</h2><p>Real source URLs are disabled placeholders until the exact RSS feeds are chosen. The watcher code lives in <code>watcher/watchtower.py</code>.</p></section>
-</main>
+- [ ] Discarded</pre>
+        </article>
+        <article class="card">
+          <h3>Next useful button</h3>
+          <p>v1.3 should add real actions: copy Markdown, save status, ignore signal, and convert to content idea.</p>
+          <div class="actions"><button class="secondary">Copy Markdown soon</button><button class="secondary">Make content idea soon</button></div>
+        </article>
+      </section>
+    </section>
+
+    <section id="settings" class="view">
+      <div class="section-title"><h2>Settings</h2><span>phone install support</span></div>
+      <article class="card">
+        <h3>Install plan</h3>
+        <p>After GitHub Pages is enabled, open the site in Chrome and choose Add to Home Screen.</p>
+        <div class="actions"><button class="secondary">Cache reset coming in v2.1</button></div>
+      </article>
+    </section>
+  </main>
+
+  <nav class="bottom-nav" aria-label="Watchtower navigation">
+    <button class="nav-btn active" data-view="dashboard"><b>⌂</b>Home</button>
+    <button class="nav-btn" data-view="signals"><b>◆</b>Signals</button>
+    <button class="nav-btn" data-view="topics"><b>◎</b>Topics</button>
+    <button class="nav-btn" data-view="sources"><b>◌</b>Sources</button>
+    <button class="nav-btn" data-view="tools"><b>✎</b>Tools</button>
+  </nav>
+
+  <script src="assets/js/app.js"></script>
 </body>
 </html>

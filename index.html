@@ -19,7 +19,7 @@
           <p>Signals worth seeing. Noise worth ignoring.</p>
         </div>
       </div>
-      <div class="status-chip">v1.3 signal inbox</div>
+      <div class="status-chip">v1.4 source manager</div>
     </header>
 
     <section id="dashboard" class="view active">
@@ -44,14 +44,14 @@
         <article class="card">
           <h3>Source readiness</h3>
           <p id="sourceStatus">Checking sources.</p>
-          <div class="pill-row"><span class="pill bad">Placeholders disabled</span><span class="pill good">Sample feed ready</span></div>
+          <div class="actions"><button data-view="sources">Manage sources</button></div>
         </article>
       </section>
 
       <div class="section-title"><h2>What to do next</h2><span>practical workflow</span></div>
       <section class="grid">
         <article class="card"><h3>Review alerts first</h3><p>Open the inbox and use the Alert filter. Save only the signals that deserve a second-brain note.</p></article>
-        <article class="card"><h3>Ignore junk fast</h3><p>Use Ignore on false positives so the inbox becomes a useful review desk instead of another pile of noise.</p></article>
+        <article class="card"><h3>Turn on sources slowly</h3><p>Use the Source Manager to replace placeholder URLs, enable one feed at a time, then check the results before adding more.</p></article>
       </section>
     </section>
 
@@ -81,14 +81,34 @@
     </section>
 
     <section id="sources" class="view">
-      <div class="section-title"><h2>Sources</h2><span>turn on slowly</span></div>
+      <div class="section-title"><h2>Source Manager</h2><span>control what Watchtower watches</span></div>
+      <div class="quick-row">
+        <div class="metric"><b id="sourceEnabledMetric">0</b><span>Enabled</span></div>
+        <div class="metric"><b id="sourceDisabledMetric">0</b><span>Disabled</span></div>
+        <div class="metric"><b id="sourceOfficialMetric">0</b><span>Official</span></div>
+        <div class="metric"><b id="sourcePlaceholderMetric">0</b><span>Need URLs</span></div>
+      </div>
       <article class="card">
         <h3>Source rule</h3>
-        <p>Enable one or two trusted feeds first. Do not turn this into a random internet vacuum.</p>
-        <div class="pill-row"><span class="pill good">Official sources first</span><span class="pill">Trade sources second</span><span class="pill bad">Rumor sites last</span></div>
+        <p>Official feeds first, trusted trade feeds second, rumor sources last. Enable one or two feeds at a time and watch for junk before adding more.</p>
+        <div class="pill-row"><span class="pill good">Official first</span><span class="pill">Trusted second</span><span class="pill bad">Rumor last</span></div>
       </article>
-      <article class="card source-row"><div><h3>USDA News Releases</h3><p>Placeholder feed waiting for the exact URL.</p></div><div><span class="source-status off">Disabled</span><p>official • rss</p></div></article>
-      <article class="card source-row"><div><h3>Entertainment Trade Sources</h3><p>Placeholder feed for Highlander trade coverage.</p></div><div><span class="source-status off">Disabled</span><p>trusted • rss</p></div></article>
+      <div class="toolbar">
+        <button class="active" data-source-filter="all">All</button>
+        <button data-source-filter="enabled">Enabled</button>
+        <button data-source-filter="disabled">Disabled</button>
+        <button data-source-filter="placeholder">Need URL</button>
+        <button data-source-filter="official">Official</button>
+        <button data-source-filter="trusted">Trusted</button>
+        <button data-source-filter="test">Test</button>
+      </div>
+      <div id="sourceList"></div>
+      <article class="card">
+        <h3>Add a source snippet</h3>
+        <p>Copy this structure into <code>data/sources.json</code>, then replace the URL, topic, and reliability. Keep <code>enabled</code> false until the feed is tested.</p>
+        <pre id="sourceSnippet"></pre>
+        <div class="actions"><button id="copySourceSnippet" class="secondary">Copy source snippet</button></div>
+      </article>
     </section>
 
     <section id="tools" class="view">
@@ -114,7 +134,7 @@
       <article class="card">
         <h3>Install plan</h3>
         <p>After GitHub Pages is enabled, open the site in Chrome and choose Add to Home Screen.</p>
-        <p>For a hard refresh after updates, open the site with <code>?v=1.3</code> added to the end.</p>
+        <p>For a hard refresh after updates, open the site with <code>?v=1.4</code> added to the end.</p>
       </article>
     </section>
   </main>

@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.2.0
+
+- Rebuilt the phone UI so Watchtower feels like an actual mobile app instead of a rough document page.
+- Added a dark blue and silver visual system matching the approved icon direction.
+- Added a dashboard hero, metric cards, system status cards, sample priority signals, and a bottom navigation bar.
+- Added separate screens for Dashboard, Signals, Topics, Sources, Tools, and Settings.
+- Added external CSS and JavaScript files under `assets/`.
+- Updated the service worker cache so the new UI assets load correctly.
+
 ## v1.1.1
 
 - Created repository build for `Mypioneeringlife/watchtower`.

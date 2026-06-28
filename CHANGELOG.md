@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.5.0
+
+- Added watcher run logging to `watcher/watchtower.py`.
+- Added `data/run-log.json` for persistent run history.
+- Added a Run Log screen in the phone app.
+- Added run metrics for items checked, new signals, notes written, and source errors.
+- Added per-source run status, item counts, match counts, note counts, and error display.
+- Updated the GitHub Actions workflow so run logs are committed with watcher output.
+- Added `assets/js/runlog.js` and updated the service worker cache.
+
 ## v1.4.0
 
 - Added the Source Manager screen.

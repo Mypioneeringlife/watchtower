@@ -2,8 +2,9 @@
 """Watchtower RSS/Atom watcher.
 
 This is a focused watcher, not a broad crawler. It reads configured RSS/Atom
-sources, scores matching items against topic rules, prevents duplicates, and
-writes Markdown notes into the second-brain outbox.
+sources, scores matching items against topic rules, prevents duplicates, writes
+Markdown notes into the second-brain outbox, and records a run log so the phone
+app can show whether the watcher is actually working.
 """
 from __future__ import annotations
 
@@ -24,6 +25,11 @@ DATA = ROOT / "data"
 OUTBOX = ROOT / "outbox" / "second-brain"
 SEEN = DATA / "seen.json"
 SIGNALS = DATA / "signals.json"
+RUN_LOG = DATA / "run-log.json"
+
+
+def utc_now() -> str:
+    return dt.datetime.utcnow().isoformat(timespec="seconds") + "Z"
 
 
 def load_json(path: Path, fallback: Any) -> Any:
@@ -39,8 +45,8 @@ def save_json(path: Path, data: Any) -> None:
 
 def fetch_text(url: str) -> str:
     if url.startswith("http://") or url.startswith("https://"):
-        req = urllib.request.Request(url, headers={"User-Agent": "Watchtower personal RSS watcher/1.1"})
-        with urllib.request.urlopen(req, timeout=20) as res:
+        req = urllib.request.Request(url, headers={"User-Agent": "Watchtower personal RSS watcher/1.5"})
+        with urllib.request.urlopen(req, timeout=25) as res:
             return res.read().decode("utf-8", errors="replace")
     return (ROOT / url).read_text(encoding="utf-8")
 
@@ -168,30 +174,60 @@ Research lead, content idea, or second-brain reference note.
     return path
 
 
+def append_run_log(entry: dict[str, Any]) -> None:
+    existing = load_json(RUN_LOG, {"version": "1.5.0", "runs": []})
+    runs = existing.get("runs", [])
+    runs.insert(0, entry)
+    save_json(RUN_LOG, {"version": "1.5.0", "runs": runs[:30]})
+
+
 def run(sample: str | None = None, dry_run: bool = False) -> int:
+    started_at = utc_now()
     watchlists = load_json(DATA / "watchlists.json", {"topics": []})
     sources = load_json(DATA / "sources.json", {"sources": []})
     topic_map = {t["id"]: t for t in watchlists.get("topics", [])}
     seen = set(load_json(SEEN, []))
     signals = load_json(SIGNALS, [])
     new_count = 0
+    notes_written = 0
+    checked_items = 0
+    duplicates = 0
+    below_threshold = 0
+    source_results: list[dict[str, Any]] = []
 
-    active_sources = sources.get("sources", [])
+    configured_sources = sources.get("sources", [])
+    active_sources = configured_sources
     if sample:
         active_sources = [{"id": "sample", "name": "Sample Feed", "url": sample, "topics": list(topic_map), "reliability": "test", "enabled": True}]
 
     for source in active_sources:
         if not source.get("enabled") and not sample:
             continue
+        source_result = {
+            "id": source.get("id"),
+            "name": source.get("name"),
+            "status": "ok",
+            "items_checked": 0,
+            "matches": 0,
+            "notes_written": 0,
+            "error": None,
+        }
         try:
             items = parse_feed(fetch_text(source["url"]))
+            source_result["items_checked"] = len(items)
+            checked_items += len(items)
         except Exception as exc:
+            source_result["status"] = "error"
+            source_result["error"] = str(exc)
+            source_results.append(source_result)
             print(f"source failed: {source.get('name')}: {exc}", file=sys.stderr)
             continue
         for item in items:
             sid = signal_id(item.get("url", ""), item.get("title", ""))
             if sid in seen:
+                duplicates += 1
                 continue
+            matched_any_topic = False
             for topic_id in source.get("topics", []):
                 topic = topic_map.get(topic_id)
                 if not topic:
@@ -200,13 +236,14 @@ def run(sample: str | None = None, dry_run: bool = False) -> int:
                 thresholds = topic.get("thresholds", {"inbox": 50, "save": 70, "alert": 90})
                 if score < thresholds.get("inbox", 50):
                     continue
+                matched_any_topic = True
                 signal = {
                     "id": sid,
                     "title": item.get("title") or "Untitled signal",
                     "url": item.get("url") or "",
                     "summary": item.get("summary") or "",
                     "published": item.get("published") or "",
-                    "captured": dt.datetime.utcnow().isoformat(timespec="seconds") + "Z",
+                    "captured": utc_now(),
                     "topic": topic.get("name"),
                     "folder": topic.get("folder"),
                     "priority": topic.get("priority"),
@@ -218,12 +255,50 @@ def run(sample: str | None = None, dry_run: bool = False) -> int:
                 signals.append(signal)
                 seen.add(sid)
                 new_count += 1
+                source_result["matches"] += 1
                 if score >= thresholds.get("save", 70) and not dry_run:
                     write_note(signal)
+                    notes_written += 1
+                    source_result["notes_written"] += 1
+            if not matched_any_topic:
+                below_threshold += 1
+        source_results.append(source_result)
+
+    finished_at = utc_now()
+    errors = sum(1 for result in source_results if result.get("status") == "error")
+    run_entry = {
+        "started_at": started_at,
+        "finished_at": finished_at,
+        "mode": "sample" if sample else "once",
+        "dry_run": dry_run,
+        "configured_sources": len(configured_sources),
+        "enabled_sources": len([s for s in configured_sources if s.get("enabled")]) if not sample else 1,
+        "sources_checked": len(source_results),
+        "source_errors": errors,
+        "items_checked": checked_items,
+        "duplicates_skipped": duplicates,
+        "below_threshold": below_threshold,
+        "new_signals": new_count,
+        "notes_written": notes_written,
+        "sources": source_results,
+    }
+
     if not dry_run:
         save_json(SIGNALS, signals[-250:])
         save_json(SEEN, sorted(seen))
-        save_json(DATA / "watcher-meta.json", {"last_run": dt.datetime.utcnow().isoformat(timespec="seconds") + "Z", "version": "1.1.1"})
+        save_json(DATA / "watcher-meta.json", {
+            "last_run": finished_at,
+            "version": "1.5.0",
+            "last_summary": {
+                "new_signals": new_count,
+                "items_checked": checked_items,
+                "source_errors": errors,
+                "notes_written": notes_written,
+            },
+        })
+        append_run_log(run_entry)
+    else:
+        print(json.dumps(run_entry, indent=2))
     print(f"new signals: {new_count}")
     return new_count
 

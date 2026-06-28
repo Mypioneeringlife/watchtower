@@ -11,27 +11,29 @@ const App = {
 const sampleSignals = [
   {
     id: 'sample-highlander',
-    title: 'Highlander reboot gains a new production update with Henry Cavill',
+    demo: true,
+    title: 'Sample: Highlander reboot gains a new production update with Henry Cavill',
     topic: 'Highlander Reboot',
-    source: 'Sample Feed',
-    url: 'https://example.com/highlander-reboot-update',
+    source: 'Sample data',
+    url: '',
     score: 96,
     priority: 'immediate',
     status: 'new',
-    summary: 'A sample alert showing how a strong Highlander reboot match will appear in the inbox.',
-    why: ['required: Highlander reboot', 'context: Henry Cavill', 'context: Chad Stahelski']
+    summary: 'This is sample data only. It shows how a strong Highlander reboot match will look after real sources are enabled.',
+    why: ['sample only', 'required: Highlander reboot', 'context: Henry Cavill', 'context: Chad Stahelski']
   },
   {
     id: 'sample-usda',
-    title: 'USDA announces food safety recall guidance update',
+    demo: true,
+    title: 'Sample: USDA announces food safety recall guidance update',
     topic: 'Food Law USDA',
-    source: 'Sample Feed',
-    url: 'https://example.com/usda-food-safety',
+    source: 'Sample data',
+    url: '',
     score: 84,
     priority: 'high',
     status: 'new',
-    summary: 'A sample food law signal showing how official food safety updates should be reviewed.',
-    why: ['required: USDA', 'context: food safety', 'context: recall']
+    summary: 'This is sample data only. It shows how an official food safety update will look after real sources are enabled.',
+    why: ['sample only', 'required: USDA', 'context: food safety', 'context: recall']
   }
 ];
 
@@ -47,6 +49,7 @@ function statusOf(signal){ return App.review[signal.id] || signal.status || 'new
 function saveReview(){ localStorage.setItem('watchtower.review.v13', JSON.stringify(App.review)); }
 function slug(value){ return String(value || 'watchtower').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'') || 'watchtower'; }
 function today(){ return new Date().toISOString().slice(0,10); }
+function isRealUrl(value){ return /^https?:\/\//i.test(String(value || '')); }
 
 async function loadJson(path, fallback){
   try{
@@ -125,12 +128,13 @@ function renderDashboard(){
   const newCount = App.signals.filter(function(s){ return statusOf(s) === 'new'; }).length;
   const savedCount = App.signals.filter(function(s){ return statusOf(s) === 'saved'; }).length;
   const enabled = App.sources.filter(function(s){ return s.enabled; }).length;
+  const sampleMode = App.signals.every(function(s){ return s.demo; });
   setText('signalCount', App.signals.length);
   setText('sampleCount', alertCount);
   setText('topicCount', App.topics.length);
   setText('sourceCount', enabled + '/' + App.sources.length);
   setText('lastRun', App.meta.last_run || 'Not run yet');
-  setText('signalStatus', newCount + ' new, ' + savedCount + ' saved, ' + alertCount + ' alert-level.');
+  setText('signalStatus', sampleMode ? 'Sample mode. No real watcher results yet.' : newCount + ' new, ' + savedCount + ' saved, ' + alertCount + ' alert-level.');
   setText('sourceStatus', enabled ? enabled + ' sources enabled.' : 'All real sources are still disabled until you choose feeds.');
 }
 
@@ -165,16 +169,24 @@ function signalCard(signal){
   const body = make('div','signal-body');
   body.appendChild(make('div','signal-title', signal.title || 'Untitled signal'));
   body.appendChild(make('div','signal-meta', (signal.topic || 'No topic') + ' • ' + (signal.source || 'No source') + ' • ' + (signal.priority || 'normal')));
+  if(signal.demo){ body.appendChild(make('p','', 'This is a preview card only. It is not a real article and has no outside page to open.')); }
   const pills = make('div','pill-row');
   pills.appendChild(make('span','pill ' + (statusOf(signal) === 'saved' ? 'good' : statusOf(signal) === 'ignored' ? 'bad' : ''), statusOf(signal)));
   (signal.why || []).slice(0,4).forEach(function(reason){ pills.appendChild(make('span','pill', reason)); });
   body.appendChild(pills);
   const actions = make('div','actions');
-  const open = make('a','btn','Open');
-  open.setAttribute('href', signal.url || '#');
-  open.setAttribute('target','_blank');
-  open.setAttribute('rel','noopener');
-  actions.appendChild(open);
+  if(isRealUrl(signal.url) && !signal.demo){
+    const open = make('a','btn','Open');
+    open.setAttribute('href', signal.url);
+    open.setAttribute('target','_blank');
+    open.setAttribute('rel','noopener');
+    actions.appendChild(open);
+  }else{
+    const disabledOpen = make('button','secondary','Sample only');
+    disabledOpen.setAttribute('type','button');
+    disabledOpen.setAttribute('disabled','disabled');
+    actions.appendChild(disabledOpen);
+  }
   actions.appendChild(actionButton('Note','secondary', function(){ makeNote(signal); }));
   actions.appendChild(actionButton('Save','warn', function(){ setStatus(signal.id,'saved'); }));
   actions.appendChild(actionButton('Reviewed','secondary', function(){ setStatus(signal.id,'reviewed'); }));
@@ -271,7 +283,7 @@ function buildSourceSnippet(){
     id: 'new_source_id',
     name: 'New Source Name',
     type: 'rss',
-    url: 'https://example.com/feed.xml',
+    url: 'PASTE_REAL_RSS_URL_HERE',
     topics: ['highlander_reboot'],
     reliability: 'trusted',
     enabled: false

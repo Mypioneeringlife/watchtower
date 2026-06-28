@@ -1,4 +1,4 @@
-const CACHE_NAME = 'watchtower-v1-1-1';
+const CACHE_NAME = 'watchtower-v1-1-2-icon-fix';
 const APP_SHELL = [
   './',
   './index.html',

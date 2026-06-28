@@ -2,6 +2,14 @@ name: Watchtower
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/sources.json'
+      - 'data/watchlists.json'
+      - 'watcher/**'
+      - '.github/workflows/watchtower.yml'
   schedule:
     - cron: '7 13,1 * * *'
 

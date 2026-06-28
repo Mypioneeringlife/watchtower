@@ -19,7 +19,7 @@
           <p>Signals worth seeing. Noise worth ignoring.</p>
         </div>
       </div>
-      <div class="status-chip">v1.2 visual rebuild</div>
+      <div class="status-chip">v1.3 signal inbox</div>
     </header>
 
     <section id="dashboard" class="view active">
@@ -27,8 +27,8 @@
         <h2>Your personal intelligence desk</h2>
         <p>Watchtower checks chosen topics, scores what matters, and keeps useful research ready for your second brain.</p>
         <div class="quick-row">
-          <div class="metric"><b id="signalCount">0</b><span>Real signals</span></div>
-          <div class="metric"><b>2</b><span>Sample alerts</span></div>
+          <div class="metric"><b id="signalCount">0</b><span>Total signals</span></div>
+          <div class="metric"><b id="sampleCount">0</b><span>Alert-level</span></div>
           <div class="metric"><b id="topicCount">0</b><span>Watch topics</span></div>
           <div class="metric"><b id="sourceCount">0/0</b><span>Enabled sources</span></div>
         </div>
@@ -37,9 +37,9 @@
       <div class="section-title"><h2>System status</h2><span id="lastRun">Loading</span></div>
       <section class="grid">
         <article class="card">
-          <h3>Priority alerts</h3>
+          <h3>Signal inbox</h3>
           <p id="signalStatus">Checking signal file.</p>
-          <div class="pill-row"><span class="pill hot">Highlander</span><span class="pill hot">USDA</span><span class="pill">Food prices</span></div>
+          <div class="actions"><button data-view="signals">Open inbox</button></div>
         </article>
         <article class="card">
           <h3>Source readiness</h3>
@@ -48,42 +48,24 @@
         </article>
       </section>
 
-      <div class="section-title"><h2>Top sample signals</h2><span>useful layout preview</span></div>
-      <article class="card signal-card">
-        <div class="score-ring">96</div>
-        <div class="signal-body">
-          <div class="signal-title">Highlander reboot gains a new production update with Henry Cavill</div>
-          <div class="signal-meta">Highlander Reboot • Sample Feed • immediate</div>
-          <div class="pill-row"><span class="pill hot">Immediate</span><span class="pill">Highlander reboot</span><span class="pill">Henry Cavill</span><span class="pill good">Save note</span></div>
-          <div class="actions"><a class="btn" href="https://example.com/highlander-reboot-update">Open</a><button class="secondary" data-view="tools">Make note</button><button class="warn">Save</button></div>
-        </div>
-      </article>
-      <article class="card signal-card">
-        <div class="score-ring">84</div>
-        <div class="signal-body">
-          <div class="signal-title">USDA announces food safety recall guidance update</div>
-          <div class="signal-meta">Food Law USDA • Sample Feed • high</div>
-          <div class="pill-row"><span class="pill good">Strong</span><span class="pill">USDA</span><span class="pill">food safety</span><span class="pill">recall</span></div>
-          <div class="actions"><a class="btn" href="https://example.com/usda-food-safety">Open</a><button class="secondary" data-view="tools">Make note</button><button class="warn">Save</button></div>
-        </div>
-      </article>
+      <div class="section-title"><h2>What to do next</h2><span>practical workflow</span></div>
+      <section class="grid">
+        <article class="card"><h3>Review alerts first</h3><p>Open the inbox and use the Alert filter. Save only the signals that deserve a second-brain note.</p></article>
+        <article class="card"><h3>Ignore junk fast</h3><p>Use Ignore on false positives so the inbox becomes a useful review desk instead of another pile of noise.</p></article>
+      </section>
     </section>
 
     <section id="signals" class="view">
-      <div class="section-title"><h2>Signal inbox</h2><span>v1.3 will make this fully interactive</span></div>
-      <article class="card">
-        <h3>Inbox purpose</h3>
-        <p>This screen will become the daily review desk. Each result will show source, score, match reasons, status, and second-brain actions.</p>
-        <div class="pill-row"><span class="pill hot">Alerts</span><span class="pill good">Saved</span><span class="pill">Reviewed</span><span class="pill bad">Ignored</span></div>
-      </article>
-      <article class="card signal-card">
-        <div class="score-ring">96</div>
-        <div class="signal-body">
-          <div class="signal-title">Highlander reboot gains a new production update with Henry Cavill</div>
-          <div class="signal-meta">Matched because the exact reboot phrase and actor name were present.</div>
-          <div class="actions"><a class="btn" href="https://example.com/highlander-reboot-update">Open source</a><button class="secondary" data-view="tools">Generate note</button></div>
-        </div>
-      </article>
+      <div class="section-title"><h2>Signal inbox</h2><span>review, save, ignore, or make notes</span></div>
+      <div class="toolbar">
+        <button class="active" data-filter="all">All</button>
+        <button data-filter="alert">Alerts</button>
+        <button data-filter="new">New</button>
+        <button data-filter="saved">Saved</button>
+        <button data-filter="reviewed">Reviewed</button>
+        <button data-filter="ignored">Ignored</button>
+      </div>
+      <div id="signalList"></div>
     </section>
 
     <section id="topics" class="view">
@@ -110,38 +92,19 @@
     </section>
 
     <section id="tools" class="view">
-      <div class="section-title"><h2>Second-brain tools</h2><span>starter templates</span></div>
+      <div class="section-title"><h2>Second-brain tools</h2><span>copy-ready Markdown</span></div>
       <section class="grid">
         <article class="card">
-          <h3>Research note template</h3>
-          <p>Use this format when a signal deserves to enter the inbox.</p>
-          <pre>---
-title: "Captured signal"
-type: "Web Watch"
-status: "Inbox"
-topic: "Highlander Reboot"
-tags:
-  - web-watch
-  - highlander-reboot
----
-
-# Captured signal
-
-## Summary
-
-Review this before promoting it into permanent research.
-
-## Processing log
-
-- [ ] Reviewed
-- [ ] Promoted to permanent note
-- [ ] Used in content
-- [ ] Discarded</pre>
+          <h3>Make a note</h3>
+          <label><span>Title</span><input id="noteTitle" value="Captured signal"></label>
+          <label><span>Topic</span><input id="noteTopic" value="Watchtower"></label>
+          <label><span>Source URL</span><input id="noteUrl" value=""></label>
+          <label><span>Summary</span><textarea id="noteSummary">Captured by Watchtower. Review before promoting this into permanent research.</textarea></label>
+          <div class="actions"><button id="copyMarkdown">Copy Markdown</button></div>
         </article>
         <article class="card">
-          <h3>Next useful button</h3>
-          <p>v1.3 should add real actions: copy Markdown, save status, ignore signal, and convert to content idea.</p>
-          <div class="actions"><button class="secondary">Copy Markdown soon</button><button class="secondary">Make content idea soon</button></div>
+          <h3>Markdown preview</h3>
+          <pre id="markdownOut"></pre>
         </article>
       </section>
     </section>
@@ -151,7 +114,7 @@ Review this before promoting it into permanent research.
       <article class="card">
         <h3>Install plan</h3>
         <p>After GitHub Pages is enabled, open the site in Chrome and choose Add to Home Screen.</p>
-        <div class="actions"><button class="secondary">Cache reset coming in v2.1</button></div>
+        <p>For a hard refresh after updates, open the site with <code>?v=1.3</code> added to the end.</p>
       </article>
     </section>
   </main>

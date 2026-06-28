@@ -1,7 +1,106 @@
 {
-  "version": "1.1.1",
-  "note": "Real RSS URLs are intentionally disabled placeholders. Set enabled true only after confirming the source is useful.",
+  "version": "1.5.0-source-pack",
+  "note": "First real-source pass. Entertainment trade feeds are enabled for Highlander testing. Official food-law feeds use Federal Register RSS searches. Candidate recall and extension feeds stay disabled until verified.",
   "sources": [
+    {
+      "id": "deadline_entertainment",
+      "name": "Deadline Hollywood",
+      "type": "rss",
+      "url": "https://deadline.com/feed/",
+      "topics": ["highlander_reboot"],
+      "reliability": "trusted",
+      "enabled": true,
+      "pack": "highlander_watch",
+      "notes": "General entertainment trade feed. Strict Highlander topic rules should filter noise."
+    },
+    {
+      "id": "hollywood_reporter",
+      "name": "The Hollywood Reporter",
+      "type": "rss",
+      "url": "https://www.hollywoodreporter.com/feed/",
+      "topics": ["highlander_reboot"],
+      "reliability": "trusted",
+      "enabled": true,
+      "pack": "highlander_watch",
+      "notes": "General entertainment trade feed. Watch for Highlander casting, production, and release updates."
+    },
+    {
+      "id": "variety_entertainment",
+      "name": "Variety",
+      "type": "rss",
+      "url": "https://variety.com/feed/",
+      "topics": ["highlander_reboot"],
+      "reliability": "trusted",
+      "enabled": true,
+      "pack": "highlander_watch",
+      "notes": "General entertainment trade feed. Strict matching required."
+    },
+    {
+      "id": "collider_movies",
+      "name": "Collider",
+      "type": "rss",
+      "url": "https://collider.com/feed/",
+      "topics": ["highlander_reboot"],
+      "reliability": "trusted",
+      "enabled": true,
+      "pack": "highlander_watch",
+      "notes": "Entertainment news feed likely to catch genre-film updates."
+    },
+    {
+      "id": "federal_register_fda_food",
+      "name": "Federal Register: FDA Food",
+      "type": "rss",
+      "url": "https://www.federalregister.gov/documents/search.rss?conditions%5Bagencies%5D%5B%5D=food-and-drug-administration&conditions%5Bterm%5D=food",
+      "topics": ["food_law_usda"],
+      "reliability": "official",
+      "enabled": true,
+      "pack": "food_law_watch",
+      "notes": "Official Federal Register search feed for FDA food-related documents."
+    },
+    {
+      "id": "federal_register_fsis",
+      "name": "Federal Register: FSIS",
+      "type": "rss",
+      "url": "https://www.federalregister.gov/documents/search.rss?conditions%5Bagencies%5D%5B%5D=food-safety-and-inspection-service",
+      "topics": ["food_law_usda", "food_prices_farming"],
+      "reliability": "official",
+      "enabled": true,
+      "pack": "food_law_watch",
+      "notes": "Official Federal Register search feed for Food Safety and Inspection Service documents."
+    },
+    {
+      "id": "screenrant_movies_candidate",
+      "name": "ScreenRant Candidate Feed",
+      "type": "rss",
+      "url": "https://screenrant.com/feed/",
+      "topics": ["highlander_reboot"],
+      "reliability": "candidate",
+      "enabled": false,
+      "pack": "highlander_watch",
+      "notes": "Candidate source. Enable only if the first trade feeds miss too much."
+    },
+    {
+      "id": "comicbook_candidate",
+      "name": "ComicBook Candidate Feed",
+      "type": "rss",
+      "url": "https://comicbook.com/feed/",
+      "topics": ["highlander_reboot"],
+      "reliability": "candidate",
+      "enabled": false,
+      "pack": "highlander_watch",
+      "notes": "Candidate source. Useful for genre/franchise chatter but may be noisy."
+    },
+    {
+      "id": "fda_recalls_candidate",
+      "name": "FDA Recalls and Safety Alerts Candidate",
+      "type": "rss",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/rss.xml",
+      "topics": ["food_law_usda"],
+      "reliability": "official-candidate",
+      "enabled": false,
+      "pack": "food_law_watch",
+      "notes": "Candidate FDA recall feed. Keep disabled until the watcher confirms the feed parses."
+    },
     {
       "id": "sample_highlander_feed",
       "name": "Sample Highlander Feed",
@@ -9,43 +108,9 @@
       "url": "watcher/tests/sample_feed.xml",
       "topics": ["highlander_reboot"],
       "reliability": "test",
-      "enabled": false
-    },
-    {
-      "id": "usda_news",
-      "name": "USDA News Releases",
-      "type": "rss",
-      "url": "ADD_REAL_RSS_URL_HERE",
-      "topics": ["food_law_usda", "food_prices_farming"],
-      "reliability": "official",
-      "enabled": false
-    },
-    {
-      "id": "fda_recalls",
-      "name": "FDA Recalls and Safety Alerts",
-      "type": "rss",
-      "url": "ADD_REAL_RSS_URL_HERE",
-      "topics": ["food_law_usda"],
-      "reliability": "official",
-      "enabled": false
-    },
-    {
-      "id": "oregon_extension",
-      "name": "Oregon State Extension",
-      "type": "rss",
-      "url": "ADD_REAL_RSS_URL_HERE",
-      "topics": ["gardening_zone8b", "my_pioneering_life"],
-      "reliability": "trusted",
-      "enabled": false
-    },
-    {
-      "id": "entertainment_trades",
-      "name": "Entertainment Trade Sources",
-      "type": "rss",
-      "url": "ADD_REAL_RSS_URL_HERE",
-      "topics": ["highlander_reboot"],
-      "reliability": "trusted",
-      "enabled": false
+      "enabled": false,
+      "pack": "test",
+      "notes": "Local sample feed for dry-run testing only."
     }
   ]
 }

@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.4.0
+
+- Added the Source Manager screen.
+- Added source metrics for enabled, disabled, official, and placeholder sources.
+- Added filters for All, Enabled, Disabled, Need URL, Official, Trusted, and Test.
+- Added dynamic source cards from `data/sources.json`.
+- Added topic labels, reliability labels, and URL readiness warnings for each source.
+- Added a copy-ready source snippet for adding new RSS feeds safely.
+- Updated the service worker cache for the v1.4 app shell.
+
 ## v1.3.0
 
 - Made the Signal Inbox interactive.

@@ -1,0 +1,17 @@
+{
+  "integration": "Personal OS v3",
+  "lifeos_project_id": "LOS-P-0050",
+  "role": "attention candidate source",
+  "personal_os_repo": "Mypioneeringlife/life-os",
+  "canonical_registry": "1l-Tvd5V5Ee9RWN1fb9zXX1FG5vJfotXh6eJZfIVbIYk",
+  "outbound_envelope": {
+    "required": ["entity","event_type","source_date","urgency","impact","actionability","novelty"],
+    "optional": ["source_url","summary","evidence","no_material_change","healthy_heartbeat"]
+  },
+  "personal_os_rules": [
+    "Deduplicate by entity, event type, and source date.",
+    "Suppress no-material-change and healthy-heartbeat noise.",
+    "Escalate security failures, data-loss risk, near deadlines, and high-impact breaking changes."
+  ],
+  "updated_at": "2026-08-21T11:15:00-07:00"
+}

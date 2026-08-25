@@ -10,7 +10,8 @@ on:
       - 'watcher/**'
       - '.github/workflows/highlander-watch.yml'
   schedule:
-    - cron: '37 14,2 * * *'
+    - cron: '37 2,8,14,20 * * *'
+    - cron: '17 15 * * *'
 
 permissions:
   contents: write
@@ -30,17 +31,30 @@ jobs:
       - name: Run Highlander Watch tests
         run: python -m unittest watcher.tests.test_highlander_watch
 
-      - name: Run Highlander Watch
-        run: python watcher/highlander_watcher.py --once
-
-      - name: Refresh Highlander roster weekly
-        if: github.event_name == 'schedule' && github.event.schedule == '37 14,2 * * *'
+      - name: Refresh Highlander roster when appropriate
         shell: bash
         run: |
-          if [ "$(date -u +%u)" = "7" ]; then
-            python watcher/highlander_roster.py
+          refresh=false
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            refresh=true
+          elif [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "17 15 * * *" ] && [ "$(date -u +%u)" = "7" ]; then
+            refresh=true
+          fi
+          if [ "$refresh" = "true" ]; then
+            python watcher/highlander_roster.py || echo "Roster refresh failed; continuing with the existing verified roster."
           else
-            echo "Roster refresh is Sunday-only."
+            echo "Roster refresh not due on this run."
+          fi
+
+      - name: Run Highlander Watch
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "17 15 * * *" ]; then
+            python watcher/highlander_watcher.py --once --scope all
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python watcher/highlander_watcher.py --once --scope all
+          else
+            python watcher/highlander_watcher.py --once --scope core
           fi
 
       - name: Commit Highlander Watch output

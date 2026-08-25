@@ -1,18 +1,23 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "runs": [
     {
-      "started_at": "2026-08-25T16:54:11Z",
-      "finished_at": "2026-08-25T16:54:18Z",
+      "started_at": "2026-08-25T17:08:53Z",
+      "finished_at": "2026-08-25T17:09:01Z",
       "mode": "once",
+      "scope": "all",
       "entities_checked": 12,
-      "items_checked": 1167,
-      "unique_items_discovered": 962,
-      "new_events": 602,
-      "qualifying_events": 449,
-      "notification_candidates": 433,
-      "notes_written": 449,
-      "errors": 0
+      "bootstrap_reset": true,
+      "items_checked": 1181,
+      "unique_items_discovered": 975,
+      "baseline_items": 457,
+      "new_events": 0,
+      "qualifying_events": 0,
+      "notification_candidates": 0,
+      "notes_written": 0,
+      "historical_suppressed": 0,
+      "errors": 0,
+      "pruned_bootstrap_notes": 449
     }
   ]
 }

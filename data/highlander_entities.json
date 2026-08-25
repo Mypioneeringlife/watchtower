@@ -1,0 +1,180 @@
+{
+  "version": "2.0.0",
+  "description": "Entity-centered Highlander watch roster. Broad collection, selective attention.",
+  "defaults": {
+    "route": "Corrupted Chronicle research",
+    "inbox_threshold": 52,
+    "save_threshold": 68,
+    "alert_threshold": 82,
+    "search_scope": "career_and_franchise"
+  },
+  "entities": [
+    {
+      "id": "highlander_franchise",
+      "name": "Highlander",
+      "kind": "franchise",
+      "priority": 100,
+      "aliases": ["Highlander franchise", "Highlander reboot", "Highlander remake"],
+      "search_queries": ["\"Highlander\" film franchise", "\"Highlander\" reboot"],
+      "include_any": ["Connor MacLeod", "Duncan MacLeod", "Immortal", "Quickening", "reboot", "remake", "Amazon MGM", "Lionsgate"],
+      "exclude_any": ["Toyota Highlander", "Highlander cattle", "Highlander cat", "Highlander school"],
+      "roles": ["franchise"],
+      "franchise_titles": ["Highlander"],
+      "enabled": true
+    },
+    {
+      "id": "christopher_lambert",
+      "name": "Christopher Lambert",
+      "kind": "person",
+      "priority": 100,
+      "aliases": ["Christophe Lambert", "Christopher Lambert"],
+      "search_queries": ["\"Christopher Lambert\"", "\"Christophe Lambert\""],
+      "include_any": ["Highlander", "Connor MacLeod", "actor", "convention", "interview"],
+      "exclude_any": [],
+      "roles": ["actor", "Connor MacLeod"],
+      "franchise_titles": ["Highlander", "Highlander II", "Highlander III", "Highlander: Endgame"],
+      "enabled": true
+    },
+    {
+      "id": "adrian_paul",
+      "name": "Adrian Paul",
+      "kind": "person",
+      "priority": 100,
+      "aliases": ["Adrian Paul"],
+      "search_queries": ["\"Adrian Paul\" actor"],
+      "include_any": ["Highlander", "Duncan MacLeod", "Sword Experience", "convention", "interview"],
+      "exclude_any": [],
+      "roles": ["actor", "Duncan MacLeod"],
+      "franchise_titles": ["Highlander: The Series", "Highlander: Endgame", "Highlander: The Source"],
+      "enabled": true
+    },
+    {
+      "id": "clancy_brown",
+      "name": "Clancy Brown",
+      "kind": "person",
+      "priority": 90,
+      "aliases": ["Clancy Brown"],
+      "search_queries": ["\"Clancy Brown\""],
+      "include_any": ["Highlander", "Kurgan", "actor", "interview", "convention"],
+      "exclude_any": [],
+      "roles": ["actor", "The Kurgan"],
+      "franchise_titles": ["Highlander"],
+      "enabled": true
+    },
+    {
+      "id": "jim_byrnes",
+      "name": "Jim Byrnes",
+      "kind": "person",
+      "priority": 90,
+      "aliases": ["Jim Byrnes", "James Thomas Kevin Byrnes"],
+      "search_queries": ["\"Jim Byrnes\" Highlander", "\"Jim Byrnes\" musician actor"],
+      "include_any": ["Highlander", "Joe Dawson", "actor", "musician", "interview", "convention"],
+      "exclude_any": [],
+      "roles": ["actor", "Joe Dawson"],
+      "franchise_titles": ["Highlander: The Series", "Highlander: Endgame"],
+      "enabled": true
+    },
+    {
+      "id": "peter_wingfield",
+      "name": "Peter Wingfield",
+      "kind": "person",
+      "priority": 90,
+      "aliases": ["Peter Wingfield"],
+      "search_queries": ["\"Peter Wingfield\""],
+      "include_any": ["Highlander", "Methos", "actor", "doctor", "interview", "convention"],
+      "exclude_any": [],
+      "roles": ["actor", "Methos"],
+      "franchise_titles": ["Highlander: The Series", "Highlander: Endgame"],
+      "enabled": true
+    },
+    {
+      "id": "elizabeth_gracen",
+      "name": "Elizabeth Gracen",
+      "kind": "person",
+      "priority": 82,
+      "aliases": ["Elizabeth Gracen"],
+      "search_queries": ["\"Elizabeth Gracen\""],
+      "include_any": ["Highlander", "Amanda", "actor", "interview", "convention"],
+      "exclude_any": [],
+      "roles": ["actor", "Amanda"],
+      "franchise_titles": ["Highlander: The Series", "Highlander: The Raven"],
+      "enabled": true
+    },
+    {
+      "id": "alexandra_vandernoot",
+      "name": "Alexandra Vandernoot",
+      "kind": "person",
+      "priority": 78,
+      "aliases": ["Alexandra Vandernoot"],
+      "search_queries": ["\"Alexandra Vandernoot\""],
+      "include_any": ["Highlander", "Tessa Noël", "Tessa Noel", "actor", "interview"],
+      "exclude_any": [],
+      "roles": ["actor", "Tessa Noël"],
+      "franchise_titles": ["Highlander: The Series"],
+      "enabled": true
+    },
+    {
+      "id": "gregory_widen",
+      "name": "Gregory Widen",
+      "kind": "person",
+      "priority": 95,
+      "aliases": ["Gregory Widen"],
+      "search_queries": ["\"Gregory Widen\""],
+      "include_any": ["Highlander", "screenwriter", "creator", "interview", "reboot"],
+      "exclude_any": [],
+      "roles": ["creator", "screenwriter"],
+      "franchise_titles": ["Highlander"],
+      "enabled": true
+    },
+    {
+      "id": "russell_mulcahy",
+      "name": "Russell Mulcahy",
+      "kind": "person",
+      "priority": 85,
+      "aliases": ["Russell Mulcahy"],
+      "search_queries": ["\"Russell Mulcahy\""],
+      "include_any": ["Highlander", "director", "interview", "retrospective"],
+      "exclude_any": [],
+      "roles": ["director"],
+      "franchise_titles": ["Highlander", "Highlander II"],
+      "enabled": true
+    },
+    {
+      "id": "henry_cavill",
+      "name": "Henry Cavill",
+      "kind": "person",
+      "priority": 100,
+      "aliases": ["Henry Cavill"],
+      "search_queries": ["\"Henry Cavill\" Highlander", "\"Henry Cavill\""],
+      "include_any": ["Highlander", "reboot", "remake", "casting", "filming", "production"],
+      "exclude_any": [],
+      "roles": ["reboot cast"],
+      "franchise_titles": ["Highlander reboot"],
+      "enabled": true
+    },
+    {
+      "id": "chad_stahelski",
+      "name": "Chad Stahelski",
+      "kind": "person",
+      "priority": 100,
+      "aliases": ["Chad Stahelski"],
+      "search_queries": ["\"Chad Stahelski\" Highlander", "\"Chad Stahelski\""],
+      "include_any": ["Highlander", "director", "reboot", "production", "filming", "interview"],
+      "exclude_any": [],
+      "roles": ["reboot director"],
+      "franchise_titles": ["Highlander reboot"],
+      "enabled": true
+    }
+  ],
+  "roster_expansion": {
+    "enabled": true,
+    "provider": "Wikidata",
+    "policy": "Merge discovered Highlander cast and crew into the roster; never delete manually curated entities.",
+    "roots": [
+      {"label": "Highlander film series", "wikidata_id": "Q16864738"},
+      {"label": "Highlander: The Series", "wikidata_id": "Q1520493"},
+      {"label": "Highlander universe", "wikidata_id": "Q1032900"},
+      {"label": "Highlander: The Search for Vengeance", "wikidata_id": "Q1613495"}
+    ]
+  }
+}

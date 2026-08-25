@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Expand the Highlander Watch entity roster from Wikidata.
 
-This keeps the manually curated roster authoritative while discovering additional
-cast/crew linked to the franchise roots. It intentionally adds only people with
-recognized production roles and never removes existing profiles.
+The curated roster remains authoritative. Automatic discovery uses Wikidata's
+normal entity API instead of the SPARQL service, follows Highlander work/season/
+episode relationships where they are explicitly represented, and merges named
+human cast/crew into the extended watch tier.
 """
 from __future__ import annotations
 
@@ -13,11 +14,12 @@ import re
 import urllib.parse
 import urllib.request
 from pathlib import Path
-from typing import Any
+from typing import Any, Iterable
 
 ROOT = Path(__file__).resolve().parents[1]
 ROSTER = ROOT / "data" / "highlander_entities.json"
-SPARQL = "https://query.wikidata.org/sparql"
+WIKIDATA_API = "https://www.wikidata.org/w/api.php"
+
 ROLE_PROPERTIES = {
     "P161": "cast member",
     "P57": "director",
@@ -29,6 +31,25 @@ ROLE_PROPERTIES = {
     "P725": "voice actor",
     "P170": "creator",
 }
+
+# Stable franchise/work roots. Additional titles below are resolved dynamically.
+BASE_WORK_IDS = {
+    "Q1990805",   # Highlander franchise
+    "Q16864738",  # Highlander film series
+    "Q156539",    # Highlander (1986)
+    "Q771408",    # Highlander II
+    "Q994209",    # Highlander III
+    "Q1617964",   # Highlander: Endgame
+    "Q2029663",   # Highlander: The Source
+    "Q1520493",   # Highlander: The Series
+    "Q1613495",   # Highlander: The Search for Vengeance
+}
+SEARCH_WORK_TITLES = [
+    "Highlander: The Raven",
+    "Highlander: The Animated Series",
+]
+PART_PROPERTY = "P527"  # has part(s)
+HUMAN_QID = "Q5"
 
 
 def load_json(path: Path) -> dict[str, Any]:
@@ -44,35 +65,130 @@ def slugify(text: str) -> str:
     return value or "highlander_person"
 
 
-def run_query(root_ids: list[str]) -> list[dict[str, str]]:
-    roots = " ".join(f"wd:{qid}" for qid in root_ids)
-    props = " ".join(f"wdt:{pid}" for pid in ROLE_PROPERTIES)
-    query = f"""
-SELECT DISTINCT ?work ?workLabel ?person ?personLabel ?prop WHERE {{
-  VALUES ?root {{ {roots} }}
-  VALUES ?prop {{ {props} }}
-  {{ BIND(?root AS ?work) }}
-  UNION {{ ?work (wdt:P179|wdt:P361)+ ?root. }}
-  UNION {{ ?work wdt:P1434 wd:Q1032900. }}
-  ?work ?prop ?person.
-  ?person wdt:P31 wd:Q5.
-  SERVICE wikibase:label {{ bd:serviceParam wikibase:language \"en\". }}
-}}
-"""
-    url = SPARQL + "?" + urllib.parse.urlencode({"query": query, "format": "json"})
-    req = urllib.request.Request(url, headers={"User-Agent": "Watchtower Highlander roster/2.1"})
-    with urllib.request.urlopen(req, timeout=60) as res:
-        data = json.loads(res.read().decode("utf-8"))
-    out: list[dict[str, str]] = []
-    for row in data.get("results", {}).get("bindings", []):
-        prop_url = row.get("prop", {}).get("value", "")
-        out.append({
-            "work": row.get("workLabel", {}).get("value", "Highlander"),
-            "person": row.get("personLabel", {}).get("value", ""),
-            "person_url": row.get("person", {}).get("value", ""),
-            "property": prop_url.rsplit("/", 1)[-1],
-        })
+def chunks(values: Iterable[str], size: int = 40) -> Iterable[list[str]]:
+    chunk: list[str] = []
+    for value in values:
+        chunk.append(value)
+        if len(chunk) >= size:
+            yield chunk
+            chunk = []
+    if chunk:
+        yield chunk
+
+
+def api_get(params: dict[str, str], timeout: int = 20) -> dict[str, Any]:
+    query = dict(params)
+    query.setdefault("format", "json")
+    query.setdefault("formatversion", "2")
+    url = WIKIDATA_API + "?" + urllib.parse.urlencode(query)
+    req = urllib.request.Request(url, headers={"User-Agent": "Watchtower Highlander roster/2.1.1"})
+    with urllib.request.urlopen(req, timeout=timeout) as res:
+        return json.loads(res.read().decode("utf-8"))
+
+
+def entity_label(entity: dict[str, Any], fallback: str) -> str:
+    labels = entity.get("labels", {})
+    label = labels.get("en", {}) if isinstance(labels, dict) else {}
+    return label.get("value") or fallback
+
+
+def claim_entity_ids(entity: dict[str, Any], property_id: str) -> list[str]:
+    out: list[str] = []
+    for claim in entity.get("claims", {}).get(property_id, []):
+        mainsnak = claim.get("mainsnak", {})
+        value = mainsnak.get("datavalue", {}).get("value")
+        if isinstance(value, dict) and value.get("id"):
+            out.append(value["id"])
     return out
+
+
+def fetch_entities(ids: Iterable[str], *, props: str = "claims|labels") -> dict[str, dict[str, Any]]:
+    result: dict[str, dict[str, Any]] = {}
+    unique = sorted(set(ids))
+    for batch in chunks(unique):
+        payload = api_get({
+            "action": "wbgetentities",
+            "ids": "|".join(batch),
+            "props": props,
+            "languages": "en",
+        })
+        for qid, entity in payload.get("entities", {}).items():
+            if not entity.get("missing"):
+                result[qid] = entity
+    return result
+
+
+def resolve_title(title: str) -> str | None:
+    payload = api_get({
+        "action": "wbsearchentities",
+        "search": title,
+        "language": "en",
+        "type": "item",
+        "limit": "8",
+    })
+    candidates = payload.get("search", [])
+    exact = [c for c in candidates if c.get("label", "").casefold() == title.casefold()]
+    chosen = exact[0] if exact else (candidates[0] if candidates else None)
+    return chosen.get("id") if chosen else None
+
+
+def discover_work_entities(max_depth: int = 2) -> dict[str, dict[str, Any]]:
+    work_ids = set(BASE_WORK_IDS)
+    for title in SEARCH_WORK_TITLES:
+        try:
+            resolved = resolve_title(title)
+        except Exception:
+            resolved = None
+        if resolved:
+            work_ids.add(resolved)
+
+    discovered: dict[str, dict[str, Any]] = {}
+    frontier = set(work_ids)
+    for _depth in range(max_depth + 1):
+        if not frontier:
+            break
+        fetched = fetch_entities(frontier)
+        discovered.update(fetched)
+        next_frontier: set[str] = set()
+        for entity in fetched.values():
+            next_frontier.update(claim_entity_ids(entity, PART_PROPERTY))
+        next_frontier -= set(discovered)
+        frontier = next_frontier
+    return discovered
+
+
+def is_human(entity: dict[str, Any]) -> bool:
+    return HUMAN_QID in claim_entity_ids(entity, "P31")
+
+
+def rows_from_works(works: dict[str, dict[str, Any]]) -> list[dict[str, str]]:
+    credits: list[tuple[str, str, str]] = []
+    people: set[str] = set()
+    for work_id, entity in works.items():
+        for property_id in ROLE_PROPERTIES:
+            for person_id in claim_entity_ids(entity, property_id):
+                credits.append((work_id, property_id, person_id))
+                people.add(person_id)
+
+    person_entities = fetch_entities(people) if people else {}
+    rows: list[dict[str, str]] = []
+    for work_id, property_id, person_id in credits:
+        person = person_entities.get(person_id)
+        if not person or not is_human(person):
+            continue
+        work = works.get(work_id, {})
+        rows.append({
+            "work": entity_label(work, work_id),
+            "person": entity_label(person, person_id),
+            "person_url": f"https://www.wikidata.org/entity/{person_id}",
+            "property": property_id,
+        })
+    return rows
+
+
+def discover_rows() -> tuple[list[dict[str, str]], int]:
+    works = discover_work_entities(max_depth=2)
+    return rows_from_works(works), len(works)
 
 
 def merge(rows: list[dict[str, str]], roster: dict[str, Any]) -> tuple[dict[str, Any], int]:
@@ -115,7 +231,7 @@ def merge(rows: list[dict[str, str]], roster: dict[str, Any]) -> tuple[dict[str,
             "roles": sorted(info["roles"]),
             "franchise_titles": sorted(info["works"]),
             "wikidata_url": info["wikidata_url"],
-            "discovered_by": "Wikidata roster expansion",
+            "discovered_by": "Wikidata entity API roster expansion",
             "enabled": True,
         })
         by_name[name.casefold()] = entities[-1]
@@ -129,10 +245,9 @@ def main() -> None:
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
     roster = load_json(ROSTER)
-    roots = [r["wikidata_id"] for r in roster.get("roster_expansion", {}).get("roots", [])]
-    rows = run_query(roots)
+    rows, works = discover_rows()
     roster, added = merge(rows, roster)
-    print(f"Wikidata credits returned: {len(rows)}; new roster entities: {added}")
+    print(f"Wikidata works inspected: {works}; credit rows: {len(rows)}; new roster entities: {added}")
     if not args.dry_run:
         save_json(ROSTER, roster)
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## Highlander Watch v2.1.1
+
+- Replaced the slow Wikidata SPARQL roster expansion with batched Wikidata entity/API reads.
+- Added work-tree traversal through explicit `has part` relationships so seasons/episodes can contribute credited cast and crew when Wikidata records them.
+- Added shared repository-write concurrency between Watchtower and Highlander Watch.
+- Added fetch/rebase-before-push behavior so generated watcher state is not lost when another job updates `main` first.
+
 ## Highlander Watch v2.1.0
 
 - Changed first-run behavior to establish a silent historical baseline instead of treating old search results as new alerts.

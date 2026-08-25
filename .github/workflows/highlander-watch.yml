@@ -7,8 +7,7 @@ on:
       - main
     paths:
       - 'data/highlander_entities.json'
-      - 'watcher/highlander_watcher.py'
-      - 'watcher/highlander_roster.py'
+      - 'watcher/**'
       - '.github/workflows/highlander-watch.yml'
   schedule:
     - cron: '37 14,2 * * *'
@@ -27,6 +26,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
+      - name: Run Highlander Watch tests
+        run: python -m unittest watcher.tests.test_highlander_watch
 
       - name: Run Highlander Watch
         run: python watcher/highlander_watcher.py --once

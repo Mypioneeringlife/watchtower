@@ -35,7 +35,7 @@ jobs:
         shell: bash
         run: |
           refresh=false
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          if [ "${{ github.event_name }}" = "push" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             refresh=true
           elif [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "17 15 * * *" ] && [ "$(date -u +%u)" = "7" ]; then
             refresh=true
@@ -49,9 +49,9 @@ jobs:
       - name: Run Highlander Watch
         shell: bash
         run: |
-          if [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "17 15 * * *" ]; then
+          if [ "${{ github.event_name }}" = "push" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             python watcher/highlander_watcher.py --once --scope all
-          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          elif [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "17 15 * * *" ]; then
             python watcher/highlander_watcher.py --once --scope all
           else
             python watcher/highlander_watcher.py --once --scope core

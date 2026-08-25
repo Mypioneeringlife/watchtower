@@ -60,7 +60,7 @@ SELECT DISTINCT ?work ?workLabel ?person ?personLabel ?prop WHERE {{
 }}
 """
     url = SPARQL + "?" + urllib.parse.urlencode({"query": query, "format": "json"})
-    req = urllib.request.Request(url, headers={"User-Agent": "Watchtower Highlander roster/2.0"})
+    req = urllib.request.Request(url, headers={"User-Agent": "Watchtower Highlander roster/2.1"})
     with urllib.request.urlopen(req, timeout=60) as res:
         data = json.loads(res.read().decode("utf-8"))
     out: list[dict[str, str]] = []
@@ -107,6 +107,7 @@ def merge(rows: list[dict[str, str]], roster: dict[str, Any]) -> tuple[dict[str,
             "name": name,
             "kind": "person",
             "priority": 60,
+            "poll_tier": "extended",
             "aliases": [name],
             "search_queries": [f'\"{name}\"'],
             "include_any": ["Highlander", *sorted(info["roles"])],

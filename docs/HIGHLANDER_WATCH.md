@@ -1,37 +1,58 @@
 # Highlander Watch
 
-Highlander Watch is an entity-centered intelligence module inside Watchtower. It follows the same model as Creator Watch: the roster is primary; feeds/search are discovery tools.
+Highlander Watch is an entity-centered intelligence module inside Watchtower. It follows the Creator Watch model: the roster is primary; search/feed sources are discovery tools.
 
 ## What it tracks
 
-- Highlander franchise/reboot news
+- Highlander franchise and reboot news
 - Cast, creators, directors, writers, producers, composers, cinematographers, editors, and voice actors connected to Highlander
-- Health/death events
+- Health and death events
 - Convention and public appearances
 - Interviews and podcasts
 - New projects and casting
 - Awards and legal events
-- Production/release changes
+- Production and release changes
 
-## Noise policy
+## Creator-Watcher behavior
 
 Collection is broad. Attention is selective.
 
-A newly discovered item is canonicalized once even if it matches several people. The event stores all matched entities, chooses the strongest match as primary, and only marks an item as a notification candidate when its score/event type warrants attention.
+A discovered article is canonicalized once even if it mentions several Highlander people. The event keeps all matched entities, chooses the strongest match as primary, and only becomes a notification candidate when its freshness, event type, and relevance score warrant attention.
 
-No qualifying change means no user-facing alert.
+A new entity is never allowed to dump its historical search backlog into the alert stream. Its first successful poll establishes a silent baseline. Only later discoveries can become new events.
 
-## Roster
+Historical items are still useful for research, but old rediscoveries do not masquerade as breaking news.
 
-`data/highlander_entities.json` contains manually curated profiles plus the roster-expansion policy. Manual profiles are never removed by automatic discovery.
+## Roster tiers
 
-`watcher/highlander_roster.py` expands the roster from Wikidata using Highlander film-series, television-series, universe, and related-work relationships. Discovered people are added at normal priority and can later be promoted with custom rules.
+`data/highlander_entities.json` contains manually curated profiles plus the roster-expansion policy.
+
+- **Core**: franchise, lead cast, important creators, reboot principals, and other high-priority people. Checked four times daily.
+- **Extended**: automatically discovered cast and crew plus lower-priority profiles. Checked once daily.
+
+Manual profiles are never removed by automatic discovery.
+
+`watcher/highlander_roster.py` expands the roster from Wikidata relationships for the Highlander film series, television series, universe, and related works. Automatically discovered people enter at extended priority and baseline silently on their first poll.
+
+Wikidata is a broad discovery source, not a guarantee that every uncredited or poorly documented crew member in franchise history is present. More complete production-credit sources can be added later without changing the watcher architecture.
+
+## Freshness and noise rules
+
+Default thresholds:
+
+- Inbox candidate: 52
+- Save/research note: 72
+- Alert candidate: 88
+- Alert freshness window: 30 days
+- Research-note freshness window: 60 days
+
+Health/death events for high-priority Highlander people receive special handling, but still must be new relative to the established baseline.
 
 ## Output
 
 - `data/highlander-events.json`: canonical discovered events
 - `data/highlander-seen.json`: global event dedupe keys
-- `data/highlander-state.json`: per-entity health and metrics
+- `data/highlander-state.json`: per-entity health, initialization state, and metrics
 - `data/highlander-run-log.json`: recent poll history
 - `outbox/second-brain/00-Inbox/Highlander Watch/`: qualifying research notes
 
@@ -40,15 +61,17 @@ Events include the Personal OS fields `entity`, `event_type`, `source_date`, `ur
 ## Run locally
 
 ```bash
+python -m unittest watcher.tests.test_highlander_watch
 python watcher/highlander_watcher.py --dry-run --entity-limit 3
-python watcher/highlander_watcher.py --once
+python watcher/highlander_watcher.py --once --scope core
+python watcher/highlander_watcher.py --once --scope all
 python watcher/highlander_roster.py --dry-run
 python watcher/highlander_roster.py
 ```
 
 ## Automation
 
-`.github/workflows/highlander-watch.yml` polls twice daily. On Sundays it also refreshes the roster before committing state/output updates.
+`.github/workflows/highlander-watch.yml` runs core polling four times daily and the full roster once daily. The automatic roster expansion refreshes weekly on the Sunday full-roster run. A manual workflow run refreshes the roster and then scans all enabled entities.
 
 ## Design rule
 

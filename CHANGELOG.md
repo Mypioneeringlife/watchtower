@@ -1,5 +1,25 @@
 # Changelog
 
+## Highlander Watch v2.1.0
+
+- Changed first-run behavior to establish a silent historical baseline instead of treating old search results as new alerts.
+- Added bootstrap-generation cleanup so the noisy initial Highlander output is removed and rebuilt correctly.
+- Added freshness windows for alert and research-note eligibility.
+- Tightened Highlander production scoring so the franchise name alone does not classify every article as production news.
+- Added core and extended entity tiers: core profiles poll four times daily; the expanded roster polls once daily.
+- Added silent initialization for newly discovered cast and crew.
+- Added weekly Wikidata roster expansion and manual full-roster refresh support.
+- Added regression coverage for baseline suppression, cleanup, roster tiering, event deduplication, and health-event scoring.
+
+## Highlander Watch v2.0.0
+
+- Added an entity-centered Highlander intelligence module modeled after Creator Watch.
+- Added canonical event deduplication with multi-entity matching.
+- Added curated franchise, cast, creator, and reboot profiles.
+- Added automatic cast/crew roster discovery through Wikidata.
+- Added event classification for health, death, production, appearances, interviews, projects, awards, and legal developments.
+- Added Personal OS-compatible attention fields, per-entity state, run logs, and Corrupted Chronicle research routing.
+
 ## v1.5.0
 
 - Added watcher run logging to `watcher/watchtower.py`.

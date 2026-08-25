@@ -13,6 +13,7 @@ import datetime as dt
 import hashlib
 import html
 import json
+from email.utils import parsedate_to_datetime
 import re
 import urllib.parse
 import urllib.request
@@ -32,7 +33,7 @@ RUN_LOG_FILE = DATA / "highlander-run-log.json"
 EVENT_RULES: list[tuple[str, list[str], int]] = [
     ("death", ["died", "dies", "dead", "death", "obituary", "passed away", "passes away"], 34),
     ("health", ["collapsed", "hospital", "health", "illness", "injury", "surgery", "diagnosed", "medical"], 30),
-    ("highlander_production", ["highlander", "reboot", "remake", "filming", "production", "casting", "release date"], 28),
+    ("highlander_production", ["reboot", "remake", "filming", "production begins", "principal photography", "casting", "release date", "greenlit"], 28),
     ("appearance", ["convention", "comic con", "comic-con", "steel city con", "panel", "appearance", "appearing"], 22),
     ("interview", ["interview", "podcast", "q&a", "q & a", "talks about", "reflects on"], 16),
     ("new_project", ["cast in", "joins cast", "new film", "new series", "announced", "starring", "directing"], 14),
@@ -66,8 +67,43 @@ def clean(value: str | None) -> str:
     return re.sub(r"\s+", " ", value).strip()
 
 
+def published_datetime(value: str) -> dt.datetime | None:
+    if not value:
+        return None
+    try:
+        parsed = parsedate_to_datetime(value)
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=dt.timezone.utc)
+        return parsed.astimezone(dt.timezone.utc)
+    except (TypeError, ValueError, OverflowError):
+        try:
+            parsed = dt.datetime.fromisoformat(value.replace("Z", "+00:00"))
+            if parsed.tzinfo is None:
+                parsed = parsed.replace(tzinfo=dt.timezone.utc)
+            return parsed.astimezone(dt.timezone.utc)
+        except ValueError:
+            return None
+
+
+def age_days(item: dict[str, str]) -> float | None:
+    published = published_datetime(item.get("published", ""))
+    if published is None:
+        return None
+    return max(0.0, (dt.datetime.now(dt.timezone.utc) - published).total_seconds() / 86400)
+
+
+def prune_highlander_outbox() -> int:
+    if not OUTBOX.exists():
+        return 0
+    removed = 0
+    for path in OUTBOX.glob("*.md"):
+        path.unlink()
+        removed += 1
+    return removed
+
+
 def fetch_text(url: str) -> str:
-    req = urllib.request.Request(url, headers={"User-Agent": "Watchtower Highlander intelligence watcher/2.0"})
+    req = urllib.request.Request(url, headers={"User-Agent": "Watchtower Highlander intelligence watcher/2.1"})
     with urllib.request.urlopen(req, timeout=30) as res:
         return res.read().decode("utf-8", errors="replace")
 
@@ -120,7 +156,7 @@ def classify_event(text: str) -> tuple[str, int, list[str]]:
 def score_item(item: dict[str, str], entity: dict[str, Any]) -> tuple[int, str, list[str]]:
     text = f"{item.get('title','')} {item.get('summary','')} {item.get('source','')}"
     event_type, event_bonus, event_hits = classify_event(text)
-    score = 42
+    score = 36
     why: list[str] = [f"matched entity: {entity['name']}"]
 
     if "highlander" in text.casefold():
@@ -154,7 +190,7 @@ def event_id(item: dict[str, str]) -> str:
 
 def thresholds(config: dict[str, Any]) -> tuple[int, int, int]:
     d = config.get("defaults", {})
-    return int(d.get("inbox_threshold", 52)), int(d.get("save_threshold", 68)), int(d.get("alert_threshold", 82))
+    return int(d.get("inbox_threshold", 52)), int(d.get("save_threshold", 72)), int(d.get("alert_threshold", 88))
 
 
 def urgency_for(score: int, event_type: str, alert_threshold: int) -> str:
@@ -162,7 +198,7 @@ def urgency_for(score: int, event_type: str, alert_threshold: int) -> str:
         return "immediate"
     if score >= alert_threshold:
         return "high"
-    if score >= 68:
+    if score >= 72:
         return "normal"
     return "low"
 
@@ -230,11 +266,13 @@ tags:
 
 
 def update_entity_state(state: dict[str, Any], entity: dict[str, Any], *, checked: int = 0,
-                        new_events: int = 0, qualifying: int = 0, error: str | None = None) -> None:
+                        new_events: int = 0, qualifying: int = 0, baseline: int = 0,
+                        error: str | None = None, initialized: bool | None = None) -> None:
     entities = state.setdefault("entities", {})
     e = entities.setdefault(entity["id"], {
         "name": entity["name"], "unique_events": 0, "qualifying_events": 0,
         "error_count": 0, "last_successful_poll": None, "last_qualifying_event": None,
+        "baseline_items": 0, "initialized": False,
     })
     e["name"] = entity["name"]
     e["items_checked_last_poll"] = checked
@@ -246,28 +284,49 @@ def update_entity_state(state: dict[str, Any], entity: dict[str, Any], *, checke
         e["last_error"] = None
     e["unique_events"] = int(e.get("unique_events", 0)) + new_events
     e["qualifying_events"] = int(e.get("qualifying_events", 0)) + qualifying
+    e["baseline_items"] = int(e.get("baseline_items", 0)) + baseline
+    if initialized is not None:
+        e["initialized"] = initialized
     if qualifying:
         e["last_qualifying_event"] = utc_now()
 
 
-def run(*, dry_run: bool = False, entity_limit: int | None = None) -> int:
+def run(*, dry_run: bool = False, entity_limit: int | None = None, scope: str = "core") -> int:
     started = utc_now()
     config = load_json(ENTITIES_FILE, {"defaults": {}, "entities": []})
+    defaults = config.get("defaults", {})
     inbox_threshold, save_threshold, alert_threshold = thresholds(config)
-    entities = [e for e in config.get("entities", []) if e.get("enabled", True)]
+    max_alert_age = float(defaults.get("max_alert_age_days", 30))
+    max_save_age = float(defaults.get("max_save_age_days", 60))
+    bootstrap_generation = int(defaults.get("bootstrap_generation", 1))
+
+    all_entities = [e for e in config.get("entities", []) if e.get("enabled", True)]
+    if scope == "core":
+        entities = [e for e in all_entities if int(e.get("priority", 50)) >= 80 or e.get("kind") == "franchise"]
+    else:
+        entities = all_entities
     if entity_limit:
         entities = entities[:entity_limit]
 
     seen = set(load_json(SEEN_FILE, []))
     events = load_json(EVENTS_FILE, [])
-    state = load_json(STATE_FILE, {"version": "2.0.0", "entities": {}})
-    totals = {"items_checked": 0, "unique_items_discovered": 0, "new_events": 0,
-              "qualifying_events": 0, "notification_candidates": 0,
-              "notes_written": 0, "errors": 0}
+    state = load_json(STATE_FILE, {"version": "2.1.0", "entities": {}})
+    reset_applied = int(state.get("bootstrap_generation", 0)) < bootstrap_generation
+    pruned_notes = 0
+    if reset_applied:
+        pruned_notes = prune_highlander_outbox() if not dry_run else 0
+        seen = set()
+        events = []
+        state = {"version": "2.1.0", "entities": {}, "bootstrap_generation": bootstrap_generation}
+
+    totals = {"items_checked": 0, "unique_items_discovered": 0, "baseline_items": 0,
+              "new_events": 0, "qualifying_events": 0, "notification_candidates": 0,
+              "notes_written": 0, "historical_suppressed": 0, "errors": 0,
+              "pruned_bootstrap_notes": pruned_notes}
 
     discovered: dict[str, dict[str, str]] = {}
     entity_stats: dict[str, dict[str, Any]] = {
-        e["id"]: {"checked": 0, "new": 0, "qualifying": 0, "errors": []} for e in entities
+        e["id"]: {"checked": 0, "new": 0, "qualifying": 0, "baseline": 0, "errors": []} for e in entities
     }
     for entity in entities:
         stats = entity_stats[entity["id"]]
@@ -285,39 +344,58 @@ def run(*, dry_run: bool = False, entity_limit: int | None = None) -> int:
                 discovered.setdefault(event_id(item), item)
 
     totals["unique_items_discovered"] = len(discovered)
+    state_entities = state.get("entities", {})
 
     for eid, item in discovered.items():
         if eid in seen:
             continue
-        matches: list[tuple[dict[str, Any], int, str, list[str]]] = []
+        matches: list[tuple[dict[str, Any], int, str, list[str], bool]] = []
         for entity in entities:
             if not entity_matches(item, entity):
                 continue
             score, event_type, why = score_item(item, entity)
             if score >= inbox_threshold:
-                matches.append((entity, score, event_type, why))
+                initialized = bool(state_entities.get(entity["id"], {}).get("initialized", False))
+                matches.append((entity, score, event_type, why, initialized))
         if not matches:
             continue
 
+        initialized_matches = [m for m in matches if m[4]]
+        if not initialized_matches:
+            seen.add(eid)
+            totals["baseline_items"] += 1
+            for entity, _score, _event_type, _why, _initialized in matches:
+                entity_stats[entity["id"]]["baseline"] += 1
+            continue
+
+        matches = initialized_matches
         matches.sort(key=lambda x: (x[1], int(x[0].get("priority", 50))), reverse=True)
-        primary, score, event_type, primary_why = matches[0]
+        primary, score, event_type, primary_why, _ = matches[0]
         seen.add(eid)
         totals["new_events"] += 1
-        qualifying = score >= save_threshold
+        item_age = age_days(item)
+        is_fresh_for_alert = item_age is None or item_age <= max_alert_age
+        is_fresh_for_save = item_age is None or item_age <= max_save_age
+        if not is_fresh_for_alert:
+            totals["historical_suppressed"] += 1
+
+        qualifying = score >= save_threshold and is_fresh_for_save
         if qualifying:
             totals["qualifying_events"] += 1
-        notify_candidate = score >= alert_threshold or (
-            event_type in {"death", "health"} and score >= save_threshold
+        high_priority_person = int(primary.get("priority", 50)) >= 80
+        notify_candidate = is_fresh_for_alert and (
+            score >= alert_threshold or
+            (event_type in {"death", "health"} and high_priority_person and score >= inbox_threshold)
         )
         if notify_candidate:
             totals["notification_candidates"] += 1
 
         matched_entities = []
         evidence = list(primary_why)
-        for entity, entity_score, entity_event_type, _why in matches:
+        for entity, entity_score, entity_event_type, _why, _initialized in matches:
             stats = entity_stats[entity["id"]]
             stats["new"] += 1
-            if entity_score >= save_threshold:
+            if entity_score >= save_threshold and is_fresh_for_save:
                 stats["qualifying"] += 1
             matched_entities.append({
                 "id": entity["id"],
@@ -330,6 +408,8 @@ def run(*, dry_run: bool = False, entity_limit: int | None = None) -> int:
             })
             if entity["id"] != primary["id"]:
                 evidence.append(f"also matched: {entity['name']} ({entity_score})")
+        if item_age is not None:
+            evidence.append(f"source age: {item_age:.1f} days")
 
         event = {
             "id": eid,
@@ -342,19 +422,19 @@ def run(*, dry_run: bool = False, entity_limit: int | None = None) -> int:
             "event_type": event_type,
             "source_date": item.get("published", ""),
             "captured": utc_now(),
-            "urgency": urgency_for(score, event_type, alert_threshold),
+            "urgency": urgency_for(score, event_type, alert_threshold) if notify_candidate else "low",
             "impact": impact_for(event_type),
             "actionability": actionability_for(event_type),
-            "novelty": "new",
+            "novelty": "new" if is_fresh_for_alert else "late_historical",
             "source_url": item.get("url", ""),
             "source": item.get("source", "Google News"),
             "title": item.get("title", "Untitled signal"),
             "summary": item.get("summary", ""),
             "evidence": evidence,
             "score": score,
-            "route": config.get("defaults", {}).get("route", "Corrupted Chronicle research"),
+            "route": defaults.get("route", "Corrupted Chronicle research"),
             "notify_candidate": notify_candidate,
-            "status": "new",
+            "status": "new" if is_fresh_for_alert else "historical",
         }
         events.append(event)
         if qualifying and not dry_run:
@@ -363,10 +443,12 @@ def run(*, dry_run: bool = False, entity_limit: int | None = None) -> int:
 
     for entity in entities:
         stats = entity_stats[entity["id"]]
+        initialized_ok = not stats["errors"]
         update_entity_state(
             state, entity, checked=stats["checked"], new_events=stats["new"],
-            qualifying=stats["qualifying"],
+            qualifying=stats["qualifying"], baseline=stats["baseline"],
             error="; ".join(stats["errors"]) if stats["errors"] else None,
+            initialized=initialized_ok,
         )
 
     finished = utc_now()
@@ -374,7 +456,9 @@ def run(*, dry_run: bool = False, entity_limit: int | None = None) -> int:
         "started_at": started,
         "finished_at": finished,
         "mode": "dry-run" if dry_run else "once",
+        "scope": scope,
         "entities_checked": len(entities),
+        "bootstrap_reset": reset_applied,
         **totals,
     }
     if dry_run:
@@ -382,15 +466,19 @@ def run(*, dry_run: bool = False, entity_limit: int | None = None) -> int:
     else:
         save_json(EVENTS_FILE, events[-1000:])
         save_json(SEEN_FILE, sorted(seen))
-        state["version"] = "2.0.0"
+        state["version"] = "2.1.0"
+        state["bootstrap_generation"] = bootstrap_generation
         state["last_run"] = finished
         state["last_summary"] = totals
         save_json(STATE_FILE, state)
-        run_log = load_json(RUN_LOG_FILE, {"version": "2.0.0", "runs": []})
+        if reset_applied:
+            run_log = {"version": "2.1.0", "runs": []}
+        else:
+            run_log = load_json(RUN_LOG_FILE, {"version": "2.1.0", "runs": []})
         runs = run_log.get("runs", [])
         runs.insert(0, run_entry)
-        save_json(RUN_LOG_FILE, {"version": "2.0.0", "runs": runs[:60]})
-    print(f"Highlander Watch: {totals['new_events']} new events, {totals['notification_candidates']} notification candidates")
+        save_json(RUN_LOG_FILE, {"version": "2.1.0", "runs": runs[:60]})
+    print(f"Highlander Watch: {totals['new_events']} new events, {totals['notification_candidates']} notification candidates, {totals['baseline_items']} baselined")
     return totals["new_events"]
 
 
@@ -399,8 +487,9 @@ def main() -> None:
     parser.add_argument("--once", action="store_true", help="Run the Highlander entity roster once")
     parser.add_argument("--dry-run", action="store_true", help="Do not write state, events, or notes")
     parser.add_argument("--entity-limit", type=int, help="Only poll the first N enabled entities")
+    parser.add_argument("--scope", choices=["core", "all"], default="core", help="Poll core entities or the entire expanded roster")
     args = parser.parse_args()
-    run(dry_run=args.dry_run, entity_limit=args.entity_limit)
+    run(dry_run=args.dry_run, entity_limit=args.entity_limit, scope=args.scope)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,135 @@
+{
+  "version": "2.0.0",
+  "entities": {
+    "highlander_franchise": {
+      "name": "Highlander",
+      "unique_events": 386,
+      "qualifying_events": 386,
+      "error_count": 0,
+      "last_successful_poll": "2026-08-25T16:54:18Z",
+      "last_qualifying_event": "2026-08-25T16:54:18Z",
+      "items_checked_last_poll": 200,
+      "last_error": null
+    },
+    "christopher_lambert": {
+      "name": "Christopher Lambert",
+      "unique_events": 95,
+      "qualifying_events": 63,
+      "error_count": 0,
+      "last_successful_poll": "2026-08-25T16:54:18Z",
+      "last_qualifying_event": "2026-08-25T16:54:18Z",
+      "items_checked_last_poll": 151,
+      "last_error": null
+    },
+    "adrian_paul": {
+      "name": "Adrian Paul",
+      "unique_events": 25,
+      "qualifying_events": 16,
+      "error_count": 0,
+      "last_successful_poll": "2026-08-25T16:54:18Z",
+      "last_qualifying_event": "2026-08-25T16:54:18Z",
+      "items_checked_last_poll": 44,
+      "last_error": null
+    },
+    "clancy_brown": {
+      "name": "Clancy Brown",
+      "unique_events": 11,
+      "qualifying_events": 5,
+      "error_count": 0,
+      "last_successful_poll": "2026-08-25T16:54:18Z",
+      "last_qualifying_event": "2026-08-25T16:54:18Z",
+      "items_checked_last_poll": 100,
+      "last_error": null
+    },
+    "jim_byrnes": {
+      "name": "Jim Byrnes",
+      "unique_events": 1,
+      "qualifying_events": 0,
+      "error_count": 0,
+      "last_successful_poll": "2026-08-25T16:54:18Z",
+      "last_qualifying_event": null,
+      "items_checked_last_poll": 31,
+      "last_error": null
+    },
+    "peter_wingfield": {
+      "name": "Peter Wingfield",
+      "unique_events": 0,
+      "qualifying_events": 0,
+      "error_count": 0,
+      "last_successful_poll": "2026-08-25T16:54:18Z",
+      "last_qualifying_event": null,
+      "items_checked_last_poll": 52,
+      "last_error": null
+    },
+    "elizabeth_gracen": {
+      "name": "Elizabeth Gracen",
+      "unique_events": 1,
+      "qualifying_events": 1,
+      "error_count": 0,
+      "last_successful_poll": "2026-08-25T16:54:18Z",
+      "last_qualifying_event": "2026-08-25T16:54:18Z",
+      "items_checked_last_poll": 29,
+      "last_error": null
+    },
+    "alexandra_vandernoot": {
+      "name": "Alexandra Vandernoot",
+      "unique_events": 0,
+      "qualifying_events": 0,
+      "error_count": 0,
+      "last_successful_poll": "2026-08-25T16:54:18Z",
+      "last_qualifying_event": null,
+      "items_checked_last_poll": 31,
+      "last_error": null
+    },
+    "gregory_widen": {
+      "name": "Gregory Widen",
+      "unique_events": 4,
+      "qualifying_events": 4,
+      "error_count": 0,
+      "last_successful_poll": "2026-08-25T16:54:18Z",
+      "last_qualifying_event": "2026-08-25T16:54:18Z",
+      "items_checked_last_poll": 45,
+      "last_error": null
+    },
+    "russell_mulcahy": {
+      "name": "Russell Mulcahy",
+      "unique_events": 5,
+      "qualifying_events": 3,
+      "error_count": 0,
+      "last_successful_poll": "2026-08-25T16:54:18Z",
+      "last_qualifying_event": "2026-08-25T16:54:18Z",
+      "items_checked_last_poll": 100,
+      "last_error": null
+    },
+    "henry_cavill": {
+      "name": "Henry Cavill",
+      "unique_events": 281,
+      "qualifying_events": 202,
+      "error_count": 0,
+      "last_successful_poll": "2026-08-25T16:54:18Z",
+      "last_qualifying_event": "2026-08-25T16:54:18Z",
+      "items_checked_last_poll": 184,
+      "last_error": null
+    },
+    "chad_stahelski": {
+      "name": "Chad Stahelski",
+      "unique_events": 77,
+      "qualifying_events": 53,
+      "error_count": 0,
+      "last_successful_poll": "2026-08-25T16:54:18Z",
+      "last_qualifying_event": "2026-08-25T16:54:18Z",
+      "items_checked_last_poll": 200,
+      "last_error": null
+    }
+  },
+  "last_run": "2026-08-25T16:54:18Z",
+  "last_summary": {
+    "items_checked": 1167,
+    "unique_items_discovered": 962,
+    "new_events": 602,
+    "qualifying_events": 449,
+    "notification_candidates": 433,
+    "notes_written": 449,
+    "errors": 0
+  }
+}

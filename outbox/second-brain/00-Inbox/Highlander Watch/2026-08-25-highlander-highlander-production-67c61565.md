@@ -1,0 +1,38 @@
+---
+title: "Henry Cavill's Highlander remake could be a new film franchise like the original, reveals director - The Economic Times"
+type: "Highlander Watch"
+status: "Inbox"
+entity: "Highlander"
+event_type: "highlander_production"
+source: "The Economic Times"
+source_url: "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRTlzQTMxVDF4RDBEZ3h0U0s5SXpSR3kxamtjZmdQWWhJYko3Y1FqbEFNYy14LVFZX3A1SFZHU01wMVh1am9FcmVzQVQ3SXlWNkNIWFZNZjNvVC1VQ2ZBTjBuVnY1SzMyVUpUYWVHUm9qbC00Xy1LZ3ZOaVRzZjdaQ2kxcW9kWnpTZVJ0NFNiS2hIaTlVeEVXbzRkem1iUFN1dzZNeDdvbEUydkdENTFOTTJxREN4R3FWVFJLZHMtWGdJOUUtVC1wb2NDODlHTDMweUdZa1hiRHhoRFN0SlFaZU9PMjZ6LVdBaG91dUhHbUFWQU1CN2tmdUZLOVFFZngyMGfSAYcCQVVfeXFMTjdRMnFtRzBwM1QzZU51c094aTRkZTR1ZmlmdjB1RUY0SVdBaUh0bjh2RXJLNmpkMDlMSmd0Z1FvS0JKZmhXUnM4eTBIT2dzMC02ZzBWdkV2a2NuR25xYm1jTXduUnQ3aEhjbmhXQlZqY2xXWlZqTmJ6akROYi0wbG5xa0VmNkJhSlpGTkt3emdwSUZRa2VCQUFZbHNSbDF0YWRiZEp2SzVEWl9qc2ZEWmNsRUEwcEtoN3VTMlJmN2RqVERuZDRVYm1ON2JILUVDM0dWWmdJSWVWZ2xyNjR4dlA2MGZoQjFrRTRFVGVwUmFkUy1VZi0zeEV3bHc2LXFUN1ZwNlB6RzA?oc=5"
+source_date: "Wed, 30 Aug 2023 07:00:00 GMT"
+relevance_score: 100
+route: "Corrupted Chronicle research"
+notify_candidate: true
+tags:
+  - highlander-watch
+  - corrupted-chronicle
+---
+
+# Henry Cavill's Highlander remake could be a new film franchise like the original, reveals director - The Economic Times
+
+## What changed
+
+Henry Cavill's Highlander remake could be a new film franchise like the original, reveals director The Economic Times
+
+## Why it surfaced
+
+- matched entity: Highlander
+- explicit Highlander reference
+- context: remake
+- event: highlander_production (highlander, remake)
+- also matched: Henry Cavill (100)
+
+## Recommended handling
+
+review for Corrupted Chronicle coverage.
+
+## Source
+
+https://news.google.com/rss/articles/CBMiggJBVV95cUxNRTlzQTMxVDF4RDBEZ3h0U0s5SXpSR3kxamtjZmdQWWhJYko3Y1FqbEFNYy14LVFZX3A1SFZHU01wMVh1am9FcmVzQVQ3SXlWNkNIWFZNZjNvVC1VQ2ZBTjBuVnY1SzMyVUpUYWVHUm9qbC00Xy1LZ3ZOaVRzZjdaQ2kxcW9kWnpTZVJ0NFNiS2hIaTlVeEVXbzRkem1iUFN1dzZNeDdvbEUydkdENTFOTTJxREN4R3FWVFJLZHMtWGdJOUUtVC1wb2NDODlHTDMweUdZa1hiRHhoRFN0SlFaZU9PMjZ6LVdBaG91dUhHbUFWQU1CN2tmdUZLOVFFZngyMGfSAYcCQVVfeXFMTjdRMnFtRzBwM1QzZU51c094aTRkZTR1ZmlmdjB1RUY0SVdBaUh0bjh2RXJLNmpkMDlMSmd0Z1FvS0JKZmhXUnM4eTBIT2dzMC02ZzBWdkV2a2NuR25xYm1jTXduUnQ3aEhjbmhXQlZqY2xXWlZqTmJ6akROYi0wbG5xa0VmNkJhSlpGTkt3emdwSUZRa2VCQUFZbHNSbDF0YWRiZEp2SzVEWl9qc2ZEWmNsRUEwcEtoN3VTMlJmN2RqVERuZDRVYm1ON2JILUVDM0dWWmdJSWVWZ2xyNjR4dlA2MGZoQjFrRTRFVGVwUmFkUy1VZi0zeEV3bHc2LXFUN1ZwNlB6RzA?oc=5

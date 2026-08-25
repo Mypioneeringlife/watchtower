@@ -1,0 +1,38 @@
+---
+title: "Henry Cavill shares 'Highlander' FIRST LOOK; gives fans glimpse of reboot by 'John Wick' director Chad St - The Times of India"
+type: "Highlander Watch"
+status: "Inbox"
+entity: "Highlander"
+event_type: "highlander_production"
+source: "The Times of India"
+source_url: "https://news.google.com/rss/articles/CBMirwJBVV95cUxPbDBzTFZmU3V1R2tSakZobW9ZNndPV1BNbWVPaUx2S05zclJxT3NxVmdicVdpbmpIeHFDRFp3Tmp4NFRWQ01fYVhjU0ZKbXlhMi01TnZlTjhKSEttSnoxbUEwQTNUZlh0SFF4N0FjaUlKeWV2ZF9YTmdxNzRKZm1VaXk5clJuLWk2Q1ZKVXlCMm8ySTVKbmJwWWJyc2otSGlVNVZIZFlxRFczNks2Y0xzQlFWLTlfVHkyTjJWUHVRbExuWUtuYjBrNS1fb3IxOGZqM3N0dy1YeVJJVDVEdjBRVTR4NGlXRDdSOFVtQkJUTm9mQnFDN0xEQ0hHWHB6T1VmbUhxTWthRC1zMG9yQjc3LXVWWUVJb3E3VWJ0cHJteTlseVdJYTkyTkt4YkpOZnPSAbQCQVVfeXFMTm5rQTlvZjN1MVp3V2xBSjJ6c3U2ZkVzSDZLLVFTWHFzUHdLZzNhcVREOVRaMzBRLXJMNDRmemo1QXBjZE1aN1JKWHdrMFp2ZzFsblFyenFVa3dkSnV1VHBSM1V0NWgtNkZvRnY1RkVpQzdaaWhnR0M4blN6WHJIZl9uQkZRclQ4N0JKSU1ocFRvTE55aFYtN3JRRXRBakwzT1BsTWtibFR5b0p4N0M1aGJxSmtoVmRUTTBpZmljLVhNZ1ZHLXY1S1RELWVaY0k2OWU2QW5RS0FEcGZMUHY5eXRodDF0Mm05bGtGQ3dacDdGMUp6LUNaanlyajIxcE5nRkNDRVRrN1ZPcHpNcGNoUTJSXzRVTlVkNWxlYW9mbnVVN3pqbEZfUHROV0htWldUUmFlc0U?oc=5"
+source_date: "Thu, 29 Jan 2026 08:00:00 GMT"
+relevance_score: 100
+route: "Corrupted Chronicle research"
+notify_candidate: true
+tags:
+  - highlander-watch
+  - corrupted-chronicle
+---
+
+# Henry Cavill shares 'Highlander' FIRST LOOK; gives fans glimpse of reboot by 'John Wick' director Chad St - The Times of India
+
+## What changed
+
+Henry Cavill shares 'Highlander' FIRST LOOK; gives fans glimpse of reboot by 'John Wick' director Chad St The Times of India
+
+## Why it surfaced
+
+- matched entity: Highlander
+- explicit Highlander reference
+- context: reboot
+- event: highlander_production (highlander, reboot)
+- also matched: Henry Cavill (100)
+
+## Recommended handling
+
+review for Corrupted Chronicle coverage.
+
+## Source
+
+https://news.google.com/rss/articles/CBMirwJBVV95cUxPbDBzTFZmU3V1R2tSakZobW9ZNndPV1BNbWVPaUx2S05zclJxT3NxVmdicVdpbmpIeHFDRFp3Tmp4NFRWQ01fYVhjU0ZKbXlhMi01TnZlTjhKSEttSnoxbUEwQTNUZlh0SFF4N0FjaUlKeWV2ZF9YTmdxNzRKZm1VaXk5clJuLWk2Q1ZKVXlCMm8ySTVKbmJwWWJyc2otSGlVNVZIZFlxRFczNks2Y0xzQlFWLTlfVHkyTjJWUHVRbExuWUtuYjBrNS1fb3IxOGZqM3N0dy1YeVJJVDVEdjBRVTR4NGlXRDdSOFVtQkJUTm9mQnFDN0xEQ0hHWHB6T1VmbUhxTWthRC1zMG9yQjc3LXVWWUVJb3E3VWJ0cHJteTlseVdJYTkyTkt4YkpOZnPSAbQCQVVfeXFMTm5rQTlvZjN1MVp3V2xBSjJ6c3U2ZkVzSDZLLVFTWHFzUHdLZzNhcVREOVRaMzBRLXJMNDRmemo1QXBjZE1aN1JKWHdrMFp2ZzFsblFyenFVa3dkSnV1VHBSM1V0NWgtNkZvRnY1RkVpQzdaaWhnR0M4blN6WHJIZl9uQkZRclQ4N0JKSU1ocFRvTE55aFYtN3JRRXRBakwzT1BsTWtibFR5b0p4N0M1aGJxSmtoVmRUTTBpZmljLVhNZ1ZHLXY1S1RELWVaY0k2OWU2QW5RS0FEcGZMUHY5eXRodDF0Mm05bGtGQ3dacDdGMUp6LUNaanlyajIxcE5nRkNDRVRrN1ZPcHpNcGNoUTJSXzRVTlVkNWxlYW9mbnVVN3pqbEZfUHROV0htWldUUmFlc0U?oc=5

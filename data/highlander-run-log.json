@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "runs": [
+    {
+      "started_at": "2026-08-25T16:54:11Z",
+      "finished_at": "2026-08-25T16:54:18Z",
+      "mode": "once",
+      "entities_checked": 12,
+      "items_checked": 1167,
+      "unique_items_discovered": 962,
+      "new_events": 602,
+      "qualifying_events": 449,
+      "notification_candidates": 433,
+      "notes_written": 449,
+      "errors": 0
+    }
+  ]
+}

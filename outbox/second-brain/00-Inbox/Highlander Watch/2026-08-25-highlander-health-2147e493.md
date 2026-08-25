@@ -1,0 +1,37 @@
+---
+title: "Highlander star Christopher Lambert, 69, hospitalised after collapsing at fan convention - Metro.co.uk"
+type: "Highlander Watch"
+status: "Inbox"
+entity: "Highlander"
+event_type: "health"
+source: "Metro.co.uk"
+source_url: "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHlZOVdPQ3AxUDVFYl9VUUxqS1JsZzA0dkR4SWZiZ0l0dTVZWElSWTFXUEdFTmlsYUp2VFZ5SHBTQWJrS0dLSHRqMnZOV09ObzNMUkc1akViQXdKVkJkTENnYXU4Rks4LWRKVkhLcklPWFRIeF9XblBhQnROSlozdzgxc1EwZ3FoT0tocEJMOVl2TlU5TDQxbGtWSW5DVFFfQVlDTWFtNmo3XzI5TE04T3pnNzNoRTJhZ3fSAb8BQVVfeXFMTWhqb2F2U0thQWFUc2o1aDRubjVxM3dKMVpSdXMyUlU5LWtNVzUwcUQ4M082bTd1dXpHTmpncE5zTnU1M1h6Y3ZPbVJXTlIzTXBGQ2Y1T3JNeHZpVFZEOFhab3RydXdMcnZnU191TG9McGZVTHZYbENwU3VVand2NDRnQ2tIR1FYRFZiQVowdXBZcnJwQk9aT0d2b0JlaDRIQW1Oc3RIazFuSzV5THUtUVJubXF5U0dGOGFOSGFuRnc?oc=5"
+source_date: "Sun, 09 Aug 2026 07:00:00 GMT"
+relevance_score: 100
+route: "Corrupted Chronicle research"
+notify_candidate: true
+tags:
+  - highlander-watch
+  - corrupted-chronicle
+---
+
+# Highlander star Christopher Lambert, 69, hospitalised after collapsing at fan convention - Metro.co.uk
+
+## What changed
+
+Highlander star Christopher Lambert, 69, hospitalised after collapsing at fan convention Metro.co.uk
+
+## Why it surfaced
+
+- matched entity: Highlander
+- explicit Highlander reference
+- event: health (hospital)
+- also matched: Christopher Lambert (100)
+
+## Recommended handling
+
+review for Corrupted Chronicle coverage.
+
+## Source
+
+https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHlZOVdPQ3AxUDVFYl9VUUxqS1JsZzA0dkR4SWZiZ0l0dTVZWElSWTFXUEdFTmlsYUp2VFZ5SHBTQWJrS0dLSHRqMnZOV09ObzNMUkc1akViQXdKVkJkTENnYXU4Rks4LWRKVkhLcklPWFRIeF9XblBhQnROSlozdzgxc1EwZ3FoT0tocEJMOVl2TlU5TDQxbGtWSW5DVFFfQVlDTWFtNmo3XzI5TE04T3pnNzNoRTJhZ3fSAb8BQVVfeXFMTWhqb2F2U0thQWFUc2o1aDRubjVxM3dKMVpSdXMyUlU5LWtNVzUwcUQ4M082bTd1dXpHTmpncE5zTnU1M1h6Y3ZPbVJXTlIzTXBGQ2Y1T3JNeHZpVFZEOFhab3RydXdMcnZnU191TG9McGZVTHZYbENwU3VVand2NDRnQ2tIR1FYRFZiQVowdXBZcnJwQk9aT0d2b0JlaDRIQW1Oc3RIazFuSzV5THUtUVJubXF5U0dGOGFOSGFuRnc?oc=5

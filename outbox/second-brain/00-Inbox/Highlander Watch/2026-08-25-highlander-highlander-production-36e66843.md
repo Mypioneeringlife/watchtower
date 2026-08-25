@@ -1,0 +1,38 @@
+---
+title: "Henry Cavill gets injured while training for Chad Stahelski's Highlander, production of film shifted to 2026 | Hollywood - Hindustan Times"
+type: "Highlander Watch"
+status: "Inbox"
+entity: "Highlander"
+event_type: "highlander_production"
+source: "Hindustan Times"
+source_url: "https://news.google.com/rss/articles/CBMijwJBVV95cUxPM3Ruc1ZJZmVnaFhwaTBTRkhRV1Y5T1BRNUpuV1VhSFA0c3ZJX1FoWGs4NEQ4amNRU1pIc0hZUk1KdHRtUXBITmpjeUhwVGVzNGFaYjJpU0JpZjBZX1RGTkZiRjA0ci1sbXRkVHJ4Zl9Oam9SVS1YMFlzYTdYN3VUcUxQY3dZdHZTN20wX245TWhEM2tBTnY4cE12b1dxOENnc2dPeHNhMU1icGJLUTRuOTJzbGItS245MXdlaXQwcV9mU3NIdTNxX2o4Y3cxVHU4cVVHM3NQZ283SldfZU13UTZPZkVTOExBTFVpaUdqZ3FIUmdWNzRiM19jUFVuMUR2eld6aEtSekFWUnk4bkJB0gGUAkFVX3lxTE9uaUl5R093bkhZamEtQUxEbmVWaWxIUHNnaUZNcDhOR2psWldjOXFUdGRkYkpsc2tyN2NYWXNyVml4T29Od2ZIYUQwYzlWdV9QSkpuZTVYNEx0OEc5SkVMcVVNb2VIV0EwT1ZiWUw1WXpUUDFvcTU5bGItWThoZ0lmSTBkMDE3TEx4SWFWZFZ3bnp4YjhaUTNLQ2ZPSEhiSnZzSTU1UjQxUXM1VWxGSzhQSGRWU1dwbXVVdmhWamhraEVhMTEyOGxIb0dEZHVKT01nYkw2RVRPaXliZHd4aW0wWVNwMTRwT2YycmlJSVRwaEZNQXllMWtYLWY1UTBPVEtKUXBkSnJ5NWMzYjFYZWtLRHFnMw?oc=5"
+source_date: "Sat, 13 Sep 2025 07:00:00 GMT"
+relevance_score: 100
+route: "Corrupted Chronicle research"
+notify_candidate: true
+tags:
+  - highlander-watch
+  - corrupted-chronicle
+---
+
+# Henry Cavill gets injured while training for Chad Stahelski's Highlander, production of film shifted to 2026 | Hollywood - Hindustan Times
+
+## What changed
+
+Henry Cavill gets injured while training for Chad Stahelski's Highlander, production of film shifted to 2026 | Hollywood Hindustan Times
+
+## Why it surfaced
+
+- matched entity: Highlander
+- explicit Highlander reference
+- event: highlander_production (highlander, production)
+- also matched: Henry Cavill (100)
+- also matched: Chad Stahelski (100)
+
+## Recommended handling
+
+review for Corrupted Chronicle coverage.
+
+## Source
+
+https://news.google.com/rss/articles/CBMijwJBVV95cUxPM3Ruc1ZJZmVnaFhwaTBTRkhRV1Y5T1BRNUpuV1VhSFA0c3ZJX1FoWGs4NEQ4amNRU1pIc0hZUk1KdHRtUXBITmpjeUhwVGVzNGFaYjJpU0JpZjBZX1RGTkZiRjA0ci1sbXRkVHJ4Zl9Oam9SVS1YMFlzYTdYN3VUcUxQY3dZdHZTN20wX245TWhEM2tBTnY4cE12b1dxOENnc2dPeHNhMU1icGJLUTRuOTJzbGItS245MXdlaXQwcV9mU3NIdTNxX2o4Y3cxVHU4cVVHM3NQZ283SldfZU13UTZPZkVTOExBTFVpaUdqZ3FIUmdWNzRiM19jUFVuMUR2eld6aEtSekFWUnk4bkJB0gGUAkFVX3lxTE9uaUl5R093bkhZamEtQUxEbmVWaWxIUHNnaUZNcDhOR2psWldjOXFUdGRkYkpsc2tyN2NYWXNyVml4T29Od2ZIYUQwYzlWdV9QSkpuZTVYNEx0OEc5SkVMcVVNb2VIV0EwT1ZiWUw1WXpUUDFvcTU5bGItWThoZ0lmSTBkMDE3TEx4SWFWZFZ3bnp4YjhaUTNLQ2ZPSEhiSnZzSTU1UjQxUXM1VWxGSzhQSGRWU1dwbXVVdmhWamhraEVhMTEyOGxIb0dEZHVKT01nYkw2RVRPaXliZHd4aW0wWVNwMTRwT2YycmlJSVRwaEZNQXllMWtYLWY1UTBPVEtKUXBkSnJ5NWMzYjFYZWtLRHFnMw?oc=5

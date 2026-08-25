@@ -16,6 +16,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: watchtower-repo-writes
+  cancel-in-progress: false
+
 jobs:
   watch:
     runs-on: ubuntu-latest
@@ -66,5 +70,7 @@ jobs:
             echo "No Highlander Watch changes."
           else
             git commit -m "Update Highlander Watch intelligence"
-            git push
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
           fi

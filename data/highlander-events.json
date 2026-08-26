@@ -907,5 +907,100 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "ccd388bbe65b2373b430",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-08-26T09:21:45Z",
+    "urgency": "immediate",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOHMtMk5kNEVadElscXBEcU0yay1nekx5X0NiRGgweEdaeWx2eDZyRUZPRTFmeUdJdmZ0X0ZhUEQ4dm5BN3VIYlNPbnNsWlhqeDRRVG1UMlVZX3ZTLTV5YVJPVDhWUmdYcXd2VEtwYlhJOTJnUjdLVnJjTkFwVWc5bExsX1hNdkI2V29aWjFMaUNIQ1AtcWZkVk5OVHk3cEJXOHRj?oc=5",
+    "source": "Yahoo",
+    "title": "Highlander star drops out of fan event after collapsing in medical emergency - Yahoo",
+    "summary": "Highlander star drops out of fan event after collapsing in medical emergency Yahoo",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: health (medical)",
+      "source age: 17.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "3f544a0c755c1c1c1a8c",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 01 Jul 2026 07:00:00 GMT",
+    "captured": "2026-08-26T09:21:45Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IZDZsNTlFZE1obDI4VWJuc1dYaWwzSkZHRDFHZVZlX25hZ2hiOEQ5bGVQT3VKZ2RFMWZUM290WlRNWWpwem5GaHRGYy1WTjJKTUxfaTFaWDFYTUYtX1BCazd4V0laeXJoazdpUDlvRExEdGRnbk1iR21B?oc=5",
+    "source": "SciFiNow",
+    "title": "Win a Highlander prize bundle! - SciFiNow",
+    "summary": "Win a Highlander prize bundle! SciFiNow",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 56.1 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

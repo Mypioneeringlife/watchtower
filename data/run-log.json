@@ -2,6 +2,77 @@
   "version": "1.5.0",
   "runs": [
     {
+      "started_at": "2026-08-26T02:36:21Z",
+      "finished_at": "2026-08-26T02:36:22Z",
+      "mode": "once",
+      "dry_run": false,
+      "configured_sources": 10,
+      "enabled_sources": 6,
+      "sources_checked": 6,
+      "source_errors": 2,
+      "items_checked": 42,
+      "duplicates_skipped": 0,
+      "below_threshold": 42,
+      "new_signals": 0,
+      "notes_written": 0,
+      "sources": [
+        {
+          "id": "deadline_entertainment",
+          "name": "Deadline Hollywood",
+          "status": "ok",
+          "items_checked": 12,
+          "matches": 0,
+          "notes_written": 0,
+          "error": null
+        },
+        {
+          "id": "hollywood_reporter",
+          "name": "The Hollywood Reporter",
+          "status": "ok",
+          "items_checked": 10,
+          "matches": 0,
+          "notes_written": 0,
+          "error": null
+        },
+        {
+          "id": "variety_entertainment",
+          "name": "Variety",
+          "status": "ok",
+          "items_checked": 10,
+          "matches": 0,
+          "notes_written": 0,
+          "error": null
+        },
+        {
+          "id": "collider_movies",
+          "name": "Collider",
+          "status": "ok",
+          "items_checked": 10,
+          "matches": 0,
+          "notes_written": 0,
+          "error": null
+        },
+        {
+          "id": "federal_register_fda_food",
+          "name": "Federal Register: FDA Food",
+          "status": "error",
+          "items_checked": 0,
+          "matches": 0,
+          "notes_written": 0,
+          "error": "not well-formed (invalid token): line 16, column 67"
+        },
+        {
+          "id": "federal_register_fsis",
+          "name": "Federal Register: FSIS",
+          "status": "error",
+          "items_checked": 0,
+          "matches": 0,
+          "notes_written": 0,
+          "error": "not well-formed (invalid token): line 16, column 67"
+        }
+      ]
+    },
+    {
       "started_at": "2026-08-25T17:09:12Z",
       "finished_at": "2026-08-25T17:09:13Z",
       "mode": "once",

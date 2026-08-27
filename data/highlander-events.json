@@ -2550,5 +2550,561 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "cf46695f2c5a6f76ab54",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 08 Aug 2026 07:00:00 GMT",
+    "captured": "2026-08-27T13:02:36Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX1FHWWVFOE5iUmtDdzNqRUxNUmF2YU5ORksyakNuVVF0dnl2LXRTVHhlb2ZBUTlPeGhLSHMtVm0tQzFGVDRWU0FVbXNOdU1ESFRZX3pGMTVLamgxb2hGN1dqcHJDRjdLTTM1d01UNmR6SUd1dVdtVDZnMGpfVVloVjYzMWo5YjVrUEdHR3Q3Ukc0bGMtOVozTHFFMUprQQ?oc=5",
+    "source": "Yahoo",
+    "title": "Russell Crowe’s Been Hitting The Gym With Drew McIntyre For Highlander, And Holy Guns - Yahoo",
+    "summary": "Russell Crowe’s Been Hitting The Gym With Drew McIntyre For Highlander, And Holy Guns Yahoo",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 19.3 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "d9a682a0e5f1fd1317a2",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 26 Aug 2026 23:46:53 GMT",
+    "captured": "2026-08-27T13:02:36Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMGxkSmRwSGJaTDU5dk1qYkxaQ2FVUHdqQ3pWU2ZJWlM1TndQdDRkX1pNNjAySHl2S1ItcFVYaEROckN0MzRrY0x6aWFQS3VoRjl3QWlKbTJkVEhKZF9Pa0RDMkk4Tm4yQU9nOU85QmFvcnFYZTRKQ0taTldIbG1iQy1qc3N1ektDVm9lSXY3NnlPbG52dks2NW9sZWNkQlZuNFlQLXJ0ZTVwRFlxVnk2bGhVLWxMclc2dk1TSDhSUU5teTF2Q0pjR1BNc2c2eVRaVHhVMnNyTUZnN1hNTmQwQlY1U2RweURudkVOUE1NU2plUGRZaXc?oc=5",
+    "source": "Scenestr",
+    "title": "Highlander’s Christopher Lambert Joins The Scoundrolls, Resident Alien Stars And More For Supanova Adelaide And Brisbane - Scenestr",
+    "summary": "Highlander’s Christopher Lambert Joins The Scoundrolls, Resident Alien Stars And More For Supanova Adelaide And Brisbane Scenestr",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.6 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "4fe17c2395777c80ee75",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 17 Feb 2026 17:53:30 GMT",
+    "captured": "2026-08-27T13:02:36Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EZWgwYWhsanZadGwzSEU5ZEg3dzZWT2ZDcGVMTWFoSm8teEtoSUlIYnhWLUwzb2VZem5nSUhxbnF2WWJ2ZmdXM1NTS25oYWNnZ0YwX1RfTUdXNFJjRXFjbktWODhZVjRvZ1dCaWszTF90OGs?oc=5",
+    "source": "IMDb",
+    "title": "Highlander (1986) - IMDb",
+    "summary": "Highlander (1986) IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 190.8 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d9c68e033f41148abad6",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 23 Jun 2026 07:00:00 GMT",
+    "captured": "2026-08-27T13:02:36Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeWx6UVFGZXpUMzgxNDZhbkROVndtbmJSX1dpOWt5dmQtRFQwMnJ3QkJkTTZoSzUxRURSeWYwa1RpZ2pEc1JHdVlWSWxDWWFNUGpVSERwc3RBS1F2X1Z3SElmUmhOc2JxV29wSzNuY29ldmkxU010VGdnamJyRVhmalhwcnFxRjFreVUyaTJjSnhGV3lPbG8zTDd4YXl6SE52RHpmYmh0Rmc?oc=5",
+    "source": "The Herald",
+    "title": "'It’s worst film ever made in Scotland so can we please cancel Highlander remake?' - The Herald",
+    "summary": "'It’s worst film ever made in Scotland so can we please cancel Highlander remake?' The Herald",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: remake",
+      "event: highlander_production (remake)",
+      "source age: 65.3 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d5669cfa2f6357db4b50",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "health",
+    "source_date": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "captured": "2026-08-27T13:02:36Z",
+    "urgency": "immediate",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYm96MlRZMFlYVElPTVd4Yk04dGdJQmFCRldmQlc2V2R1MUpfSHdIV3dSbllYVGYyNFZad1ItdE1SSHdjZk5rYS1wZFBsQWhUc1ZtWjAxclFyMk42OVhOamoyM1E1RmRNbzFxRXRVZURsNnJickNEc3czTElnTThBeFdkVDVGOWRlLUxfVXJocTc0VDdVRWdMZ21tSnR5ckJlRXFmejBpckFuZ2xnU1NZ?oc=5",
+    "source": "Eastern Riverina Chronicle",
+    "title": "Highlander star 'rushed to hospital' after collapsing - Eastern Riverina Chronicle",
+    "summary": "Highlander star 'rushed to hospital' after collapsing Eastern Riverina Chronicle",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: health (hospital)",
+      "source age: 17.3 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "0ab6a03348572defc9b4",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 18 May 2012 07:00:00 GMT",
+    "captured": "2026-08-27T13:02:36Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXpacm00OW9QTTV6Q1JwVUJlR0c3RkdmLWhUNlBweVhteFJ3UUFDdUJJWWVoajh6eWFjVUkwNmlOT1JrWTJjZHlBU29aRDZzb1pXcEMwdFQ3NjJYWVg2alNFbFozSzItTzM5cm1LTGEtZmJGU2szak1UOUdLN1o1bFEyWllCNzlrUjkwMGhQN0pmRWlyYjAybURvVGlPQQ?oc=5",
+    "source": "FirstShowing",
+    "title": "There Can Be Only One 'Highlander' and It Might Be Ryan Reynolds - FirstShowing",
+    "summary": "There Can Be Only One 'Highlander' and It Might Be Ryan Reynolds FirstShowing",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 5214.3 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "54a1e165cc9d718cdf69",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 22 Oct 2021 07:00:00 GMT",
+    "captured": "2026-08-27T13:02:36Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXduTXl0N1JKejN1WFhrQWZZalI2bHVCTzNuZjU5WjlwV3JzSmR4R3NPRUJkdHRRbEhJakJpdzhvWEwtc1JlREd6dVEzOWdrYU5HdWtiNjJBbmRnR3dHNEhaZ0hBRzhXd1FmRVFVVThQcnNIb0I1dXJ3XzhpalBSRg?oc=5",
+    "source": "uDiscoverMusic",
+    "title": "Watch Queen at The Movies - Take 2 : Highlander’: Episode 32 Of ‘The Greatest’ Video Series - uDiscoverMusic",
+    "summary": "Watch Queen at The Movies - Take 2 : Highlander’: Episode 32 Of ‘The Greatest’ Video Series uDiscoverMusic",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 1770.3 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "b1ddc8076e8783850916",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sun, 28 Dec 2025 14:34:29 GMT",
+    "captured": "2026-08-27T13:02:36Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NeDZ2b3N4cTZXM2tDOWtNMlJTcUFMWVI2cDBDZUhqVmxTbkJoYUFxSkhPMm9RMmF4NzA4WnEyc0R1emI5MjZaUS1BT3dmbnZidk15RTJB?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill's 'Highlander' Reboot Gets Exciting Release Update From Director Chad Stahelski [Exclusive] - IMDb",
+    "summary": "Henry Cavill's 'Highlander' Reboot Gets Exciting Release Update From Director Chad Stahelski [Exclusive] IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Chad Stahelski (100)",
+      "source age: 241.9 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "da195c0fd9daf1ee7ea9",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 28 Jan 2026 17:40:40 GMT",
+    "captured": "2026-08-27T13:02:36Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1pfeTVOQU5pSTlYRHNodXNmTjM0c0NKNHJ4WTQ1aThaQUUyY1hpZW83dmEweXQ3UGNpY3pSaVZwcnNHX0pLb0ttU2g0aDFOck43T2lkcHZRaU5CY0tGcUE2OGdyaGRLbXVxQzRIY0lzdVFmVS14Mlg0Yk9GY3p3aVJlSUtXNHhBemJZdjFnUXZRaFpKMUN2eHJvMVFFbmVjdGYtRUdGMWxMeTRkVVB5bE5OMnc0YjN4R2U1Mw?oc=5",
+    "source": "Comic Basics",
+    "title": "Henry Cavill Goes Full Warrior in First Look at Chad Stahelski’s Explosive ‘Highlander’ Reboot - Comic Basics",
+    "summary": "Henry Cavill Goes Full Warrior in First Look at Chad Stahelski’s Explosive ‘Highlander’ Reboot Comic Basics",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Chad Stahelski (100)",
+      "source age: 210.8 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "1fd58b01e588fd6ca667",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 21 Apr 2026 22:02:43 GMT",
+    "captured": "2026-08-27T13:02:36Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tMGoxMkNiMmRyZENkV3N6TE0wel9EckdqeFFDdTgxdjhEUERralJLTVYxT1lwc3NhNlFuMUUyNTlCam1tQjBRdzNRVEJYSHlDVVlMbGE2bVN2Q2xJaGZtU1Z5UHk5dzRBMVNBN0ZB?oc=5",
+    "source": "IMDb",
+    "title": "Highlander - IMDb",
+    "summary": "Highlander IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 127.6 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

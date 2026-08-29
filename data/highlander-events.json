@@ -4130,5 +4130,234 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": true,
     "status": "new"
+  },
+  {
+    "id": "d606db87029d29be6328",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 02 Jul 2025 07:00:00 GMT",
+    "captured": "2026-08-29T09:19:47Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSkR6b2IwRklKSHUzVm1vdTR6dlVENXpqRkczSlBzVjNjaFRNTFdleHpHdEFHbjFSOE1WMnZjdTk1Q1lsNnBCRkxpX21UOTVaVWhUeTBwVnNHcmotUEM4bC1OLUVHdS0yNU5TcWFCNnNhREVwN050aUdPUTFjTDg3Wk1NWGp6UQ?oc=5",
+    "source": "Deadline",
+    "title": "Marisa Abela Latest To Join United Artists’ New ‘Highlander’ Movie - Deadline",
+    "summary": "Marisa Abela Latest To Join United Artists’ New ‘Highlander’ Movie Deadline",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: death (dead)",
+      "source age: 423.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ff60a231b065d942d1a0",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 96,
+        "event_type": "appearance"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 92,
+        "event_type": "appearance"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "appearance",
+    "source_date": "Sun, 09 Aug 2026 07:20:53 GMT",
+    "captured": "2026-08-29T09:19:47Z",
+    "urgency": "high",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3dOWFppYTRadWR2SDNaZ2Q3clZqS0RLVGlWT1dNVE5wWHZvYmRzdXlPc19aSGFMZHUwODJvRk9NM01LSU5OdllrMndHUm5vZS13UXhHYVhVcWVQeS1HdTlNcVQ3Z2hnMGdvTl9aMjNWcjlMOWdiX0Y0RE10MmNxcW9QdUdkN01RODhzVjJ0ZWJVbEpaRVJ1am5BeXlJYlU?oc=5",
+    "source": "Comic Basics",
+    "title": "‘Highlander’ Star Christopher Lambert Collapses at Steel City Comic-Con - Comic Basics",
+    "summary": "‘Highlander’ Star Christopher Lambert Collapses at Steel City Comic-Con Comic Basics",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "event: appearance (comic-con)",
+      "also matched: Highlander (92)",
+      "source age: 20.1 days"
+    ],
+    "score": 96,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "eb70c1af4434b06bb35b",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "health",
+    "source_date": "Thu, 11 Sep 2025 07:00:00 GMT",
+    "captured": "2026-08-29T09:19:47Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUI4VnYxUnRaSkpKY0twYThIc0FiR3Fla1JzSkQ0Y3FtdFZQVkFuak55aERLLUF5YzVKRUtCQklQVGQxZUtyQ2s3WENNaEgwLVhtQWRhZFZiVk52YWgzc1VsU09nVTN1UkY1Z19WbENsOWtQX0VPd2pFelEzeEt1MU5EUEl2U3BqMkJSWGlXeFF1REt6NHlzbDQxNGlZa0tReVJIY25BSlZTV2dLY0J3TlREOV9JNzht?oc=5",
+    "source": "Page Six",
+    "title": "Henry Cavill suffers injury while training for ‘Highlander’ remake: report - Page Six",
+    "summary": "Henry Cavill suffers injury while training for ‘Highlander’ remake: report Page Six",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: remake",
+      "event: health (injury)",
+      "also matched: Henry Cavill (100)",
+      "source age: 352.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f1c81b24c3305657982c",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 08 Jan 2025 17:01:06 GMT",
+    "captured": "2026-08-29T09:19:47Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92R0ZuckRBeWxoY1pEczNkLUdkc0tLcWliTDVPaVhuVWZ2OU9MNjU5bmlka2I0U3o4OFRqeUp6NW1ud3o3UG9zSUhrZmRqQQ?oc=5",
+    "source": "IMDb",
+    "title": "“Highlander” in 2025 - IMDb",
+    "summary": "“Highlander” in 2025 IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 597.7 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

@@ -4075,5 +4075,60 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "cfbb6a56b79daa0a6686",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 76,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 16 Aug 2026 07:00:00 GMT",
+    "captured": "2026-08-29T00:01:02Z",
+    "urgency": "normal",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1BuZGZ3TVNJTm9aRjlzRUx6cmZjaG5jY0c2OUhtY1A0QnZRd2E2SEJOdU81ZG9BNElxaDBJRkg0MndmLWVVZWJTa2VSaXBCZ1U1aWlVRWdtWl8xalNPN0NwVjZTV2dJeDlHOVFLMkNvQ3Bicl9BamZGajNNTk1zMUJpdGFITHdfRVNtRFdFdWlCdmlyX1VGVTdSWWMydDJRcjZ0RmU2SE5JRE0?oc=5",
+    "source": "Yahoo",
+    "title": "Christopher Lambert, 68, receives sweet message from co-star following his hospitalization - Yahoo",
+    "summary": "Christopher Lambert, 68, receives sweet message from co-star following his hospitalization Yahoo",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: health (hospital)",
+      "source age: 12.7 days"
+    ],
+    "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
   }
 ]

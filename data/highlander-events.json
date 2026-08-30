@@ -6890,5 +6890,850 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "c8696f08094a28d11cee",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 01 Apr 2026 07:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclNXVS1VNVBDeE1jWEdnSDBod0lSNWVsY3MzTGNwNFJYc3FLNTdDZjk5bWhGR1JGSFFyR2kwaHgxd2JkM1JCUkZxS1lnb3pGeU9ubUxqMUVhd1NkeWswWGJLSGVpQlVFdnp4eFV5UmdzUzFBOTBrVlQxYnItM29EcEhqV0xyLWhwdnhWeVBwRlNhZ0RnRmc0ZGY0OHl0QQ?oc=5",
+    "source": "Cinemablend",
+    "title": "The Highlander Reboot Is Changing One Of Its Returning Characters, And I Think It's A Smart Move - Cinemablend",
+    "summary": "The Highlander Reboot Is Changing One Of Its Returning Characters, And I Think It's A Smart Move Cinemablend",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 151.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5fe7176ff1d3ec68d2e7",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 26 Apr 2026 07:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcEFFNDM0WEJTYmI4cHViZUR5N0JWT0F4Z25CLV9wY0tCc1FzZlNsUmhBcEE5cWU1T0ZEenJPc1ppek1qekpxR256QlJFNnhhYkZjRTZZMmlsMTVZcUlfS0lVQ2lQZ000a0VCdDNZWTZyd2MyNjFfOENROFJGa2pja0R0NEFEckp4YUdNZXdrMERtd0FEd1N0VEdoNjh6RmhqWkpWcEpacHV1U1E?oc=5",
+    "source": "Cinemablend",
+    "title": "Karen Gillan Has Been Sharing Delightful Highlander Set Pics, And All Her Movies Should Film In Scotland - Cinemablend",
+    "summary": "Karen Gillan Has Been Sharing Delightful Highlander Set Pics, And All Her Movies Should Film In Scotland Cinemablend",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 126.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d35e5fd3db03e0a99fa5",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 23 Jun 2026 07:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWV9SWFppd2JEYmZLRVlDYzQ2dHplR3pyd0lzaG04M3hHbHlZS2ZoZjljZXFEVGYyMEx1VjlPbnp0MzlQU2dJV1VKR2ZxTEZfMFJJdzZlOXZkc2tZaTRieEFGNWZjdzkwa3RMWEY0dWxOeHJhakdEazdBbW1ma19sdDhzQV92ZkdrRTBTNEVSZEFUUEJ2SDAwWmtDNFhDX1VlVjNjcHpB?oc=5",
+    "source": "Cinemablend",
+    "title": "One Thing Karen Gillan Is Absolutely Obsessed With After Joining The Highlander Reboot - Cinemablend",
+    "summary": "One Thing Karen Gillan Is Absolutely Obsessed With After Joining The Highlander Reboot Cinemablend",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 68.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "dc29b635c9e62b9783a2",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 70,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "interview",
+    "source_date": "Fri, 28 Jun 2019 07:05:39 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0RSVnZSU3JXb2N4YXBrRldvS25lcjFzQWs1bnJhWHZpV25QMXBBLXNmVDB5dlo5dXoyVmZscUo1bXpJV2xfZXBFR2pPLW9pMDY1WTU3ZjdJcm5jUUNENlZrbmhCTkltdlNYUVBURlNJRUtzSEFvQ25nNkVKaEFWZ1pkdnc1Ni00TF9zZnp2QTYxWVJqQUJYVW1OVkE5RXFQb3hYZ3pXekdxblZJWXRGckxOQ1V4RXp0WnZJ?oc=5",
+    "source": "freshfiction.tv",
+    "title": "[INTERVIEW] Director Chad Stahelski blends pathos with punches in ‘JOHN WICK: CHAPTER 3 – PARABELLUM’ - freshfiction.tv",
+    "summary": "[INTERVIEW] Director Chad Stahelski blends pathos with punches in ‘JOHN WICK: CHAPTER 3 – PARABELLUM’ freshfiction.tv",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: director, interview",
+      "event: interview (interview)",
+      "source age: 2620.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ef54d5689e4fc55198ca",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 66,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "interview",
+    "source_date": "Wed, 29 Apr 2020 07:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT0sxWm40eUdQUHAxZjg1R0Z6bTdmd19TaEJTeVExZk5VNHcxREdIR01zdFBjR2dOcDhublJJSXhPb3lpYkNmTDZHY3VxVmo5Qmp0UWJnX19oQmEtc3dPLWhGR1Q3WXNxaWtHdVZlakp5LVQxeW9CQ0JRYnl1Y3FJOXZYY3E?oc=5",
+    "source": "Collider",
+    "title": "Chad Stahelski and David Leitch Live Interview | Collider Connected - Collider",
+    "summary": "Chad Stahelski and David Leitch Live Interview | Collider Connected Collider",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 2314.5 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "71e957e954100379d8bf",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 66,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "interview",
+    "source_date": "Mon, 27 Mar 2023 07:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQejUtZV9MUmtCX2l5V1diU2pZeUhxWVQ2NzZGa1ExUUludmlrRWJVZFdXZ2g4SnhYeU9QaGhtQVJRT090ZXlvQkIwS3VfVHUxUFRKYTlZY0hVWUNFMGdnblJ3bjRaVFNJaXRYNVVyYktfcTI3SHhUMVFkZUxvSU1xWm5TazNxVV9nYkRTVExxZUJWaUxNbm1SR1lVZUx6eTFTLThEMkdKQy1ZWms5OWV6Z3hwZ3M?oc=5",
+    "source": "The Mary Sue",
+    "title": "INTERVIEW: Chad Stahelski on the Power of Keanu Reeves and Lance Reddick in 'John Wick 4' - The Mary Sue",
+    "summary": "INTERVIEW: Chad Stahelski on the Power of Keanu Reeves and Lance Reddick in 'John Wick 4' The Mary Sue",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 1252.5 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "808d71f59b30cce2b722",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 70,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "interview",
+    "source_date": "Tue, 21 May 2019 07:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KQVctN0F0X2F4Sk03Q1F3YS11d0VrYlJpX1FRNDBFQnpMUVRCdWdHa3Q1Q3B4Y0poMXBpRE9vRS05Yk1MUzdxVExfZEVNYlA4bU5fWkNBYUVDV1h1OVJvR21hT2R0QXQ0MHB3SnNVaVIxXzA?oc=5",
+    "source": "Collider",
+    "title": "John Wick 3: Watch Extended Interview with Director Chad Stahelski - Collider",
+    "summary": "John Wick 3: Watch Extended Interview with Director Chad Stahelski Collider",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: director, interview",
+      "event: interview (interview)",
+      "source age: 2658.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "15f367578e3e8430258e",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 66,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "interview",
+    "source_date": "Wed, 15 May 2019 07:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSSXlJYmpTLVNNM0hLZXFUcldNVU4xMmh4eWdHemdGTE1HU0o0LWdSX2tFSkhqZUR6U2ZsajVqSm9JQWlRV1FuMjNmUXpkbHNJV0RRYks5cU43OWo1eFA5TVFJNkRtQkZKclVoSkFxal90c1NfcTlJX1ROTQ?oc=5",
+    "source": "IMAX",
+    "title": "John Wick 3 Director, Chad Stahelski Q&A | Recorded Live at IMAX® HQ - IMAX",
+    "summary": "John Wick 3 Director, Chad Stahelski Q&A | Recorded Live at IMAX® HQ IMAX",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: director",
+      "event: interview (q&a)",
+      "source age: 2664.5 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "477433ca2402998f786b",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 70,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "interview",
+    "source_date": "Fri, 10 Feb 2017 08:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTWIxakpETGZWZk5ORDdmQzJWWVJzZ2llankycUZHRGViN0VINVE3cFhkS2VOWmRhRGtRS1BQRlpEekJKakJpd255Z2VrNm5VV3Joa1UxY2FfU3h4alozcHRYbXdwRXVCcHdyU1hRQ3h4ajhjNENVYW0wblJsYnJ6UE1nVWFBamo4Y3lJQWttaHI?oc=5",
+    "source": "SlashFilm",
+    "title": "Interview: 'John Wick: Chapter Two' Director Chad Stahelski Discusses The Man, The Myth, The Legend - SlashFilm",
+    "summary": "Interview: 'John Wick: Chapter Two' Director Chad Stahelski Discusses The Man, The Myth, The Legend SlashFilm",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: director, interview",
+      "event: interview (interview)",
+      "source age: 3488.4 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f1137c3a7eb11149acb9",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 16 Jan 2024 08:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTnhRR01Ec2thdzZjdjVIX0ZkaWd0V0szQ2FJNWRJNGZNazhTQk5tNXhEUjlodExpQkhnYllNYlVNdElUN3hwd2tYSEtCbldLTnRyTUZ1X3ZlRC0ySjJLdGNIQWV6Zk5LSG95dEdiZjY2d2txaDNMT01MWHJ2LTZCbVM2SDFpbEF4Z3oyeWNVY2E3a1ZLOS1sazQ4VTdGTVRrZmZ3TTZkX1c4QQ?oc=5",
+    "source": "Screen Daily",
+    "title": "Chad Stahelski finalises deal to direct ‘Highlander’ reboot - Screen Daily",
+    "summary": "Chad Stahelski finalises deal to direct ‘Highlander’ reboot Screen Daily",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Chad Stahelski (100)",
+      "source age: 957.4 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "96820f81ff724aa309ed",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 70,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "interview",
+    "source_date": "Tue, 14 Feb 2017 08:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CQlliR2JUcnFjSTZ5bmlNcTU1b2lFR3ZUSWhTdGt3QjZrNndNanlwSGE1X2REeU1GVUJfQkdDd0NmTHJPMkpsMDZXYjc3ZjNtUFBYRTVWUEJhcWhiREYtUVg5b2VyYVhNTGpKeU9YLWg?oc=5",
+    "source": "SlashFilm",
+    "title": "Interview: 'John Wick: Chapter 2' Director Chad Stahelski And Stunt Coordinator J.J. Perry Explain How Keanu Reeves Can Kill You - SlashFilm",
+    "summary": "Interview: 'John Wick: Chapter 2' Director Chad Stahelski And Stunt Coordinator J.J. Perry Explain How Keanu Reeves Can Kill You SlashFilm",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: director, interview",
+      "event: interview (interview)",
+      "source age: 3484.4 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "9d214d9e7b81f3fb60b0",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 70,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "interview",
+    "source_date": "Fri, 31 May 2019 07:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vVFlSdVVwZHNIcWlpOHJ0NGVhQ1VJYk91WkVud0ZBVEREZ05JbjBzQ2Zud3BWWjM5VHdzYS1XSmROd1hZbTlCRVBGaHo0ekMyVEhjMGdrSEFqTHcwal93S2xHdllBNDdiX1E?oc=5",
+    "source": "SlashFilm",
+    "title": "'John Wick' Franchise Director Chad Stahelski Talks Shooting Action And Building Characters In A Spoiler-Heavy Interview - SlashFilm",
+    "summary": "'John Wick' Franchise Director Chad Stahelski Talks Shooting Action And Building Characters In A Spoiler-Heavy Interview SlashFilm",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: director, interview",
+      "event: interview (interview)",
+      "source age: 2648.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "af32a225217b0448f74a",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 60,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "new_project",
+    "source_date": "Fri, 10 Feb 2017 08:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zQVlONGJPbk9VakNMMVB6ZElNdzBCM05KYlFYa2ZjNUYwMGRLODdIZ1N1VGhkeFB1d3FGUER2ZmpwVXdzU0c0Z1lxcm5ST0ZlUEZGWGFmaTk2ZUViR1Z4UmNEV3FzT2o5TXc?oc=5",
+    "source": "Collider",
+    "title": "Chad Stahelski on Directing John Wick: Chapter 2 - Collider",
+    "summary": "Chad Stahelski on Directing John Wick: Chapter 2 Collider",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "event: new_project (directing)",
+      "source age: 3488.4 days"
+    ],
+    "score": 60,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "497aa1201e26d41d5df7",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 60,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "new_project",
+    "source_date": "Wed, 09 Apr 2025 07:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjczd3lBYW5lNk5DOUxXYUFWOGdpd0phZ19FWjFHR1UwNVgwbzJIN1BybTdtNXJYZ2JiT0Yzc2ZzMHJuaDhubGhWbU5nSE1rMER6ZjhYaldQdWRFdk5PQXktU3NxSlBnWFlwNFpqLWdyeXFkWGZnQWVDcVpYdXVJelRBNWxfTWxnTDQwZWdtaXdEYWtRbnF5TV82UmU5WkNHM051UldpV3BQemp2d1lNTy1yQQ?oc=5",
+    "source": "Cinemablend",
+    "title": "I Keep Seeing Rumors About Chad Stahelski Directing Blade, But As A Huge Fan, I'm Not Sure That's A Good Thing - Cinemablend",
+    "summary": "I Keep Seeing Rumors About Chad Stahelski Directing Blade, But As A Huge Fan, I'm Not Sure That's A Good Thing Cinemablend",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "event: new_project (directing)",
+      "source age: 508.5 days"
+    ],
+    "score": 60,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "47dad8793504b0b91243",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 66,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "interview",
+    "source_date": "Thu, 16 Mar 2023 07:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lbjk2eDMyRUxDZFJidVVxOXp5dWVwdEljbzhVQ3AxT0N0TF9fMGUwdVBUVU9uMVF0R29Za0ItVnY0RnZnSzdUcjZid3lsN0dhbjEydkZkQmE4LWx4aF9nV1ZXaU94NWxQejdnNFVTcjVDOXhnVkhF?oc=5",
+    "source": "ScreenRant",
+    "title": "Chad Stahelski Interview: John Wick Chapter 4 - ScreenRant",
+    "summary": "Chad Stahelski Interview: John Wick Chapter 4 ScreenRant",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 1263.5 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "c7349b2835d0edadb088",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 66,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "interview",
+    "source_date": "Tue, 14 May 2019 07:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53am9ERWlocGM5ampxdmpUSFJCeF9leElRSkEwdDZlSE8zb2M1dm42YzdpM2pFa0RuS2VkeERZUldod3llazAzLS1CVl8tM29HdEZOY3pZdXlpejRCMUhva0p1a2traWN0MUQxaXRGQ3hqaklhMHM5TVVCdWM?oc=5",
+    "source": "ScreenRant",
+    "title": "Halle Berry & Chad Stahelski Interview: John Wick 3 - ScreenRant",
+    "summary": "Halle Berry & Chad Stahelski Interview: John Wick 3 ScreenRant",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 2665.5 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "33118a132b4cc55b5e18",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 94,
+        "event_type": "interview"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 86,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "interview",
+    "source_date": "Mon, 20 Nov 2023 08:00:00 GMT",
+    "captured": "2026-08-30T18:38:51Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiV1oySGZ5eEc3eFhKbXp5Y1NiSklqT2JXRW5ianVDYTFBOXBYYldlSmRKSFZ3dllJV1dtSEk0SnBiLUl5TXRjSXhHb2RPUW5JMTNnS1RxRzlxU0ZxeV9nMVNKNGFZWlNTWHhnZVFJREg4bnM?oc=5",
+    "source": "ScreenRant",
+    "title": "John Wick Chapter 4 Interview: Chad Stahelski On Oscar Chances, Franchise Future & Highlander - ScreenRant",
+    "summary": "John Wick Chapter 4 Interview: Chad Stahelski On Oscar Chances, Franchise Future & Highlander ScreenRant",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, interview",
+      "event: interview (interview)",
+      "also matched: Highlander (86)",
+      "source age: 1014.4 days"
+    ],
+    "score": 94,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

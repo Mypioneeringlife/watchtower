@@ -6591,5 +6591,304 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "df9a88feda8824ae0dde",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 28 Jan 2026 08:00:00 GMT",
+    "captured": "2026-08-30T18:10:04Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaGF3VlVBdnpBMVgzQnhOS0xxSlVUdWM1eklnbjVyZ3FRWUxERC10enhPbm1LNWdJNUo2Yk5mTjNHRTh5RnM2VmpwZWRYZDBsQUFOaUdRMmRMXy1HTXQ2dG1RTHNKRC1PUGNNQ0RmdW4zNFJ2UlVpT2k2dE4zanRaeS1lSDl1M2l3LXE4?oc=5",
+    "source": "flickeringmyth.com",
+    "title": "Henry Cavill shares first look at Highlander reboot - flickeringmyth.com",
+    "summary": "Henry Cavill shares first look at Highlander reboot flickeringmyth.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 214.4 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "764803caa83883d1e59f",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 08 Mar 2026 08:00:00 GMT",
+    "captured": "2026-08-30T18:10:04Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVEZHTHY4WnkzYUdnYWVyTEZVVGoyWl92YnNpeVVxQnNITkJUX3VMdm10SG0xUkJtdlp6eWF1eWRaWTJSZUZFdHpDXzhrUEJ2dE5TZndEUHlEWERkT2ZJNV9iMWNwaWl3bWZ3YU05RTFZVU9OakdaZDNRdXl1LXMzV3o0U0lLb2RUMkxiWFZIVjdVaTNnM25DeUlLWlVPVDRJQ3c?oc=5",
+    "source": "flickeringmyth.com",
+    "title": "Highlander at 40: The Story Behind the Cult Classic Fantasy Adventure - flickeringmyth.com",
+    "summary": "Highlander at 40: The Story Behind the Cult Classic Fantasy Adventure flickeringmyth.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 175.4 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "38274ccb7745e0839cc6",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 08 Mar 2026 20:33:31 GMT",
+    "captured": "2026-08-30T18:10:04Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VN3RhMHJFNTVidm5mbjZBLXpDbmJLbmFJT2pVaU5NYV9NNk0tTnU2X0FHUGRDdGFqZGR0d2U1X0MxcUlhRTZVNGFZek5mLVFkM0hhaFVzMEVMLXZBVzRCd1pkbXcwZ2MzM2ZZY1hUSQ?oc=5",
+    "source": "IMDb",
+    "title": "Highlander (1986) - IMDb",
+    "summary": "Highlander (1986) IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 174.9 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "e2948dc7694ea145a28f",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 84,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "new_project",
+    "source_date": "Fri, 06 Mar 2026 08:00:00 GMT",
+    "captured": "2026-08-30T18:10:04Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVF0RWFYVlNxZVlXS01Ha3BFMHFDVnBaV1FaMWt3WXl4V2t6bE1uRFc5LWoxZjFNbHl1QV96aEo4Z0M1cDVLMWRCSmVJX3I2SjAyVklPSUduZkFtWjg2ZmFiTE5qaFNpS1N4c2JkUDVSamRFX05BSGt3ekFNRnliSkg2a1ZDM2RNOGZqYk02WUI0eFBEREJPVjBTUjNQcmJ0Yi0wTDZWUkJydw?oc=5",
+    "source": "flickeringmyth.com",
+    "title": "Highlander: The Original Screenplay graphic novel announced by Titan Comics - flickeringmyth.com",
+    "summary": "Highlander: The Original Screenplay graphic novel announced by Titan Comics flickeringmyth.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: new_project (announced)",
+      "source age: 177.4 days"
+    ],
+    "score": 84,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "2742be5a3cee0bd3533e",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 04 Apr 2026 07:00:00 GMT",
+    "captured": "2026-08-30T18:10:04Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcEFSZmp0WENheVYzVjJBSXY2TVlNYi1UaUpaZ3VkMURXd0NFVXlYdnBKdzFRa3dlRlpkeDhWMGJvMmYzMzFKbHpCa2Jmalk5azFIa1FTUW42OU5XcF9CcXh4cXM1ZlZ2aEtSbzNzbnpwSW1lalBRTFdXbDViMlB4YnNUSU9iU0F5WWVEWXVGaEJXWFlxVVR1MlFyTy1CWXpUbF9iUzhNN1NkWEM2aXdPWmJJNDFQZw?oc=5",
+    "source": "flickeringmyth.com",
+    "title": "Highlander set for 40th anniversary cinema re-release and new 4K Collector’s Edition - flickeringmyth.com",
+    "summary": "Highlander set for 40th anniversary cinema re-release and new 4K Collector’s Edition flickeringmyth.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 148.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d7b01fbcfa97282dcc19",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 24 Nov 2022 08:00:00 GMT",
+    "captured": "2026-08-30T18:10:04Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5abmRnVngzbWpUUElLUmc4YXhQdVlkWEEyZnExUk91UDBQLTdOLXhXOHh3YUx4NUZoTFFQS2M1UERMb3B3RHpuR0hfRnNHekxQSW9vcF9wNjFJMkNYYjdSNHhEeWlUaDNPb2daNU9vX2tDbm5T?oc=5",
+    "source": "flickeringmyth.com",
+    "title": "4K Ultra HD Review – Highlander (1986) - flickeringmyth.com",
+    "summary": "4K Ultra HD Review – Highlander (1986) flickeringmyth.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 1375.4 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

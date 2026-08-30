@@ -5946,5 +5946,99 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "1488d4b134e5c92df158",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 27 Dec 2023 08:00:00 GMT",
+    "captured": "2026-08-30T08:30:35Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlg1d21vR3ZDV2F0Wk0xaER4S1RyRVlqQmdKeV9tVkp2VTVvNUdnRFRzWTR3X0ItZUZaT1ozUHFtb0JXYVFtM18wUUo0bENmMTZPczgyZHF6c0pkX3ZmOGo1Y21UQmlGQi1SYUR2X0lBOXliMjdCVUV2THoyTzE3dWJPU0Y3aVpHWTNoUGYyaG8xekNBVjJSbFBmdlo5anl1?oc=5",
+    "source": "thepost.co.nz",
+    "title": "Highlander II: One of the worst movies ever is set in a terrifying 2024 - thepost.co.nz",
+    "summary": "Highlander II: One of the worst movies ever is set in a terrifying 2024 thepost.co.nz",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 977.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5e85079fd0b4834e5556",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 27 Aug 2026 14:00:14 GMT",
+    "captured": "2026-08-30T08:30:35Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSV9YQzJJVmFYS1hsNFpoZDUzWi1xazdfdHhBQWRTaVo1V0ctOXJPcGQwc1BmSkpZVS1BZUFSOGtZa0xYWnF6SnRuT1Q0YmlNLUJjdEwzVjVIU2VxOEdUNFh0WTdYT0NMblVkaXBqMG1EM1BhczF4QlVPQnJiTEN3ZG1DSXI0MEh5U0otNktIOXo?oc=5",
+    "source": "se7en.ws",
+    "title": "Highlander at 40: Examining the Cult Classic’s Hollywood Legacy - se7en.ws",
+    "summary": "Highlander at 40: Examining the Cult Classic’s Hollywood Legacy se7en.ws",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 2.8 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

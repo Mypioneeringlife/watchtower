@@ -15559,5 +15559,1045 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "4f01fddaa4bed50be894",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 01 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeEtvbWlueWN5amtLREN0azFCME1PM2JnV1hvQm9BVHRWd3lPc2tqWG5uUFduS2syV0M0VTJkeXpGRk93b3Boa1FtX3U3emVaMTdyWlozODh3QVBCbEFzeDlsa04zZWV2a0MyaWw1RllQLUNySjJQOUxpWFFhSGR0TW1EN1lJYnRFa1BEdmJQdUFycXM?oc=5",
+    "source": "Collider",
+    "title": "Henry Cavill's 'Highlander' Remake Is Officially Making a Major Change to a Key Character - Collider",
+    "summary": "Henry Cavill's 'Highlander' Remake Is Officially Making a Major Change to a Key Character Collider",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: remake",
+      "event: highlander_production (remake)",
+      "also matched: Henry Cavill (100)",
+      "source age: 153.3 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "7e4f23739e3ee720c260",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 09 Feb 2026 08:00:00 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1kzVzZqNjhKY3hRanF0ZHBKaDY4SjdrT3VycGN0aTZxZEpkemFUT2lPc1gtWXFSUVZmQk9IalhpRzVJTVhldVdMbjVrLXpVT3dKM2d3YkRnZi1XdFRVX0ZYQ1k4YmZveFFtTHNJXzhacE5UUVB0eHYwQ243dWJSdE1pYnBTdWtvWTR3aVkxTWc0NGdzZ18zZnpWN0ZPRmhkOXc?oc=5",
+    "source": "Yahoo",
+    "title": "Highlander Set Photos & Video Unite Henry Cavill & Dave Bautista - Yahoo",
+    "summary": "Highlander Set Photos & Video Unite Henry Cavill & Dave Bautista Yahoo",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 204.2 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "35a5367d5e79eb3a3e58",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 28 Jan 2026 08:00:00 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaG5NSW01ekxnaXpUVk1wVGhESS03TVFDN2JCM3pPb0dwT0pxV1ZtSVlpbDdRVlhITnZpVVBVbTJ2cHFibGU1QmdLMkV4elBiRUY4d1JSaTViNFEwb21fbW5SMjNfeHJuY0tHNHNzRUR2RDZYeUlUaFBuRmRlaTJWbXZ3U0hzU3lrbGVkQXcyR1ZwWlZ6SU83RzVCMzRWWG8weXlSZk5GS2Q2Nnc2Nm05T0xoejhzZGFMNXg3bVJBbw?oc=5",
+    "source": "dreadcentral.com",
+    "title": "‘Highlander’ First Look: Henry Cavill Draws His Blade in ‘John Wick’ Director’s Reboot! - dreadcentral.com",
+    "summary": "‘Highlander’ First Look: Henry Cavill Draws His Blade in ‘John Wick’ Director’s Reboot! dreadcentral.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 216.2 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "1926fd1a56d8635baf47",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 76,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 16 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "normal",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2c0QjV3cFh2REhPRWFmVlp2ZnM0SzMyRW00czFBR2h5NlpPSzhMSlBWcVFTRHAxVnRTdGhOVTZMYXF0MG1Xb2tLdW1iNXBLN3VHUVdiVXVSQkFUOHFNdDVRaXRmR1pZQVEtazhseC03TUtnRzltQ3lERUZhVVZLdkdFUjBGWklIekxoZXVZMGlqTzNWWkhITDRRWUloQzA3d3p1U1hqTnFhRlE?oc=5",
+    "source": "Yahoo",
+    "title": "Christopher Lambert, 68, receives sweet message from co-star following his hospitalization - Yahoo",
+    "summary": "Christopher Lambert, 68, receives sweet message from co-star following his hospitalization Yahoo",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: health (hospital)",
+      "source age: 16.3 days"
+    ],
+    "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "927b561b69b021335b95",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 26 Aug 2026 23:46:53 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMGxkSmRwSGJaTDU5dk1qYkxaQ2FVUHdqQ3pWU2ZJWlM1TndQdDRkX1pNNjAySHl2S1ItcFVYaEROckN0MzRrY0x6aWFQS3VoRjl3QWlKbTJkVEhKZF9Pa0RDMkk4Tm4yQU9nOU85QmFvcnFYZTRKQ0taTldIbG1iQy1qc3N1ektDVm9lSXY3NnlPbG52dks2NW9sZWNkQlZuNFlQLXJ0ZTVwRFlxVnk2bGhVLWxMclc2dk1TSDhSUU5teTF2Q0pjR1BNc2c2eVRaVHhVMnNyTUZnN1hNTmQwQlY1U2RweURudkVOUE1NU2plUGRZaXc?oc=5",
+    "source": "scenestr.com.au",
+    "title": "Highlander’s Christopher Lambert Joins The Scoundrolls, Resident Alien Stars And More For Supanova Adelaide And Brisbane - scenestr.com.au",
+    "summary": "Highlander’s Christopher Lambert Joins The Scoundrolls, Resident Alien Stars And More For Supanova Adelaide And Brisbane scenestr.com.au",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 5.6 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "d18f00d4562ffff4111d",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 96,
+        "event_type": "appearance"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 92,
+        "event_type": "appearance"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "appearance",
+    "source_date": "Sun, 09 Aug 2026 07:20:53 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "high",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3dOWFppYTRadWR2SDNaZ2Q3clZqS0RLVGlWT1dNVE5wWHZvYmRzdXlPc19aSGFMZHUwODJvRk9NM01LSU5OdllrMndHUm5vZS13UXhHYVhVcWVQeS1HdTlNcVQ3Z2hnMGdvTl9aMjNWcjlMOWdiX0Y0RE10MmNxcW9QdUdkN01RODhzVjJ0ZWJVbEpaRVJ1am5BeXlJYlU?oc=5",
+    "source": "comicbasics.com",
+    "title": "‘Highlander’ Star Christopher Lambert Collapses at Steel City Comic-Con - comicbasics.com",
+    "summary": "‘Highlander’ Star Christopher Lambert Collapses at Steel City Comic-Con comicbasics.com",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "event: appearance (comic-con)",
+      "also matched: Highlander (92)",
+      "source age: 23.3 days"
+    ],
+    "score": 96,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "752acb972897d921e3df",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 13 Mar 2025 07:00:00 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajNxTDZEdDZ1Z3JSeGRabjE1ZDgyU3pGQ0djTksteF9OQlBBUGNOdmZncVN5VXM5TVZHYkhOU01GeHdEVExuVUFLNDJWV3dZTGIzWmE0dXFJRjZMNV9UT01oZ2RjUDd2TkJrWEVHQTY2TmRWb1I3WTJIaUlIWEZLbzdnUU1yOUxNaUZxeklsTjhlODR0cEFJejVJQzZ6dw?oc=5",
+    "source": "Yahoo",
+    "title": "'Highlander' Star Christopher Lambert Recovering After Hotel Stairs Fall - Yahoo",
+    "summary": "'Highlander' Star Christopher Lambert Recovering After Hotel Stairs Fall Yahoo",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 537.3 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d4e1920690138f74378c",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 01 Sep 2023 07:00:00 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kdWE3ZjdCalNSUTZsaU5NRm11dWlxRmprellNUWNvZl9DNnA2LTZ2YmVDa2V1VkdXWjhRVnNGNEo5Nk51Sjd2cVpUOFVFNUZsQWlKQmhSSW1ZN3piY2FTd0JCVjhFZ3J0RXJZZ3lDYw?oc=5",
+    "source": "The Guardian",
+    "title": "Hollywood is planning to remake Highlander – just pray they don’t mess it up - The Guardian",
+    "summary": "Hollywood is planning to remake Highlander – just pray they don’t mess it up The Guardian",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: remake",
+      "event: highlander_production (remake)",
+      "source age: 1096.3 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "177c2b71cbc00a2001fb",
+    "entity_id": "adrian_paul",
+    "entity": "Adrian Paul",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "adrian_paul",
+        "name": "Adrian Paul",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Duncan MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series",
+          "Highlander: Endgame",
+          "Highlander: The Source"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Duncan MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander: The Series",
+      "Highlander: Endgame",
+      "Highlander: The Source"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 16 Jun 2025 07:00:00 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaDQ0a2xLYWM3bEExNExvaXQtcUxqdTB4YmN5Yl81Wnd1MWZOTFpvaDQtUG5XeGY0U2JoYktBLVFoV0JIT3N1YTYyVjdTNi1rV3kyUkRfR0JlSWItcm9nSXZoTXdmdldvNFhMb3ZWU3pWRk95UkdHbkk3RWJLVV9CRV90Tnp6QVlDYXdSU1Vn?oc=5",
+    "source": "wbaltv.com",
+    "title": "'Highlander' star Adrian Paul at the Carroll County Celtic Festival - wbaltv.com",
+    "summary": "'Highlander' star Adrian Paul at the Carroll County Celtic Festival wbaltv.com",
+    "evidence": [
+      "matched entity: Adrian Paul",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 442.3 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "438d6eea5cdcade2f6a6",
+    "entity_id": "clancy_brown",
+    "entity": "Clancy Brown",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "The Kurgan"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 78,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "actor",
+      "The Kurgan"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 03 Mar 2023 08:00:00 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjVTWkRlSnR4cTBIck8zUlh5SGZuRG5reHh5cFJDVk5Wand4aFczb3lSMnM1QkxOWnhuaHZ6NTM2cnhWdUswZDB1aHhxV00zSDlvbzZMOWZNdWw4YW5QZGpHYnNYUFRUZXBQMEM0OGZCV3pXd1pXakdYTWoxMGZpekloQnRrUW5nY1E?oc=5",
+    "source": "deadline.com",
+    "title": "‘The Penguin’ Casts Clancy Brown As Salvatore Maroni - deadline.com",
+    "summary": "‘The Penguin’ Casts Clancy Brown As Salvatore Maroni deadline.com",
+    "evidence": [
+      "matched entity: Clancy Brown",
+      "event: death (dead)",
+      "source age: 1278.2 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "64ac0ebaea1fa384938d",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 02 Mar 2011 08:00:00 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmp2VEdabkxIZTlKTUlOd21xaEZqS0dDVWY0ZlZYR0ZMMVVZWGhBd3VYYXJzbDRUMUdlUmZoTkt2eVFQYXUxVi0yRFh2UXE3UC1wQ0VsXzU3cnMxYnRnN3J4eWZZekNQeXVWYnkxQlZDeHVsekJoLTBXb081d1Y0emp2ZV93cUZ5b2xkRjlSUldxcUtzenZXbTJwVQ?oc=5",
+    "source": "insidepulse.com",
+    "title": "Highlander 2-Film Set: Anniversary Collection – Blu-ray Review - insidepulse.com",
+    "summary": "Highlander 2-Film Set: Anniversary Collection – Blu-ray Review insidepulse.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 5662.2 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "75ed81c42d2a20669cff",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 20 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazc5NkdYcWU4VFlYbWJ0X0UwVGt1QTZqYmt3NlA4aHI0QjRpbzVRNTJkRmk5MmJMMGd0ZWtKNEE5T2RUMlA0VThlNjZFREdSU2JXdlMyZU4zU1RfczJsY0x2N1pocjFJQnF0MjBXNWtoNTE5LU9KaDN0T3BmRVM3cDZtTlMzNm9jSU9fZDduQ1FIU1h1dXl4QXNXYkxWRVktdVBLbTFWUWVucEkyaThra3l3?oc=5",
+    "source": "gq-magazine.co.uk",
+    "title": "With Highlander , Henry Cavill will take another nerdy franchise to the moon - gq-magazine.co.uk",
+    "summary": "With Highlander , Henry Cavill will take another nerdy franchise to the moon gq-magazine.co.uk",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 134.3 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "c76db4978b5c5357a57c",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 80,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 01 Sep 2026 00:03:00 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "normal",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb1FjT2ZIaHpWaE9XaHR3WktzTDVWekhsRmlJSUJSQVdHbTRhVDdSZlVCdlBETHFEbUo0V0Z3bHBhM3ROS1RIUV90VUhpLURGRFlkTGMxZjU2aXN6ZVYyNDJUWi1ybkpQNWZ1cjNjcnVYNHFYd3M4UkVqVUhmNjd5Q2pIRzJUOTA2S3RYajM0QQ?oc=5",
+    "source": "deadline.com",
+    "title": "Gal Gadot On Why She Wouldn't Do Another 'Wonder Woman' Movie & Calls Out DC Studios For How They Handled Henry Cavill & Patty Jenkins Exits - deadline.com",
+    "summary": "Gal Gadot On Why She Wouldn't Do Another 'Wonder Woman' Movie & Calls Out DC Studios For How They Handled Henry Cavill & Patty Jenkins Exits deadline.com Gal Gadot Calls Out DC Studios Over \"Firing\" Henry Cavill From Superman Role MovieWeb Gal Gadot says she realized she wasn't returning as Wonder Woman when she saw how Henry Cavill's Superman exit was not \"handled elegantly\" Yahoo Gal Gadot Talks Leaving Wonder Woman And Weighs In On DC Parting Ways With Henry Cavill And More cinemablend.com Gal Gadot Slams DC Studios' Henry Cavill Treatment; Reveals Real Reason She Won't Return As Wonder Woman ComicBookMovie.com Gal Gadot Doesn’t Say Goodbye To Wonder Woman — And She Brings Up Henry Cavill Cosmic Book News Gad Gadot calls out DC over Wonder Woman 3 and the treatment of Henry Cavill JoBlo Gal Gadot Calls Out DC Studios Over Henry Cavill’s Treatment and Says She Was Told WONDER WOMAN 3 Was Happening GeekTyrant Gal Gadot Calls Out DC Studios Over Henry Cavill’s Exit and Wonder Woman 3 Comic Book Resources",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: death (dead)",
+      "source age: 0.6 days"
+    ],
+    "score": 80,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "2b483207535e0d4db016",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 24 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTzNsTVR4dURGd19LVkRGQjgzczN6Y0hKOUxSOTVGZmVoUmVtSnRBcjdIS0daNkpvNGtQVmYzNXRkTF9ydFNFaUNjckdjTXlfeGR5WVItY2tXd05vUHNpd1JCbkFBTms1d3VFSmV2OHhiZW9KZ2t1MWNlSUZKTUMxbzg5TW9ZT3hlYUNnam5lb21fVm1DNlRtUm1nVmRoNFRhd0ZsaUN0VUIzTnNMU2haRFhua0xaWExnak5GUm1ZcGptcEl2YnVIa3hDSQ?oc=5",
+    "source": "insidethemagic.net",
+    "title": "Henry Cavill Now Top Choice for James Bond as Major 007 Casting Report Emerges - insidethemagic.net",
+    "summary": "Henry Cavill Now Top Choice for James Bond as Major 007 Casting Report Emerges insidethemagic.net",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: casting",
+      "event: highlander_production (casting)",
+      "source age: 8.3 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "cc638de63b847039dd96",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 11 Feb 2026 08:00:00 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZNzhBMkc4OG9ERnc4SHhCR0M2SlJaUWVINS1DSG5NMGRCV3Y3ZTk2SG9EVFF2TEtwWkV5S0I3TVE1SGg2Qm5ZUlBwaGtMeG56NGkzOWtqVUd1dGJwMldPQ0RIRlE0YkQ0b2F3X0FSbl9IMFNrNGh3NkFFSQ?oc=5",
+    "source": "bluntmag.com.au",
+    "title": "Here’s Your First Glimpse Of Henry Cavill and Dave Bautista In Highlander - bluntmag.com.au",
+    "summary": "Here’s Your First Glimpse Of Henry Cavill and Dave Bautista In Highlander bluntmag.com.au",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 202.2 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "63adc9738d0d83d90b6e",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 28 Jan 2026 17:40:40 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1pfeTVOQU5pSTlYRHNodXNmTjM0c0NKNHJ4WTQ1aThaQUUyY1hpZW83dmEweXQ3UGNpY3pSaVZwcnNHX0pLb0ttU2g0aDFOck43T2lkcHZRaU5CY0tGcUE2OGdyaGRLbXVxQzRIY0lzdVFmVS14Mlg0Yk9GY3p3aVJlSUtXNHhBemJZdjFnUXZRaFpKMUN2eHJvMVFFbmVjdGYtRUdGMWxMeTRkVVB5bE5OMnc0YjN4R2U1Mw?oc=5",
+    "source": "comicbasics.com",
+    "title": "Henry Cavill Goes Full Warrior in First Look at Chad Stahelski’s Explosive ‘Highlander’ Reboot - comicbasics.com",
+    "summary": "Henry Cavill Goes Full Warrior in First Look at Chad Stahelski’s Explosive ‘Highlander’ Reboot comicbasics.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Chad Stahelski (100)",
+      "source age: 215.8 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "99c91613f8ca28931801",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 20 Jun 2025 07:00:00 GMT",
+    "captured": "2026-09-01T13:38:55Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTBWQ2kzcWVGcUZmWHA1WXViZmQ2MnFRQWZaRjhVTzZmYnp2UnkwTjB5alhUckZPZjJBY3FtZWlwYXg2VjQ0dGxDcUIxWFhjc0IzX3N4RDFNQ2xxQzdSaVZsSGxsSFJ6UndvaWFzMmFDOTdRR0tTbjBvbVd3ZUdVZndkVGJmWlJlOWV4ZzhUbjNwMkJIMHh2MzZ2cWdEZm41WUFfb2JtRmE4VXFfZVE?oc=5",
+    "source": "indiewire.com",
+    "title": "Russell Crowe Joins Chad Stahelski’s ‘Highlander’ Reboot with Henry Cavill - indiewire.com",
+    "summary": "Russell Crowe Joins Chad Stahelski’s ‘Highlander’ Reboot with Henry Cavill indiewire.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Chad Stahelski (100)",
+      "source age: 438.3 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

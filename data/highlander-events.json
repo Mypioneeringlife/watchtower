@@ -16599,5 +16599,563 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "45a9e56c8090b122bb64",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 29 Jan 2026 08:00:00 GMT",
+    "captured": "2026-09-01T17:55:41Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kLURRWUNlaW1nUnZVZUtieGZ2a3diTVN1WF93QllQSmJnTDB4NFpnbWVCa3kyMVBfWUZwWTRUd0lKSDQweWo1MFZQNVpuakZuTTFZSDl4SEQ3SGtfZjh2MUpvajlQUzZhU1NfSE5UV2FQQQ?oc=5",
+    "source": "avclub.com",
+    "title": "First look at Henry Cavill's Highlander confirms wet hair, access to swords - avclub.com",
+    "summary": "First look at Henry Cavill's Highlander confirms wet hair, access to swords avclub.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 215.4 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "35a27e4451a649cb1a4a",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-01T17:55:41Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUXhYRllsRm1EWHVBVEpZV0lBdFJwOE84MFRoeVlFSWx6bUkta2ljM1ZMSl9YcWRfWnBYOXRCZDV0U1RWNkJLZlFaRFNqLW5CdmJYY1VxWlhtbmZHbHpiNTJmeVpmYW5UODItNVJvbHRQTmstTzRIWk11VUI2MTAyV0lXQjBuYmhQMTB1NlRxOUdVcGFzaWg0MXFTU1dWN2ctZE13ajF3Q1F4VjVzUUxwYVViWkJ3Nk5yXzBZdm1uRURzNXNVVFpDMkdQLThBNmx4cmJKbzNPRnk3ZWpucEpMbGRqZEw?oc=5",
+    "source": "nordic.ign.com",
+    "title": "Deleted Highlander Action Sequence With The Kurgan Was Cut Because It Was 'Too Good,' Actor Says - nordic.ign.com",
+    "summary": "Deleted Highlander Action Sequence With The Kurgan Was Cut Because It Was 'Too Good,' Actor Says nordic.ign.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 13.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "e4ec1118036c1ec97617",
+    "entity_id": "adrian_paul",
+    "entity": "Adrian Paul",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "adrian_paul",
+        "name": "Adrian Paul",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Duncan MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series",
+          "Highlander: Endgame",
+          "Highlander: The Source"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Duncan MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander: The Series",
+      "Highlander: Endgame",
+      "Highlander: The Source"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 21 Feb 2019 08:00:00 GMT",
+    "captured": "2026-09-01T17:55:41Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTgzY3VmUFhvYUpjNFZuRTBxS3hFMU56OEo3TkJKWENkX09pZU1SZEZoREhRTTJGWFNJdk8wdEFNVjFZOW4tcU16N2hJaGRQalZTWkU1RzlPOUxDRnIzRDVoZ1k4eEFSUnRXUFpoQ0Y2ZWJHdmVtamZHd3AxQkZFbVdFdEl5aEJQRXBQajBKbW9Vd2c?oc=5",
+    "source": "Regina Leader-Post",
+    "title": "Highlander actor Adrian Paul coming to Sask Expo Regina - Regina Leader-Post",
+    "summary": "Highlander actor Adrian Paul coming to Sask Expo Regina Regina Leader-Post",
+    "evidence": [
+      "matched entity: Adrian Paul",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 2749.4 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "2435182799588168f920",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 15 Jan 2020 08:00:00 GMT",
+    "captured": "2026-09-01T17:55:41Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nblNTVXpyamRRSjdZWTZLUHBqNlBkTENiMEJDXzEyWGJicEs2U25MbzFGWTJmcEJNYVc2d1RMNUJqLTFhMmhqWkhsdlB6V0pRWjg5RTVha2liVWJ3T3JvcTlR?oc=5",
+    "source": "bbc.com",
+    "title": "Stan Kirsch: Highlander and Friends actor dies aged 51 - bbc.com",
+    "summary": "Stan Kirsch: Highlander and Friends actor dies aged 51 bbc.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: death (dies)",
+      "source age: 2421.4 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "16d81e0052d0894ec927",
+    "entity_id": "clancy_brown",
+    "entity": "Clancy Brown",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "The Kurgan"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 58,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "actor",
+      "The Kurgan"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "new_project",
+    "source_date": "Wed, 19 Mar 2025 07:00:00 GMT",
+    "captured": "2026-09-01T17:55:41Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDNZX2FHWU1GU0tTSDh4LWYyMXVxcUxaMERvcWxIZl9Za0hnZ2dyc1hNQ1Y2bmNaQU9JS0ZwZmJqTTVMSXpncVhqbjBCbTFsZFZteEV0Q1RlUFlFTmgtbHRpRmpqZUpTaFRqRHJERDJwTExvMC1yVEF1Zk5EWjdONTR6QW9xVnBHVWd3cVNQemxZMDh3NHBnVTlEYkpmTGY3a041RDZqNDkwRVNL?oc=5",
+    "source": "KTLA",
+    "title": "Clancy Brown shares why he loves his role in the new series ‘Good Cop/Bad Cop’ - KTLA",
+    "summary": "Clancy Brown shares why he loves his role in the new series ‘Good Cop/Bad Cop’ KTLA",
+    "evidence": [
+      "matched entity: Clancy Brown",
+      "event: new_project (new series)",
+      "source age: 531.5 days"
+    ],
+    "score": 58,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "fc9c8d09985a5505572c",
+    "entity_id": "clancy_brown",
+    "entity": "Clancy Brown",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "The Kurgan"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 64,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "actor",
+      "The Kurgan"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "interview",
+    "source_date": "Thu, 22 Apr 2021 07:00:00 GMT",
+    "captured": "2026-09-01T17:55:41Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTmtpV3hJM2YwTWJ5VmhBaTlCcmVUQl9UbWFZUHlsY1ViaXBDMWZjaUF5YWJ3a3d0UlZzbWthNExRX29TejlSOE5UdlBlVnRzQnNXQl9lblY2UmwzR0lEZTEzWVVBcUllY3lBT3gtejFwcUVIYUJIWG53Ynl5aVlTalowUDcyS0lxNDRIMVl6aUw0SWVuNVMydnBKdGRZRUxjYVBXZnQyd3gtUTF4eFVWWVdROGlleFRjd09CYUlWdWNuUUJ0OWVmM0FZRS1oR0RMVURNYWlodlY?oc=5",
+    "source": "Flickering Myth",
+    "title": "Exclusive Interview – Clancy Brown on his journey with the horror genre and his role in The Mortuary Collection - Flickering Myth",
+    "summary": "Exclusive Interview – Clancy Brown on his journey with the horror genre and his role in The Mortuary Collection Flickering Myth",
+    "evidence": [
+      "matched entity: Clancy Brown",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 1958.5 days"
+    ],
+    "score": 64,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ae0330417d305a3468e9",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 21 Jun 2025 07:00:00 GMT",
+    "captured": "2026-09-01T17:55:41Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUlQtREV2eDQ5Tng1SGpCNzdEalE5Qm85cTYzM211THRMajQzYjhrdGtrSXBvelZFR2RkTTJoVGN2bU45ZGpGV1B6WllzQmJsS3BKM3V1VTIxWUJlLXNkQm5Ia1M4Y3l5aVdlSzVjeUNOcTQxRTZUYjc5cFpMVjhqaGQ0Y0JFdlEwaVYwNTBEblRPMGFCRVZneWlYQTMtbmtpQ01EeDdhbmxEZGFOYUR4aTNPZ29wUFpuQTFn0gHIAUFVX3lxTFB5MGg3UUZ2dkM3Z251MEw5UjBlZzNiS01vQlc4TE5NbG5TcDNZRGhvZk43WTBnb3JQV0ZGcDhVVDFJcWYxNFRYclJreEJ3aURhNGRfVGlxblRVcFFQQm43R3duSEE5ZjBBS0xfeVdxTHVnRFNTenBTeGxMQUlhSDA3OVh6dllWbHZRRlZaRVR2NlFmZ1lUMzRnZHhqdk5RcUgxMTI0NVdRVFJDZEhkVG1ES0lCSjBRSFAyMTJqZ0V6RVI0TEJMZEN4?oc=5",
+    "source": "IndulgExpress",
+    "title": "Russell Crowe to reunite with Henry Cavill in Highlander - IndulgExpress",
+    "summary": "Russell Crowe to reunite with Henry Cavill in Highlander IndulgExpress",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 437.5 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "7fb343c06ba6b1cf4fe7",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 29 Aug 2026 22:23:00 GMT",
+    "captured": "2026-09-01T17:55:41Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVm1NVlRSMGhuMjhqakJpZjhSUG9EY3JSRXgxVkFyUVV1MW5IWDF1czR5WGRKcWtJM0d6d1ViQ2VDTllFZ2NwaXdYcXBxQU9WX0h0bDhkdU12N3pHSi03Yncxb0JyMFdMVElmbkNONXNpZTl2Nkl0SmZYcGYwckpDYk52NzlOS1o0VkVzTjBOMEw5UlBhMnZId0ppRWkyWWR6YXhDVk1HeTBaZjFIVXVkLVREenJ1YktsdmFMdi1abw?oc=5",
+    "source": "avclub.com",
+    "title": "Russell Crowe will be the Sean Connery to Henry Cavill's Highlander - avclub.com",
+    "summary": "Russell Crowe will be the Sean Connery to Henry Cavill's Highlander avclub.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 2.8 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "3b067c88ab78653e790b",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 09 Jun 2026 17:48:53 GMT",
+    "captured": "2026-09-01T17:55:41Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CVm5FYkZJOEQzS0VmZmFsdmJSTjZKQnVTeC1wRTNyci10LTBvR2ttMFhITzdjSzI2MkNGVmotZEJjREZ5MTB3QzN6R1Q4Zw?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill's Forgotten Fantasy Epic Is a Must-Watch Before His 'Highlander' Reboot - IMDb",
+    "summary": "Henry Cavill's Forgotten Fantasy Epic Is a Must-Watch Before His 'Highlander' Reboot IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 84.0 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "648600d364221e098fc2",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 80,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 01 Sep 2026 13:48:00 GMT",
+    "captured": "2026-09-01T17:55:41Z",
+    "urgency": "normal",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkJDTGxVWDQ5TEhfMHBUS1gzVTNRX2t6RTd1cGJxMUFteENoXzRtUjlBck5jN3FuMXdSY1BhU1JBU1JTNzFPU1p0ZFp0M2dqSE96MlBZQTRpNXM2ak8tTjJ4TWZGZGoxNDlhZzNBMEVKQU5IU1JNYU1YYU42TzJXVlhYMllDYnl4VWVYOFhka3FFNlhvb216c0ZYdGVHdzV4cUxYdzRZMHJTVXc?oc=5",
+    "source": "Variety",
+    "title": "Gal Gadot Says ‘Wonder Woman 3’ Getting Axed and Henry Cavill’s Superman Exit Were ‘Not Handled Elegantly’ by the Studio but ‘We’re All Adults and It’s All Good’ - Variety",
+    "summary": "Gal Gadot Says ‘Wonder Woman 3’ Getting Axed and Henry Cavill’s Superman Exit Were ‘Not Handled Elegantly’ by the Studio but ‘We’re All Adults and It’s All Good’ Variety Gal Gadot Criticizes DC Studios For How It Handled Wonder Woman, Henry Cavill’s Superman The Hollywood Reporter Gal Gadot Says How the Studio Axed Wonder Woman 3 and Ended Henry Cavill’s Run as Superman ‘Was Not Handled Elegantly’ People.com Gal Gadot On Why She Wouldn't Do Another 'Wonder Woman' Movie & Calls Out DC Studios For How They Handled Henry Cavill & Patty Jenkins Exits Deadline Gal Gadot says she realized she wasn't returning as Wonder Woman when she saw how Henry Cavill's Superman exit was not \"handled elegantly\" Yahoo Gal Gadot Throws Shade At DC Studios Over Wonder Woman 3, Henry Cavill's Superman Exit SlashFilm Gal Gadot Calls Out DC Studios Over \"Firing\" Henry Cavill From Superman Role MovieWeb Gal Gadot Calls Out DC Studios Over Henry Cavill’s Treatment and Says She Was Told WONDER WOMAN 3 Was Happening GeekTyrant Gad Gadot calls out DC over Wonder Woman 3 and the treatment of Henry Cavill JoBlo",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: death (dead)",
+      "source age: 0.2 days"
+    ],
+    "score": 80,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
   }
 ]

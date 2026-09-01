@@ -18777,5 +18777,1106 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "1f436095ea0f8e371b5e",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 05 Jun 2025 07:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGxvSVd0MkhUeVZHUnpxaDMyY2ROQXB0UW1GalhTS2phbmVsbHBjUE9pMUVrYV83VjBnZG5kLUl1Xzhld1pJRE8zVkhES1BQYzFDaDlDdV9fUEpFZnUtcU94aWhDeldJVW9zRkRsS1JUVzNTQUI3bUJzSF82VS1XUlR4b0NuQ1ppdnJtd2MycmpybFkxRl9tamhLTQ?oc=5",
+    "source": "thepeoplesmovies.com",
+    "title": "Henry Cavill Highlander Film On Track For Production In September - thepeoplesmovies.com",
+    "summary": "Henry Cavill Highlander Film On Track For Production In September thepeoplesmovies.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, production",
+      "also matched: Highlander (70)",
+      "source age: 453.7 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "b1773dc342fb1d646b4c",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 07 Sep 2023 07:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOEVLaXNPWVV3U2JsTWh4ck5rbjYzb1JGcmFkZkFuOTlVSm4zQnRON2FzZVNmZnQ1Z2lHUmcyd1Z5WXV6VjBUVUU0RzJ2N3VIWk85QU9VOG9jSmEzRDY1V1JEOU5WWE5jNVJqWTlCdFgwSlVkNzBrYkp4UWxBUTI0a09KdG5vTFp5cnFaSFhQMVE4azVyaEF0X3VxZkdlUmVUVmRReThGRHBaSnVzMHRhM0dFbkljV1hUQngxOFlSV0c5ZUtKQlRBV9IBzgFBVV95cUxQTG1oMFUyTjdla0prQmUxLTFfWEwzc1JmaDE4NTZ1bm9pcG1rZVZxcFc3Q0lzMmllVTJaZUxONkUtWm5PVERhUG5uM0NPS1JfYTFkX2Z6dlJiaFNQclZTc0lSN0FKeEdLeUczZjIzcG9ZZFQ3NUlIYVg2YVFwRmRtRGlXakVoWS1oZUx2S0cwTGlhcEh6RHZ1VTE4WnJMSzVndEtlSS1DdlRBaVh6MkVYQ3VqVngySGJQYmxDV21KME1CRWR5MVNUQTdjbnNPUQ?oc=5",
+    "source": "gagadget.com",
+    "title": "A reboot of \"Highlander\" with Henry Cavill could be a franchise in the hands of Chad Stahelski - gagadget.com",
+    "summary": "A reboot of \"Highlander\" with Henry Cavill could be a franchise in the hands of Chad Stahelski gagadget.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Chad Stahelski (100)",
+      "source age: 1090.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "96e79057f029e3b307e2",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 96,
+        "event_type": "appearance"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 92,
+        "event_type": "appearance"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "appearance",
+    "source_date": "Sat, 08 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "high",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb0R2aU9KRTBmWFA5Y0JfalRzZHhKbnNiVTFNU1Z0YldtSzdncjNKeEtCZWlBc2pHdmJJQm5RaXpXRzVsRTRwRHJCb1NZUTQzdDJUVVZTY1RXRGRzUDN5THU2aFl1cFhicG01c09SOTJMSFFwa1dqMExzNVpQc3BiTWhraFNCZk1zbWR2VmdXalpOVzA?oc=5",
+    "source": "AOL.com",
+    "title": "'Highlander' Star Christopher Lambert Collapses at Pittsburgh Comic Con, on the Mend - AOL.com",
+    "summary": "'Highlander' Star Christopher Lambert Collapses at Pittsburgh Comic Con, on the Mend AOL.com",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "event: appearance (comic con)",
+      "also matched: Highlander (92)",
+      "source age: 24.7 days"
+    ],
+    "score": 96,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "6c3d78e1f5b3a81f3de5",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 80,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 10 Feb 2026 08:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSzVjdnFkaTliRjZjZnhKTUZfR1hFVHR1MTRoc05CeG90VTYxaU90UC1aLVl6QWhfdVFSejJYRDVFazhBOUZMR2tiSFJsMTdVdHRCamtTZjJVQVJqLWU2VFFVNVc4VmlYYmNVUy1ObDFabHVBVjlPS3laQnk4NlZ4MTFZdVk3ZlRYVjMzRW5tVUg5akhvQllJMDJnR29USWk4a0J5V3c2YXFLY2RZaUpxRVBDWFZubXFHaDhZbTVZdGU1SUZ2MmxIZmlwaw?oc=5",
+    "source": "bloody-disgusting.com",
+    "title": "Christopher Lambert to Star in Sci-Fi Horror Film ‘Zoners’ from ‘Love, Death & Robots’ Writer - bloody-disgusting.com",
+    "summary": "Christopher Lambert to Star in Sci-Fi Horror Film ‘Zoners’ from ‘Love, Death & Robots’ Writer bloody-disgusting.com",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: death (death)",
+      "source age: 203.6 days"
+    ],
+    "score": 80,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d3f8682f48df4c4870b2",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "health",
+    "source_date": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "immediate",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlVxOHJCOUF0RnBDa1F6OUlHQzRYVWUwYTZGOTl2T0JzNkpZNUk0ak9SVmZlZzhVMTlGN0xtXzdvajFaV3l4SlhXNXNSbzI5VXp3cF82ZVhnRm83LWYxRV9LMFlNSzA5SFBmelhndkMyU1hnRWJvYnhscUsxeVNCUjQzLUdLMGFCVFdxSWpPbkttRVJJSHVyejhMbEZiMlRw?oc=5",
+    "source": "The Canberra Times",
+    "title": "Highlander star 'rushed to hospital' after collapsing - The Canberra Times",
+    "summary": "Highlander star 'rushed to hospital' after collapsing The Canberra Times",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: health (hospital)",
+      "source age: 22.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "4f8aa00b142f7d22af23",
+    "entity_id": "adrian_paul",
+    "entity": "Adrian Paul",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "adrian_paul",
+        "name": "Adrian Paul",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Duncan MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series",
+          "Highlander: Endgame",
+          "Highlander: The Source"
+        ],
+        "score": 98,
+        "event_type": "interview"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 86,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Duncan MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander: The Series",
+      "Highlander: Endgame",
+      "Highlander: The Source"
+    ],
+    "event_type": "interview",
+    "source_date": "Thu, 19 Aug 2021 07:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUGN1Y192Z2kyRkR1dWNSMzNjWEI5XzBiek5BanptSHYwX0RpUHNEUkdaQTF1c0RqNU04UEhsYzNETFlwbXlMdU5hQk40VGNEWnlqUjIzeF82VXVMd2gzeGRzUGVOZmtGYXhaSFZwcTlzaWo0VlAwQ21sWTA3MTJsdEl1SjFBWXh0ZXNGV1J1dDlmXzZFSzl1NERrbHoySVZ6Y0x2SVQtb1g2cTZPNmh2NUM3QTRmSjktRHZYVWZKdnprUXZBMkJTaTN5RG5XbDlEUjIwZ3ZMQlhnVzlzUXc?oc=5",
+    "source": "assignmentx.com",
+    "title": "ADRIAN PAUL: The HIGHLANDER star chats about The Sword Experience, Watchercon and more - Part 2 - Exclusive Interview - assignmentx.com",
+    "summary": "ADRIAN PAUL: The HIGHLANDER star chats about The Sword Experience, Watchercon and more - Part 2 - Exclusive Interview assignmentx.com",
+    "evidence": [
+      "matched entity: Adrian Paul",
+      "explicit Highlander reference",
+      "context: Highlander, Sword Experience, interview",
+      "event: interview (interview)",
+      "also matched: Highlander (86)",
+      "source age: 1839.7 days"
+    ],
+    "score": 98,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f31d03ec4b5065762713",
+    "entity_id": "adrian_paul",
+    "entity": "Adrian Paul",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "adrian_paul",
+        "name": "Adrian Paul",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Duncan MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series",
+          "Highlander: Endgame",
+          "Highlander: The Source"
+        ],
+        "score": 94,
+        "event_type": "interview"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 86,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Duncan MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander: The Series",
+      "Highlander: Endgame",
+      "Highlander: The Source"
+    ],
+    "event_type": "interview",
+    "source_date": "Thu, 19 Aug 2021 07:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQajg4Z0htYnl4bzJYX2dSQm9oVThySElFdkdma3gxMTJsdGYtcl90MEROOExvWWNZOGJPLXZ1Nk1uM1M1N2lEci1ZaGJRWEtyckJzMmFya0kxS1p3Nlh0ekp2YU5neU9yR0Fla0d5RnYwWmpEWlZXYkpBV1JabFktX3pRWkhlTWtpSkxkNHZ0V3k1LTdVLUZTS3dhOTkzTENVaWRnYm9ubURuNHNibkVIMldINVFFUQ?oc=5",
+    "source": "assignmentx.com",
+    "title": "ADRIAN PAUL: The HIGHLANDER star chats about Watchercon - Part 1 - Exclusive Interview - assignmentx.com",
+    "summary": "ADRIAN PAUL: The HIGHLANDER star chats about Watchercon - Part 1 - Exclusive Interview assignmentx.com",
+    "evidence": [
+      "matched entity: Adrian Paul",
+      "explicit Highlander reference",
+      "context: Highlander, interview",
+      "event: interview (interview)",
+      "also matched: Highlander (86)",
+      "source age: 1839.7 days"
+    ],
+    "score": 94,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "0ca3471f2be29957b476",
+    "entity_id": "adrian_paul",
+    "entity": "Adrian Paul",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "adrian_paul",
+        "name": "Adrian Paul",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Duncan MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series",
+          "Highlander: Endgame",
+          "Highlander: The Source"
+        ],
+        "score": 94,
+        "event_type": "interview"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 86,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Duncan MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander: The Series",
+      "Highlander: Endgame",
+      "Highlander: The Source"
+    ],
+    "event_type": "interview",
+    "source_date": "Sat, 12 Feb 2011 08:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcC1oTWRDVXpEYzVVV054UDlBWWZaUVpUcGRoVTVHaEgzUnI4NklSY0FmU1BKQlJiT2tMdlVxbEhqMzR3VGNtc2U4Qms0R3VhaDFPMzFudWNkOF9raWtJYUVyRGdlclh5RUVxdy12ZFFEcU9FclJKOTNnMW5pajB3cFhlM1d4QW9lallFS0trXzdjY1V4bUxmc3FYaU5Ca2JmMnVzRUVpaUJpcm5I?oc=5",
+    "source": "assignmentx.com",
+    "title": "Exclusive Interview: HIGHLANDER star Adrian Paul has his sights on EYEBORGS - assignmentx.com",
+    "summary": "Exclusive Interview: HIGHLANDER star Adrian Paul has his sights on EYEBORGS assignmentx.com",
+    "evidence": [
+      "matched entity: Adrian Paul",
+      "explicit Highlander reference",
+      "context: Highlander, interview",
+      "event: interview (interview)",
+      "also matched: Highlander (86)",
+      "source age: 5680.6 days"
+    ],
+    "score": 94,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "e6db02ad6c91b66a7dcc",
+    "entity_id": "adrian_paul",
+    "entity": "Adrian Paul",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "adrian_paul",
+        "name": "Adrian Paul",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Duncan MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series",
+          "Highlander: Endgame",
+          "Highlander: The Source"
+        ],
+        "score": 66,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Duncan MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander: The Series",
+      "Highlander: Endgame",
+      "Highlander: The Source"
+    ],
+    "event_type": "interview",
+    "source_date": "Thu, 13 Mar 2014 07:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2s0REZULVF4SUs1WnlFQ3hhd3BKNWZhcElySU5mdG5WQkF4aGRHX3N6YjBPdjZuWi01Y09od2Z3M2c1NFB1VEpnRkU4YXU4MEZGVVUzU2NfVmlCLWQ4SDBOV0FmY2tSTWRja2NicFNGUDRfc2VfaTVFSjZtR0l1R25fTXZMcksya2gyeG83TWN6U0JGaHEyMG5n?oc=5",
+    "source": "assignmentx.com",
+    "title": "Exclusive Interview with WAR OF THE WORLDS: GOLIATH’s Adrian Paul - assignmentx.com",
+    "summary": "Exclusive Interview with WAR OF THE WORLDS: GOLIATH’s Adrian Paul assignmentx.com",
+    "evidence": [
+      "matched entity: Adrian Paul",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 4555.7 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "c1fde96bf714bdb0236d",
+    "entity_id": "gregory_widen",
+    "entity": "Gregory Widen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "gregory_widen",
+        "name": "Gregory Widen",
+        "kind": "person",
+        "roles": [
+          "creator",
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 93,
+        "event_type": "interview"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 86,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "creator",
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "interview",
+    "source_date": "Tue, 14 May 2019 07:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazRQU0t6MzdHaUd6REYwVkZVd2RVclRUU2lrY3BvWHhqeXlSTDVWQ3JwNUVKR01admh3a0VWQ3F2VFEybVVydkU3WW8xU0VpdVpHV194anFQNmxxejBQWFRESUNBXzc4RnNhREVEUjQzb2ZDMGN1QVV6eGVxZklfdFl3a0FLR3c4eDhCaktQMHJ0c2puTUU3VV9KY2FIWlZyWHZFa3VOX00?oc=5",
+    "source": "weliveentertainment.com",
+    "title": "Franchise Fred Interview: Gregory Widen on Backdraft 2 and Highlander - weliveentertainment.com",
+    "summary": "Franchise Fred Interview: Gregory Widen on Backdraft 2 and Highlander weliveentertainment.com",
+    "evidence": [
+      "matched entity: Gregory Widen",
+      "explicit Highlander reference",
+      "context: Highlander, interview",
+      "event: interview (interview)",
+      "also matched: Highlander (86)",
+      "source age: 2667.7 days"
+    ],
+    "score": 93,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "986cee0e5ed9124e2180",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 27 Jun 2024 07:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PVzZDejhzR09jMDhpb2N0eUctMVM0NjMwU3JlbURNQ2FvQkloZGtMYVJiZGJqYUFUeGc0Vklyd09DRzlqaElKZGVhVlJwODBPbzMxTVAwakRmMVhrTVFlSno5YnA5ZUdwNENDYktuUHFnYnM?oc=5",
+    "source": "rogerebert.com",
+    "title": "The Unloved, Part 127: Highlander II: The Quickening - rogerebert.com",
+    "summary": "The Unloved, Part 127: Highlander II: The Quickening rogerebert.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Quickening",
+      "source age: 796.7 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "53fd729ab96826e1ea1e",
+    "entity_id": "russell_mulcahy",
+    "entity": "Russell Mulcahy",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "russell_mulcahy",
+        "name": "Russell Mulcahy",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II"
+        ],
+        "score": 67,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II"
+    ],
+    "event_type": "interview",
+    "source_date": "Thu, 15 Aug 2013 07:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZDlZZXJQM2RrLTViYm9sNXc5bVhEOVM3WFF3TGVRZ2xGY3BxSDRwRWlWVzgtZlJjUklrczg3SU83X2NtYzdoTE81R05RY2M0VDJ3QlE0LUtWWkNBUk5QcFlYQzFWNF9PTFg0VVpjb1cwN2pGSDBQREw3MU92TDA4MGJ4UW5NVDh3OS12Y2RVNDNSNTk3NWFqSmtEN1ZaRERQZUVYMVVqSm50dGpnajNabEU0Tm1waUU?oc=5",
+    "source": "assignmentx.com",
+    "title": "Exclusive Interview: TEEN WOLF directors Russell Mulcahy and Tim Andrew on Season 3 - assignmentx.com",
+    "summary": "Exclusive Interview: TEEN WOLF directors Russell Mulcahy and Tim Andrew on Season 3 assignmentx.com",
+    "evidence": [
+      "matched entity: Russell Mulcahy",
+      "context: director, interview",
+      "event: interview (interview)",
+      "source age: 4765.7 days"
+    ],
+    "score": 67,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "1e7d2dbf59a7eae4d22e",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 23 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zVTQxemwxQkh2UWtyQ1pTVkVfdmhMMVlxaThRUTdOUnd2YlV1c0ZPc19FRlA3endWeG1NY290eWpHbWNfTDBQX2RrNEVUc2xvcGVOVHFVTDBCa3gxZVJOc3lzS3AxWlRVeWtKRTZ5dEhoeDhsYXFadA?oc=5",
+    "source": "Comic Book Resources",
+    "title": "10 Fantasy Movies That Make a Perfect Double Feature With Highlander - Comic Book Resources",
+    "summary": "10 Fantasy Movies That Make a Perfect Double Feature With Highlander Comic Book Resources",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 131.7 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f6add60c2eed47cd8b32",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 29 Jan 2026 08:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHN0UHF4YjBmam1NNnlsY1UyNGhlYzRhYUJjblhmSDBMV1ZlUXlicEpxblE0VmFIb2dPd0ZKZDRDQmxpQ2xReTBfZDlLblVzaHMtdUZxT3RfbUtVRFJtVVJ2NVRVSW1TTjFhdUg5UkFZZmp6dU9wR1ZIZzlya1l6cUZDdFdFMXM?oc=5",
+    "source": "moviefone.com",
+    "title": "Henry Cavill Offers First Look at New ‘Highlander’ - moviefone.com",
+    "summary": "Henry Cavill Offers First Look at New ‘Highlander’ moviefone.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 215.6 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "4e8f44eefb394418e660",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 05 Nov 2025 08:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOGdjbTNNNFJBcmx2TmhScVR3Ymx6VVI4WWFvWHVTbTVrTUVWajd6ZHZWeW1SeGFuWmNVTGRkR1g5Ync0ZGFTTGl5ZzJUbnlmcE9GVndjNXBCVXZKa1NlY0o0WXp0R1N4MWFOY1pjX1FraS1CcUZDRzRuNm1XVWs1RFA1U3JOemRlX2d0LVp5VXpEMnVjTWpoclpvTFAxZ2FVOXh0UTI1SnY2em12bURBLTQyTFJiZGRUeEtoNHJfYklaTXo2eEdOaGpZaVBVeG110gHeAUFVX3lxTE83cVhSc1lwZmtsbVJFdzUwbS1pQW1BYktySlVaTUVlNS1MQjBVenZLT1JVQk4wZmZQbTFqaS1YbEl6NHpKcGtmc2wtTi1tampSM0N1THlJaDhRbGV1c2tvZFlBSFNIZVZ5ektLVXhTcjNXbTdpQnNPOXVxYUYtV25GYk5rYzhmd2cwSHZfSWl0ZTBIcm1odVFGeDhSUGxWNGdTRUV5TUtWSjhxSnV3UzlYVFRmYUZSa1ZqSFYtTEx6RWQyN0RHSlZCRjFMWDFlRm9TR2ZxOUNUcDJVUk1RQQ?oc=5",
+    "source": "cinemaexpress.com",
+    "title": "Highlander reboot adds Siobhán Cullen, Jun Jong-seo, Nassim Lyes, Kevin McKidd - cinemaexpress.com",
+    "summary": "Highlander reboot adds Siobhán Cullen, Jun Jong-seo, Nassim Lyes, Kevin McKidd cinemaexpress.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 300.6 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f4a354b40afe0da54861",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 64,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "new_project",
+    "source_date": "Fri, 13 Feb 2026 08:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYW12VlVYNzBTaHR4OUdvRWZZR0hUeDRYTnBDajdwYmZRbktYTmZPZmtKeE5VZ2dSUERhQmtZTWdRcUNpa005U2d0RzJJTGk2SVVVaTdjNnlmY0VYa2Y1eTdmREI4NjlUWWxMdUxxMlFuZ21pWS1wLVlzUzNtTWIzcXVLbmwtSEVmVWZJX3FfZEJxU2UzdElMVlN1X2tLcEViMVBENTJ5QkNXYUlraVpFeW1lOXBvNG8wcU9lbVItQUx4Vy1qRGh0ZmRJaXV6dTlVcVB0U1pxbGpZZW1leUNFajB3bFNqVFlzcExvTnlxZUxrSTA?oc=5",
+    "source": "bloody-disgusting.com",
+    "title": "Untitled ‘John Wick’ Video Game Announced, Featuring Series Director Chad Stahelski and Star Keanu Reeves [Trailer] - bloody-disgusting.com",
+    "summary": "Untitled ‘John Wick’ Video Game Announced, Featuring Series Director Chad Stahelski and Star Keanu Reeves [Trailer] bloody-disgusting.com",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: director",
+      "event: new_project (announced)",
+      "source age: 200.6 days"
+    ],
+    "score": 64,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "755f5a5dd4c99fffa1d8",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 84,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 18 Nov 2023 08:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQnM3SDVuWXhhMS1qR0REUVpsVlUyVXQ3VHlxOTViTWVJZTBERnhIM0RWcC1pbnAwVUp6S0dMQmR2MV9SU042aHgyS2Q0V1g0dzh0cXFxQzc4YVE0eklUUkNTWFQxbk5pdHFlTWxDTXVCdWlyeDJ3aVNWaEFkbk5uYi1pRUtHRk5UWl9pWWxn?oc=5",
+    "source": "Deadline",
+    "title": "‘John Wick: Chapter 4’ Director Chad Stahelski On Potential For More Films - Deadline",
+    "summary": "‘John Wick: Chapter 4’ Director Chad Stahelski On Potential For More Films Deadline",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: director",
+      "event: death (dead)",
+      "source age: 1018.6 days"
+    ],
+    "score": 84,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "51c4725e1870cfc57cbe",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 66,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "interview",
+    "source_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3FNV0NkdzJaNlRWcjVsRXpMMUxQV1BId0dFOEcwMDdmRUFkNk1wbDd2b0J4M3JqQjAxdWRqZlFiMDRhQnJnQ3FpXzh2ck9aZmRvbkFPQVJaLUtLNU9sN0lWXzMzMFJaUUNGRDBlSWtjN2pfZjU4dVR1Z0RLeWVLUFgyN0Fld25PNnhxajhjdnBYXzZJRnkyaU1lMmFvOGpnVFdiNGhUcGpsY1lLeGRQRUYtQUlGTXhfMWdOMQ?oc=5",
+    "source": "weliveentertainment.com",
+    "title": "Chad Stahelski Interview: ‘John Wick 4,’ Action Movie Tropes & Dog Revenge - weliveentertainment.com",
+    "summary": "Chad Stahelski Interview: ‘John Wick 4,’ Action Movie Tropes & Dog Revenge weliveentertainment.com",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 1244.7 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "e474eaee7168d5184514",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 08 Aug 2025 07:00:00 GMT",
+    "captured": "2026-09-01T22:46:50Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3lTdWVlQVFxUk5NakprUUo3ZHBqcjI2cGhEdlFkWWs0U0V5b3lfTUhKUDUzcVBDSi0yRE13NFJLN1RUTmprVnBuemtpamJkUDN3b0FEUEt5OTVYNDZHT0MxRTNNSTBHODVCSWlQYXZ3SVp2OGlNVVFnMFFlUlZKQk52LXZEdEJ2aWFsMXNaSWVvNVJ6S1hlamc1ekJKYXpkdko5dzBkNE9ZWDRvRnJidTJPaDY3cVVVNXR0WXZQc2xfU3U0ckE?oc=5",
+    "source": "The Playlist",
+    "title": "Dave Bautista Lands Villain Role In Chad Stahelski's 'Highlander,' Will Also Star In 'Road House 2' - The Playlist",
+    "summary": "Dave Bautista Lands Villain Role In Chad Stahelski's 'Highlander,' Will Also Star In 'Road House 2' The Playlist",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 389.7 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

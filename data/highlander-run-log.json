@@ -2,6 +2,24 @@
   "version": "2.1.0",
   "runs": [
     {
+      "started_at": "2026-09-03T17:59:19Z",
+      "finished_at": "2026-09-03T17:59:26Z",
+      "mode": "once",
+      "scope": "core",
+      "entities_checked": 11,
+      "bootstrap_reset": false,
+      "items_checked": 985,
+      "unique_items_discovered": 800,
+      "baseline_items": 0,
+      "new_events": 65,
+      "qualifying_events": 3,
+      "notification_candidates": 2,
+      "notes_written": 3,
+      "historical_suppressed": 62,
+      "errors": 0,
+      "pruned_bootstrap_notes": 0
+    },
+    {
       "started_at": "2026-09-03T12:58:07Z",
       "finished_at": "2026-09-03T12:58:13Z",
       "mode": "once",

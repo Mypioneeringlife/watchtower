@@ -46802,5 +46802,490 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "eaf566299d0d71af721a",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 04 May 2012 07:00:00 GMT",
+    "captured": "2026-09-04T18:24:58Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlBzdXN0VUV5VzlKUDE1dUdCZzl5eDVhcnE2cWlKSTFkUC01Y0VvTm1JTTl4cGc4UEdmd1o0Q05IVy1VOWhjMFEwTWFNSS1UZGVXOTBVNnhsdXJ5Zks1bWtqT0JYUG4welhLR2xERW9CRWc4aHJhYjdlYWJpOHQxeXAwS09zUQ?oc=5",
+    "source": "ign.com",
+    "title": "Highlander: Director's Cut Blu-ray Review - ign.com",
+    "summary": "Highlander: Director's Cut Blu-ray Review ign.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 5236.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "da1c0a346aef6e8b2ba3",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 28 Jan 2026 08:00:00 GMT",
+    "captured": "2026-09-04T18:24:58Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUUpNV0hmVkxvOVdNSmlTbl85QnZwRk9NYjRWam1WcXRGZmtpVUpReUF1M3RmWWpnNHpOXzVrbE5GMnNUcmNIa3lQbVVROG5YVlY1SmV1V2QwVkhJQ3hIQ2taOHF4VWNGY2tNQVZ4WUlQV0lPU0x3Y2JzSjFQYzJDV0ptaTJWYm1JeThacVVvMDQ2dw?oc=5",
+    "source": "gizmodo.com",
+    "title": "There Can Only Be One First Look at the ‘Highlander’ Reboot - gizmodo.com",
+    "summary": "There Can Only Be One First Look at the ‘Highlander’ Reboot gizmodo.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 219.4 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f29f675310efc50fa3ed",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 07 May 2026 07:00:00 GMT",
+    "captured": "2026-09-04T18:24:58Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblJhWmpMVmRlcVo4bHc5bS1Zb1BHSmFmUWpSZ3RLWVJMMmR3cXhObW5PQkJRT2pFaFdkamVMVjh1TkNtOUNkMnVGVjFkWU1MMkVTaks5dHR2Q2hiZ0lYQjMyYXRMaWctRlp4Q0NYQWFLWExSRG9tM3ZwRVJHZEFlTVF0RTdUNlI1bzF3dzk0OGYzMVU?oc=5",
+    "source": "3dvf.com",
+    "title": "Highlander reboot set photos show Cavill as Connor, McIntyre as Angus - 3dvf.com",
+    "summary": "Highlander reboot set photos show Cavill as Connor, McIntyre as Angus 3dvf.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 120.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d3403a6384211dd305cf",
+    "entity_id": "adrian_paul",
+    "entity": "Adrian Paul",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "adrian_paul",
+        "name": "Adrian Paul",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Duncan MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series",
+          "Highlander: Endgame",
+          "Highlander: The Source"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Duncan MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander: The Series",
+      "Highlander: Endgame",
+      "Highlander: The Source"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 14 Feb 2024 08:00:00 GMT",
+    "captured": "2026-09-04T18:24:58Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSUt3ZlJfaE1WSExBcGtJUjA0b0FvQXpTT1NnOHdYZ0xxU2o1ZksxU0VrZ1B2UXlkMDdOSGNRVkRMejAzUGlMb2hsSkNtZmF4NkU4d1JMamxBVmR1WFMxNGtETVhwMkhiU2pqdUdOZWhqNWNhUUtwczk3V2dybUpING9NSWliRG12ZDcwUGwzNTNtRU9wQVRua3RaRzVlQ2ZNaG5RZHZtSElZZ2pSSUI1SlEyb2RDLTVtaWY3cS0tY0JHM3g3ck54cno2Z0pka0FhQVZlSmdncXFGMkczZzJ0cUhQMDE2WWt0UzJFeHgyZjAyME5f?oc=5",
+    "source": "dentonrc.com",
+    "title": "‘Highlander’ star Adrian Paul is coming to Denton to teach the way of the sword - dentonrc.com",
+    "summary": "‘Highlander’ star Adrian Paul is coming to Denton to teach the way of the sword dentonrc.com",
+    "evidence": [
+      "matched entity: Adrian Paul",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 933.4 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "221b71b78b3cd7027ce9",
+    "entity_id": "clancy_brown",
+    "entity": "Clancy Brown",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "The Kurgan"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 58,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "actor",
+      "The Kurgan"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "new_project",
+    "source_date": "Wed, 01 Jul 2026 07:00:00 GMT",
+    "captured": "2026-09-04T18:24:58Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdHA5d3hKZ2pMdEVlcTZVaTdZaDA4Wk1KMHYxb3pNYXZaSTVlMklJWFJNOTJEM1N0dUJwRkd2ekMxcUVSejFGYnFTLVVaVWxTN1ZMUjNHRnVyTUNWcnQxOG5FWjEyOG1wLTF6NnozSmdIX2dTRUNjVnluaUF6T1EzNFYtSi1haUMyaUdGUXBzcmh5SU50Y2tEZmV3cXQyaVNkZWpoMUdDSnBJTGI2dkxPdjh2OVNtcTg1WkdTRU5IYzBjLXBMNGl6bWxaQjQ?oc=5",
+    "source": "gizmodo.com",
+    "title": "You Don’t Have to Be an Otaku to Know Clancy Brown Starring in ‘Cyberpunk: Edgerunners 2’ Absolutely Rips - gizmodo.com",
+    "summary": "You Don’t Have to Be an Otaku to Know Clancy Brown Starring in ‘Cyberpunk: Edgerunners 2’ Absolutely Rips gizmodo.com",
+    "evidence": [
+      "matched entity: Clancy Brown",
+      "event: new_project (starring)",
+      "source age: 65.5 days"
+    ],
+    "score": 58,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "fee81b9c16f83e059eb9",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 23 Jun 2025 07:00:00 GMT",
+    "captured": "2026-09-04T18:24:58Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaYkIxQ0lDZmN6a2dNeDhHTmJmVmJnZnR5bXRmRW1feENrWTRhZDlUVjMxd0hDRFVyY2VDdEI0Zlc1dVB2NXM5ZXVxeS1ob2NXNF9uUk50NGtwMUg1d01rUWgxQ1psOEtiMEpLUDczdk45blphV05yanpFRQ?oc=5",
+    "source": "bluntmag.com.au",
+    "title": "Russell Crowe Joins The Highlander Remake - bluntmag.com.au",
+    "summary": "Russell Crowe Joins The Highlander Remake bluntmag.com.au",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: remake",
+      "event: highlander_production (remake)",
+      "source age: 438.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "89f74ae300f060d894ce",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 15 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-04T18:24:58Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTlxYkdHSXhuNi04eFdOWE4tVHo3bHpxTGJXVEZ0SkJtMjJ1X3MtMnNqdzNSYmloOFBqNVhOODMwRFFSb2Frd2p0dVVMLVpQMTh3OGNVQkNhRDN0c2J3OEJHeVNPcmk0R095VXd5cHJEVVY2MWgtdVRJeUJjcWM3OVduYkltR0RVNURHNDhWbm9WRURsMmprZmQwRG5scGZua1FKd011RU8ybDBxNHJEU0RnUVJEU25qVndtMDQ5LS14M1k5UTJkT2R4aFhDaEszQmhtMkp1NlRsekYtTWJTaDgxaVNkUDNxb2VfWE0yODVtenBhRlAwSXFrRWRyUWM?oc=5",
+    "source": "thestar.com.my",
+    "title": "Actor Henry Cavill draws crowds as neon-lit set evokes memories of old Hong Kong during Highlander shooting - thestar.com.my",
+    "summary": "Actor Henry Cavill draws crowds as neon-lit set evokes memories of old Hong Kong during Highlander shooting thestar.com.my",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 20.5 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "3df3f256c99f9bf9135f",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 29 Jan 2026 08:00:00 GMT",
+    "captured": "2026-09-04T18:24:58Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa2diSjNOdTVWcTRDVk1YWDQ1WmJNVjB4bllpUm5nNUJrdlliLWN4MXhYZmZmQkw5Q0hPOG04VU02SThmZzkwMDNJYWFQRTlpWnQ0QTNfWEdueGJGU1NyS3FJYlZnZnVKcy1LZ0MwMlBFNHM4U0pzZVl1UW1xZ0p0Y09acVhmOEEwMEhPOHBfSHFna0FQUnczU3FOU1hxYkd0MG9NMUpB?oc=5",
+    "source": "The Scotsman",
+    "title": "Henry Cavill gives fans first look at immortal Scottish warrior Connor MacLeod in Highlander reboot - The Scotsman",
+    "summary": "Henry Cavill gives fans first look at immortal Scottish warrior Connor MacLeod in Highlander reboot The Scotsman",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Connor MacLeod, Immortal, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 218.4 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "210f4045ca1d215ca5cd",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 06 Sep 2025 07:00:00 GMT",
+    "captured": "2026-09-04T18:24:58Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNUt4Tm9zTjVTS21OMGwwa2JXcW54S29pNDJyaEVfY0lVVXMxVTk2VGR3QjdVbm4zLVV5d0puYXdGX2ZUa1VBNk1rYVdRUGhLREZMSVlmZXpnTm84X053Rno3MXhKaUpUYm9QQTZyYlZIeEdNLW9YQUJ2N3VaRUN5OVpGWVZJRWxF?oc=5",
+    "source": "gizmodo.com",
+    "title": "Please, ‘Highlander’ Reboot, Don’t Waste Djimon Hounsou - gizmodo.com",
+    "summary": "Please, ‘Highlander’ Reboot, Don’t Waste Djimon Hounsou gizmodo.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 363.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

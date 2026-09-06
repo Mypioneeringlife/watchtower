@@ -51602,5 +51602,170 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "de1cbaec4d986af807cc",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 21 Aug 2025 07:00:00 GMT",
+    "captured": "2026-09-06T17:36:58Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVY1p3R0w3Zlc2ejlWWC1SbGFMVFdmUXhaNDQzcWh6aWdjQ2xEN3QtTEdaZ256ZEx2a3YtUDJQQU5WUHhmMkp0Um5FYl9XOTBodDVnaWFWU3VHbXZxclFRbW95SVpzRUhxVkxlbnRRaXBjYmFiQ1RFTmJR?oc=5",
+    "source": "411MANIA",
+    "title": "Karen Gillan Joins Cast of Highlander Remake Opposite Henry Cavill & Russell Crowe - 411MANIA",
+    "summary": "Karen Gillan Joins Cast of Highlander Remake Opposite Henry Cavill & Russell Crowe 411MANIA",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: remake",
+      "event: highlander_production (remake)",
+      "also matched: Henry Cavill (100)",
+      "source age: 381.4 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "af1a8702d5b2e8ad3564",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 76,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Thu, 13 Mar 2025 07:00:00 GMT",
+    "captured": "2026-09-06T17:36:58Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGhkb19ycDE2MHIyZWM0S3J2UW14cExNZE5PMnd0eFVrVXpmNGZXTnUwT1llU1BBWEM1V0NnbENsd2R1am1oTXhGSHg1Wm1YY21IOHQ1WGlkUlduNXI5ZXFGWFRCMWNwQ05lVjNwS1F2U2JrZmx2Qm9hN2tQYWdJWUxNNFpZYm9wZTVsbnV5Umh2Ui1pUU9Rd2FRc3FTdG5BT1VfckR6Zk1FNEpXNW12dURjTXNMbkdmTGxF0gHAAUFVX3lxTE1ERGkwZTlRRkJ4R2h0NXdBd2pReFppNzVKTFlid3RpLWRGZ1VqdG1hRmEyd2VKbzdIblVMYU5EdjhGYjRRR21ULXhtWFl4TUhFZlFmczlsUUU1TVJDZzc1NThoUGNqUi1UT1pmYjBlLW5pZ01wbzdRRUVlY1RVY25VdFI0NWtUd1NsNlR2U2NrRXBYa2xXWUp2Vy1rN08wUjA4WmdrN2pYZUIzNUVadllXRzR2S0RvQ0RCWUxMSmExYg?oc=5",
+    "source": "Daily Mail",
+    "title": "Tarzan star Christopher Lambert, 67, 'rushed to hospital after falling on stairs' - Daily Mail",
+    "summary": "Tarzan star Christopher Lambert, 67, 'rushed to hospital after falling on stairs' Daily Mail",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: health (hospital)",
+      "source age: 542.4 days"
+    ],
+    "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "40107bf666f8d75b940b",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 09 Feb 2024 11:33:47 GMT",
+    "captured": "2026-09-06T17:36:58Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyX2VqV1F3UjQwRWhfaHhaM19IaHd4djFpY3ZzT0hqWC1GOGEzYTlreDN1bW5hamMwMWxGZzdvVjAzZHdpNmlpRGJNMlRyZWhIM2RWWklHM09JdXlHUFc4VTBqbUhuTjA2ZTZEN3d3?oc=5",
+    "source": "IMDb",
+    "title": "Highlander (1992) - IMDb",
+    "summary": "Highlander (1992) IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 940.3 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

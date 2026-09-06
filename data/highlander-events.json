@@ -51767,5 +51767,259 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "86d9dcd4ce0082672cff",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 30 Sep 2025 07:00:00 GMT",
+    "captured": "2026-09-06T22:15:43Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wVTlrTUdrTV8zampmNHJBelZraVBydXBYYzY3ODlyQjFyMFhYYUhWTTh2Sjg1TURqOFl0WlJGaXNlM3hQVkJxREhFbnpBaVF2R1lIYXNCVURUWloybWhkR0laRlk0SnJUX29MZ2ZManRYQnFETFE?oc=5",
+    "source": "guides.justwatch.com",
+    "title": "All 'Highlander' Movies And TV Shows In Order - guides.justwatch.com",
+    "summary": "All 'Highlander' Movies And TV Shows In Order guides.justwatch.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 341.6 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "2b574971445bdec95fcb",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 11 Jun 2024 07:00:00 GMT",
+    "captured": "2026-09-06T22:15:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObGZoVk9sWHliSkpNaUVlM3hxR0haa1ZmT0dMc29sYVVNcEFpSnNDU1lxRHBtbklnLVhiS2ZpSmt4OFMxbWRsazM1QzJ5eDZuaTBFWXo4eFVxa3ZiLXl4UVRCS2NPTjZzcWdjT1RNWUlpX2RyakNKbVdtMXFpUE9ZMXR5b0FuS3k5dkJ4SFlDVQ?oc=5",
+    "source": "giantfreakinrobot.com",
+    "title": "Ryan Reynolds Quit On A Highlander Reboot - giantfreakinrobot.com",
+    "summary": "Ryan Reynolds Quit On A Highlander Reboot giantfreakinrobot.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 817.6 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "c0de153426065505f2e7",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 04 Jun 2025 07:00:00 GMT",
+    "captured": "2026-09-06T22:15:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM01JbWkxX3UtOFBXSlo2WWF2WlphWjdXc3ByOEpSbENyZDBOdnVUQzR4dW9jNFRvb2szWW03bkZkNFk0bTNWOUQ4UGFLUy02ME5zLWtrRTQyWlJKbUw3NDBVV1ZOMjcxSzJscnRxT05IM3lHZTRuOXBySmc0ZVpsS3ZsUXVhd3pPSnJkODRfQ0prUDZ4dFQ0ZEphTmUtQ0J4TFRPSW9R0gGrAUFVX3lxTE1OMXhaak5xdEY4VGE0OUlaeVJPVjFRWVNYWm40WDEtUF9GYXFhdEhYNl9LcXdLbVYtbHQ3aWhwdjRWTkh2aXNWRGJIVldZanVXT044SGU0OGFQdElEMGZjb1IwOVh1VkZnUGF5dHJuTFpyZUR2NmtUVWZvUmp3MkJYaEQ3cVhhSVVaQmM5c1lEQVBIVUpoVWpldkJfR0x2cGJWSWFwQmxKX2RNMA?oc=5",
+    "source": "superherohype.com",
+    "title": "Highlander Reboot Movie With Henry Cavill Sets Production Window - superherohype.com",
+    "summary": "Highlander Reboot Movie With Henry Cavill Sets Production Window superherohype.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 459.6 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "a12d0ad0e40d04019717",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 06 Sep 2026 17:00:00 GMT",
+    "captured": "2026-09-06T22:15:43Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlpJMXFHNTQtN2IyUjNDYU9lQTU0dXZzc3hVaHUxWXdIVDhnZjgzY0ZHQjd6MnU1dGgxZkcyOS1Takp1Q3J2VkVFdWNPY3VMbzFEeVJNamNnWW5qWXpLYjBpdC1oTHpSRVltRTFuZkhWRThjbUlhM0FOWVQwMmlrV0FFUklXNU9SMXd0bU55ZmZ3NzhHckNmeQ?oc=5",
+    "source": "glam.com",
+    "title": "What '80s Star Roxanne Hart Looked Like Decades After Her Breakout Role In Highlander - glam.com",
+    "summary": "What '80s Star Roxanne Hart Looked Like Decades After Her Breakout Role In Highlander glam.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 0.2 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "69df7d674b6af0535f1f",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "health",
+    "source_date": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-06T22:15:43Z",
+    "urgency": "immediate",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3V5UWRLNW5oSi1yZFZ0VEdJb3dwbVQ1eUl6OWpzcDF1a1cweWZCOEdxVFhpd3htRHJiODdYcEVmeUZGV2duY0ZlT3N5UGJGZmtad2lQdUFJVHg5MWE4QVFQczZEY2RZamdUZjJxQTNSN3RSVGhaVUVLX2o2WnVRdkhhdFVWTGQwaFltelhmTzl2bjdDZ2haSmlwY3YzX3haeEMtaGxHNi0?oc=5",
+    "source": "Redland City Bulletin",
+    "title": "Highlander star 'rushed to hospital' after collapsing - Redland City Bulletin",
+    "summary": "Highlander star 'rushed to hospital' after collapsing Redland City Bulletin",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: health (hospital)",
+      "source age: 27.6 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
   }
 ]

@@ -52981,5 +52981,130 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "7b0a27a8ca319cd4fcfc",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 13 Jun 2026 07:00:00 GMT",
+    "captured": "2026-09-07T22:57:56Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ3F1SkhZU1pIMTRXbjR3MVdpd0ZhNGJzdDhqS0cxTU85ZnlZa2lkRnJmbHk0MDNQaXMyeWw2RWlYTUxwaHR5Mjh0Y2tWRmFOeGdHMGFLclJNNkphN2JRUkF1aERWa2E2c3VnWWd4NllLYW1rc3AzQ08zcHk4WWFkMm5B?oc=5",
+    "source": "ScreenRant",
+    "title": "Henry Cavill's New Highlander Reboot Gets Exciting Filming Update From Russell Crowe - ScreenRant",
+    "summary": "Henry Cavill's New Highlander Reboot Gets Exciting Filming Update From Russell Crowe ScreenRant",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot, filming)",
+      "also matched: Henry Cavill (100)",
+      "source age: 86.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "4282d8c08c238c69333d",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 07 Sep 2026 14:51:38 GMT",
+    "captured": "2026-09-07T22:57:56Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03SVVVc3R4TzJJeWhJTWJISWc3R2VXVkJkNWFSRkhkODJaRWpNUlNxOUtXUmx0RUZ6cEJNaUF0bi05M1lnMV9MVkgtRjM3TG14YlZBeG93YUxrRHM?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill's 'Highlander' Will Be a Full Circle Moment for 'The Witcher' Star After Meeting Russell Crowe 25 Years Ago - IMDb",
+    "summary": "Henry Cavill's 'Highlander' Will Be a Full Circle Moment for 'The Witcher' Star After Meeting Russell Crowe 25 Years Ago IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.3 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

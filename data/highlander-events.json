@@ -52021,5 +52021,228 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": true,
     "status": "new"
+  },
+  {
+    "id": "ae627eb54a6bd678c16f",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 21 Aug 2025 07:00:00 GMT",
+    "captured": "2026-09-07T07:31:10Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVY1p3R0w3Zlc2ejlWWC1SbGFMVFdmUXhaNDQzcWh6aWdjQ2xEN3QtTEdaZ256ZEx2a3YtUDJQQU5WUHhmMkp0Um5FYl9XOTBodDVnaWFWU3VHbXZxclFRbW95SVpzRUhxVkxlbnRRaXBjYmFiQ1RFTmJR?oc=5",
+    "source": "411Mania.",
+    "title": "Karen Gillan Joins Cast of Highlander Remake Opposite Henry Cavill & Russell Crowe - 411Mania.",
+    "summary": "Karen Gillan Joins Cast of Highlander Remake Opposite Henry Cavill & Russell Crowe 411Mania.",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: remake",
+      "event: highlander_production (remake)",
+      "also matched: Henry Cavill (100)",
+      "source age: 382.0 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "05fcc147f4a2f354a971",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      },
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "health",
+    "source_date": "Sat, 08 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-07T07:31:10Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWEc3Q3hsUWJYUjdESXBjekdRN3ktcEJNUkZUV0xhZVFTUUtQQVNfUkxHQUdVVjg4dEhiNGE5azgweFhWSlJMSl9sQnVhV1hUNGV5RGd6MTdXWjlQQXA3bmN6eE5QR2ZqWmFxNXlJWXEwNnNzY0YxYXBSbzdVenNjTUFmaUFQX1c0Mmc?oc=5",
+    "source": "aol.com",
+    "title": "‘Highlander’ Star Christopher Lambert, 69, Suffers Medical Scare at Pennsylvania Convention: Report - aol.com",
+    "summary": "‘Highlander’ Star Christopher Lambert, 69, Suffers Medical Scare at Pennsylvania Convention: Report aol.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: health (medical)",
+      "also matched: Christopher Lambert (100)",
+      "source age: 30.0 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "aff28f009c62706cef2b",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 27 Mar 2025 16:30:57 GMT",
+    "captured": "2026-09-07T07:31:10Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EdWI4cDNuWER4aE90bjdSZ0pSQnZrdHlnd0lLRGV4NFZVSUNUTDRzU0gyQ3JCdlJPdkJXdHlQV1k2LV9EUTdNSFZGTkJCb3hvY2Vwckg2OTBKVW1tb0J1ZHJnTzlQUFJsODZHMFFWSQ?oc=5",
+    "source": "imdb.com",
+    "title": "Highlander: The Source (2007) - imdb.com",
+    "summary": "Highlander: The Source (2007) imdb.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 528.6 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f7517801423054849168",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 23 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-07T07:31:10Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zVTQxemwxQkh2UWtyQ1pTVkVfdmhMMVlxaThRUTdOUnd2YlV1c0ZPc19FRlA3endWeG1NY290eWpHbWNfTDBQX2RrNEVUc2xvcGVOVHFVTDBCa3gxZVJOc3lzS3AxWlRVeWtKRTZ5dEhoeDhsYXFadA?oc=5",
+    "source": "cbr.com",
+    "title": "10 Fantasy Movies That Make a Perfect Double Feature With Highlander - cbr.com",
+    "summary": "10 Fantasy Movies That Make a Perfect Double Feature With Highlander cbr.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 137.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

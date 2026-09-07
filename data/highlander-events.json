@@ -52633,5 +52633,258 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "a1b55a1b3d871782be86",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 30 Sep 2025 07:00:00 GMT",
+    "captured": "2026-09-07T18:49:50Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFY5NEpodDBqZUgxWHZLVVZramI2SXFvRGcwZmlXTVppLUowU29kTFI3b05LR3B5aDhZTUVqaFlHZFMxX3pQSkgybFJQbExJUVcyZTN2M2JSbkcwaS0xNUJxVWg4bGhpMlZid3FSUHFqamwwU3I3YXpRRU84c0Zad3haSFJnUnF3Vm9PY2VSVVlZV2kzRmh0NG93Q3QxXzljZG9UX05sdzR5dVdfeUlxZ2s0SWNUOWRlU0E?oc=5",
+    "source": "nerdist.com",
+    "title": "Jeremy Irons Joins HIGHLANDER Reboot as Second Antagonist - nerdist.com",
+    "summary": "Jeremy Irons Joins HIGHLANDER Reboot as Second Antagonist nerdist.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 342.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "2eeada0a7356e4fb15ce",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 16 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-07T18:49:50Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3F4OS1XT1g1RUpBTEFmQkVuVnBscVJSSm5CcDNGZEw1eWN5VV9zSjNxMHV5QWtGdGI4LUlIMW1mN3dhcFdqSWVYZTBrN3g0YUlCc3ZXZ25JUks5UnhFdy1EWnJQNWloa3FoQlI0UF9YeWFpaDNud3JyZlZBYnFnLVlvWmdfbS1x?oc=5",
+    "source": "nerdist.com",
+    "title": "HIGHLANDER First Footage Promises That There Can Only Be One - nerdist.com",
+    "summary": "HIGHLANDER First Footage Promises That There Can Only Be One nerdist.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 144.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "6cad0dcc762a2caa0bb1",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 18 Jul 2016 07:00:00 GMT",
+    "captured": "2026-09-07T18:49:50Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YWHFSUWd6NkJ1Nml4My1FSlRhRjgtMG5yVURqVWJPTG1XRU5GcHNSaTVjYnF3a09aNTNub2w3Y1JMdWFSU3NMZklUMERxMTJIVV83bjJxWTJBU2d0NlFDVVhMUVhmSE9uT1E?oc=5",
+    "source": "geeksofdoom.com",
+    "title": "‘Highlander’ Getting A 30th Anniversary Edition Blu-ray Release - geeksofdoom.com",
+    "summary": "‘Highlander’ Getting A 30th Anniversary Edition Blu-ray Release geeksofdoom.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 3703.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "fdbeac40cc442f6fbbc9",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 28 Jan 2026 08:00:00 GMT",
+    "captured": "2026-09-07T18:49:50Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05YThQWkQ1RGI2dk5QeU5fTS02Slg1U0xRU3UwdTBGTEFBRlk2bTZHVFpNcnpCVERGN0JYU3JqSXVUTy1hMFVZVk9mQnp5aVRhOHVNYXM1OGdPOGI5amR6VkRhdHV0SUZzRDJjVV8yckp6U2J4T1Jjb1NtVQ?oc=5",
+    "source": "nerdist.com",
+    "title": "Henry Cavill Shares First HIGHLANDER Reboot Film Images - nerdist.com",
+    "summary": "Henry Cavill Shares First HIGHLANDER Reboot Film Images nerdist.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 222.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "c9cbe8e2411bd637a4be",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 04 Nov 2025 08:00:00 GMT",
+    "captured": "2026-09-07T18:49:50Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDZ2V3pZUUl3S3VuZjJHWVZBazZVNmJXcC00ZEpxM19WeU9QbVhrUk9uUlYwTUk4aDN3RVZzYU9lZHFuMWVteE5jc2J0X3ZvWXZ2SXVjOUt2V1VpTFNocVdycmdBLS00QWxrRWhfcTg3cnl3UkhlMlNhM1dvZjhPMVc5aGcyaFVmb3F1QW5aSFYxUzhnZFN0dnpR?oc=5",
+    "source": "nerdist.com",
+    "title": "HIGHLANDER Lets Russell Crowe Do What GLADIATOR Didn’t - nerdist.com",
+    "summary": "HIGHLANDER Lets Russell Crowe Do What GLADIATOR Didn’t nerdist.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 307.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

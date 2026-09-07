@@ -52886,5 +52886,100 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "9dee657bb3fa13a8bcfd",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 22 Oct 2021 07:00:00 GMT",
+    "captured": "2026-09-07T19:10:14Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXduTXl0N1JKejN1WFhrQWZZalI2bHVCTzNuZjU5WjlwV3JzSmR4R3NPRUJkdHRRbEhJakJpdzhvWEwtc1JlREd6dVEzOWdrYU5HdWtiNjJBbmRnR3dHNEhaZ0hBRzhXd1FmRVFVVThQcnNIb0I1dXJ3XzhpalBSRg?oc=5",
+    "source": "udiscovermusic.com",
+    "title": "Watch Queen at The Movies - Take 2 : Highlander’: Episode 32 Of ‘The Greatest’ Video Series - udiscovermusic.com",
+    "summary": "Watch Queen at The Movies - Take 2 : Highlander’: Episode 32 Of ‘The Greatest’ Video Series udiscovermusic.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 1781.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "e17d2559a8395b4ece3a",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sun, 06 Sep 2026 01:00:00 GMT",
+    "captured": "2026-09-07T19:10:14Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1I3WllKdUE1TmNveVBwZ3NJVVJtUGUzaXNqQkpDUkZPQ0J2M1pGZ1RYb29TN3dmQWZZS0NNYXJHZUVjRDJvTFlXc2NvRjBualBLNUVmTmItQkU4azJlS0pfSG8zRDZmSTZTR1RHdHVMN3NFNExMM3lpTWJONVkyTg?oc=5",
+    "source": "Comic Book Resources",
+    "title": "Henry Cavill's Upcoming 80's Movie Reboot Is Already The Fantasy Event of The Decade - Comic Book Resources",
+    "summary": "Henry Cavill's Upcoming 80's Movie Reboot Is Already The Fantasy Event of The Decade Comic Book Resources",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 1.8 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

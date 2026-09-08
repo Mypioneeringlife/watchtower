@@ -53516,5 +53516,109 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "1faff22deff00b5aa6b6",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 29 Nov 2024 08:00:00 GMT",
+    "captured": "2026-09-08T18:02:34Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1k2Y1pTTGVjUm1wUmNvbWlNZFVGRzFYSG8tRU1GdkFMRG9jVEg5cU1QUktmak9jTEdXMktScV92c1ZoMll2VHhiczhjVEdnSkZ3MFloTndUbFBOdDVmc0ZQbXpiMGVkYk5zYnlqU2FaLU1Qd2pBLXFkRGVBMGowOW1tVGo2OGFidUUydl8zSENvODZE?oc=5",
+    "source": "Bleeding Cool News",
+    "title": "Highlander Reboot Gets New Plot Details from its Director - Bleeding Cool News",
+    "summary": "Highlander Reboot Gets New Plot Details from its Director Bleeding Cool News",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 648.4 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "7935adff673fb47a848f",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 76,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-08T18:02:34Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUENSTkFHb3J1ZUV1VnpwQ1h0bFZ5dnY4ZnpnUnNCRVZPcGR4UF9TNGpFcjNySlp3b3Y5SnU0TGs1dkg1Q19YbXR1X1A2aUhFYnVKQmYyYzRvYXlnX096VWM0czZ2Y3FEbFM4RTlQRVN5Ym1fLTVRdU9hWFMtQlBXY1B5amMtUGpRM3Q3ZE1YSU9Mc3N5SGVyQVdkNVhsXzFTbDlaenJDdUZ1WVlZNE5ST3AwQUd4M3lzOXVtUXdyRHhka3ZM?oc=5",
+    "source": "femalefirst.co.uk",
+    "title": "Christopher Lambert 'rushed to hospital' after collapsing at Steel City Comic-Con - femalefirst.co.uk",
+    "summary": "Christopher Lambert 'rushed to hospital' after collapsing at Steel City Comic-Con femalefirst.co.uk",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: health (hospital)",
+      "source age: 30.5 days"
+    ],
+    "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

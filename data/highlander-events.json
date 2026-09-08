@@ -54455,5 +54455,115 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "8caf2b12b76224dd3abf",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 06 Jul 2026 21:39:48 GMT",
+    "captured": "2026-09-08T22:55:38Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBic0JCOFRnOFp5eWJWcmotMWl2WXQzVldXRkgyb1loenVuUTRnNDRLRzF5QVZvcEUxMEYzVTA0amhhN1RVNHRyY1pVeXN4MG8?oc=5",
+    "source": "玩具人 TOY PEOPLE",
+    "title": "Amazon Secures \"Pacific Rim\" Prequel, Henry Cavill's \"Highlander\" Reboot; \"Pacific Rim 3\" Also Eyed - 玩具人 TOY PEOPLE",
+    "summary": "Amazon Secures \"Pacific Rim\" Prequel, Henry Cavill's \"Highlander\" Reboot; \"Pacific Rim 3\" Also Eyed 玩具人 TOY PEOPLE",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 64.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "9abff1341c6f5e15a887",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 01 Jul 2024 07:00:00 GMT",
+    "captured": "2026-09-08T22:55:38Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWjBpenJIMkhWVThpREhodU9jLVhPRk45dGp1V054NmVBWWRVMWNNV1BkcDBxNjVlVmNUeHl1RDFrMEpMbmJqMTFsM2FwS3FYRFlKZlg1c1pfcFNiOVpCeks5X2ZHbW9nN0FUYXNWN1R3VzZqOWdvOVZ1TTc4T25ESTF4WXZzWElpYjZVWmhZSnZIX2xNdlk1WWFBZG50dVhmdThrM1ZJcURkUnBUeGxsRk1JeWpfYjg?oc=5",
+    "source": "hollywoodreporter.com",
+    "title": "Chad Stahelski’s 87Eleven to Remake Bollywood Action Thriller ‘Kill’ for Lionsgate - hollywoodreporter.com",
+    "summary": "Chad Stahelski’s 87Eleven to Remake Bollywood Action Thriller ‘Kill’ for Lionsgate hollywoodreporter.com",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "event: highlander_production (remake)",
+      "source age: 799.7 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

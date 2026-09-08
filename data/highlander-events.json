@@ -53106,5 +53106,300 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "380e09f75b3c52522bb3",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 12 Mar 2026 05:53:23 GMT",
+    "captured": "2026-09-08T07:23:52Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jUHg1WXZFM01Zb01lckhQY1lzUjJXN1VyNm4zaTVUMU5HQ3ZIZFdUOWRaRGtoYmpBR204bm94UGlka3luZjNLVHBXN1ZsejUwWVhGcFNB?oc=5",
+    "source": "IMDb",
+    "title": "“I didn’t do it for the action”: Henry Cavill Must Stick To Christopher Lambert’s Reason For Doing Highlander - IMDb",
+    "summary": "“I didn’t do it for the action”: Henry Cavill Must Stick To Christopher Lambert’s Reason For Doing Highlander IMDb",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Henry Cavill (74)",
+      "also matched: Highlander (70)",
+      "source age: 180.1 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "7dfe6de18c302f5be181",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 26 Jun 2026 07:00:00 GMT",
+    "captured": "2026-09-08T07:23:52Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMS13TDZCTWl0UFRQSk5ScFd6OEVmRnF6NE5Tcm1ldjJsLWVSRnRfRVl1aUplV0xyMExLdi1kS01Sdml4RDUwZFVZaU85T0xwMm5nd29SdzFnYXQ3bTFiRmFNNW8wbzhNX3lyd1E5TjRGUG03TnFob2MwZU5qcEd5QXgzNTFPbERPbHN5UFpqd2dNZDgtVmpWRU4tSHpkYVpqeFlUM2p2aUxqN0NsOTYwZFhrcEhyWG5kZ0dvQVYyaDFkb1B2YWxxTWcweGlndXY1cWlIZmJ3bG9jaTJuOHhFUm5Zbw?oc=5",
+    "source": "entertainment-focus.com",
+    "title": "Review: 'Highlander' receives the ultimate celebration with 'The Collector’s Edition' 4K UHD and Blu-ray boxset - entertainment-focus.com",
+    "summary": "Review: 'Highlander' receives the ultimate celebration with 'The Collector’s Edition' 4K UHD and Blu-ray boxset entertainment-focus.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 74.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "c06649d6672d674366e7",
+    "entity_id": "adrian_paul",
+    "entity": "Adrian Paul",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "adrian_paul",
+        "name": "Adrian Paul",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Duncan MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series",
+          "Highlander: Endgame",
+          "Highlander: The Source"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Duncan MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander: The Series",
+      "Highlander: Endgame",
+      "Highlander: The Source"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 27 Jan 2020 08:00:00 GMT",
+    "captured": "2026-09-08T07:23:52Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVTc3bGQwRkUtY25DV1hQZVRESVA5dlQxWm9IdkRYQ2lMbHBDdFZySGdHd0YxQVBJN3NWTnZYTjVseEFjejBDWHd3UmRxcXM2SjNPRF9lcWRWcnBKc2tqWEdxaW1xMVVKUG1taDNXZ1hFeVBZcVdyZXAycWl4X2l3VEtIQ1I2Qm1FQ0JZSFlrekN2NGFOZ0gyUDlTdw?oc=5",
+    "source": "scifipulse.net",
+    "title": "Highlander Star Adrian Paul, bids farewell to his friend Stan Kirsch - scifipulse.net",
+    "summary": "Highlander Star Adrian Paul, bids farewell to his friend Stan Kirsch scifipulse.net",
+    "evidence": [
+      "matched entity: Adrian Paul",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 2416.0 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ac41663bd33bd3b891f1",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 07 Mar 2019 08:00:00 GMT",
+    "captured": "2026-09-08T07:23:52Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYnUyNUlpbFZWT2U5X2ctc1Z0YVdqa2xwYnVMQmNsamg4SmJZTW9BSWdtaC02WUdsLXJBZzNGVmowdFBuTFBRYkhRVnJHMDRPMjJNQ2dXeG95Z3RMM0JBMjBkM0RSTnl6OGhndi1OSWtRTG84OUJXTE5NZGhsMmtvcHo3N3ZkRmFsbElxcQ?oc=5",
+    "source": "scifipulse.net",
+    "title": "Retro Review: Highlander The Series: Season 2 – ‘The Watchers’ - scifipulse.net",
+    "summary": "Retro Review: Highlander The Series: Season 2 – ‘The Watchers’ scifipulse.net",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 2742.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "23709b8a24eaacf3b5de",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 15 Jan 2018 08:00:00 GMT",
+    "captured": "2026-09-08T07:23:52Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0YVNBSmctc2NsTEVibDhtQzBjWHNPam83bWFTelVDVGtSUXdTOVREWHFuUEpKWEpxT0p5NmI5azdzNW1ESTZ6QzNfclpJRVVVb0N6YlFFTElGcW8zbmR6X204MjVKQnhOczhDUkhVS29nbHNqU2c?oc=5",
+    "source": "scifipulse.net",
+    "title": "“Highlander” – Relaunch, Reboot, or Reimagine? - scifipulse.net",
+    "summary": "“Highlander” – Relaunch, Reboot, or Reimagine? scifipulse.net",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 3158.0 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

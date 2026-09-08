@@ -53401,5 +53401,120 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "73cedef8f30c3488cbbe",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      },
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-08T13:01:26Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUHRmZnphZXV5LVdqLUNXRzlRYmI3RjNSSl9OMC1zT0RLbUJFelBsbHZIbnVXOU9LN0VNZVMyMm9QVlRHdkZnZVZsUDJlcGw5cnhBMHI4VFZOUHRZTk13Ujh5WFBBdzNKcXJuUXRHM2hVenBCaUpOZmg2TVhqcUVvcFZuUWJ2Mmc2WFp1cndfWQ?oc=5",
+    "source": "aol.com",
+    "title": "‘Highlander’ star Christopher Lambert leaves Pittsburgh fan convention early after health scare - aol.com",
+    "summary": "‘Highlander’ star Christopher Lambert leaves Pittsburgh fan convention early after health scare aol.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: health (health)",
+      "also matched: Christopher Lambert (100)",
+      "source age: 30.3 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "bb449a807e4c0aef8b2c",
+    "entity_id": "gregory_widen",
+    "entity": "Gregory Widen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "gregory_widen",
+        "name": "Gregory Widen",
+        "kind": "person",
+        "roles": [
+          "creator",
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 79,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "creator",
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 16 Jul 2026 07:00:00 GMT",
+    "captured": "2026-09-08T13:01:26Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ09icXRveWhPWHBiWHlMdWlSSmRYTnhOOHVIQVdQRW56bFdjWHVDTmV3QjlLZ3RtOHNjSms0SWtMQ2ZibUZISDZBN0RLVkF5RmtlZWVvRjltMzNveS1OdFNUOEpkRkhiVEFMWVBJN09GMGpaV2NadTJORWJjcWZORmdTcHVRUlljZ1hmS2l5YkNyLWYzaDJIbXI2ZGI4c3VTdVN5SzFrNjBUNnBCaXpFVG1WellMUDVleFdJY0UyR2taX2o3T1YyVQ?oc=5",
+    "source": "dailydead.com",
+    "title": "\"Some Secrets Were Never Meant to Surface\" - Exclusive Preview of THE RISING and Q&A with Gregory Widen - dailydead.com",
+    "summary": "\"Some Secrets Were Never Meant to Surface\" - Exclusive Preview of THE RISING and Q&A with Gregory Widen dailydead.com",
+    "evidence": [
+      "matched entity: Gregory Widen",
+      "event: death (dead)",
+      "source age: 54.3 days"
+    ],
+    "score": 79,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

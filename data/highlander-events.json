@@ -55013,5 +55013,169 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "15e333fdd4e73c48ade1",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 76,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 16 Aug 2026 23:33:40 GMT",
+    "captured": "2026-09-09T18:37:31Z",
+    "urgency": "normal",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdzRET1VIZXhMejNETnNWNGJXTzhNODdaQlJsd0VlVlNPOXFYOWh1c1BLMXNtU2M0S1JNTUV2NFdXbndyeVd4eEVFS0xud0l4VVlKTXdKQnl5RTVPbmhTUzJadkY1QXJqcFptSXhzZnZPS1dDbkdkemoxZWZfWDNFQ1FEb2FZem1yaU5nZE9ZSHBKQWlnUFNQVkRlcG56WHJvTTZrdzU1TVpGbWlXVTRlWXJpUjY0ZnRTN2VoX1hoc0VXb3NRd3VxVTdmZnprQm_SAeMBQVVfeXFMTnY4MGNvcGlNV1d4d1BsX3RXYjNPU1JZcUF2VzdaZlFmOW5TMm95X0t5ZnBCVWRFN2U0QTAxX1lqN3dhc2Nnck9zODV1cXI5Yk5PNWFZX2syekJvanhzc3hERlFDU3doY3RCa0diZnNTbTBqQUV1V0t2SFVyYW1ydjkzQWFqVDVoYWVkWmVfMTdLRWV4UExpb1poRXNTbTlRU002ZVVpZVJ3cE1ISm9zYkN6MGM3ZXBDeUx2RV85dUhPVndrN2o4SjIwVk1uaWVWMGpIOEM3Q3hwSkFMUTRqWmxUQjg?oc=5",
+    "source": "NJ.com",
+    "title": "Christopher Lambert, 68, receives sweet message from co-star following his hospitalization - NJ.com",
+    "summary": "Christopher Lambert, 68, receives sweet message from co-star following his hospitalization NJ.com",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: health (hospital)",
+      "source age: 23.8 days"
+    ],
+    "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "6ca46549e56e6107e557",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 01 Jul 2026 07:00:00 GMT",
+    "captured": "2026-09-09T18:37:31Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IZDZsNTlFZE1obDI4VWJuc1dYaWwzSkZHRDFHZVZlX25hZ2hiOEQ5bGVQT3VKZ2RFMWZUM290WlRNWWpwem5GaHRGYy1WTjJKTUxfaTFaWDFYTUYtX1BCazd4V0laeXJoazdpUDlvRExEdGRnbk1iR21B?oc=5",
+    "source": "scifinow.co.uk",
+    "title": "Win a Highlander prize bundle! - scifinow.co.uk",
+    "summary": "Win a Highlander prize bundle! scifinow.co.uk",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 70.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "8b4e8107e9346e8c0200",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 08 Aug 2025 07:00:00 GMT",
+    "captured": "2026-09-09T18:37:31Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3lTdWVlQVFxUk5NakprUUo3ZHBqcjI2cGhEdlFkWWs0U0V5b3lfTUhKUDUzcVBDSi0yRE13NFJLN1RUTmprVnBuemtpamJkUDN3b0FEUEt5OTVYNDZHT0MxRTNNSTBHODVCSWlQYXZ3SVp2OGlNVVFnMFFlUlZKQk52LXZEdEJ2aWFsMXNaSWVvNVJ6S1hlamc1ekJKYXpkdko5dzBkNE9ZWDRvRnJidTJPaDY3cVVVNXR0WXZQc2xfU3U0ckE?oc=5",
+    "source": "theplaylist.net",
+    "title": "Dave Bautista Lands Villain Role In Chad Stahelski's 'Highlander,' Will Also Star In 'Road House 2' - theplaylist.net",
+    "summary": "Dave Bautista Lands Villain Role In Chad Stahelski's 'Highlander,' Will Also Star In 'Road House 2' theplaylist.net",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 397.5 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

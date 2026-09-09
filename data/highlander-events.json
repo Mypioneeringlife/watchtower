@@ -54565,5 +54565,181 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "eaa9716f8872e07a6560",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 28 Jan 2026 08:00:00 GMT",
+    "captured": "2026-09-09T07:32:21Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQalJzX05PMDY0NWphY2hRRG80ajFZYUNXUk01Z0pteFBObFZqc21nblpwdmxBMnFBcFpTeV9ZZGV2Qk92SThDN2hTUUdPWXp3Zlo2SnR3RnVfQ0pLSnYwQjVYTzl2eGxCbExwZFpUd0xrOXp4WGxMdnNSNE5nNWlTRkZSRWd2TlFwLVQ1VmdkeGMteHloVndHZzNaUUd3d2k5cVV4dw?oc=5",
+    "source": "Yahoo",
+    "title": "Highlander Reboot First Look Photos: See Henry Cavill As Connor MacLeod - Yahoo",
+    "summary": "Highlander Reboot First Look Photos: See Henry Cavill As Connor MacLeod Yahoo",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Connor MacLeod, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 224.0 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "9896a1a38f4263f2a835",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      },
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-09T07:32:21Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1ZkMDVRdXM3a1ZoVlJtWnNnUVR2aTJnWTRwQUVWSkxfZWpfSmVHQmJEMVd3ZWNhMlJGV3VmVGNhS3VQN3pjakpGb2syODhMVGNWTk5XZHczc2psM3NaTWNSWHkxVlJhVUVIOVBDVVYxZmR4VmZQc2FYcnFwaERUTjY0ak9DNHFNR2NZVlBEWGxmNUdmZHY0N01lR0hlZ1Q3VDljS1lVTHVBb0hfTTNtVFRTUjUwMW9ualE?oc=5",
+    "source": "Yahoo",
+    "title": "'Highlander' star Christopher Lambert hospitalized after collapsing at Steel City Con - Yahoo",
+    "summary": "'Highlander' star Christopher Lambert hospitalized after collapsing at Steel City Con Yahoo",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: health (hospital)",
+      "also matched: Christopher Lambert (100)",
+      "source age: 31.0 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "a97238cdb53a753fce7d",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 08 Jul 2016 07:00:00 GMT",
+    "captured": "2026-09-09T07:32:21Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX0FJNXRpTkpxeTlEemprcTFfUDJTTkg1aC1Wa0Q0SVJBOTRaSFpzeHZtNllVUi1mVU9jM3MwQ3pyU3J2Z3RoZUY5djlsNkc1aWpjbUtsWnZWazZDbUgwWmxZWDdoUmRZeFVNbUNzQVVnZ1JCeldZTEJzWXZZX2RpVFNuOW9qWkJJNnEyWXhyQklGbXdCU2w5b1NYRnl6WnRCMFpMcGVnQ2hkdy00anUyRGFxUQ?oc=5",
+    "source": "The Irish News",
+    "title": "Revisit a classic: Highlander 30th anniversary edition - The Irish News",
+    "summary": "Revisit a classic: Highlander 30th anniversary edition The Irish News",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 3715.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

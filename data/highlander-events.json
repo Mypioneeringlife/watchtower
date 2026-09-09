@@ -54741,5 +54741,100 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "638c986b85f90bc2ccb2",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 16 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-09T13:07:13Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XUHlzWUVxOF9OWGpzaDloVUx2RUUzdGhHOUpvWGdTVlhCb3gyZC1TQWljemdXTUdFZFpTWWl6YkZuU3I0UlBMNGxKV0c1RVlhOVNVYUl0Rllfa0lMXzNHSjNIckRScm9kYVVUOURtd1ctbVBsQ0dyRg?oc=5",
+    "source": "sea.ign.com",
+    "title": "First Highlander Footage - sea.ign.com",
+    "summary": "First Highlander Footage sea.ign.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 146.3 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ef6342be5a7fc1c0943d",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 09 Sep 2026 11:39:24 GMT",
+    "captured": "2026-09-09T13:07:13Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mdFJoOTZfSnhabExMWkRNN09mVVk2ZWFoN0hoS25UbHZ2WmtoTUVKS2lUQmtaR20xV0ZMNzJrSHBTZWYwYlNkZ3pqOGtkczdFR2t6TmREVmJ3RjJTQ2VsMXdDRXRKdw?oc=5",
+    "source": "New Jersey 101.5",
+    "title": "Delicious Orchards confirms filming; Henry Cavill joins Kevin Hart's Netflix film - New Jersey 101.5",
+    "summary": "Delicious Orchards confirms filming; Henry Cavill joins Kevin Hart's Netflix film New Jersey 101.5",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: filming",
+      "event: highlander_production (filming)",
+      "source age: 0.1 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

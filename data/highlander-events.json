@@ -54836,5 +54836,182 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "38f7ad978b3f519b77fa",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 01 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-09T17:56:19Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOajhWTG5xM2tlSTVQRlhqYzNZS1VzZ29yTW1venhzTER5WE43ZjFXZm15MEp4YUp3dkxhNGtROHR2Z1VmZ0lxaXd5cTBCUU9Md1NJeXN2YktsdnRUcDh6M3E5b3hMS25JZjF6Ul9QY2FSSmIyOWR5N2ZOTkJMM3dIX1FCNVkybTQ1b1Z2ZGY2ZUJSejhVTU9xZDBIaWh4Q3NJaTNhd3ZR?oc=5",
+    "source": "Yahoo",
+    "title": "Henry Cavill's Highlander Reboot From John Wick Director 'Definitely One for the Fans,' Star Teases 'Insane' Fight Scenes - Yahoo",
+    "summary": "Henry Cavill's Highlander Reboot From John Wick Director 'Definitely One for the Fans,' Star Teases 'Insane' Fight Scenes Yahoo",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 161.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f896f96980bb5ee4c554",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      },
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-09T17:56:19Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlBMcHJuU0EwbDd4b0xLNXVvZnlQcFFRNUhQVG9uQ0dvQnVMNWg5WHg3TUs1dmgyb2phZGxWTDhHaTA3Y245ajBkX09BREpwUnhiNTdRb2hSQjEyRHRaUEJIRGFHQ1k0YmQ0UXBBOF80MzdpYlkzc1BJeUEzXzZIX0x5ckgyYXplUTNCWnlqUThmUUp1RHBQNm5WbTlhM0hrR2N4S1RMZnpGTS0tSENtNTV30gG3AUFVX3lxTE9vY2pNR3VUQ1BKbzB3dGRxdGp2VE0wcExMdWh5bTI5SENRZzZJM0Q3SWdqa3FOclhyaDcwVm0wOTEyWWF4d1o2Z1VBZjIyRWxVYTZldmFaTmJYeFNieXZkS0tzS29ZWTZMNmtjRlBXajlnOUVEbkVybkhscFlIcnhGTFhqeDBHZmFndUVUZWs4NERjTEM1bFd3Ri10bUpyZUlMV2FPa3NvUHdGLXF2aUpHTi1FSTRuMA?oc=5",
+    "source": "foxnews.com",
+    "title": "'Highlander' star Christopher Lambert hospitalized after collapsing at Steel City Con - foxnews.com",
+    "summary": "'Highlander' star Christopher Lambert hospitalized after collapsing at Steel City Con foxnews.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: health (hospital)",
+      "also matched: Christopher Lambert (100)",
+      "source age: 31.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "15231ee6694c8604c15b",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 04 May 2012 07:00:00 GMT",
+    "captured": "2026-09-09T17:56:19Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdWloRUl0X1ljekt3b3BINkNiZGIzMVJ5N2JTMXlRRl9hQmhpeVdsejJ0MmNqVUZZS2hXUXlKQjZfdzJMd1hENDJRWGtLNWZDOEdwWklfVnBJVGl5MGllRWVRLVh1a1RxTGVDYTFUZ29QN2twWFl5Y282S3ZoZVYwRDc1cHFaYU1iZkpR?oc=5",
+    "source": "ign.com",
+    "title": "Highlander II: The Quickening Blu-ray Review - ign.com",
+    "summary": "Highlander II: The Quickening Blu-ray Review ign.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Quickening",
+      "source age: 5241.5 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

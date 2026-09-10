@@ -56050,5 +56050,54 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "eb780fff62d552131a3a",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 25 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-10T22:44:31Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVC0tb05ZQnYxQlBiZ3EtRVcxZGpUcDIwYWt6SzRZd2ZUUWE5OVhHbUFIcXIzOEY0NXZUajJrZzJlZzdzQWJ2NUxIakNldzNjUndSZ1dkb1VTLTFIdmlOV0JTTEMwZjhWT1JzWldld0RLT2pKOEpRMDJOQkVHVzhGRkU0WlNQUEJNWHlOclQydDU1SnFIbkxUYUt1R0VDOGF0RmxkZ3dDWVpjbXhZ?oc=5",
+    "source": "The Herald",
+    "title": "Picture exclusive: Highlander reboot filming gets underway in Glencoe - The Herald",
+    "summary": "Picture exclusive: Highlander reboot filming gets underway in Glencoe The Herald",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot, filming)",
+      "source age: 138.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

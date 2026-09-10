@@ -56003,5 +56003,52 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": true,
     "status": "new"
+  },
+  {
+    "id": "6a772d079a944d8001ec",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 16 Sep 2025 22:53:01 GMT",
+    "captured": "2026-09-10T18:29:24Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVTl5WHR4cjdkWEtPS3Jmdl9Uc1ZsSGUza0FzMlVnSUhlQi01UGstWFE2eFlVM1l0c2xYSGdfTWZhVFI3Q3haN19KcWdTSmE4UVpDQ2dPSnFpUGpaTk0zdGNWZEpxeWZ4TzBRQzVWU25OUmRlYlVweFNQUVBYWUtoTzRURlNLQTlETmc?oc=5",
+    "source": "ranker.com",
+    "title": "The Best 'Highlander' Movies & Shows, Ranked - ranker.com",
+    "summary": "The Best 'Highlander' Movies & Shows, Ranked ranker.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 358.8 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

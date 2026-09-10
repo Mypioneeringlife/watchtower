@@ -55940,5 +55940,68 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "112b2c9a225fd9446149",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 98,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 10 Sep 2026 13:43:16 GMT",
+    "captured": "2026-09-10T17:49:01Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkM5TkU5cjAtQWJQdkpNUjlBLUxBYTZJVnhoZG9fOFN5MS1TU2xvNWhwbUU1SUZ2cmVzeW9ZSTF6azFDR2ZLTFhyUnBBTmFRQnZ4OE1LdzBXdUpwdm5faVZ6Q3pFZmJMeWs4VWp3Uk9HZ0pTaDVJcEk1TTJOc3U2dTF3?oc=5",
+    "source": "Cosmic Book News",
+    "title": "Henry Cavill Wraps Highlander, Now Filming Netflix Spy Comedy With Kevin Hart - Cosmic Book News",
+    "summary": "Henry Cavill Wraps Highlander, Now Filming Netflix Spy Comedy With Kevin Hart Cosmic Book News",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, filming",
+      "event: highlander_production (filming)",
+      "also matched: Highlander (98)",
+      "source age: 0.2 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
   }
 ]

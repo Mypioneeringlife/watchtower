@@ -55751,5 +55751,52 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "43df97460d0589916e09",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 16 Aug 2026 16:32:53 GMT",
+    "captured": "2026-09-10T07:28:59Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT2hzR3NhNHY4Y1loazRjYWQweldNZXpoVmM4YkpRbGd5QjdERklUM1h5OXRVcE9tRWdmOFBoamRKdWg0a1EtZ2xvazdzMmVOOC1fdDZjWTItZG00X3FsMFB2M0xlbzZsYW1oMWUxZDZ3a01VUUE1SnF2RU1VNlM0RnItUXdNZGJrYmRkeE9IcXhXZGpvZ3l2a0k5VG42eXFwTnpDMVdWTElxWHI0M1RCSUh5WDZfaGNfemU0WWZB?oc=5",
+    "source": "moviewalks.com",
+    "title": "Where was Highlander filmed? From Eilean Donan Castle to Hong Kong's Peel Street - moviewalks.com",
+    "summary": "Where was Highlander filmed? From Eilean Donan Castle to Hong Kong's Peel Street moviewalks.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 24.6 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

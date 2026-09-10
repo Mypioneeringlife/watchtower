@@ -55798,5 +55798,147 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "3471945d2181c7c3879b",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 01 Oct 2025 07:00:00 GMT",
+    "captured": "2026-09-10T13:05:00Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiVFp4TzBpNDRqcXNNTXJUSFNuYlNPYkZycU92YWtkaGVpWDBPMVdNUHdfQ1ZZMXZhT0RfaUxZZjdwLWFQUWlpYXduajktSGp0a1d1cTE0Wm1QQkVFUWZJMzEtcmZ3eGRPNXB1ZmNn?oc=5",
+    "source": "cosmicbook.news",
+    "title": "Jeremy Irons Joins Henry Cavill In ‘Highlander’ as Leader of The Watchers - cosmicbook.news",
+    "summary": "Jeremy Irons Joins Henry Cavill In ‘Highlander’ as Leader of The Watchers cosmicbook.news",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 344.3 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "044d6b70b338680adebd",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "adrian_paul",
+        "name": "Adrian Paul",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Duncan MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series",
+          "Highlander: Endgame",
+          "Highlander: The Source"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 30 Aug 2023 07:00:00 GMT",
+    "captured": "2026-09-10T13:05:00Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR0FGQWVwaG5Ocmx1ZmFLRzhneTJVMUZ2cEJKNW5sbVZ0QUVhZVFHWGUyYlFVR3FKZTZFMXNlQ0x3blJ0MGdIQXREa1JqR2tCMXVxcHkyS2NXVHFlbDZueHVPd0l1bzlrbDl5Z282NndGcllGTi1fdTQ0dm13RzRGTnZsMm9UeW5abEkyeWdPazdvdw?oc=5",
+    "source": "cosmicbook.news",
+    "title": "Henry Cavill The Highlander Reboot To Borrow From Adrian Paul TV Series - cosmicbook.news",
+    "summary": "Henry Cavill The Highlander Reboot To Borrow From Adrian Paul TV Series cosmicbook.news",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Adrian Paul (100)",
+      "also matched: Henry Cavill (100)",
+      "source age: 1107.3 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

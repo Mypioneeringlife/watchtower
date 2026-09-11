@@ -56241,5 +56241,345 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "cd67cbe8991d8222881d",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 01 Sep 2023 07:00:00 GMT",
+    "captured": "2026-09-11T12:59:06Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOXM1aS1UU1Y1aGJzLWdaenVzQ1pVNWpvTXdQY2J6WThCVGRQT3luN1NyVVh4Y191eXNDbFVqWHhBZjh3ZG1QRGdrcXV2QTBocU1LUm9DeFZLVHBSX3I2NGNmR3JSZEdIUXhmbC1qWlVxbUpKakMyYklTTjRyMUUyWG1DMGUzWE43TGcwbngwRnp2LTJWb08wY2RqMjVZYW4zc1ZWMW9CRUVFWWpmX3NaeGdDdW5hQ3ZWZ2NYM0p5SEpJV1I0RnpNQlNXb1NCanE3XzdXZXJQd3BwbGp3SXBHNlZUdmtuSUY2?oc=5",
+    "source": "Netflix Junkie",
+    "title": "With Henry Cavill Taking the Lead in ‘Highlander’ Reboot, ‘John Wick’ Director Hopes to Launch a Movie Franchise - Netflix Junkie",
+    "summary": "With Henry Cavill Taking the Lead in ‘Highlander’ Reboot, ‘John Wick’ Director Hopes to Launch a Movie Franchise Netflix Junkie",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 1106.2 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "a54e95fef3015d3d11e7",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 01 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-11T12:59:06Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTUdaTVFZUXpPbGRqNGgzUHJyTFBtNXFIbWJWTGsxT3NETE5BRU4wcFZrcXFrWlg4THM0NXBMOUxWNnpRRHNOSklGaHZwdHFLTTcwbEdidjFlNGxPbTJncTNYM2lSdU51aEZNSVFhUmN5Ynp1ZWU3Y1RYcFd3Wk9yOUZ2dXMzT1ZQWFZrMEJiaHlNdW9Rb3Rz?oc=5",
+    "source": "deadline.com",
+    "title": "Siobhán Cullen Talks ‘Highlander’ Reboot & Putting Spotlight On “Veil Of Silence” Around Pregnancy Loss In BBC’s ‘Babies’ - deadline.com",
+    "summary": "Siobhán Cullen Talks ‘Highlander’ Reboot & Putting Spotlight On “Veil Of Silence” Around Pregnancy Loss In BBC’s ‘Babies’ deadline.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: death (dead)",
+      "source age: 163.2 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "0a83b47202e4442c2069",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 76,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 16 Aug 2026 23:33:40 GMT",
+    "captured": "2026-09-11T12:59:06Z",
+    "urgency": "normal",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdzRET1VIZXhMejNETnNWNGJXTzhNODdaQlJsd0VlVlNPOXFYOWh1c1BLMXNtU2M0S1JNTUV2NFdXbndyeVd4eEVFS0xud0l4VVlKTXdKQnl5RTVPbmhTUzJadkY1QXJqcFptSXhzZnZPS1dDbkdkemoxZWZfWDNFQ1FEb2FZem1yaU5nZE9ZSHBKQWlnUFNQVkRlcG56WHJvTTZrdzU1TVpGbWlXVTRlWXJpUjY0ZnRTN2VoX1hoc0VXb3NRd3VxVTdmZnprQm_SAeMBQVVfeXFMTnY4MGNvcGlNV1d4d1BsX3RXYjNPU1JZcUF2VzdaZlFmOW5TMm95X0t5ZnBCVWRFN2U0QTAxX1lqN3dhc2Nnck9zODV1cXI5Yk5PNWFZX2syekJvanhzc3hERlFDU3doY3RCa0diZnNTbTBqQUV1V0t2SFVyYW1ydjkzQWFqVDVoYWVkWmVfMTdLRWV4UExpb1poRXNTbTlRU002ZVVpZVJ3cE1ISm9zYkN6MGM3ZXBDeUx2RV85dUhPVndrN2o4SjIwVk1uaWVWMGpIOEM3Q3hwSkFMUTRqWmxUQjg?oc=5",
+    "source": "nj.com",
+    "title": "Christopher Lambert, 68, receives sweet message from co-star following his hospitalization - nj.com",
+    "summary": "Christopher Lambert, 68, receives sweet message from co-star following his hospitalization nj.com",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: health (hospital)",
+      "source age: 25.6 days"
+    ],
+    "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "a583e142d06a4f4dcf82",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 15 Sep 2025 07:00:00 GMT",
+    "captured": "2026-09-11T12:59:06Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYU5aOXg5RGpFXzlkQmpVLTRnU3VaZTlzWE5BTVdhR1ZPMDdrcEtMTi1oRWcxOS0zVHNndkItc1JOdkdEUlVvSjZqVlRNUnVFLXdnNkt5eGx1RVlSaUpWSUwzeWxQRWx0M0VUY1l4c1Q1UmoxTUI2X1FLdGUyTm5VSFZQai1LenMyQ0sweG9tTmprcVRJTWRZVHVNMFBISURlanF2akhtNkcwTjZoOXZUelcwTm1sdGlwSzB3NkxkYWlJUUxtRFY3QVF4eGp4d2ZPN0ktQ3RUdkk1N2c?oc=5",
+    "source": "IGN India",
+    "title": "Highlander: Amazon MGM Studios Reboot Starring Henry Cavill Reportedly Hit With a Filming Delay - IGN India",
+    "summary": "Highlander: Amazon MGM Studios Reboot Starring Henry Cavill Reportedly Hit With a Filming Delay IGN India",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot, Amazon MGM",
+      "event: highlander_production (reboot, filming)",
+      "also matched: Henry Cavill (100)",
+      "source age: 361.2 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "31e4453af679310839ee",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 98,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 10 Sep 2026 13:43:16 GMT",
+    "captured": "2026-09-11T12:59:06Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkM5TkU5cjAtQWJQdkpNUjlBLUxBYTZJVnhoZG9fOFN5MS1TU2xvNWhwbUU1SUZ2cmVzeW9ZSTF6azFDR2ZLTFhyUnBBTmFRQnZ4OE1LdzBXdUpwdm5faVZ6Q3pFZmJMeWs4VWp3Uk9HZ0pTaDVJcEk1TTJOc3U2dTF3?oc=5",
+    "source": "cosmicbook.news",
+    "title": "Henry Cavill Wraps Highlander, Now Filming Netflix Spy Comedy With Kevin Hart - cosmicbook.news",
+    "summary": "Henry Cavill Wraps Highlander, Now Filming Netflix Spy Comedy With Kevin Hart cosmicbook.news",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, filming",
+      "event: highlander_production (filming)",
+      "also matched: Highlander (98)",
+      "source age: 1.0 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "39c1c38ccd8d6e70f85f",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 60,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "new_project",
+    "source_date": "Fri, 11 Sep 2026 10:59:03 GMT",
+    "captured": "2026-09-11T12:59:06Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmF5Szd4SkFxOTBDOUE3dTlxd0Y4TV96MzFxWkxGX3QzTDhlNlVlNmpLRjN0UTlhbUh5N3B2Nl9YWERwWXowdmV1c01yYm5ZU2M4Y3JQc2x6X1p2TWwtSHpraGg1M3JHb2ZQQ2RwcmZkMFg5cDZnRHpXelA3aVg0TFZUbFR6NGR6WjNLREJobi1GTDJXQUh2WWZMdFBRTkZDaFlTdnRONVI?oc=5",
+    "source": "Cosmopolitan",
+    "title": "Missing The Gentlemen? Guy Ritchie's 'impressive' thriller starring Henry Cavill will fill the void - Cosmopolitan",
+    "summary": "Missing The Gentlemen? Guy Ritchie's 'impressive' thriller starring Henry Cavill will fill the void Cosmopolitan",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: new_project (starring)",
+      "source age: 0.1 days"
+    ],
+    "score": 60,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

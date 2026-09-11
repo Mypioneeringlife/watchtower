@@ -56738,5 +56738,146 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "65a0dffdad63e0047360",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 20 Jun 2026 07:43:46 GMT",
+    "captured": "2026-09-11T18:34:19Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DTUtZQ2p0eFNFdi1iYmFXZzgydFhvYVBJZkFrVWtYTkhyMFYxcmpWeG03aFU3TU9vTTJQbERBVk02OGV1ZHpaWDl4aHpIVi1Wd0F3ajFZLWhSUmI0V1AwbFpkdmRJZUlYZEZNR2UyRQ?oc=5",
+    "source": "IMDb",
+    "title": "Highlander (1992) - IMDb",
+    "summary": "Highlander (1992) IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 83.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "20da26fd444123cae410",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 02 Feb 2024 08:00:00 GMT",
+    "captured": "2026-09-11T18:34:19Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDZZTUxRZFdOREtKU3FzRmZlQ1hMekJfeDRwY1pEUWtKV0lEWnBDQnk1cHJJQ1YwTGR2LV9ZZjdDdjhSLWUzM3FlTXBXZ2lMWDlpdmM3dWdJZ0ZGM1pDRlF6b0kxak1kWkttQU9XaDdpdGxEQWV2WGc2d05JbUhubG9jOXl2dG9Gc24tVVFR?oc=5",
+    "source": "yahoo.com",
+    "title": "Highlander (1992) Season 4 Streaming: Watch & Stream Online via Peacock - yahoo.com",
+    "summary": "Highlander (1992) Season 4 Streaming: Watch & Stream Online via Peacock yahoo.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 952.4 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f10176f8fcfce0efc5c1",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 23 Dec 2020 08:00:00 GMT",
+    "captured": "2026-09-11T18:34:19Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SU1QwNjBOUEQ3cWtsMjNIRk82UUxzTllWU1RpaVRyZFlWMGRhek1TMVl1OVljMUgwRkcyYzg2dkNvX1F4ZXpUNA?oc=5",
+    "source": "youtu.be",
+    "title": "Victor Kruger, Highlander 1986 - Introduction. SUPER OVERPOWERED - Final BOSS! - youtu.be",
+    "summary": "Victor Kruger, Highlander 1986 - Introduction. SUPER OVERPOWERED - Final BOSS! youtu.be",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 2088.4 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

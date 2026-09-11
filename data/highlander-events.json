@@ -56099,5 +56099,147 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "02e11e7aee9c564a8eb6",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 03 Jun 2026 19:34:46 GMT",
+    "captured": "2026-09-11T07:26:51Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04ZWxZSldsU3h4NmhPWC0yak10ZFp1XzBobXZGRGJSLXFLTjQ0RXdENGFqT0ZYNm9WTm1WNzcwbXpWTjVhaEt6VzR6M19vQQ?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill Is John Wick With a Sword in New Look at 80s Action Reboot - IMDb",
+    "summary": "Henry Cavill Is John Wick With a Sword in New Look at 80s Action Reboot IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 99.5 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "491156f4c641b7b70b08",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-11T07:26:51Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUkFmdmdpTEhpV2JUbjFFSnBvUk05Z1lKS2wybkdkZWVZT04zS3JyQlpUMXJYbEpIUEVQZUtVTWZRVGZDdmNaNUN4S3h2YnMtcFJnNTU1X3l0Smh4R3E0WldlQ0trbDBaT0R1T054cmVaWWhnYjBLSTlhcjMydEJvZVBESE1RRE1VbjcyeUJrOUVMVl9DMFNwQXJycW5uZmVlQ2RUMjlyRUZ4Y0pVS2hmSjJqa2xxbTdvTW9lN2J0eUl6LV9Ea2V1WFdUQjRrdU01SXowSjI2MTl4cDNhT2I0?oc=5",
+    "source": "pk.ign.com",
+    "title": "Deleted Highlander Action Sequence With The Kurgan Was Cut Because It Was 'Too Good,' Actor Says - pk.ign.com",
+    "summary": "Deleted Highlander Action Sequence With The Kurgan Was Cut Because It Was 'Too Good,' Actor Says pk.ign.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 23.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "c9c2517076563c118fe3",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 08 Jul 2016 07:00:00 GMT",
+    "captured": "2026-09-11T07:26:51Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX0FJNXRpTkpxeTlEemprcTFfUDJTTkg1aC1Wa0Q0SVJBOTRaSFpzeHZtNllVUi1mVU9jM3MwQ3pyU3J2Z3RoZUY5djlsNkc1aWpjbUtsWnZWazZDbUgwWmxZWDdoUmRZeFVNbUNzQVVnZ1JCeldZTEJzWXZZX2RpVFNuOW9qWkJJNnEyWXhyQklGbXdCU2w5b1NYRnl6WnRCMFpMcGVnQ2hkdy00anUyRGFxUQ?oc=5",
+    "source": "irishnews.com",
+    "title": "Revisit a classic: Highlander 30th anniversary edition - irishnews.com",
+    "summary": "Revisit a classic: Highlander 30th anniversary edition irishnews.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 3717.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

@@ -56581,5 +56581,162 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "89a7a31a7b8424d06050",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 15 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-11T17:51:46Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOHR3Skp5b2VVUW1UVTZGY1p6cHhEZmR5elpmQllHMXJ0WXdfdzEzNEktejVXU2RWZk1fWnY0WkNsd2RNUHU0LVZyYlhiYzJBajg2a2xGMlYyS3VzMFNwODVyOXFkajhxR3VtYjRQM2IwTnlFNFE3ZmtqLVBWdnV3UjAtdDMzc1lDSGRPYWZ2bHV0Vkc3WEhPVVFyY2lOS1JocFVoc2pOcWx5S1R5Q2tIb1NlU3ByUWU3Y0lrdg?oc=5",
+    "source": "The Hollywood Reporter",
+    "title": "Henry Cavill Unveils ‘Highlander’ Reboot’s Thrilling First Footage - The Hollywood Reporter",
+    "summary": "Henry Cavill Unveils ‘Highlander’ Reboot’s Thrilling First Footage The Hollywood Reporter",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 149.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "1734acecf45c22b8b340",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 23 Dec 2020 08:00:00 GMT",
+    "captured": "2026-09-11T17:51:46Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SU1QwNjBOUEQ3cWtsMjNIRk82UUxzTllWU1RpaVRyZFlWMGRhek1TMVl1OVljMUgwRkcyYzg2dkNvX1F4ZXpUNA?oc=5",
+    "source": "YouTube",
+    "title": "Victor Kruger, Highlander 1986 - Introduction. SUPER OVERPOWERED - Final BOSS! - YouTube",
+    "summary": "Victor Kruger, Highlander 1986 - Introduction. SUPER OVERPOWERED - Final BOSS! YouTube",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 2088.4 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "065ba2413cf4c20970d7",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 08 Jul 2012 07:00:00 GMT",
+    "captured": "2026-09-11T17:51:46Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSU10V2g2N2lUYXh2Z3U0dW41S2g5dTBBb3RFaUVGQnZmZkNOVms0bF9QWlFkQ1owYmpLZVZpTko2SEt2ZWZRc1Rxd2VxWkx0Y0RJTTFjelRVQXFkTW9hdjlBdU9xX1FFbWFFU0xvSzNieDNxVUh4ZEtBbUc2cFVqRkVvQVVVYVE?oc=5",
+    "source": "eyeforfilm.co.uk",
+    "title": "Highlander - eyeforfilm.co.uk",
+    "summary": "Highlander eyeforfilm.co.uk",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 5178.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

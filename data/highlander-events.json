@@ -1,53 +1,5 @@
 [
   {
-    "id": "ab3fe910ec55457a0390",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 14 Jan 2020 08:00:00 GMT",
-    "captured": "2026-08-26T03:34:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjBQaE5BalpZX2JoTXZpTTBHQVl1RDVKRWVnWjZsblA2c3lFU0Rya2MwWktDVWpQRmpmbVUxazBGdVd0d3FlZHNKOUJSZmhldi1WLXVPQmV4cTlFNVI2MGI4al9ub1NUQkg5Y2JaMVJicjZTSWJfZVNaWGw4c3YwQ253VlhiWE1jLVZBSnc2b25uQ1NEUFBobGNqZDdpR0hDQzJZ0gGoAUFVX3lxTE5hSVJlMlhxYTJkQ0VNXzVSRWhsZHVNWUlLSGVvSmdLZDNsMW1vYVY3VnhWeU8yZGFiUmh6a0hrc0R1VUxlSjRSQklxWFNNQ0IzbEpCYzJUNGhscTZ6cHpOdnVPZmJQUHIyNXMydjRNRFF3WVFJelJsUFNjb1puZXVQMUhFUjlTTHRVci11ZzNpOTA2eU9MS19YSE9VNF9BMFpQZEZVVTg3RA?oc=5",
-    "source": "dailymail.com",
-    "title": "Highlander actor Stan Kirsch dies aged 51 after suicide - dailymail.com",
-    "summary": "Highlander actor Stan Kirsch dies aged 51 after suicide dailymail.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: death (dies)",
-      "source age: 2415.8 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "1e18ddb6680a58fbc929",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -57058,5 +57010,55 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "937eaaea2a90ab2c6d46",
+    "entity_id": "russell_mulcahy",
+    "entity": "Russell Mulcahy",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "russell_mulcahy",
+        "name": "Russell Mulcahy",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II"
+        ],
+        "score": 63,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II"
+    ],
+    "event_type": "interview",
+    "source_date": "Fri, 10 Jun 2011 07:00:00 GMT",
+    "captured": "2026-09-12T12:19:45Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZNlZCdnVZMk44V1FlR0Nza0VWUTVUb2JXRXA4T2RPeG9JbWRLQlpUdlN4Y0g4MWRsd2pkbHVNM3F1a3RpNzMxcEtDYnRMTjlxOXdDRjRmZDhXcjE5eXVGOXRIYVdDaFJfUGtSMkE4RUR2RkVRVk9J?oc=5",
+    "source": "collider.com",
+    "title": "Jeff Davis and Russell Mulcahy Interview TEEN WOLF - collider.com",
+    "summary": "Jeff Davis and Russell Mulcahy Interview TEEN WOLF collider.com",
+    "evidence": [
+      "matched entity: Russell Mulcahy",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 5573.2 days"
+    ],
+    "score": 63,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

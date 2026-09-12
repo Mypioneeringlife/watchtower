@@ -1,159 +1,5 @@
 [
   {
-    "id": "1e18ddb6680a58fbc929",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Fri, 30 Jan 2026 08:00:00 GMT",
-    "captured": "2026-08-26T03:34:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVVVJZUxfNVRNd0doRzI5QklDNS1oTmZ2UDViYWZBalB6dExYdUJQeXJia2dVQ29zZUN2eElnT05tS3k5Z0pZQkt3UWpLN2E4U3RSVnpMcldOQU5BYVZTWmRHVUZ4QUVuaVh0SERobFBIall6b2FDaGltZk9HWDhNX3Utdnc4QlczQnJveG1TeDJkQQ?oc=5",
-    "source": "Variety Australia",
-    "title": "'Highlander' First Look: Henry Cavill Wields Sword in 'John Wick' Director Chad Stahelski's Reboot - Variety Australia",
-    "summary": "'Highlander' First Look: Henry Cavill Wields Sword in 'John Wick' Director Chad Stahelski's Reboot Variety Australia",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "also matched: Chad Stahelski (100)",
-      "source age: 207.8 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "a172b6d1ccea9653f9d2",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Mon, 16 Feb 2026 21:05:40 GMT",
-    "captured": "2026-08-26T03:34:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0dmt3VUxGaF9TU010TTBqWUJhU05wZGlGRk1uV3hVSVExdmItUVozaGJETFpQRHV4eXNjUFZmekY1SmFSM2E1MlZ0NVV0Y1N0SlE?oc=5",
-    "source": "IMDb",
-    "title": "‘Highlander’ First Look: Henry Cavill Wields Sword in ‘John Wick’ Director Chad Stahelski’s Reboot - IMDb",
-    "summary": "‘Highlander’ First Look: Henry Cavill Wields Sword in ‘John Wick’ Director Chad Stahelski’s Reboot IMDb",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "also matched: Chad Stahelski (100)",
-      "source age: 190.3 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "e585eeef75f4e3e17977",
     "entity_id": "henry_cavill",
     "entity": "Henry Cavill",
@@ -57055,6 +56901,126 @@
       "context: interview",
       "event: interview (interview)",
       "source age: 5573.2 days"
+    ],
+    "score": 63,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "345df03cc6974fe75456",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-12T17:45:03Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWQwT3VKVHpxMDhDWHpUb0VJNHE1UEE3R3NxSXZ0YjBjdGlVNEtFM3JUcy1FVHh6VGtaUkhqc05uV2hmNnI1QlhEeWkyU2tNSXJ4U2ZqUDFfNWotS21vRXllT2xsR1c1SzhqZFRveUhkYlRuZElmM2ZjVnJ2eDlmeVJwSk03bnR2U2c?oc=5",
+    "source": "aol.com",
+    "title": "Highlander Star Christopher Lambert, 69, Misses Comeback After Collapse - aol.com",
+    "summary": "Highlander Star Christopher Lambert, 69, Misses Comeback After Collapse aol.com",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 34.4 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "b648254be0d922b30a62",
+    "entity_id": "russell_mulcahy",
+    "entity": "Russell Mulcahy",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "russell_mulcahy",
+        "name": "Russell Mulcahy",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II"
+        ],
+        "score": 63,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II"
+    ],
+    "event_type": "interview",
+    "source_date": "Fri, 10 Jun 2011 07:00:00 GMT",
+    "captured": "2026-09-12T17:45:03Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZNlZCdnVZMk44V1FlR0Nza0VWUTVUb2JXRXA4T2RPeG9JbWRLQlpUdlN4Y0g4MWRsd2pkbHVNM3F1a3RpNzMxcEtDYnRMTjlxOXdDRjRmZDhXcjE5eXVGOXRIYVdDaFJfUGtSMkE4RUR2RkVRVk9J?oc=5",
+    "source": "Collider",
+    "title": "Jeff Davis and Russell Mulcahy Interview TEEN WOLF - Collider",
+    "summary": "Jeff Davis and Russell Mulcahy Interview TEEN WOLF Collider",
+    "evidence": [
+      "matched entity: Russell Mulcahy",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 5573.4 days"
     ],
     "score": 63,
     "route": "Corrupted Chronicle research",

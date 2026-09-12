@@ -1,67 +1,5 @@
 [
   {
-    "id": "e585eeef75f4e3e17977",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "other",
-    "source_date": "Thu, 19 Feb 2026 08:00:00 GMT",
-    "captured": "2026-08-26T03:34:19Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkQ4b25nenBUUUZ0SFZRODlqeTB3bmE4NTlHcVJYN2p5X0V5N1hoNGU1RFMxYVlzRkVTVmRiRDhNUkF4RUM1OWhJZk1ic183MnJELU1XUkF2aXM1XzZNMnNYdHl3M20zUV9pSFNBZk1hZ3hwemZDXzgzaEx5N0otbVU3ZHdSeDN5MkNMaU13N2RWUUp0SHdqTDRCVFpETk51NHkyY3lXZmNlaHluN1Q5Z9IBtgFBVV95cUxPcG8xeTlrNTZ6MlJSeHNNYU1oN1ZfNWV6aWI0UmVuenQxblRrSmxEQjJkNnlCNTNxblJfLTItU0dzS2Jkb0VKeXRTRlAxLU1LVmducGg1MURaZ3hfZWZpa2lTQTBhcDFTZVljVkZ1ODBOeExLQ3RZaTZpdlFEVmFBVUFfRmhMLVpGUHd1SVFxcWdXV21xakQ0YkNGb242cl9PY25tNGdNd2ZfbkRJTldka3p2a1V2Zw?oc=5",
-    "source": "ixbt.games",
-    "title": "Henry Cavill rides a motorcycle in new footage from the set of \\\"Highlander\\\" - ixbt.games",
-    "summary": "Henry Cavill rides a motorcycle in new footage from the set of \\\"Highlander\\\" ixbt.games",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 187.8 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "ccd388bbe65b2373b430",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -57026,5 +56964,53 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "df34d65c266813e8266c",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 17 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-12T22:29:46Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wLVFRQ1lzSmVPSVRfalJEbVBRbVZDcHdEd3FhUFFtMUJONE80eFAxc1huSWVpZmJ4N2ZHY2tnQW1SQ3picU1MVFhvZVdNdmJ1dld6OFM4bV9mUkdrdW5HWWZKckkzdnl0RjdNR0lESi15a2prdGNCQUNLcnVrR00?oc=5",
+    "source": "telegraph.co.uk",
+    "title": "‘I was called a liar for 40 years’: The mystery of Highlander’s missing immortal - telegraph.co.uk",
+    "summary": "‘I was called a liar for 40 years’: The mystery of Highlander’s missing immortal telegraph.co.uk",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Immortal",
+      "source age: 26.6 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

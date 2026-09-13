@@ -1,100 +1,5 @@
 [
   {
-    "id": "ccd388bbe65b2373b430",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "health",
-    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
-    "captured": "2026-08-26T09:21:45Z",
-    "urgency": "immediate",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOHMtMk5kNEVadElscXBEcU0yay1nekx5X0NiRGgweEdaeWx2eDZyRUZPRTFmeUdJdmZ0X0ZhUEQ4dm5BN3VIYlNPbnNsWlhqeDRRVG1UMlVZX3ZTLTV5YVJPVDhWUmdYcXd2VEtwYlhJOTJnUjdLVnJjTkFwVWc5bExsX1hNdkI2V29aWjFMaUNIQ1AtcWZkVk5OVHk3cEJXOHRj?oc=5",
-    "source": "Yahoo",
-    "title": "Highlander star drops out of fan event after collapsing in medical emergency - Yahoo",
-    "summary": "Highlander star drops out of fan event after collapsing in medical emergency Yahoo",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: health (medical)",
-      "source age: 17.1 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": true,
-    "status": "new"
-  },
-  {
-    "id": "3f544a0c755c1c1c1a8c",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Wed, 01 Jul 2026 07:00:00 GMT",
-    "captured": "2026-08-26T09:21:45Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IZDZsNTlFZE1obDI4VWJuc1dYaWwzSkZHRDFHZVZlX25hZ2hiOEQ5bGVQT3VKZ2RFMWZUM290WlRNWWpwem5GaHRGYy1WTjJKTUxfaTFaWDFYTUYtX1BCazd4V0laeXJoazdpUDlvRExEdGRnbk1iR21B?oc=5",
-    "source": "SciFiNow",
-    "title": "Win a Highlander prize bundle! - SciFiNow",
-    "summary": "Win a Highlander prize bundle! SciFiNow",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 56.1 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "3ba356080eb5eb5faeee",
     "entity_id": "henry_cavill",
     "entity": "Henry Cavill",
@@ -57012,5 +56917,115 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "081cff8fe0a4560ba601",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 01 Sep 2023 07:00:00 GMT",
+    "captured": "2026-09-13T07:37:38Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOXM1aS1UU1Y1aGJzLWdaenVzQ1pVNWpvTXdQY2J6WThCVGRQT3luN1NyVVh4Y191eXNDbFVqWHhBZjh3ZG1QRGdrcXV2QTBocU1LUm9DeFZLVHBSX3I2NGNmR3JSZEdIUXhmbC1qWlVxbUpKakMyYklTTjRyMUUyWG1DMGUzWE43TGcwbngwRnp2LTJWb08wY2RqMjVZYW4zc1ZWMW9CRUVFWWpmX3NaeGdDdW5hQ3ZWZ2NYM0p5SEpJV1I0RnpNQlNXb1NCanE3XzdXZXJQd3BwbGp3SXBHNlZUdmtuSUY2?oc=5",
+    "source": "netflixjunkie.com",
+    "title": "With Henry Cavill Taking the Lead in ‘Highlander’ Reboot, ‘John Wick’ Director Hopes to Launch a Movie Franchise - netflixjunkie.com",
+    "summary": "With Henry Cavill Taking the Lead in ‘Highlander’ Reboot, ‘John Wick’ Director Hopes to Launch a Movie Franchise netflixjunkie.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 1108.0 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "b255250fab2aacfee39b",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 16 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-13T07:37:38Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MHRVNlJEWE42Mlk1ZU15TUR0djJ6Y3I3UEp3TnRWOEItcWRsdW1TWGNiUlN3THpaaFJmdUpCYlctSUsxSGJRYnhQUjRrZ2NaMnhZU09Ob1p2Y1FEZUxacTRsRFRXNmF2S0NwNnJvdmM5SC1BZVZj?oc=5",
+    "source": "IGN Pakistan",
+    "title": "First Highlander Footage - IGN Pakistan",
+    "summary": "First Highlander Footage IGN Pakistan",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 150.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

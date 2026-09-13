@@ -1,129 +1,5 @@
 [
   {
-    "id": "3ba356080eb5eb5faeee",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "other",
-    "source_date": "Fri, 05 Jul 2024 07:00:00 GMT",
-    "captured": "2026-08-26T16:02:36Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWJRVmtpZEVoeE9nUHdwZEZrMHFwdmF1dGlCUXRDZkFhdC03dFNlSnZiRXlNMlNBdkY1TzVKc2dzTVlPZmhrd09oMmpRQ2tYcXRiWG9ZZk5nTE5PcWxRLUJKeElGVUt6Q295OFFRdG9iLUVsVEw4SzAtcV9Rajc0dzZ0ZE0?oc=5",
-    "source": "Giant Freakin Robot",
-    "title": "Henry Cavill Highlander Finally Gets The News Fans Needed - Giant Freakin Robot",
-    "summary": "Henry Cavill Highlander Finally Gets The News Fans Needed Giant Freakin Robot",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 782.4 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "878fa1a739712f55e626",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "other",
-    "source_date": "Wed, 14 Feb 2024 08:00:00 GMT",
-    "captured": "2026-08-26T16:02:36Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVHh4X2R3OTBBSmcyQmMxLVJKdU13TXFxUWZETzM2WVA3dkk5VnpXMm5zVlpJV2xTTTVtNlJVYzU5ZDZFVmF6Q0dlWkk5QklNbV9UZEZFbDFOT214VUl3Rlp6LXBhNG8wS2xHZjd6S1RxOUxBUHJnYzR1U0Q1Z2dpbVlR?oc=5",
-    "source": "Giant Freakin Robot",
-    "title": "Henry Cavill Highlander Is Finally Happening, Here’s How We Know - Giant Freakin Robot",
-    "summary": "Henry Cavill Highlander Is Finally Happening, Here’s How We Know Giant Freakin Robot",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 924.3 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "91cc1d509d0010e02f94",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -57027,5 +56903,116 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "a3f495f70c70af585a0e",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 29 Jan 2026 08:00:00 GMT",
+    "captured": "2026-09-13T13:26:02Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1VSUVNLdEM5ZEl4TUZUZjVwSVRHYzJneG5RU0lNdXhnNjllNmMwM2l3TTdzOUczdE4zdV8wdkpZenhaR1JlV2ZoWDJ4dWlEcVhuWi05OUVhV2hGcjdNQmNjQ2cyZzY0WVY0VV9SR3FNOWlWMjhMQk5fZnZ5QnlZdV8xQlU0VkFXVThLUWJpcXdyMndQZ1VxRWptVVZnV2tLSFhfN0p3?oc=5",
+    "source": "yahoo.com",
+    "title": "Henry Cavill’s Highlander Reboot First Look Has Fans Calling Him ‘Daddy’ - yahoo.com",
+    "summary": "Henry Cavill’s Highlander Reboot First Look Has Fans Calling Him ‘Daddy’ yahoo.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 227.2 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "306ddc7e7de68d9bbbed",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 17 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-13T13:26:02Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1RkVDE2eU5mNjJMTDlpc2FfNFpFSTJQcXc5b3Zld05ieS1nTWVOaXBCUzJuY1NOV0dFZEU2b2kxVnNSbFZBRXFESV9YQ24yRktoUGgtVzhVcVlPZW1fR3FIUjRldURDRlF3RWU0Z0FLaUtJWlV6clNrQU1aeUpTYWN6dzZVNDg1UWtCQ0o2bEdWN1V0X1RjN3VQaw?oc=5",
+    "source": "yahoo.com",
+    "title": "‘I was called a liar for 40 years’: The mystery of Highlander’s missing immortal - yahoo.com",
+    "summary": "‘I was called a liar for 40 years’: The mystery of Highlander’s missing immortal yahoo.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Immortal",
+      "source age: 27.3 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

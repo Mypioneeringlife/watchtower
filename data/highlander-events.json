@@ -1,179 +1,5 @@
 [
   {
-    "id": "91cc1d509d0010e02f94",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 74,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Fri, 24 May 2024 07:00:00 GMT",
-    "captured": "2026-08-26T16:02:36Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoR1VOdkVRM3RFLU54elRCRldHcEgzS1NvdGxuWC1kZ3N1RkJhN1JzR1k2V0tURVB3SzJVcDN5elFQY25CVFFvbzJNY0Vha1N4NGtzZHdWbkZzd282bGZlRnhWbmNYbkYzZnhF?oc=5",
-    "source": "Giant Freakin Robot",
-    "title": "How Highlander Works: The Immortal Franchise’s 11 Rules - Giant Freakin Robot",
-    "summary": "How Highlander Works: The Immortal Franchise’s 11 Rules Giant Freakin Robot",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: Immortal",
-      "source age: 824.4 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "04d8aca95a19cd5600f6",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Mon, 09 Feb 2026 08:00:00 GMT",
-    "captured": "2026-08-26T16:02:36Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3N4YWxzZElzVDROUkQzRzdtNG00TFlJNUJJZ0dzbUhnVjlpVnNuX2pQYVlueWZuaENXbDVvWnFXVm4yaENwZW8xR3dzMTZzU1gwNTU2cWNQU2tmb2NLUjdWRVNXMmVDVjZGUkdCdTVERUFNbzBiR2tlWWNzTm1fRDVfU3JtM1lDWnFhR3VwSzdmUnVsTDNhR2dtV0xraGJ0MU5Mbk5vUjU?oc=5",
-    "source": "Yahoo",
-    "title": "I Wasn't Excited For Henry Cavill's Highlander Reboot, But Then I Watched The OG Highlander, And WTF - Yahoo",
-    "summary": "I Wasn't Excited For Henry Cavill's Highlander Reboot, But Then I Watched The OG Highlander, And WTF Yahoo",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "source age: 198.3 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "73dfd1cdb0f34fb79aaf",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Wed, 28 Jan 2026 08:00:00 GMT",
-    "captured": "2026-08-26T16:02:36Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdUNfZ1ptLWJGYl9MYWJCV3F0UmJEYWI4NmVEbk1CTXNPdlNKVTlYZFJUdl9SaDZYdkdBX1VCZEVxbXpQd0JfOWg2MlRzVGxWMXBqZDZBN3VBVnpseW1uUlNhQVdKS2o5eWhJb0IwYjFuWEs5WlYzRlZBTFBCYXk4UjNOa3VuX28wQ0Zv?oc=5",
-    "source": "nerdbot",
-    "title": "Henry Cavill Shares First Look at \"Highlander\" Reboot - nerdbot",
-    "summary": "Henry Cavill Shares First Look at \"Highlander\" Reboot nerdbot",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "source age: 210.3 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "9f394b0e8c3de7f46416",
     "entity_id": "christopher_lambert",
     "entity": "Christopher Lambert",
@@ -57013,6 +56839,149 @@
     "score": 74,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "111220d7735f7576ab4d",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 17 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-13T17:35:37Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1RkVDE2eU5mNjJMTDlpc2FfNFpFSTJQcXc5b3Zld05ieS1nTWVOaXBCUzJuY1NOV0dFZEU2b2kxVnNSbFZBRXFESV9YQ24yRktoUGgtVzhVcVlPZW1fR3FIUjRldURDRlF3RWU0Z0FLaUtJWlV6clNrQU1aeUpTYWN6dzZVNDg1UWtCQ0o2bEdWN1V0X1RjN3VQaw?oc=5",
+    "source": "Yahoo",
+    "title": "‘I was called a liar for 40 years’: The mystery of Highlander’s missing immortal - Yahoo",
+    "summary": "‘I was called a liar for 40 years’: The mystery of Highlander’s missing immortal Yahoo",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Immortal",
+      "source age: 27.4 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "032209e460adb21d7205",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sun, 13 Sep 2026 15:30:11 GMT",
+    "captured": "2026-09-13T17:35:37Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGl5TS1INFV0OEZ4Vm9sMkw3U05peUdlckZEV09BV2NXZXlseEJhVFNkNUZnQllUakJKckZ4cFVvd2NFa3hkeVpZVFg1U0RTNHI1U2p4S0dtQUgyNUFlMGw2SHJyWWRBaWhiV0RCal9ySnlUa3VPMnNsMzZQamJhTWprcGI?oc=5",
+    "source": "Comic Book Resources",
+    "title": "John Wick Meets The Witcher in Henry Cavill's New 80's Fantasy Movie Reboot - Comic Book Resources",
+    "summary": "John Wick Meets The Witcher in Henry Cavill's New 80's Fantasy Movie Reboot Comic Book Resources",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 0.1 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "f9086edb7ab1799b290f",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 80,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 10 Sep 2026 19:30:16 GMT",
+    "captured": "2026-09-13T17:35:37Z",
+    "urgency": "normal",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wWGdjbEdYUXl2VUNrQWd5MldBZWZmSi1QV2QyajU4REdBZFI1aGtndHQ3c2lST2dkVnlIVHlYS3B0LXVYTVJBV09yRE1qM3RSejN4aGM0bTJoaVlwS204NUR0Y2k3MGc?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill’s Quest to Revive a Dead $46.6M Franchise Gets Exciting Update - IMDb",
+    "summary": "Henry Cavill’s Quest to Revive a Dead $46.6M Franchise Gets Exciting Update IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: death (dead)",
+      "source age: 2.9 days"
+    ],
+    "score": 80,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
     "status": "new"
   }
 ]

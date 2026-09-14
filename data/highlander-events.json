@@ -1,71 +1,5 @@
 [
   {
-    "id": "8a4dc0a5ac7f6b8346d7",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "health"
-      },
-      {
-        "id": "christopher_lambert",
-        "name": "Christopher Lambert",
-        "kind": "person",
-        "roles": [
-          "actor",
-          "Connor MacLeod"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II",
-          "Highlander III",
-          "Highlander: Endgame"
-        ],
-        "score": 100,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "health",
-    "source_date": "Sun, 09 Aug 2026 15:45:58 GMT",
-    "captured": "2026-08-26T16:02:36Z",
-    "urgency": "immediate",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vM2dIUzRrZVd4WjRKY2NRY1lsMDRxcXpHMXVST01LcGZMcVJ0NE14QktSajJCeTZVYURxU3NkTEptZkV2dmI0UURUYk1zSUNwb245RnliYW1DaGxoX1BpdVpSMnNYLWxvYlE?oc=5",
-    "source": "IMDb",
-    "title": "‘Highlander’ Star Christopher Lambert Suffers Medical Emergency at Fan Convention - IMDb",
-    "summary": "‘Highlander’ Star Christopher Lambert Suffers Medical Emergency at Fan Convention IMDb",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: health (medical)",
-      "also matched: Christopher Lambert (100)",
-      "source age: 17.0 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": true,
-    "status": "new"
-  },
-  {
     "id": "bd4ff6a8439f03342167",
     "entity_id": "christopher_lambert",
     "entity": "Christopher Lambert",
@@ -56919,6 +56853,68 @@
       "source age: 0.7 days"
     ],
     "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "029916ff2d64cbe2abc0",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 14 Sep 2026 12:32:42 GMT",
+    "captured": "2026-09-14T15:12:27Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlNUWDVWbjluMG5vTHAtR25ITWVzR1oxYVMyeExiUzMzc0FocUpUUVpNNlNmM2FWV01wWXJVUGRKVENsUEVQRldkbzNpdmYzM20tUFBlaEY1WHkxSHlGNGl5ZDNVcWhWTS1pR0Y4ZjJzdnZVb2FiMGt5QjFkcERKUDF4bWlGeEQ2RkN1LWwxQjhzMlF0ZEp0THpRTnh3ZnV6N3NlN0JCYl8?oc=5",
+    "source": "Yahoo",
+    "title": "Henry Cavill And Russell Crowe's Highlander Reunion Has Been 25 Years In The Making - Yahoo",
+    "summary": "Henry Cavill And Russell Crowe's Highlander Reunion Has Been 25 Years In The Making Yahoo",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.1 days"
+    ],
+    "score": 74,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"

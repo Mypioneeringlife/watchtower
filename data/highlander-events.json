@@ -1,54 +1,5 @@
 [
   {
-    "id": "210b1226415049732776",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Sun, 24 Aug 2025 07:00:00 GMT",
-    "captured": "2026-08-27T00:00:36Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVlFuZmtlZ2dLWWcySlhyS1ozQjdLVTdadWhXTVozcVdZdkNHZ3hZLUtCNlVkRkVYOVNUeC1aRmdCdHRTTzNNbzJTdGhuWTRtZzNzcmZyYnZzZzc3VEM3WUNpUTdtOElSZ2FJWmtxWkw2aUtJMUpDdjFFNmU5WXBEODM0bmd3bzNQRDdwZURGS0ZKSTBRbHFqVkZaaG5PSS1oc2FtVFhxbm9MeGc?oc=5",
-    "source": "Yahoo",
-    "title": "Highlander Remake Has An Insurmountable Problem - Yahoo",
-    "summary": "Highlander Remake Has An Insurmountable Problem Yahoo",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: remake",
-      "event: highlander_production (remake)",
-      "source age: 367.7 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "80576350f24f101aa67a",
     "entity_id": "henry_cavill",
     "entity": "Henry Cavill",
@@ -56933,5 +56884,53 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "7e53fbe21e8dff3db5af",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 15 Sep 2026 20:23:00 GMT",
+    "captured": "2026-09-15T23:07:19Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVVFQnZJQVhVcUc1OVB5TVdsWFdkRjVlOEd4d1pFOTg4bUloZjNBYUQwY1RyekNLcjJmWmdlSmc5TEdVSU80TDVVd3VoR2lhR1ZlNkp5LWE1YXhxb05uYnc5WWU2YXlfR1U5M0VZVW9jdmQxNERhTmMwbER2ZFBiMC1qVms5RXpSQzcxbGpiYVBiblFjWDlEbTZZMFlPS3otMWMwMWc1eHdrVHJkSTVJ?oc=5",
+    "source": "NJ.com",
+    "title": "Kevin Hart and Henry Cavill spotted filming a Netflix spy comedy in Red Bank - NJ.com",
+    "summary": "Kevin Hart and Henry Cavill spotted filming a Netflix spy comedy in Red Bank NJ.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: filming",
+      "event: highlander_production (filming)",
+      "source age: 0.1 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

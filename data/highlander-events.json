@@ -1,52 +1,5 @@
 [
   {
-    "id": "4b020fb7e846ecece17f",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Tue, 01 Nov 2022 07:00:00 GMT",
-    "captured": "2026-08-27T00:00:36Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM2NTeFlHREdtQTE1dS1ja3BLdkFWYVdreEpGZnNsVWVmWkZYMXpUY08xb1hOMGd3SHdCa0ZFZE1TWXZGVlZzTFBQc3VUcDlTWktyQURvamhBUUNfWnE1bGRpaVlDQ01LeEkyM1JPRlFWeE5oUGFIMnY3ekJtRmZ6WlkxZldrYzRPc2NMRTNIVEpocmw0dGRqTGttZWZEd0lYb3gza1pqSDRDT0tTendHVGdn?oc=5",
-    "source": "Den of Geek",
-    "title": "Highlander Director Recalls the Time Sean Connery Was Almost Beheaded for Real - Den of Geek",
-    "summary": "Highlander Director Recalls the Time Sean Connery Was Almost Beheaded for Real Den of Geek",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 1394.7 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "210b1226415049732776",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56930,6 +56883,53 @@
       "source age: 30.5 days"
     ],
     "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "89f930070a8c5111c443",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 10 Feb 2025 08:00:00 GMT",
+    "captured": "2026-09-15T19:01:04Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbDM1RF9RU0VHd1lScm5PMUxjWGVZRG52UHV2SmZ2NDhDSXhyaE8tNXlVSFc0OFZRRm5PeVlnazdGYWN4VUZzU3U5VUV5azBmOHJXUWwxcE9Fbi1ycFFsSFpZRmRPOFA0ZEkteElGbkVLZE5mcm1kelJ5ZXpvWFZ2ZFQtTF9fVk5tZFNWaTVOeU1vVmN1aVFVWjkxZUdTd3pUQ3Z2UnhldGYxZ0x6YzI1dEVHUFpoc2luemhTdzZyb3BOakVYMUZqREdEamhlVEszcllFa0tlT0hKUQ?oc=5",
+    "source": "prnewswire.com",
+    "title": "Cineverse Signs Highlander Franchise Digital Rights Deal with Davis-Panzer Productions - prnewswire.com",
+    "summary": "Cineverse Signs Highlander Franchise Digital Rights Deal with Davis-Panzer Productions prnewswire.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 582.5 days"
+    ],
+    "score": 70,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

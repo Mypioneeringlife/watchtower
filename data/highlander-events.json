@@ -1,117 +1,5 @@
 [
   {
-    "id": "dd2e7f43208bfb91fb05",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 74,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Sat, 19 Apr 2025 07:00:00 GMT",
-    "captured": "2026-08-27T00:00:36Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY1J3NnAxWWV4X0s2MEdnbEZ3Xzg4QUtnU0FBNUVvX2d1cGlvUFNDOVJWMGwxZzUyOGhzYUh4OWI2eEUwMWZjMGdXSm1DX1FXRHBmYUU3SkNBNGtobU1YbFV0N3RvMGlCOWZmVzhmdDl4Z2pCVEVURThsMWN2dFlacTJlTnhTaUJuM1Y0SDBxNjduRmVqYlUtNXJzY3FEbjZaaGZkamNodmg2RmFBT2NBb1l6TTVVb3Awck9aTjV0Ynp1VlBDbWZ2WUkyU1d5azFJS1lST0I4bGFxZDktY1pta1JkRGljRGx40gHuAUFVX3lxTE9qSzdVTExVY3Nvd1FMX2pDTktzeFdrcFdvNnlJQVVucG9rVEdLWFA1bERJbFV5Snp1UEZaZUR0cDZ5c05ZSGlIR0Q0SWF3djNJZDh6bGo3bDZqX3N6cGtFSnByR1ByMHIxOVEzSkxfSHdORGJxWjdEMXBVYXNWVndjSFZnZVl2bUo2OFQzOGc5a3VpUU1ONEhHUkF0bHlKOC1oOXV4QXREbU41NVppbGRuTlljYWtoaERMSnc5a2tDanRrQ0NJdzh3X29UWnpsVjZrNXJYeFB2VDhtNHNYQ0RsUU5lczlkdkpOQkJQcFE?oc=5",
-    "source": "Mid-Day",
-    "title": "Henry Cavill's 'Highlander' changes studios, lands at Amazon MGM Studios, United Artists - Mid-Day",
-    "summary": "Henry Cavill's 'Highlander' changes studios, lands at Amazon MGM Studios, United Artists Mid-Day",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: Amazon MGM",
-      "also matched: Henry Cavill (74)",
-      "source age: 494.7 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "873cd1bc082815aa289c",
-    "entity_id": "russell_mulcahy",
-    "entity": "Russell Mulcahy",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "russell_mulcahy",
-        "name": "Russell Mulcahy",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II"
-        ],
-        "score": 67,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Highlander",
-      "Highlander II"
-    ],
-    "event_type": "interview",
-    "source_date": "Thu, 15 Aug 2013 07:00:00 GMT",
-    "captured": "2026-08-27T00:00:36Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZDlZZXJQM2RrLTViYm9sNXc5bVhEOVM3WFF3TGVRZ2xGY3BxSDRwRWlWVzgtZlJjUklrczg3SU83X2NtYzdoTE81R05RY2M0VDJ3QlE0LUtWWkNBUk5QcFlYQzFWNF9PTFg0VVpjb1cwN2pGSDBQREw3MU92TDA4MGJ4UW5NVDh3OS12Y2RVNDNSNTk3NWFqSmtEN1ZaRERQZUVYMVVqSm50dGpnajNabEU0Tm1waUU?oc=5",
-    "source": "Assignment X",
-    "title": "Exclusive Interview: TEEN WOLF directors Russell Mulcahy and Tim Andrew on Season 3 - Assignment X",
-    "summary": "Exclusive Interview: TEEN WOLF directors Russell Mulcahy and Tim Andrew on Season 3 Assignment X",
-    "evidence": [
-      "matched entity: Russell Mulcahy",
-      "context: director, interview",
-      "event: interview (interview)",
-      "source age: 4759.7 days"
-    ],
-    "score": 67,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "4b020fb7e846ecece17f",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56928,5 +56816,122 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "e962ba1f9a5be4baf3ee",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "death"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 15 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-15T18:25:54Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aM1VCYWJrbXBmeW5FYkVyYlU1bHhlUlFOQ0RTeFljOGRJTnBvdVpXanJOZDNuVXVDYTVTLWxEcHpPY1FlZjhPekRKeUNpT2tFR2hlaUV0SE50X0tJUWtJS2M0ak8tQzJ1aFhHekZkZERnYmZSX0NkYnU1RW9PYTA?oc=5",
+    "source": "Deadline",
+    "title": "First Look At Henry Cavill As New 'Highlander' At CiinemaCon - Deadline",
+    "summary": "First Look At Henry Cavill As New 'Highlander' At CiinemaCon Deadline",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: death (dead)",
+      "also matched: Henry Cavill (100)",
+      "source age: 153.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "589339356a55287d274e",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 76,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 16 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-15T18:25:54Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNGg4ZXhBOE0yX0M2NnlDSm9MRFV4cExBNFBfckVzcW9xRlNja1pvcUpBUXBhYVhpLXpzR0haT05qVXRFNnZnZWRiYTRKU05Ib241TS1EaENmeEoyVzhBNmFBSGRRRlVQZlRPYXRLWEpfYkNLWGxwZUM0NlF5WmJYTlhJTU41cU9GdDhJOGx0akwzdGZoYWkwbVh1ZjRBQzBVQlhCcnY5UW0yMHNwMDZIeUh6Ul9rUHl3UUxtZnl2WEZhbDI4U0tkU21KZ1d4aGVIdmIzdmtwLUo?oc=5",
+    "source": "syracuse.com",
+    "title": "Christopher Lambert, 68, receives sweet message from co-star following his hospitalization - syracuse.com",
+    "summary": "Christopher Lambert, 68, receives sweet message from co-star following his hospitalization syracuse.com",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: health (hospital)",
+      "source age: 30.5 days"
+    ],
+    "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

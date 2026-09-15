@@ -2,6 +2,24 @@
   "version": "2.1.0",
   "runs": [
     {
+      "started_at": "2026-09-15T18:25:45Z",
+      "finished_at": "2026-09-15T18:25:54Z",
+      "mode": "once",
+      "scope": "core",
+      "entities_checked": 11,
+      "bootstrap_reset": false,
+      "items_checked": 1144,
+      "unique_items_discovered": 938,
+      "baseline_items": 0,
+      "new_events": 2,
+      "qualifying_events": 1,
+      "notification_candidates": 0,
+      "notes_written": 1,
+      "historical_suppressed": 2,
+      "errors": 0,
+      "pruned_bootstrap_notes": 0
+    },
+    {
       "started_at": "2026-09-15T13:49:28Z",
       "finished_at": "2026-09-15T13:49:36Z",
       "mode": "once",
@@ -1060,24 +1078,6 @@
       "notification_candidates": 2,
       "notes_written": 3,
       "historical_suppressed": 62,
-      "errors": 0,
-      "pruned_bootstrap_notes": 0
-    },
-    {
-      "started_at": "2026-09-03T12:58:07Z",
-      "finished_at": "2026-09-03T12:58:13Z",
-      "mode": "once",
-      "scope": "core",
-      "entities_checked": 11,
-      "bootstrap_reset": false,
-      "items_checked": 308,
-      "unique_items_discovered": 298,
-      "baseline_items": 0,
-      "new_events": 22,
-      "qualifying_events": 2,
-      "notification_candidates": 1,
-      "notes_written": 2,
-      "historical_suppressed": 20,
       "errors": 0,
       "pruned_bootstrap_notes": 0
     }

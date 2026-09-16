@@ -1,326 +1,5 @@
 [
   {
-    "id": "80576350f24f101aa67a",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 74,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Sun, 02 Aug 2026 00:26:30 GMT",
-    "captured": "2026-08-27T00:00:36Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LaWVMUWV6UGt1RzJ5TlNVWnM4YThVSDlUQ096eGVuTjJDWHR5Ulo1amhwVXhGTVhRUGdpY1R5dmlyQVhCcF9YNHF4d1J1dw?oc=5",
-    "source": "IMDb",
-    "title": "Henry Cavill's Unofficial James Bond Prequel Sets Free Streaming Release Date - IMDb",
-    "summary": "Henry Cavill's Unofficial James Bond Prequel Sets Free Streaming Release Date IMDb",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "event: highlander_production (release date)",
-      "source age: 25.0 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "99abf68ab6e73345a951",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Thu, 16 Apr 2026 07:00:00 GMT",
-    "captured": "2026-08-27T00:00:36Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EdmI1elZEZXBwdHdON2NfN3FsSkZwQlVyd29GS0NxRkRNTmRZMVJHbUIyNzZjNzJGanNLcGRXSXNwMTc4NU84Ymt5d1ZsOVFvbmJSajVqSDk4NVU5WFpTUEZVX2NCbktiN0NZSllB?oc=5",
-    "source": "tbreak.com",
-    "title": "First Highlander reboot footage shows Henry Cavill facing Dave Bautista's Kurgan at CinemaCon 2026 - tbreak.com",
-    "summary": "First Highlander reboot footage shows Henry Cavill facing Dave Bautista's Kurgan at CinemaCon 2026 tbreak.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "source age: 132.7 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d5e91c15abe4f0f517c3",
-    "entity_id": "chad_stahelski",
-    "entity": "Chad Stahelski",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 80,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "reboot director"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 06 Mar 2024 08:00:00 GMT",
-    "captured": "2026-08-27T00:00:36Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVd4Tml1Z1R1T2JzNm5Jbm9uenhhbUtnbWRNazNhUTFrWWpKSGJ0RDZXa193ZGVhblRYaDlGTmxhODcxa0FVUmgwLVhqWmJqaGJDdEtka0Nzamt3anktYVhDV21GWDh1Z0dIaVo0TGJJTWxFUVBlTGNnMWNaWHNVNGtheFlVeENw?oc=5",
-    "source": "Deadline",
-    "title": "Lionsgate Signs First Look Action Movie Deal With Chad Stahelski - Deadline",
-    "summary": "Lionsgate Signs First Look Action Movie Deal With Chad Stahelski Deadline",
-    "evidence": [
-      "matched entity: Chad Stahelski",
-      "event: death (dead)",
-      "source age: 903.7 days"
-    ],
-    "score": 80,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "cf46695f2c5a6f76ab54",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Sat, 08 Aug 2026 07:00:00 GMT",
-    "captured": "2026-08-27T13:02:36Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX1FHWWVFOE5iUmtDdzNqRUxNUmF2YU5ORksyakNuVVF0dnl2LXRTVHhlb2ZBUTlPeGhLSHMtVm0tQzFGVDRWU0FVbXNOdU1ESFRZX3pGMTVLamgxb2hGN1dqcHJDRjdLTTM1d01UNmR6SUd1dVdtVDZnMGpfVVloVjYzMWo5YjVrUEdHR3Q3Ukc0bGMtOVozTHFFMUprQQ?oc=5",
-    "source": "Yahoo",
-    "title": "Russell Crowe’s Been Hitting The Gym With Drew McIntyre For Highlander, And Holy Guns - Yahoo",
-    "summary": "Russell Crowe’s Been Hitting The Gym With Drew McIntyre For Highlander, And Holy Guns Yahoo",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 19.3 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "d9a682a0e5f1fd1317a2",
-    "entity_id": "christopher_lambert",
-    "entity": "Christopher Lambert",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_lambert",
-        "name": "Christopher Lambert",
-        "kind": "person",
-        "roles": [
-          "actor",
-          "Connor MacLeod"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II",
-          "Highlander III",
-          "Highlander: Endgame"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "actor",
-      "Connor MacLeod"
-    ],
-    "franchise_titles": [
-      "Highlander",
-      "Highlander II",
-      "Highlander III",
-      "Highlander: Endgame"
-    ],
-    "event_type": "other",
-    "source_date": "Wed, 26 Aug 2026 23:46:53 GMT",
-    "captured": "2026-08-27T13:02:36Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMGxkSmRwSGJaTDU5dk1qYkxaQ2FVUHdqQ3pWU2ZJWlM1TndQdDRkX1pNNjAySHl2S1ItcFVYaEROckN0MzRrY0x6aWFQS3VoRjl3QWlKbTJkVEhKZF9Pa0RDMkk4Tm4yQU9nOU85QmFvcnFYZTRKQ0taTldIbG1iQy1qc3N1ektDVm9lSXY3NnlPbG52dks2NW9sZWNkQlZuNFlQLXJ0ZTVwRFlxVnk2bGhVLWxMclc2dk1TSDhSUU5teTF2Q0pjR1BNc2c2eVRaVHhVMnNyTUZnN1hNTmQwQlY1U2RweURudkVOUE1NU2plUGRZaXc?oc=5",
-    "source": "Scenestr",
-    "title": "Highlander’s Christopher Lambert Joins The Scoundrolls, Resident Alien Stars And More For Supanova Adelaide And Brisbane - Scenestr",
-    "summary": "Highlander’s Christopher Lambert Joins The Scoundrolls, Resident Alien Stars And More For Supanova Adelaide And Brisbane Scenestr",
-    "evidence": [
-      "matched entity: Christopher Lambert",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 0.6 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "4fe17c2395777c80ee75",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Tue, 17 Feb 2026 17:53:30 GMT",
-    "captured": "2026-08-27T13:02:36Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EZWgwYWhsanZadGwzSEU5ZEg3dzZWT2ZDcGVMTWFoSm8teEtoSUlIYnhWLUwzb2VZem5nSUhxbnF2WWJ2ZmdXM1NTS25oYWNnZ0YwX1RfTUdXNFJjRXFjbktWODhZVjRvZ1dCaWszTF90OGs?oc=5",
-    "source": "IMDb",
-    "title": "Highlander (1986) - IMDb",
-    "summary": "Highlander (1986) IMDb",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 190.8 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "d9c68e033f41148abad6",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56929,6 +56608,308 @@
       "source age: 0.1 days"
     ],
     "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "d01859746862611234a0",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 13 Aug 2022 07:00:00 GMT",
+    "captured": "2026-09-16T07:52:32Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xMWdyckxsSlhfQ1NNR2VhakNCb2JGTVZIN0FlQnd0dU1UTklRMHU5T2lvcGxpeFJhVUVaU3lwX3d6X190azhmelhwSHVmYW5heGFrVUhJQnB0SWJTWUVwWXd2UWozQ1h2dXc?oc=5",
+    "source": "screenrant.com",
+    "title": "The Highlander Movies, Ranked Worst To Best - screenrant.com",
+    "summary": "The Highlander Movies, Ranked Worst To Best screenrant.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 1495.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "90dab0e570bcbca7453d",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 16 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-16T07:52:32Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MHRVNlJEWE42Mlk1ZU15TUR0djJ6Y3I3UEp3TnRWOEItcWRsdW1TWGNiUlN3THpaaFJmdUpCYlctSUsxSGJRYnhQUjRrZ2NaMnhZU09Ob1p2Y1FEZUxacTRsRFRXNmF2S0NwNnJvdmM5SC1BZVZj?oc=5",
+    "source": "pk.ign.com",
+    "title": "First Highlander Footage - pk.ign.com",
+    "summary": "First Highlander Footage pk.ign.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 153.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "05cc486915e71173cd41",
+    "entity_id": "russell_mulcahy",
+    "entity": "Russell Mulcahy",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "russell_mulcahy",
+        "name": "Russell Mulcahy",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II"
+        ],
+        "score": 91,
+        "event_type": "interview"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 86,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II"
+    ],
+    "event_type": "interview",
+    "source_date": "Fri, 23 Nov 2018 08:00:00 GMT",
+    "captured": "2026-09-16T07:52:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4QThSdkZiNUZkZ3B4YU4wbnFfMGw1bFlPYjU4OG1xakhUNHR0Rnp3S0xsd0V2Mks2RjZSQllKWV9DbEVuWUlZUFBB?oc=5",
+    "source": "YouTube",
+    "title": "Russell Mulcahy interview in ITALY, about HIGHLANDER movie (1986) part.1 - YouTube",
+    "summary": "Russell Mulcahy interview in ITALY, about HIGHLANDER movie (1986) part.1 YouTube",
+    "evidence": [
+      "matched entity: Russell Mulcahy",
+      "explicit Highlander reference",
+      "context: Highlander, interview",
+      "event: interview (interview)",
+      "also matched: Highlander (86)",
+      "source age: 2854.0 days"
+    ],
+    "score": 91,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "421672e67efb6c6e1556",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 17 Feb 2026 08:00:00 GMT",
+    "captured": "2026-09-16T07:52:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHJkRUU0SGhyUVlsY0ZpdzRwQllyOXB2VlpZQWxNMnN3eUs0QzBBUjQtMk9VMnBYVE5EYTRhb3FIQXk0LVBRNjItdl9vQzBJZlEzTEtkWkNTVG9sZ3JrMFBGdkVfTGxVempJTHZYUXVjdlU5OEpBWmEtLUZVQXNjM0lwMFQ4TTNsZ3g0MmdR?oc=5",
+    "source": "MovieWeb",
+    "title": "Henry Cavill Is Blood-Soaked in New Look at Long-Awaited Reboot of Action Fantasy Cult Classic - MovieWeb",
+    "summary": "Henry Cavill Is Blood-Soaked in New Look at Long-Awaited Reboot of Action Fantasy Cult Classic MovieWeb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 211.0 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "3b1d71b3bfad6b517e0a",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 15 Sep 2026 20:23:00 GMT",
+    "captured": "2026-09-16T07:52:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVVFQnZJQVhVcUc1OVB5TVdsWFdkRjVlOEd4d1pFOTg4bUloZjNBYUQwY1RyekNLcjJmWmdlSmc5TEdVSU80TDVVd3VoR2lhR1ZlNkp5LWE1YXhxb05uYnc5WWU2YXlfR1U5M0VZVW9jdmQxNERhTmMwbER2ZFBiMC1qVms5RXpSQzcxbGpiYVBiblFjWDlEbTZZMFlPS3otMWMwMWc1eHdrVHJkSTVJ?oc=5",
+    "source": "nj.com",
+    "title": "Kevin Hart and Henry Cavill spotted filming a Netflix spy comedy in Red Bank - nj.com",
+    "summary": "Kevin Hart and Henry Cavill spotted filming a Netflix spy comedy in Red Bank nj.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: filming",
+      "event: highlander_production (filming)",
+      "source age: 0.5 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "0f7e42fff7a1b12d47b9",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 60,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "new_project",
+    "source_date": "Wed, 16 Sep 2026 02:07:00 GMT",
+    "captured": "2026-09-16T07:52:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUWNQOTJmaWwwMXZ3cFpOLVZzdG53NEFYN0cxUURjTGZOekJMYWF4V0RpalFlY2FGQVY2dnh0VlVWekk1bUk0Yld3dFNCZWZDT1dlOXRMTHg2cnlwWXduNW9KNGRYVk1UcC14VS01UXd1UnpMMWdacnRlaFRybGcwUUJVSnRnZko3WW5keC1YT1RzYXZ2ZDNqSjN3?oc=5",
+    "source": "Yahoo",
+    "title": "Fact Check: Henry Cavill Has NOT Been Announced As Next 007 James Bond -- Claim Originated On Parody Account - Yahoo",
+    "summary": "Fact Check: Henry Cavill Has NOT Been Announced As Next 007 James Bond -- Claim Originated On Parody Account Yahoo",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: new_project (announced)",
+      "source age: 0.2 days"
+    ],
+    "score": 60,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"

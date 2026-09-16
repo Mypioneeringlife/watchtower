@@ -1,159 +1,5 @@
 [
   {
-    "id": "b1ddc8076e8783850916",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Sun, 28 Dec 2025 14:34:29 GMT",
-    "captured": "2026-08-27T13:02:36Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NeDZ2b3N4cTZXM2tDOWtNMlJTcUFMWVI2cDBDZUhqVmxTbkJoYUFxSkhPMm9RMmF4NzA4WnEyc0R1emI5MjZaUS1BT3dmbnZidk15RTJB?oc=5",
-    "source": "IMDb",
-    "title": "Henry Cavill's 'Highlander' Reboot Gets Exciting Release Update From Director Chad Stahelski [Exclusive] - IMDb",
-    "summary": "Henry Cavill's 'Highlander' Reboot Gets Exciting Release Update From Director Chad Stahelski [Exclusive] IMDb",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "also matched: Chad Stahelski (100)",
-      "source age: 241.9 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "da195c0fd9daf1ee7ea9",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Wed, 28 Jan 2026 17:40:40 GMT",
-    "captured": "2026-08-27T13:02:36Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1pfeTVOQU5pSTlYRHNodXNmTjM0c0NKNHJ4WTQ1aThaQUUyY1hpZW83dmEweXQ3UGNpY3pSaVZwcnNHX0pLb0ttU2g0aDFOck43T2lkcHZRaU5CY0tGcUE2OGdyaGRLbXVxQzRIY0lzdVFmVS14Mlg0Yk9GY3p3aVJlSUtXNHhBemJZdjFnUXZRaFpKMUN2eHJvMVFFbmVjdGYtRUdGMWxMeTRkVVB5bE5OMnc0YjN4R2U1Mw?oc=5",
-    "source": "Comic Basics",
-    "title": "Henry Cavill Goes Full Warrior in First Look at Chad Stahelski’s Explosive ‘Highlander’ Reboot - Comic Basics",
-    "summary": "Henry Cavill Goes Full Warrior in First Look at Chad Stahelski’s Explosive ‘Highlander’ Reboot Comic Basics",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "also matched: Chad Stahelski (100)",
-      "source age: 210.8 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "1fd58b01e588fd6ca667",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56930,5 +56776,122 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "0244df0b0c152c5953db",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 78,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 22 Aug 2022 07:00:00 GMT",
+    "captured": "2026-09-16T18:22:25Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jUl9pNnBlc2NjZFJuQTZrbFZKVmE5YU9tV29kUTVMLUhnSnJwbjA0QUdnNk9NZEdwLWo2aWl5eVRLTFhvWlBqRG16eVdqRDJFYnNjWFFMV2gzTkRreTFBdTB3VGM5WHFWMmJPeXR0QzhiWC1seHQxSVF3?oc=5",
+    "source": "screenrant.com",
+    "title": "How Highlander Finally Killed Christopher Lambert's Connor MacLeod - screenrant.com",
+    "summary": "How Highlander Finally Killed Christopher Lambert's Connor MacLeod screenrant.com",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander, Connor MacLeod",
+      "also matched: Highlander (74)",
+      "source age: 1486.5 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "694ccfe4aefc90bb5c71",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 16 Sep 2026 12:42:13 GMT",
+    "captured": "2026-09-16T18:22:25Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYXl4T250NDdqbXdCU1NpSk53V0FBQmFqQTZnWkVMbkxvbWtlcmhQR2ROWjBFY1NlZ0dRSHJGWFlneUEyQ2VWeTNWWFF0V2hHdmk5bE9MVzJJb195cWZiNTBLemZYMnRLbXBMcEpsMDZTNWtYYTYwaE93SW9OdGhPWWdQTlhuVmo5R0tzYUN5TFlzRE8zM0E?oc=5",
+    "source": "bleedingcool.com",
+    "title": "Exclusive: Highlander Comic in Titan's Official December 2026 Solicits - bleedingcool.com",
+    "summary": "Exclusive: Highlander Comic in Titan's Official December 2026 Solicits bleedingcool.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 0.2 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

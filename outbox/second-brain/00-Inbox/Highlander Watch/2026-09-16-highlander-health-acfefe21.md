@@ -1,0 +1,37 @@
+---
+title: "Highlander star drops out of fan event after collapsing in medical emergency - au.news.yahoo.com"
+type: "Highlander Watch"
+status: "Inbox"
+entity: "Highlander"
+event_type: "health"
+source: "au.news.yahoo.com"
+source_url: "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IZndOSGNBZ1ZtWW83X3RkU0RFQ0NsZHVDY3BLWGRKelE4NmFaNHNuajVnMjVPYlA5NUpwWVM0dXQyeWtLcDEtX2VpbEtTSDVsUDk3TWxXRzRLcWRwN1FTVEpEaVhaaHB3dnM0eGFYOWtodFpPUWNzUFNwZlc?oc=5"
+source_date: "Sun, 09 Aug 2026 07:00:00 GMT"
+relevance_score: 100
+route: "Corrupted Chronicle research"
+notify_candidate: false
+tags:
+  - highlander-watch
+  - corrupted-chronicle
+---
+
+# Highlander star drops out of fan event after collapsing in medical emergency - au.news.yahoo.com
+
+## What changed
+
+Highlander star drops out of fan event after collapsing in medical emergency au.news.yahoo.com
+
+## Why it surfaced
+
+- matched entity: Highlander
+- explicit Highlander reference
+- event: health (medical)
+- source age: 38.3 days
+
+## Recommended handling
+
+review for Corrupted Chronicle coverage.
+
+## Source
+
+https://news.google.com/rss/articles/CBMifEFVX3lxTE1IZndOSGNBZ1ZtWW83X3RkU0RFQ0NsZHVDY3BLWGRKelE4NmFaNHNuajVnMjVPYlA5NUpwWVM0dXQyeWtLcDEtX2VpbEtTSDVsUDk3TWxXRzRLcWRwN1FTVEpEaVhaaHB3dnM0eGFYOWtodFpPUWNzUFNwZlc?oc=5

@@ -1,67 +1,5 @@
 [
   {
-    "id": "45f87ac362fec75eaa3e",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "health"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "health",
-    "source_date": "Thu, 02 Oct 2025 07:00:00 GMT",
-    "captured": "2026-08-29T22:45:16Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWRDMVczWTBManFwQ3Vub2JWdUo4cWJycnZoRlJmS3dqcVgtYVBSV2hGZFVvQ0lzd2VURmpyNnZPWWliNlpRT3lrZVJ1MDFMS0NhUkFXN0NtWjFYX01JcVJvVXFUbDBDcUdoSzhpM2p4VS1aOGI2TFVIaHpkM3pXeV9PcGc0WHpjcU5kbGoyRXZveTFydkgzSg?oc=5",
-    "source": "Nerdist",
-    "title": "Henry Cavill Shares Photos of HIGHLANDER Training Injury and Recovery, Production Delayed to 2026 - Nerdist",
-    "summary": "Henry Cavill Shares Photos of HIGHLANDER Training Injury and Recovery, Production Delayed to 2026 Nerdist",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: health (injury)",
-      "also matched: Henry Cavill (100)",
-      "source age: 331.7 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "41e95509a82859942b31",
     "entity_id": "henry_cavill",
     "entity": "Henry Cavill",
@@ -56879,6 +56817,69 @@
       "source age: 149.0 days"
     ],
     "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "4f101eb4d601bec52eaa",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 22 May 2021 07:00:00 GMT",
+    "captured": "2026-09-17T23:01:30Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ycEZQc21pRVZDcWlnMW5TbU9LSE9DSC1vSlhoZHFiVFRRSGZIeHV5ZFk0NUhLbFhld2pxWWF2RXlud0VFTThMaUpNcGxqdFR3SFRPdWM4MTkwR29wV0NBaU1R?oc=5",
+    "source": "MovieWeb",
+    "title": "Henry Cavill Is Highlander in Lionsgate's Reboot - MovieWeb",
+    "summary": "Henry Cavill Is Highlander in Lionsgate's Reboot MovieWeb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot, Lionsgate",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 1944.7 days"
+    ],
+    "score": 100,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

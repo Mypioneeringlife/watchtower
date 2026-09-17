@@ -1,137 +1,5 @@
 [
   {
-    "id": "3f55678896b8e4c7fbaf",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Tue, 10 Mar 2026 14:18:17 GMT",
-    "captured": "2026-08-28T23:38:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAycEV0YnRvN0dvWERJbWpqcXBIVmtVbEJGaGl0SENsTllOdjdLLVBNWmZZUldVQmdpVklWYWlYaWNRMmdKZWNkNnBPaXlpOXhxZnc?oc=5",
-    "source": "IMDb",
-    "title": "Henry Cavill in Early Talks for Chad Stahelski’s ‘Highlander’ Reboot - IMDb",
-    "summary": "Henry Cavill in Early Talks for Chad Stahelski’s ‘Highlander’ Reboot IMDb",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "also matched: Chad Stahelski (100)",
-      "source age: 171.4 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "cfbb6a56b79daa0a6686",
-    "entity_id": "christopher_lambert",
-    "entity": "Christopher Lambert",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_lambert",
-        "name": "Christopher Lambert",
-        "kind": "person",
-        "roles": [
-          "actor",
-          "Connor MacLeod"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II",
-          "Highlander III",
-          "Highlander: Endgame"
-        ],
-        "score": 76,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "actor",
-      "Connor MacLeod"
-    ],
-    "franchise_titles": [
-      "Highlander",
-      "Highlander II",
-      "Highlander III",
-      "Highlander: Endgame"
-    ],
-    "event_type": "health",
-    "source_date": "Sun, 16 Aug 2026 07:00:00 GMT",
-    "captured": "2026-08-29T00:01:02Z",
-    "urgency": "normal",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1BuZGZ3TVNJTm9aRjlzRUx6cmZjaG5jY0c2OUhtY1A0QnZRd2E2SEJOdU81ZG9BNElxaDBJRkg0MndmLWVVZWJTa2VSaXBCZ1U1aWlVRWdtWl8xalNPN0NwVjZTV2dJeDlHOVFLMkNvQ3Bicl9BamZGajNNTk1zMUJpdGFITHdfRVNtRFdFdWlCdmlyX1VGVTdSWWMydDJRcjZ0RmU2SE5JRE0?oc=5",
-    "source": "Yahoo",
-    "title": "Christopher Lambert, 68, receives sweet message from co-star following his hospitalization - Yahoo",
-    "summary": "Christopher Lambert, 68, receives sweet message from co-star following his hospitalization Yahoo",
-    "evidence": [
-      "matched entity: Christopher Lambert",
-      "event: health (hospital)",
-      "source age: 12.7 days"
-    ],
-    "score": 76,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": true,
-    "status": "new"
-  },
-  {
     "id": "d606db87029d29be6328",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56916,6 +56784,116 @@
       "source age: 232.0 days"
     ],
     "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "8f4d997cf4241f021271",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 03 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-17T13:44:02Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWTNKMGNQYk5DdlVlWTA4dE15dFFla2p4SXpMOHpOOGthQ18xMXQxYzNUOGQ5VWNvekJZMnJZTHRMMzV2US03b0dXY0tJdEpsTndqdlJfbk5KTURkTmxYOEVfYWsyRFBBdS1BR2tNVV9weEk1NWlMSl9uaXNPRjNmMUFYR21Cc3FiRmtsc1ZocVhsdF8ybDRqc2dFTzExazIwZUlpNGdPcnl3dmJSZkdsRTQxQk9DbTVOcV9NSmQ2LUtmTmdNRUh5emw0UVNsaW1vTXlQaGlsMA?oc=5",
+    "source": "comicbookmovie.com",
+    "title": "HIGHLANDER Star Siobhán Cullen Teases \"Insane\" Fight Scenes And A New Take On Franchise's Female Lead - comicbookmovie.com",
+    "summary": "HIGHLANDER Star Siobhán Cullen Teases \"Insane\" Fight Scenes And A New Take On Franchise's Female Lead comicbookmovie.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 167.3 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "23819fb15a8eb509830c",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 22 May 2021 07:00:00 GMT",
+    "captured": "2026-09-17T13:44:02Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUFyX3FJUGlPQ25nS2Zxb1RBTnB1ck1fOG5uSFVmRWk1RVNQUEFxWjl3ZnlUN01naWFkM01sNUJZX21EMEIzbFZfT1NhRUVaak55T1lUWkkwWDRKTDdnaGRNT3NPVm5LdFl1UWhHVS0zUHllTTVEbnhMYnY3ZXdTMmE3NUx3LVZFSUdneEpPTWVRMzRGTTY3Y0dpZllPTkdrZ0J1Mmk1dFU0UQ?oc=5",
+    "source": "ComicBook.com",
+    "title": "Henry Cavill Calls Highlander Reboot an \"Opportunity Like No Other\" - ComicBook.com",
+    "summary": "Henry Cavill Calls Highlander Reboot an \"Opportunity Like No Other\" ComicBook.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 1944.3 days"
+    ],
+    "score": 100,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

@@ -1,192 +1,5 @@
 [
   {
-    "id": "41e95509a82859942b31",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "other",
-    "source_date": "Fri, 19 Sep 2025 07:00:00 GMT",
-    "captured": "2026-08-29T22:45:16Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2NhQ09ZbnpBZGs4b3JkNE5fbTFuY1B5M0ZSSkI1dFVfQVVFem5lOUJ1WWtmS1NYcWJuU211M1d1dWdKZ3hHS0xOOGd4QThTLXUzNHZsOVExQWF3eXozLWNibDFRcS1LenhJSEdkNTF3TFZFMHFiY2NlaXpEWEp4OGZQa21ISmR1?oc=5",
-    "source": "Collider",
-    "title": "Henry Cavill Confirms 'Highlander' Delay - Collider",
-    "summary": "Henry Cavill Confirms 'Highlander' Delay Collider",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 344.7 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "1bc6ca7f2fe62e9b5ec7",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "health"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "health",
-    "source_date": "Fri, 19 Sep 2025 07:00:00 GMT",
-    "captured": "2026-08-29T22:45:16Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZmVlQ213ZkZ3R285U3dnMW0wNDU0SVJpckl3Z2pCcTZYVUVSc014azFhYUZPaDdtaVlYUG90MDE1eDdUOFNocHpJVTc5TXFlZkNzbUhsdy1VWVBRNnRFMDJCYUI0Tmw4S2tPMFgzN296aS1FUEJkUWhMT0U3QnVVRHl1TQ?oc=5",
-    "source": "People.com",
-    "title": "Henry Cavill Breaks Silence After Suffering Leg Injury While Training for 'Highlander' - People.com",
-    "summary": "Henry Cavill Breaks Silence After Suffering Leg Injury While Training for 'Highlander' People.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: health (injury)",
-      "also matched: Henry Cavill (100)",
-      "source age: 344.7 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "8c07715752efd0d86a02",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Tue, 16 Sep 2025 07:00:00 GMT",
-    "captured": "2026-08-29T22:45:16Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZUVxM0wyTGNEMzd4QUxqLXF6bVBwQ2Z3SDV5dmdPY0FuQllCMWNwWkJGSG5obzVKMU9OeDNjVHpEMnM1TWFTMld1TjBpbl9jOUtReXhiQ1JidUpGcF84MWRoYzBaVmtqeFZ1SUtEYW1HYVFIS292S0hiT0ZMU2U2T2hyMDVkQnpiS1pNeW5NQjJiMVhsVVB5ZW1GMU5mSm5BVjBCakJCQVZDaEU?oc=5",
-    "source": "Collider",
-    "title": "Dave Bautista Hypes Up Henry Cavill’s ‘Highlander’ Reboot: “The Action Is on Par With John Wick” [Exclusive] - Collider",
-    "summary": "Dave Bautista Hypes Up Henry Cavill’s ‘Highlander’ Reboot: “The Action Is on Par With John Wick” [Exclusive] Collider",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "source age: 347.7 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "2192ffc200ce189c8249",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56880,6 +56693,179 @@
       "source age: 1944.7 days"
     ],
     "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f759097df974c41e7537",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 98,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 16 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-18T07:35:03Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVk55MXREdTVVSWZ3UnZEalkybW14b2JzTTNSTExBcXp0UXQxWDFjNk1IdWkzR3R3OUQ3VExjWUFYVXpwNVhweFpzeGhDU1NVenU4Z09EWl9tNGpEMXA3bVhBRzdIR3oydFdYWXh5YU83VXVfRk9NZkNOR2prSEZ0RHd5Zw?oc=5",
+    "source": "cosmicbook.news",
+    "title": "Henry Cavill’s Highlander Reveals First Look At Karen Gillan As Scotland Filming Continues - cosmicbook.news",
+    "summary": "Henry Cavill’s Highlander Reveals First Look At Karen Gillan As Scotland Filming Continues cosmicbook.news",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, filming",
+      "event: highlander_production (filming)",
+      "also matched: Highlander (98)",
+      "source age: 155.0 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "199a80b1c34432332b90",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 09 Feb 2026 08:00:00 GMT",
+    "captured": "2026-09-18T07:35:03Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOW5ieFJDSUdGS1U4MUpKSXhtbTJOMnBlMzdQZ2lpZDRadEFKQUNsU09jb290bnRncWpiTFotTW5BWjV5eDdPMjdlbFFnYnJucjJkMXB3OWo0RUFDTVItYW1uQTc4VzdFWURLcEFzSFlUeGlmNkJHNXg2UmNpaHNUY09rUXROQQ?oc=5",
+    "source": "cosmicbook.news",
+    "title": "Highlander Reveals Henry Cavill in Action, First Look at Dave Bautista as Kurgan - cosmicbook.news",
+    "summary": "Highlander Reveals Henry Cavill in Action, First Look at Dave Bautista as Kurgan cosmicbook.news",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 221.0 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "2dce3e487550db0d03dc",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 16 Feb 2026 08:00:00 GMT",
+    "captured": "2026-09-18T07:35:03Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLTN0WnJ4cFN5eGpTR0lLT09acTlDdDVkczE0SGpHUzdFVHBCdlM4bTc4WVR1SDhaWm1NSTFTdFVqQkNNTmhrQzVxcTNWdDJOYXdyYjZxbng5bjVlcFhEYWZXclFKRGoxN3ljVWJSeU5kWnBWN1RSWWswdThQRlFYYktfbjFhSVRsbTdwMzlUdnN0clEzektoN3ZmdC1FdjZWM19PemFvTnhFNHU0VFJvalpCNFFva2RXZ2FXRUFIOFhyakk?oc=5",
+    "source": "GeekTyrant",
+    "title": "HIGHLANDER Set Video and Photos Reveal Dave Bautista’s Kurgan and a Brutal Connor MacLeod Showdown - GeekTyrant",
+    "summary": "HIGHLANDER Set Video and Photos Reveal Dave Bautista’s Kurgan and a Brutal Connor MacLeod Showdown GeekTyrant",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Connor MacLeod",
+      "source age: 214.0 days"
+    ],
+    "score": 74,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

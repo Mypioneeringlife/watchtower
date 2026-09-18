@@ -1,68 +1,5 @@
 [
   {
-    "id": "2192ffc200ce189c8249",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Fri, 05 Sep 2025 07:00:00 GMT",
-    "captured": "2026-08-29T22:45:16Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxMXRoWEt3eHFOZWtBZmNPenB1eURWNVgtd29jUU84Y0xMMlI5QkwzX3NCU3B1eVkxNmR3YjRuejNsN3kxaTY3QlNWUHJnRGtxbE9FQ2pCVUY3ZW9yUHI4N0EtdzkyQmROcjZQazF0clRveUhQZlFuWndFNzM?oc=5",
-    "source": "Collider",
-    "title": "Yet Another Guardians of the Galaxy Star Joins Henry Cavill's 'Highlander' Remake - Collider",
-    "summary": "Yet Another Guardians of the Galaxy Star Joins Henry Cavill's 'Highlander' Remake Collider",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: remake",
-      "event: highlander_production (remake)",
-      "also matched: Henry Cavill (100)",
-      "source age: 358.7 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "cdb8081ff61b4e604e25",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56864,6 +56801,54 @@
       "explicit Highlander reference",
       "context: Connor MacLeod",
       "source age: 214.0 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "a6ce58dad5f5d9e24f88",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 16 Feb 2026 08:00:00 GMT",
+    "captured": "2026-09-18T13:06:52Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLTN0WnJ4cFN5eGpTR0lLT09acTlDdDVkczE0SGpHUzdFVHBCdlM4bTc4WVR1SDhaWm1NSTFTdFVqQkNNTmhrQzVxcTNWdDJOYXdyYjZxbng5bjVlcFhEYWZXclFKRGoxN3ljVWJSeU5kWnBWN1RSWWswdThQRlFYYktfbjFhSVRsbTdwMzlUdnN0clEzektoN3ZmdC1FdjZWM19PemFvTnhFNHU0VFJvalpCNFFva2RXZ2FXRUFIOFhyakk?oc=5",
+    "source": "geektyrant.com",
+    "title": "HIGHLANDER Set Video and Photos Reveal Dave Bautista’s Kurgan and a Brutal Connor MacLeod Showdown - geektyrant.com",
+    "summary": "HIGHLANDER Set Video and Photos Reveal Dave Bautista’s Kurgan and a Brutal Connor MacLeod Showdown geektyrant.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Connor MacLeod",
+      "source age: 214.2 days"
     ],
     "score": 74,
     "route": "Corrupted Chronicle research",

@@ -1,53 +1,5 @@
 [
   {
-    "id": "5e20ab1efcab302d4d90",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 78,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Thu, 31 Jul 2025 07:00:00 GMT",
-    "captured": "2026-08-29T22:45:16Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQzFRTVlhWVRMS0ptS3F3OHFSN253MFUwakhiOXd5b1NyWTNiVWFVOXo2YTNxRG1WWlJGODdTVkl6MndUNHNQRDdXcGIzdDlvdHBxZ1BGcEVQakJMOGpTWWp6MzI2UkZzZC1XTTJ4M2pNSE11T0xXQjdwY2xiYTRLejh4OGYtNUpWT1lTYw?oc=5",
-    "source": "MovieWeb",
-    "title": "Henry Cavill Hypes up His Long-Awaited Reboot of Iconic '80s Action Franchise - MovieWeb",
-    "summary": "Henry Cavill Hypes up His Long-Awaited Reboot of Iconic '80s Action Franchise MovieWeb",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "source age: 394.7 days"
-    ],
-    "score": 78,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "9534c8edb5010a7c20f3",
     "entity_id": "henry_cavill",
     "entity": "Henry Cavill",
@@ -56844,6 +56796,55 @@
       "source age: 96.5 days"
     ],
     "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "27aa0fa41bcecad39b60",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 31 Aug 2023 07:00:00 GMT",
+    "captured": "2026-09-18T18:29:41Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZzhhX2xqdDlqUWpBYTV5dGNBNUI3UlpNelAxYUhDV1FzWFBKdnR2a3NQRmpiZV81Z3NOSThDa2RZd3ExLWtjdDZzc0N3eXJELTFWVDA3dU83LTJDN183NERxaS1yVWNMejJYNTdhNlJNbjY0ckxaZUhvZXMxLXo4b3B3ck54TmtTekNxS0dFU0hZYi1QTlI3YVQyaGZ1ekpTcGpxNEFfVTdYQVZyNE9zQTlGeVlFcFRELWV2TVg1aFVDZm1vQ0lETmx4SDM?oc=5",
+    "source": "animatedtimes.com",
+    "title": "Highlander Reboot: Cavill and Stahelski Update - animatedtimes.com",
+    "summary": "Highlander Reboot: Cavill and Stahelski Update animatedtimes.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 1114.5 days"
+    ],
+    "score": 100,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

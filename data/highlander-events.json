@@ -1,52 +1,5 @@
 [
   {
-    "id": "1488d4b134e5c92df158",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Wed, 27 Dec 2023 08:00:00 GMT",
-    "captured": "2026-08-30T08:30:35Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlg1d21vR3ZDV2F0Wk0xaER4S1RyRVlqQmdKeV9tVkp2VTVvNUdnRFRzWTR3X0ItZUZaT1ozUHFtb0JXYVFtM18wUUo0bENmMTZPczgyZHF6c0pkX3ZmOGo1Y21UQmlGQi1SYUR2X0lBOXliMjdCVUV2THoyTzE3dWJPU0Y3aVpHWTNoUGYyaG8xekNBVjJSbFBmdlo5anl1?oc=5",
-    "source": "thepost.co.nz",
-    "title": "Highlander II: One of the worst movies ever is set in a terrifying 2024 - thepost.co.nz",
-    "summary": "Highlander II: One of the worst movies ever is set in a terrifying 2024 thepost.co.nz",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 977.0 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "5e85079fd0b4834e5556",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56817,6 +56770,61 @@
       "source age: 6480.2 days"
     ],
     "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ec645336ea5fe8c5fc7f",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 76,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-19T17:23:12Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMlpNXzRDSy02SkRTOHNjaFNfNVhXeGZFTUVZMVZsOUdFVVloU01lOEVCT0FHV01wSlByU3JrZkhBMWdNeklqRTBiT1BWekZUXzYtVjZMb3lIbFNTMV9YQjdpdUptTnN2R3psNkExSENOckhwaFpndnYtbFFhbl9RdGI5R0JETGF0aVRWZ3BUb2NlZw?oc=5",
+    "source": "ca.style.yahoo.com",
+    "title": "Christopher Lambert 'rushed to hospital' after collapsing at Steel City Comic-Con - ca.style.yahoo.com",
+    "summary": "Christopher Lambert 'rushed to hospital' after collapsing at Steel City Comic-Con ca.style.yahoo.com",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: health (hospital)",
+      "source age: 41.4 days"
+    ],
+    "score": 76,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

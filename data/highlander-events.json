@@ -1,131 +1,5 @@
 [
   {
-    "id": "f2a60465120ced5a3482",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Tue, 30 Sep 2025 07:00:00 GMT",
-    "captured": "2026-08-29T22:45:16Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMGg5Z1hGaGJreXFFbjM4ZTJHWktpUmNIWWZoWHhqQ1EyZ1VXamN1RmVMYzROOGlOT3pKcEpDQXNicnJYRDFZNTFxU3JKd0Z4OWZ3bHdSb01HNWcwY2pFV0xiUXZ0S3pnZWp1UUtPVmpSZS0xcHlRRUxveVRjM2J4RWZack5SYmpZcGxBY0tYWnRTb3hDdC1tUl9RdHlhSTVNMHd2RW1Ob2xJRE0?oc=5",
-    "source": "Cinemablend",
-    "title": "The Highlander Reboot Just Set Up Another DCEU Reunion For Henry Cavill With Latest Casting, And I’m Excited - Cinemablend",
-    "summary": "The Highlander Reboot Just Set Up Another DCEU Reunion For Henry Cavill With Latest Casting, And I’m Excited Cinemablend",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot, casting)",
-      "also matched: Henry Cavill (100)",
-      "source age: 333.7 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "6fd74e4942e5291c75c2",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Fri, 16 May 2025 07:00:00 GMT",
-    "captured": "2026-08-29T22:45:16Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNUpaYzlIYUlJakx2YlZUUUlEZ0otWVA3dTJYdTBoT0pKbExFcVdzanBJRjNzOTh1ZnB0aEttb1ZEUmM4R2RJdlI0NlpQeUE0SXhYVGxPZzZZcFRXZ1RQdzBQMG5NdHlZVTRJMTJhRUhQRmR6SFhnTEIwdzUySEdLdGM0Zi1IME1ibTlDYk15RzFlLWszYTRXbjNhQTdEOU9qWXJsSHZ3OGxGaG8yWXJRVlZqYzlaRjl1b09XVllLU2QtSUlFUFNMTlg2eUtGdGs?oc=5",
-    "source": "Cinemablend",
-    "title": "I’m Excited For Henry Cavill’s Highlander, But I’m Also Not Surprised By The Alleged Reasons The Reboot Shifted Studios - Cinemablend",
-    "summary": "I’m Excited For Henry Cavill’s Highlander, But I’m Also Not Surprised By The Alleged Reasons The Reboot Shifted Studios Cinemablend",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "source age: 470.7 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "be2bed65de33a373e18e",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56820,6 +56694,145 @@
       "source age: 526.7 days"
     ],
     "score": 58,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "237e4a3e4b5e02f71a73",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 16 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-19T07:31:06Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yOU43WGVRdDNZaU1VR1plcmd4cUtEdTBXQkZSQ2ZBVWdZRVNiblotUHV0cmR2blFScmludUtWMmNlQ1JMcThNM1NLclJZdGo3QjlUd01xTkJlYmh5REdlSVB5U3ZoWnlPTFloRTV6LWRDajZ3?oc=5",
+    "source": "MovieWeb",
+    "title": "'Highlander' First Footage Finds Henry Cavill Battling Across Time at CinemaCon - MovieWeb",
+    "summary": "'Highlander' First Footage Finds Henry Cavill Battling Across Time at CinemaCon MovieWeb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 156.0 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "a6ae0051200bf1e41839",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 01 Jan 1970 00:00:00 GMT",
+    "captured": "2026-09-19T07:31:06Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vUzZWNE51OWZwQWVGOVUwVm1JRnNoaUJtdC04OEJGTGJUdEdISnE3R3R0MzJkUGNYVWc0NlRTWm1Wb1h1RW9yT2dfT081NWkxRnZFSzlsSFlQWkptdnhUYWt1ZWbSAWpBVV95cUxNdlNNNVoxYlFIc3lIU0NzQUZPaHNwZkpra01TNFBZRzlxZXlwaTJ6WTJralh3aXBBbkxMTkVZdWxmUm1zSUVtQjY1LTlpUjVCeVB5UmJQdkFPWk9BUlgtZ3lvMEx4dVlBRzVn?oc=5",
+    "source": "JoBlo",
+    "title": "Karen Gillan to star opposite Henry Cavill in Chad Stahelski’s Highlander remake - JoBlo",
+    "summary": "Karen Gillan to star opposite Henry Cavill in Chad Stahelski’s Highlander remake JoBlo",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: remake",
+      "event: highlander_production (remake)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Chad Stahelski (100)",
+      "source age: 20715.3 days"
+    ],
+    "score": 100,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

@@ -1,68 +1,5 @@
 [
   {
-    "id": "be2bed65de33a373e18e",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Fri, 10 Nov 2023 08:00:00 GMT",
-    "captured": "2026-08-29T22:45:16Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUl0dk5qRkg4TGxlVmlpTmZsdUFhZUNCem9kVmFUUWZBaV9QWkhvS1dSd3hfRnBrU3BCaktqbElpcHczU1R5d3lKV0xTY21pTWFtT3ZNclVPUE1QaXVTczNRRExvbHFuekpyZkphRVNfR1k5R0tBcDFxTGFUXzRNRjU4VmlhQ2tIeFJ2TVRkODlnTEJPLUNWZzR5TlpFU1JNUkpaQW5n?oc=5",
-    "source": "Cinemablend",
-    "title": "I'm Looking Forward To Henry Cavill's Highlander Reboot, But It Looks Like We'll Have To Wait A Long Time For Its Release - Cinemablend",
-    "summary": "I'm Looking Forward To Henry Cavill's Highlander Reboot, But It Looks Like We'll Have To Wait A Long Time For Its Release Cinemablend",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "source age: 1023.6 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "1488d4b134e5c92df158",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56833,6 +56770,53 @@
       "source age: 20715.3 days"
     ],
     "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "9a396067bfed1ddd0164",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 22 Dec 2008 08:00:00 GMT",
+    "captured": "2026-09-19T12:39:43Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZG9MczdFTTdGOXNVaW1MbFQ1ZWdxQUV0TnY0cDl1enBKSnZpTzNSOTV6X2p3aFFMNEJEcGRhRXlpSnhlLVIybHNKWXVMY0dVX1FUcFZzLXJ2MkRxdnk3NVpoaHZyM3REWkF6d0FaUlVjMUhEN3phNUVQWml1NnA1dXp5Tzk2Y21WcGRMb09TVG9Rb2V5U255dUtTdEN2QUVjZXVqRzllTdIBrAFBVV95cUxPTWdPM2xoM2RzUFg2MmxRS2VIbDZuc29qODJwS0Q1T3VGZFN4RzFpMEdUYkFNZG85b2t2TGpQNDFYTFE4OXgzUWtSbGlEUkpCc1ppaVhsUHQ4RGdOZDFWQWprUlJlQ01oX19EN0JkTy1kNld3UHNBMS1zaHB0dFBMazkyM0xOS1hFc1V0VXoyck84aXVYNnFWdXYxVlllMUJIenRreVpITm1kLVlu?oc=5",
+    "source": "Liverpool Echo",
+    "title": "THIS week’s favourite film, Highlander, was chosen by retailer, Rupert Daton - Liverpool Echo",
+    "summary": "THIS week’s favourite film, Highlander, was chosen by retailer, Rupert Daton Liverpool Echo",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 6480.2 days"
+    ],
+    "score": 70,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

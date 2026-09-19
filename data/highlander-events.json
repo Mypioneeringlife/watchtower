@@ -1,225 +1,5 @@
 [
   {
-    "id": "d90ad27e781380b31ef5",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 74,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Tue, 05 May 2026 07:00:00 GMT",
-    "captured": "2026-08-30T13:57:34Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUUJITGRlUUdzX2J1aF83SkVYczhudlRJdFVHeHE5WGU5MjZlel9ydUtUdEh0Z013N2xGREtKOS1BUWgtVExVVXkzcjl5a0RBV1ZIcDgwV3I1Rzd5Wkl0elhEUzFQa1hKNkJIWm1Ya0ZUQ1gwWUhyR0JmTlIxem5icHVYNEw3NGJWMmRvanJJeHFyZmVxNE9mdWYxMDhPVVVLUHdPbTlFNndHTlZaaWdkeXJDTzY5ekh2Nm1vMGFxTEtSd1hCZ0g0QWNmaUhNS0hFT1EzOUhuZXJCUmhfdU5lWnhITnRfZw?oc=5",
-    "source": "ign.com",
-    "title": "Highlander Set Photos Reveal 16th-Century Origins of Connor MacLeod - ign.com",
-    "summary": "Highlander Set Photos Reveal 16th-Century Origins of Connor MacLeod ign.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: Connor MacLeod",
-      "source age: 117.3 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5b7860606f15f9902883",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Wed, 28 Jan 2026 08:00:00 GMT",
-    "captured": "2026-08-30T13:57:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQXlxS3l2WTk0ME5DVWZtX0hrTnRmUGx6bm1QVmc2MGZ1ZFhIajBNa3ZZWUZJS0gyODBNUG1vekhLcnRiZnRqZVY3RjkzQ0JLelZmd0hYTGo3YnZEQ1FZYlRVdGFxWFJTLWVwYnN0WE05Sm54bnBaX256dFlTNFpkZi1SaWRFUzV6alZXRTRQUUhpQjhuUlUtZS1BN2VrUEkxRVBfV2sxWlUzeWZSZWpGcklTZnY3aGl0SWxkTVVSQlM4UDNKVHhjbllMeUlLd0lEZzlTMlE5czdST3pEMDlGbA?oc=5",
-    "source": "ign.com",
-    "title": "Henry Cavill Is Ready to Unsheathe His Sword in First Look at Highlander Reboot From John Wick Director Chad Stahelski - ign.com",
-    "summary": "Henry Cavill Is Ready to Unsheathe His Sword in First Look at Highlander Reboot From John Wick Director Chad Stahelski ign.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "also matched: Chad Stahelski (100)",
-      "source age: 214.2 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "8c0c243d5b123655e08e",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Thu, 02 Apr 2026 14:50:44 GMT",
-    "captured": "2026-08-30T13:57:34Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BWF91aVd2MHFFcHNsT1Joem1uUjk5MHUxd2NKNFZKQ29lZ19wYlVSX3VHNmhPaVhjc3lGTDBMTVJSTTFsVkJJR25LQ3djNWdPM0tzQzhHUdIBXEFVX3lxTE94bWgycmtaa1ZVV3VSU0I0djhJS3E5RmtIdGdBNGRRdTR1RFM4azBSbHB0c0tIaHFrdjNLNUx6UnRROGszNmhDSzlWajltZ0ZuRzVzSUtHNnpac0ly?oc=5",
-    "source": "JoBlo",
-    "title": "The original 1986 Highlander comes to 4K in a region-free Ultra-HD Blu-ray from StudioCanalUK - JoBlo",
-    "summary": "The original 1986 Highlander comes to 4K in a region-free Ultra-HD Blu-ray from StudioCanalUK JoBlo",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 150.0 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d64c3a365876646d139b",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 14 Jan 2020 08:00:00 GMT",
-    "captured": "2026-08-30T13:57:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHc5NnVUMWtjNTFvU3dBekhSRTVrN1pocXNMOENtN1FZVXZyUGpYanMzZnZVZGVjelhMQnprSTlCdXZkd01PMEg1aEtyZl9vTDQzNDA3UzdOWGVjbjZDNlNzdVBjTzhsR2lXS3dnbWw0WXExYVViYTNDVVBzSl9WTGZuNG9JTXpoLXg0VXhLY242aVJES0hj?oc=5",
-    "source": "Bleeding Cool News",
-    "title": "\"Highlander\" TV Series Star Stan Kirsch (Richie) Passes Away, Age 51 - Bleeding Cool News",
-    "summary": "\"Highlander\" TV Series Star Stan Kirsch (Richie) Passes Away, Age 51 Bleeding Cool News",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: death (passes away)",
-      "source age: 2420.2 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "8f02ecfe6fc2ab7656cf",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56826,5 +56606,209 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "0c105abb775e353a5e4c",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 16 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-19T22:26:18Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yOU43WGVRdDNZaU1VR1plcmd4cUtEdTBXQkZSQ2ZBVWdZRVNiblotUHV0cmR2blFScmludUtWMmNlQ1JMcThNM1NLclJZdGo3QjlUd01xTkJlYmh5REdlSVB5U3ZoWnlPTFloRTV6LWRDajZ3?oc=5",
+    "source": "movieweb.com",
+    "title": "'Highlander' First Footage Finds Henry Cavill Battling Across Time at CinemaCon - movieweb.com",
+    "summary": "'Highlander' First Footage Finds Henry Cavill Battling Across Time at CinemaCon movieweb.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 156.6 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "8e2bc86b875a11785fe1",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 60,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "new_project",
+    "source_date": "Wed, 16 Sep 2026 02:07:00 GMT",
+    "captured": "2026-09-19T22:26:18Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUWNQOTJmaWwwMXZ3cFpOLVZzdG53NEFYN0cxUURjTGZOekJMYWF4V0RpalFlY2FGQVY2dnh0VlVWekk1bUk0Yld3dFNCZWZDT1dlOXRMTHg2cnlwWXduNW9KNGRYVk1UcC14VS01UXd1UnpMMWdacnRlaFRybGcwUUJVSnRnZko3WW5keC1YT1RzYXZ2ZDNqSjN3?oc=5",
+    "source": "yahoo.com",
+    "title": "Fact Check: Henry Cavill Has NOT Been Announced As Next 007 James Bond -- Claim Originated On Parody Account - yahoo.com",
+    "summary": "Fact Check: Henry Cavill Has NOT Been Announced As Next 007 James Bond -- Claim Originated On Parody Account yahoo.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: new_project (announced)",
+      "source age: 3.8 days"
+    ],
+    "score": 60,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "1b9a73668dd67b337bb0",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 11 Sep 2026 07:00:00 GMT",
+    "captured": "2026-09-19T22:26:18Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVXBjRF85b3g1Qi0tOGY1ZnF2QlVzNHFnM1JONnd4VXpaQVI4Q051R0FVSGxsWGViZEJmZFJFTlFPVE9pWUxQdUVIN3d6NGY0X3FSNUJ3MVJjWW14R3NUVnBmQWpRTERBQ19oa2hMZWJXQ3p1MFFiU2J6YkVSd3NlYVZRRG15bUFIVG5vOUZoUHZDNV9NSS0tUjU0U2ZKNzlldC1j?oc=5",
+    "source": "yahoo.com",
+    "title": "Kevin Hart, Henry Cavill reportedly seen filming in North Jersey - yahoo.com",
+    "summary": "Kevin Hart, Henry Cavill reportedly seen filming in North Jersey yahoo.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: filming",
+      "event: highlander_production (filming)",
+      "source age: 8.6 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "92ce7446f1c10f697af8",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 18 Sep 2026 14:44:53 GMT",
+    "captured": "2026-09-19T22:26:18Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZXN6bnI1V3FlNnMtRmNBdDQ5VTdXWlhWRXNkcGlMU3MtUnpJZk5LenhGbzl3b1MzM2RvckQxZDhyMDRSbzNRNlBqaEo3bzNBWXVXX0l1SkszeHh1NVF6QTVCU28tMEc2ekljcDdkUzdFME1MSGJPWU03TmRhREVrM1oxRUwxMXpOaWtqNkZiM19TcERwNGZYLVlwYXZSVVZndEE?oc=5",
+    "source": "Flickering Myth",
+    "title": "Highlander: The Original Screenplay #1 covers unveiled by Titan Comics - Flickering Myth",
+    "summary": "Highlander: The Original Screenplay #1 covers unveiled by Titan Comics Flickering Myth",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 1.3 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

@@ -1,101 +1,5 @@
 [
   {
-    "id": "5fe7176ff1d3ec68d2e7",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Sun, 26 Apr 2026 07:00:00 GMT",
-    "captured": "2026-08-30T18:38:51Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcEFFNDM0WEJTYmI4cHViZUR5N0JWT0F4Z25CLV9wY0tCc1FzZlNsUmhBcEE5cWU1T0ZEenJPc1ppek1qekpxR256QlJFNnhhYkZjRTZZMmlsMTVZcUlfS0lVQ2lQZ000a0VCdDNZWTZyd2MyNjFfOENROFJGa2pja0R0NEFEckp4YUdNZXdrMERtd0FEd1N0VEdoNjh6RmhqWkpWcEpacHV1U1E?oc=5",
-    "source": "Cinemablend",
-    "title": "Karen Gillan Has Been Sharing Delightful Highlander Set Pics, And All Her Movies Should Film In Scotland - Cinemablend",
-    "summary": "Karen Gillan Has Been Sharing Delightful Highlander Set Pics, And All Her Movies Should Film In Scotland Cinemablend",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 126.5 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d35e5fd3db03e0a99fa5",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Tue, 23 Jun 2026 07:00:00 GMT",
-    "captured": "2026-08-30T18:38:51Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWV9SWFppd2JEYmZLRVlDYzQ2dHplR3pyd0lzaG04M3hHbHlZS2ZoZjljZXFEVGYyMEx1VjlPbnp0MzlQU2dJV1VKR2ZxTEZfMFJJdzZlOXZkc2tZaTRieEFGNWZjdzkwa3RMWEY0dWxOeHJhakdEazdBbW1ma19sdDhzQV92ZkdrRTBTNEVSZEFUUEJ2SDAwWmtDNFhDX1VlVjNjcHpB?oc=5",
-    "source": "Cinemablend",
-    "title": "One Thing Karen Gillan Is Absolutely Obsessed With After Joining The Highlander Reboot - Cinemablend",
-    "summary": "One Thing Karen Gillan Is Absolutely Obsessed With After Joining The Highlander Reboot Cinemablend",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "source age: 68.5 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "dc29b635c9e62b9783a2",
     "entity_id": "chad_stahelski",
     "entity": "Chad Stahelski",
@@ -56898,6 +56802,124 @@
       "source age: 2915.3 days"
     ],
     "score": 63,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "8b424a9b41c8f3d5abab",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 76,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 20 Sep 2026 13:45:00 GMT",
+    "captured": "2026-09-20T17:37:49Z",
+    "urgency": "normal",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaUZWazZtMC1OcTc5NGhoalZMSFBybks5ZHZTZlR6VWxUVmlJdHJuZmFuZEM1SjE4WmlyRXltUGFFMWlrMkg1b0poZExZLWpWRFFaQzVySkVnX1A5ZjNXNnNJMlgyMnlBMm05WkRvU0JwcXJxbktpcC1JOW13czBadmozMHRFd3pycWc?oc=5",
+    "source": "ca.style.yahoo.com",
+    "title": "Christopher Lambert's Collapse at a Meet-and-Greet Raises Fresh Health Fears - ca.style.yahoo.com",
+    "summary": "Christopher Lambert's Collapse at a Meet-and-Greet Raises Fresh Health Fears ca.style.yahoo.com",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: health (health)",
+      "source age: 0.2 days"
+    ],
+    "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "02f003a14c6ebe0a91e0",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 29 Jan 2026 08:00:00 GMT",
+    "captured": "2026-09-20T17:37:49Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmhLRDFTQTltRjFrQmhkcnl1SWJIc29lcXIxLXJqZkNzUWFsZjlEb3ZVRW5zbF9uQzhsQVgzdTVvNUpkN1RHY25ueEdIUWlMeWhJR2dBT3ZvOTItQS1MQlY5LWdZQzhBekxpQW1kb1ptcEJsRHJWOUFhd3E3YzREc1A5OW5SUnJYYWdiNWRzVTFmMXhrSzhiTzljOWk?oc=5",
+    "source": "Geek Culture",
+    "title": "‘Highlander’ Reboot First-Look Image Shows Off Sword-Wielding Henry Cavill - Geek Culture",
+    "summary": "‘Highlander’ Reboot First-Look Image Shows Off Sword-Wielding Henry Cavill Geek Culture",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 234.4 days"
+    ],
+    "score": 100,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

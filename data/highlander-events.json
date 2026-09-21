@@ -1,52 +1,5 @@
 [
   {
-    "id": "497aa1201e26d41d5df7",
-    "entity_id": "chad_stahelski",
-    "entity": "Chad Stahelski",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 60,
-        "event_type": "new_project"
-      }
-    ],
-    "roles": [
-      "reboot director"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "new_project",
-    "source_date": "Wed, 09 Apr 2025 07:00:00 GMT",
-    "captured": "2026-08-30T18:38:51Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjczd3lBYW5lNk5DOUxXYUFWOGdpd0phZ19FWjFHR1UwNVgwbzJIN1BybTdtNXJYZ2JiT0Yzc2ZzMHJuaDhubGhWbU5nSE1rMER6ZjhYaldQdWRFdk5PQXktU3NxSlBnWFlwNFpqLWdyeXFkWGZnQWVDcVpYdXVJelRBNWxfTWxnTDQwZWdtaXdEYWtRbnF5TV82UmU5WkNHM051UldpV3BQemp2d1lNTy1yQQ?oc=5",
-    "source": "Cinemablend",
-    "title": "I Keep Seeing Rumors About Chad Stahelski Directing Blade, But As A Huge Fan, I'm Not Sure That's A Good Thing - Cinemablend",
-    "summary": "I Keep Seeing Rumors About Chad Stahelski Directing Blade, But As A Huge Fan, I'm Not Sure That's A Good Thing Cinemablend",
-    "evidence": [
-      "matched entity: Chad Stahelski",
-      "event: new_project (directing)",
-      "source age: 508.5 days"
-    ],
-    "score": 60,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "47dad8793504b0b91243",
     "entity_id": "chad_stahelski",
     "entity": "Chad Stahelski",
@@ -56944,5 +56897,71 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "4b81909be6e48e0b7c9c",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      },
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-21T23:31:14Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM0JiZ1JVZWllY1Y2emZna0xfY1I5QWZpbzA0UkV1U0t2emt5VGtPZE5udzVvTmhBdzBxUGk2dFk3UEVQU3Ruc2F2X1ZmN09nck50N3EydWV0VU9xYURCbGtpUS1oMlhmc19oRXZmR0tkdEhrdGJibzBwMGFLYjYwQWI1UExJcTRmTEpzRU1VOTNXUzh1Vlg3MlVzVlRLS2kyQTVJZy1qVzR6cFNWdDY4QmJjeVdZT3RqakR3WDE4M3Y1d2NNb0FWX0JxTjdGZTdsTjJXWkowYXItUVVwSHRycA?oc=5",
+    "source": "yardbarker.com",
+    "title": "‘Highlander’ Star Christopher Lambert Suffers Medical Emergency at Fan Convention - yardbarker.com",
+    "summary": "‘Highlander’ Star Christopher Lambert Suffers Medical Emergency at Fan Convention yardbarker.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: health (medical)",
+      "also matched: Christopher Lambert (100)",
+      "source age: 43.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

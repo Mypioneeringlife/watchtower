@@ -1,164 +1,5 @@
 [
   {
-    "id": "477433ca2402998f786b",
-    "entity_id": "chad_stahelski",
-    "entity": "Chad Stahelski",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 70,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "reboot director"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "interview",
-    "source_date": "Fri, 10 Feb 2017 08:00:00 GMT",
-    "captured": "2026-08-30T18:38:51Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTWIxakpETGZWZk5ORDdmQzJWWVJzZ2llankycUZHRGViN0VINVE3cFhkS2VOWmRhRGtRS1BQRlpEekJKakJpd255Z2VrNm5VV3Joa1UxY2FfU3h4alozcHRYbXdwRXVCcHdyU1hRQ3h4ajhjNENVYW0wblJsYnJ6UE1nVWFBamo4Y3lJQWttaHI?oc=5",
-    "source": "SlashFilm",
-    "title": "Interview: 'John Wick: Chapter Two' Director Chad Stahelski Discusses The Man, The Myth, The Legend - SlashFilm",
-    "summary": "Interview: 'John Wick: Chapter Two' Director Chad Stahelski Discusses The Man, The Myth, The Legend SlashFilm",
-    "evidence": [
-      "matched entity: Chad Stahelski",
-      "context: director, interview",
-      "event: interview (interview)",
-      "source age: 3488.4 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "f1137c3a7eb11149acb9",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Tue, 16 Jan 2024 08:00:00 GMT",
-    "captured": "2026-08-30T18:38:51Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTnhRR01Ec2thdzZjdjVIX0ZkaWd0V0szQ2FJNWRJNGZNazhTQk5tNXhEUjlodExpQkhnYllNYlVNdElUN3hwd2tYSEtCbldLTnRyTUZ1X3ZlRC0ySjJLdGNIQWV6Zk5LSG95dEdiZjY2d2txaDNMT01MWHJ2LTZCbVM2SDFpbEF4Z3oyeWNVY2E3a1ZLOS1sazQ4VTdGTVRrZmZ3TTZkX1c4QQ?oc=5",
-    "source": "Screen Daily",
-    "title": "Chad Stahelski finalises deal to direct ‘Highlander’ reboot - Screen Daily",
-    "summary": "Chad Stahelski finalises deal to direct ‘Highlander’ reboot Screen Daily",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Chad Stahelski (100)",
-      "source age: 957.4 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "96820f81ff724aa309ed",
-    "entity_id": "chad_stahelski",
-    "entity": "Chad Stahelski",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 70,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "reboot director"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "interview",
-    "source_date": "Tue, 14 Feb 2017 08:00:00 GMT",
-    "captured": "2026-08-30T18:38:51Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CQlliR2JUcnFjSTZ5bmlNcTU1b2lFR3ZUSWhTdGt3QjZrNndNanlwSGE1X2REeU1GVUJfQkdDd0NmTHJPMkpsMDZXYjc3ZjNtUFBYRTVWUEJhcWhiREYtUVg5b2VyYVhNTGpKeU9YLWg?oc=5",
-    "source": "SlashFilm",
-    "title": "Interview: 'John Wick: Chapter 2' Director Chad Stahelski And Stunt Coordinator J.J. Perry Explain How Keanu Reeves Can Kill You - SlashFilm",
-    "summary": "Interview: 'John Wick: Chapter 2' Director Chad Stahelski And Stunt Coordinator J.J. Perry Explain How Keanu Reeves Can Kill You SlashFilm",
-    "evidence": [
-      "matched entity: Chad Stahelski",
-      "context: director, interview",
-      "event: interview (interview)",
-      "source age: 3484.4 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "9d214d9e7b81f3fb60b0",
     "entity_id": "chad_stahelski",
     "entity": "Chad Stahelski",
@@ -56929,5 +56770,146 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "638f26dcbdd953413b38",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 05 Aug 2021 07:00:00 GMT",
+    "captured": "2026-09-21T08:10:16Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WMHBKN2VrRFg2cXZiM2lnZDY4a1prOUM0Qk1tMjJzd2hZdUx0LURmU0d2R21GeEtiT1h0cUtHdW8xRGEteVM0ZXd4WjRlNnlBWlFaT09NaUNidHQtcHJSWE5HYVNQeFBubVlLSHc1YlRnaGR2S204N3FmeVRiX1k?oc=5",
+    "source": "Cinemablend",
+    "title": "All Five Highlander Movies, Ranked - Cinemablend",
+    "summary": "All Five Highlander Movies, Ranked Cinemablend",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 1873.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "fe81d0ecc3c210a48f93",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 14 Jun 2026 07:00:00 GMT",
+    "captured": "2026-09-21T08:10:16Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1VTBRaXo2eTlBNS05WkxHZWNDUkhObkw5S1M2bDFfREIzVTEtbDdWejhsd00wZVp0M1psMWt5RGZ2NzJmNW5qSWNNR2hXeURQZmd6c1BDb3dlRTBUY3BiSg?oc=5",
+    "source": "highonfilms.com",
+    "title": "There Should Have Been Only One: Highlander at 40 - highonfilms.com",
+    "summary": "There Should Have Been Only One: Highlander at 40 highonfilms.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 99.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ea153773d65d2861a121",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 20 Sep 2026 21:30:11 GMT",
+    "captured": "2026-09-21T08:10:16Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRWgxcTRRTEEwLU44UlBCNVRKX3FHeng1akpkcldWa1VBc1E5Z3lUUFhKcElfRzdCOWxMWGx0LW5EZHJzX244OTh2MVBWVFhlazhwTzVCNjVQMlEzc1ZJeUdlbnVCSHQ1VUU3V2NOMno0eGhVOW05SDRyQlNwbEszRUVqSURMSjZTcWc?oc=5",
+    "source": "cbr.com",
+    "title": "Highlander Returns To Comics In The Most Faithful Version Yet - cbr.com",
+    "summary": "Highlander Returns To Comics In The Most Faithful Version Yet cbr.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 0.4 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

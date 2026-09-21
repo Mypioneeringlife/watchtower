@@ -1,100 +1,5 @@
 [
   {
-    "id": "9d214d9e7b81f3fb60b0",
-    "entity_id": "chad_stahelski",
-    "entity": "Chad Stahelski",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 70,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "reboot director"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "interview",
-    "source_date": "Fri, 31 May 2019 07:00:00 GMT",
-    "captured": "2026-08-30T18:38:51Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vVFlSdVVwZHNIcWlpOHJ0NGVhQ1VJYk91WkVud0ZBVEREZ05JbjBzQ2Zud3BWWjM5VHdzYS1XSmROd1hZbTlCRVBGaHo0ekMyVEhjMGdrSEFqTHcwal93S2xHdllBNDdiX1E?oc=5",
-    "source": "SlashFilm",
-    "title": "'John Wick' Franchise Director Chad Stahelski Talks Shooting Action And Building Characters In A Spoiler-Heavy Interview - SlashFilm",
-    "summary": "'John Wick' Franchise Director Chad Stahelski Talks Shooting Action And Building Characters In A Spoiler-Heavy Interview SlashFilm",
-    "evidence": [
-      "matched entity: Chad Stahelski",
-      "context: director, interview",
-      "event: interview (interview)",
-      "source age: 2648.5 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "af32a225217b0448f74a",
-    "entity_id": "chad_stahelski",
-    "entity": "Chad Stahelski",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 60,
-        "event_type": "new_project"
-      }
-    ],
-    "roles": [
-      "reboot director"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "new_project",
-    "source_date": "Fri, 10 Feb 2017 08:00:00 GMT",
-    "captured": "2026-08-30T18:38:51Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zQVlONGJPbk9VakNMMVB6ZElNdzBCM05KYlFYa2ZjNUYwMGRLODdIZ1N1VGhkeFB1d3FGUER2ZmpwVXdzU0c0Z1lxcm5ST0ZlUEZGWGFmaTk2ZUViR1Z4UmNEV3FzT2o5TXc?oc=5",
-    "source": "Collider",
-    "title": "Chad Stahelski on Directing John Wick: Chapter 2 - Collider",
-    "summary": "Chad Stahelski on Directing John Wick: Chapter 2 Collider",
-    "evidence": [
-      "matched entity: Chad Stahelski",
-      "event: new_project (directing)",
-      "source age: 3488.4 days"
-    ],
-    "score": 60,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "497aa1201e26d41d5df7",
     "entity_id": "chad_stahelski",
     "entity": "Chad Stahelski",
@@ -56908,6 +56813,134 @@
       "source age: 0.4 days"
     ],
     "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "f2fac78f39b12c920e84",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      },
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-21T20:00:02Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM0JiZ1JVZWllY1Y2emZna0xfY1I5QWZpbzA0UkV1U0t2emt5VGtPZE5udzVvTmhBdzBxUGk2dFk3UEVQU3Ruc2F2X1ZmN09nck50N3EydWV0VU9xYURCbGtpUS1oMlhmc19oRXZmR0tkdEhrdGJibzBwMGFLYjYwQWI1UExJcTRmTEpzRU1VOTNXUzh1Vlg3MlVzVlRLS2kyQTVJZy1qVzR6cFNWdDY4QmJjeVdZT3RqakR3WDE4M3Y1d2NNb0FWX0JxTjdGZTdsTjJXWkowYXItUVVwSHRycA?oc=5",
+    "source": "Yardbarker",
+    "title": "‘Highlander’ Star Christopher Lambert Suffers Medical Emergency at Fan Convention - Yardbarker",
+    "summary": "‘Highlander’ Star Christopher Lambert Suffers Medical Emergency at Fan Convention Yardbarker",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: health (medical)",
+      "also matched: Christopher Lambert (100)",
+      "source age: 43.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "7be401039652539d1817",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 21 Sep 2026 16:32:38 GMT",
+    "captured": "2026-09-21T20:00:02Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YUzZVQVJWQnFIXzE3aGgtYndyVGFMalphVG94N0plaUEyQk13RjdjV2ZNTjdUZEFKUE42S0N5UnhNTEpOdWw0UV9sRFJyZURXRFpwSXBWTzhzd3dLT053WEVWYmtHVFNPSzBlckZ6NXZ6RmRmd3VPdHhKcWN2R2M?oc=5",
+    "source": "ScreenRant",
+    "title": "Highlander Confirms New December Release Ahead Of Henry Cavill Era - ScreenRant",
+    "summary": "Highlander Confirms New December Release Ahead Of Henry Cavill Era ScreenRant",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.1 days"
+    ],
+    "score": 74,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"

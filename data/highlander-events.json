@@ -1,116 +1,5 @@
 [
   {
-    "id": "c7349b2835d0edadb088",
-    "entity_id": "chad_stahelski",
-    "entity": "Chad Stahelski",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 66,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "reboot director"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "interview",
-    "source_date": "Tue, 14 May 2019 07:00:00 GMT",
-    "captured": "2026-08-30T18:38:51Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53am9ERWlocGM5ampxdmpUSFJCeF9leElRSkEwdDZlSE8zb2M1dm42YzdpM2pFa0RuS2VkeERZUldod3llazAzLS1CVl8tM29HdEZOY3pZdXlpejRCMUhva0p1a2traWN0MUQxaXRGQ3hqaklhMHM5TVVCdWM?oc=5",
-    "source": "ScreenRant",
-    "title": "Halle Berry & Chad Stahelski Interview: John Wick 3 - ScreenRant",
-    "summary": "Halle Berry & Chad Stahelski Interview: John Wick 3 ScreenRant",
-    "evidence": [
-      "matched entity: Chad Stahelski",
-      "context: interview",
-      "event: interview (interview)",
-      "source age: 2665.5 days"
-    ],
-    "score": 66,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "33118a132b4cc55b5e18",
-    "entity_id": "chad_stahelski",
-    "entity": "Chad Stahelski",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 94,
-        "event_type": "interview"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 86,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "reboot director"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "interview",
-    "source_date": "Mon, 20 Nov 2023 08:00:00 GMT",
-    "captured": "2026-08-30T18:38:51Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiV1oySGZ5eEc3eFhKbXp5Y1NiSklqT2JXRW5ianVDYTFBOXBYYldlSmRKSFZ3dllJV1dtSEk0SnBiLUl5TXRjSXhHb2RPUW5JMTNnS1RxRzlxU0ZxeV9nMVNKNGFZWlNTWHhnZVFJREg4bnM?oc=5",
-    "source": "ScreenRant",
-    "title": "John Wick Chapter 4 Interview: Chad Stahelski On Oscar Chances, Franchise Future & Highlander - ScreenRant",
-    "summary": "John Wick Chapter 4 Interview: Chad Stahelski On Oscar Chances, Franchise Future & Highlander ScreenRant",
-    "evidence": [
-      "matched entity: Chad Stahelski",
-      "explicit Highlander reference",
-      "context: Highlander, interview",
-      "event: interview (interview)",
-      "also matched: Highlander (86)",
-      "source age: 1014.4 days"
-    ],
-    "score": 94,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "884ae77cc1b2e885d9ab",
     "entity_id": "henry_cavill",
     "entity": "Henry Cavill",
@@ -56959,6 +56848,116 @@
       "context: remake",
       "event: highlander_production (remake, release date)",
       "source age: 376.3 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ee3426b3c717b8447335",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 13 Oct 2016 08:14:30 GMT",
+    "captured": "2026-09-22T23:12:57Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qNzE5UnlhdXc2bllTQ3oydnE5YTRRWXhVWlp3bTBTQ2xWMTViTXluYXpVNzhydHg1RjU1RmdtVkx1Zk5sOGhRLVZaZUdhQQ?oc=5",
+    "source": "imdb.com",
+    "title": "Highlander: The Final Dimension (1994) ⭐ 4.5 | Action, Fantasy, Romance - imdb.com",
+    "summary": "Highlander: The Final Dimension (1994) ⭐ 4.5 | Action, Fantasy, Romance imdb.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 3631.6 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "6d876b2ad50c7a5dc82c",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 29 Jan 2026 08:00:00 GMT",
+    "captured": "2026-09-22T23:12:57Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmhLRDFTQTltRjFrQmhkcnl1SWJIc29lcXIxLXJqZkNzUWFsZjlEb3ZVRW5zbF9uQzhsQVgzdTVvNUpkN1RHY25ueEdIUWlMeWhJR2dBT3ZvOTItQS1MQlY5LWdZQzhBekxpQW1kb1ptcEJsRHJWOUFhd3E3YzREc1A5OW5SUnJYYWdiNWRzVTFmMXhrSzhiTzljOWk?oc=5",
+    "source": "geekculture.co",
+    "title": "‘Highlander’ Reboot First-Look Image Shows Off Sword-Wielding Henry Cavill - geekculture.co",
+    "summary": "‘Highlander’ Reboot First-Look Image Shows Off Sword-Wielding Henry Cavill geekculture.co",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 236.6 days"
     ],
     "score": 100,
     "route": "Corrupted Chronicle research",

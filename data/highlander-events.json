@@ -1,53 +1,5 @@
 [
   {
-    "id": "47dad8793504b0b91243",
-    "entity_id": "chad_stahelski",
-    "entity": "Chad Stahelski",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 66,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "reboot director"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "interview",
-    "source_date": "Thu, 16 Mar 2023 07:00:00 GMT",
-    "captured": "2026-08-30T18:38:51Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lbjk2eDMyRUxDZFJidVVxOXp5dWVwdEljbzhVQ3AxT0N0TF9fMGUwdVBUVU9uMVF0R29Za0ItVnY0RnZnSzdUcjZid3lsN0dhbjEydkZkQmE4LWx4aF9nV1ZXaU94NWxQejdnNFVTcjVDOXhnVkhF?oc=5",
-    "source": "ScreenRant",
-    "title": "Chad Stahelski Interview: John Wick Chapter 4 - ScreenRant",
-    "summary": "Chad Stahelski Interview: John Wick Chapter 4 ScreenRant",
-    "evidence": [
-      "matched entity: Chad Stahelski",
-      "context: interview",
-      "event: interview (interview)",
-      "source age: 1263.5 days"
-    ],
-    "score": 66,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "c7349b2835d0edadb088",
     "entity_id": "chad_stahelski",
     "entity": "Chad Stahelski",
@@ -56958,6 +56910,55 @@
       "event: health (medical)",
       "also matched: Christopher Lambert (100)",
       "source age: 43.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "4a992f635c1177915ae3",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 11 Sep 2025 07:00:00 GMT",
+    "captured": "2026-09-22T13:37:31Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQmVweEI1NGN4M2l0cGNIQ0RLd2kxQUNIeE9DWWhwWFVHWUZuQjhycEdkelVuRE1QQTg1TG9aOGtTSGNsaHBxSG5zak5EcmhzZlI1Y1JFM19EZ0d4OVNHc3NvX1Q0ZjEyS29GZXVMR2VzbUJjalRRcU5ENDlWRlFKTndmcDlsekNqTVBNemc2ZmEzRnNSdHlFcko3NNIBoAFBVV95cUxQUXJNbWp5WnBPOFljUWdkM1FxNXRJQW03MmVscU1ndFhOcjFWVFpWaDVzbW12U3FqXzAtanlHV3RwUGxIalhSc1BSYzRFR2tIZWF5NDN1Si1RbFV2Y2ZBcDQ0RHZGUlBLRXdfc0VkaVRwUVVPUDhPZ3BWdHJVSHdic0pwNF9xOGxmWFJ4b2IwdnBpaDNNSjdheDBVS1VURXJs?oc=5",
+    "source": "SuperHeroHype",
+    "title": "Why Highlander Remake’s Release Date Could Get Delayed - SuperHeroHype",
+    "summary": "Why Highlander Remake’s Release Date Could Get Delayed SuperHeroHype",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: remake",
+      "event: highlander_production (remake, release date)",
+      "source age: 376.3 days"
     ],
     "score": 100,
     "route": "Corrupted Chronicle research",

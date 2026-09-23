@@ -1,179 +1,5 @@
 [
   {
-    "id": "884ae77cc1b2e885d9ab",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "other",
-    "source_date": "Thu, 14 May 2026 07:00:00 GMT",
-    "captured": "2026-08-30T22:54:04Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdTdXYmdZUlhNdGVOY2Y3QW8xVzVORWY3bV8tRFZkbzlITzdfRWxpNTZUZ3QwdGVzMHNOYjg1VXQ0M1BEWWF3WVdsY2hWNmU2dmFpY0VsYlB5NFlSaVRTNF9SelVjV3JBS19Ba1VfRWRvNDhnYWZMOWx4Ynh6UnBzRmdtQW1EcEs3aWZ5MFJxOGxDcy1zVWFldDNR?oc=5",
-    "source": "justjared.com",
-    "title": "Henry Cavill Chats with Fans on ‘Highlander’ Set in Poland - justjared.com",
-    "summary": "Henry Cavill Chats with Fans on ‘Highlander’ Set in Poland justjared.com",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 108.7 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c3a65bd6ecb15550f3f4",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Sun, 07 Jun 2026 07:00:00 GMT",
-    "captured": "2026-08-30T22:54:04Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUkyUXRSMkZlT2x0al9vaWE3UEg3RFNqT1V6dHFuQ2xING1lOHBwSDY0X0VmcnB5Mkc1ZXF1LWRMRE5mS2VqWVFlLTlIY3I3b3Z0dzVQSmJDQmNVYkN3UDRjaC10RWh6Mzh5Nl8yakN3UDJCZXlGRlZTdVJhQlJ6MWRUdTZSUEtoWFRoc1dxeUFXVWZ0RnRPbS0tM3g0NDNjR2d6SDI3VlAyM1VsdXotVg?oc=5",
-    "source": "The National Scot",
-    "title": "Highlander remake can 'correct 40-year oversight,' Skye filmmaker says - The National Scot",
-    "summary": "Highlander remake can 'correct 40-year oversight,' Skye filmmaker says The National Scot",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: remake",
-      "event: highlander_production (remake)",
-      "source age: 84.7 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "f5cbd764d13c3d4192c3",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Mon, 24 May 2021 07:00:00 GMT",
-    "captured": "2026-08-30T22:54:04Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTBoR2VJd0M4ZVVSM2FLa3kwM1hNYTZ6WEgzd2ZxOXVyckJFNUh6ZXBxUVFXMnF3R2tKNnFOeFk5aVhxN1dZVVhRbWxMb3F5SkZ5ZVZNRzVhbkFUNHJpZ3ppQUZHZDlobDVIUHVqcVJYblMwQzVjTlRHT0ViWG9BSUw1UXQ?oc=5",
-    "source": "Yahoo Entertainment UK",
-    "title": "Henry Cavill in talks to front Highlander remake - report - Yahoo Entertainment UK",
-    "summary": "Henry Cavill in talks to front Highlander remake - report Yahoo Entertainment UK",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: remake",
-      "event: highlander_production (remake)",
-      "also matched: Henry Cavill (100)",
-      "source age: 1924.7 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "2437bd5671a627d0da01",
     "entity_id": "henry_cavill",
     "entity": "Henry Cavill",
@@ -56963,5 +56789,167 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "e64adfe5d788edf3f816",
+    "entity_id": "adrian_paul",
+    "entity": "Adrian Paul",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "adrian_paul",
+        "name": "Adrian Paul",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Duncan MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series",
+          "Highlander: Endgame",
+          "Highlander: The Source"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Duncan MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander: The Series",
+      "Highlander: Endgame",
+      "Highlander: The Source"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 21 Feb 2019 08:00:00 GMT",
+    "captured": "2026-09-23T07:56:06Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTgzY3VmUFhvYUpjNFZuRTBxS3hFMU56OEo3TkJKWENkX09pZU1SZEZoREhRTTJGWFNJdk8wdEFNVjFZOW4tcU16N2hJaGRQalZTWkU1RzlPOUxDRnIzRDVoZ1k4eEFSUnRXUFpoQ0Y2ZWJHdmVtamZHd3AxQkZFbVdFdEl5aEJQRXBQajBKbW9Vd2c?oc=5",
+    "source": "Leader Post",
+    "title": "Highlander actor Adrian Paul coming to Sask Expo Regina - Leader Post",
+    "summary": "Highlander actor Adrian Paul coming to Sask Expo Regina Leader Post",
+    "evidence": [
+      "matched entity: Adrian Paul",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 2771.0 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "9e8a98a5b7e832469110",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 13 Oct 2016 08:14:30 GMT",
+    "captured": "2026-09-23T07:56:06Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qNzE5UnlhdXc2bllTQ3oydnE5YTRRWXhVWlp3bTBTQ2xWMTViTXluYXpVNzhydHg1RjU1RmdtVkx1Zk5sOGhRLVZaZUdhQQ?oc=5",
+    "source": "IMDb",
+    "title": "Highlander: The Final Dimension (1994) ⭐ 4.5 | Action, Fantasy, Romance - IMDb",
+    "summary": "Highlander: The Final Dimension (1994) ⭐ 4.5 | Action, Fantasy, Romance IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 3632.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "98fe9d9b991c64ad8b35",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 60,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "new_project",
+    "source_date": "Fri, 11 Sep 2026 07:00:00 GMT",
+    "captured": "2026-09-23T07:56:06Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmF5Szd4SkFxOTBDOUE3dTlxd0Y4TV96MzFxWkxGX3QzTDhlNlVlNmpLRjN0UTlhbUh5N3B2Nl9YWERwWXowdmV1c01yYm5ZU2M4Y3JQc2x6X1p2TWwtSHpraGg1M3JHb2ZQQ2RwcmZkMFg5cDZnRHpXelA3aVg0TFZUbFR6NGR6WjNLREJobi1GTDJXQUh2WWZMdFBRTkZDaFlTdnRONVI?oc=5",
+    "source": "cosmopolitan.com",
+    "title": "Missing The Gentlemen? Guy Ritchie's 'impressive' thriller starring Henry Cavill will fill the void - cosmopolitan.com",
+    "summary": "Missing The Gentlemen? Guy Ritchie's 'impressive' thriller starring Henry Cavill will fill the void cosmopolitan.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: new_project (starring)",
+      "source age: 12.0 days"
+    ],
+    "score": 60,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

@@ -1,107 +1,5 @@
 [
   {
-    "id": "8d4a1e5bfd025aaab855",
-    "entity_id": "christopher_lambert",
-    "entity": "Christopher Lambert",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_lambert",
-        "name": "Christopher Lambert",
-        "kind": "person",
-        "roles": [
-          "actor",
-          "Connor MacLeod"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II",
-          "Highlander III",
-          "Highlander: Endgame"
-        ],
-        "score": 76,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "actor",
-      "Connor MacLeod"
-    ],
-    "franchise_titles": [
-      "Highlander",
-      "Highlander II",
-      "Highlander III",
-      "Highlander: Endgame"
-    ],
-    "event_type": "health",
-    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
-    "captured": "2026-08-31T08:51:59Z",
-    "urgency": "normal",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzhaYlJPZkhBeDd3NEp0ZUNvN3M3V20yLVMtb3liUGVvTXZDLXlmajNXdWx0M3JEUk1Fak5OYjJrVVdDczV2S3VPTC1seFVGcGZkQWpGSkxzdVdDeXNtUlpqZ0szV3NuTF9aYUxNWXdNcXF5RDZTZWl5bzRnR05Tbm9QbWpDNHpMUGhWck04b1BnR2hLOXFfQ09wMFdSNUk?oc=5",
-    "source": "The Daily Beast",
-    "title": "1980s Star Christopher Lambert Suffers Medical Emergency at Fan Event - The Daily Beast",
-    "summary": "1980s Star Christopher Lambert Suffers Medical Emergency at Fan Event The Daily Beast",
-    "evidence": [
-      "matched entity: Christopher Lambert",
-      "event: health (medical)",
-      "source age: 22.1 days"
-    ],
-    "score": 76,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": true,
-    "status": "new"
-  },
-  {
-    "id": "8197ea5bbcbf404badf2",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Sat, 02 May 2026 13:37:02 GMT",
-    "captured": "2026-08-31T08:51:59Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9obEt6LVg0b2FaRkhUSVM3ejhYS0h3RzhSWmlrYnduOWtlWU9Pd0paZVUzbVM4dDlxcG1KY3NCOWNDTFY4Y0FsTV8zWjN2UnJvSnRhSUxPa1V0SERFa3duSFBiNnNVVmxFSkQxcDN6RQ?oc=5",
-    "source": "IMDb",
-    "title": "Highlander (1986) - IMDb",
-    "summary": "Highlander (1986) IMDb",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 120.8 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "c8b26c9c604d6b54e1c2",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56951,6 +56849,116 @@
     "score": 74,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "bfcd8ea4a20bcf394b51",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 05 Aug 2021 07:00:00 GMT",
+    "captured": "2026-09-23T23:05:06Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WMHBKN2VrRFg2cXZiM2lnZDY4a1prOUM0Qk1tMjJzd2hZdUx0LURmU0d2R21GeEtiT1h0cUtHdW8xRGEteVM0ZXd4WjRlNnlBWlFaT09NaUNidHQtcHJSWE5HYVNQeFBubVlLSHc1YlRnaGR2S204N3FmeVRiX1k?oc=5",
+    "source": "cinemablend.com",
+    "title": "All Five Highlander Movies, Ranked - cinemablend.com",
+    "summary": "All Five Highlander Movies, Ranked cinemablend.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 1875.7 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "1a158a794330d2797cd1",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 23 Sep 2026 12:39:13 GMT",
+    "captured": "2026-09-23T23:05:06Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiLWRyNjAwXzF2SzNpbDdsWXkwT2NpRHd2NzA3Q1h4ampQeXFXeHZzclNzSzNibGs4a1pYa3lVRm8tQ28xYXQ1UmVJMXI4UkdHRnFoWWJVQk1yN2NGempjT2Y4cmpTQnM?oc=5",
+    "source": "IMDb",
+    "title": "‘Highlander’ Sets ‘John Wick’ Co-Director Chad Stahelski to Helm Reboot - IMDb",
+    "summary": "‘Highlander’ Sets ‘John Wick’ Co-Director Chad Stahelski to Helm Reboot IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Chad Stahelski (100)",
+      "source age: 0.4 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
     "status": "new"
   }
 ]

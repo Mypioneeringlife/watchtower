@@ -1,116 +1,5 @@
 [
   {
-    "id": "27698be4eed4b2a702f0",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Thu, 31 Aug 2023 07:00:00 GMT",
-    "captured": "2026-08-31T20:19:05Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFJVeEg1azVHc0NLMWItTjdUNDVKa01mOG81elQ2dV9LOFE3bU5VeEZrQTBwT0dvRVpOMjgxeUgyTW5KY0tUQjZhRE5wY3dPYk13MHhlUFdIWG5wdHhROGNvb1VJTW96QmZyVVphV0UzZWRCYm41MGtlYTZabDh3bENEWGRmUGVJSEZKRElwcU04c25lTWtsTjRzWV93djNUZ2lEM0pvWQ?oc=5",
-    "source": "independent.co.uk",
-    "title": "Henry Cavill’s Highlander reboot could be huge new fantasy franchise, director says - independent.co.uk",
-    "summary": "Henry Cavill’s Highlander reboot could be huge new fantasy franchise, director says independent.co.uk",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "source age: 1096.6 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "379c275f31c4ef4c830b",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 74,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Thu, 15 May 2025 07:00:00 GMT",
-    "captured": "2026-08-31T20:19:05Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SSjlsaFB0TGZRQmY1UXpMZG5KSWFxLWhPVF9xcjVpb09yX0l5S2w0a0VzaUE2Z1hZQWxIVFhOZFF1WTBld010Zm44SEJJS3NqMTVEZnFyYTNfN3dzVE9UZ3VDUmtCTUZCY2N5QXVfa0VaVDA?oc=5",
-    "source": "thewrap.com",
-    "title": "Why ‘Highlander’ Left Lionsgate for Amazon as the Studio Bets Big on ’80s IP - thewrap.com",
-    "summary": "Why ‘Highlander’ Left Lionsgate for Amazon as the Studio Bets Big on ’80s IP thewrap.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: Lionsgate",
-      "source age: 473.6 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "b96718e2fd904e866a97",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56977,5 +56866,131 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "5fab5c1b02c4bdfd55b8",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 17 Apr 2025 07:00:00 GMT",
+    "captured": "2026-09-24T23:22:18Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFNJbmRtNmdENkhFTXBEVHNlY2JfLVk2QUZIQlhjZVc4MWUwSVQtc2JkdmNmVVFsV0xleXViQXNPa25OdzZycnE5ZTdwNlk3RmNnM0Q0LUF6aFFkYVVoSFBVT2FqQUJiMENOMWVJX2hZQm1COXFFMmJhQTdudDB1MmF6bERqVHFMYzlQSkU0M2FUazVGaWhuVVBCeG56bVl3QXViUHdTX051Sk3SAbABQVVfeXFMTlVUb2pENWRGbmQ0aTRIZDk4al85T2JDU3F6UXBPUmp3RFlZM1d4ekVHdzB1NDE0U190Y1N6QjhyVllyRnJfaWFwQmMyTVBJZHV0Rk5nNTc1bldTRFpobFM1S2NETzgzQXNvY0xydkIwUVIyc29aSmlSTXp2ZlhqNFJjOS1pSnB0OGt6Z0NkYk5mSnVHRjF3LU54MEFUNnJ0NnhJU0pEX0tGRlBLdUtiQVM?oc=5",
+    "source": "comingsoon.net",
+    "title": "Henry Cavill’s Highlander Reboot Gets Update as Movie Switches Studios - comingsoon.net",
+    "summary": "Henry Cavill’s Highlander Reboot Gets Update as Movie Switches Studios comingsoon.net",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 525.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f1fdc577f90c54244c41",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 24 Sep 2026 20:03:03 GMT",
+    "captured": "2026-09-24T23:22:18Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWZpTHZyMWsyS0R5Qy01UlZ0cDB2ajlxYWZjanFKUUdVMmx5X2RxWEY1eUlrMDVHYW5ERWs0MnJZWUMxMFN5UVgtTWtWMUUzMjNJWFI2Z2YtSFYtSVFEblJhS09xVUVSTkdMZHFQa29FWlZhc1g4NmsyNEJNUE5HcExB?oc=5",
+    "source": "Collider",
+    "title": "'Highlander' Officially Returns With New 4-Part Release Ahead of Henry Cavill's Reboot [Exclusive] - Collider",
+    "summary": "'Highlander' Officially Returns With New 4-Part Release Ahead of Henry Cavill's Reboot [Exclusive] Collider",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 0.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
   }
 ]

@@ -1,67 +1,5 @@
 [
   {
-    "id": "cc51653b7929570014be",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 74,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Tue, 16 Jan 2024 08:00:00 GMT",
-    "captured": "2026-08-31T20:19:05Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iQno3bllBWFJ6UG15RFZnYUVxR3F6RmMzdGl0ZEkySzJqVS1LTmVSellCX1VJS2RYQ2RDcmNmUHNSVjRwdGY2MUlGSE5rQmFpaHRqTVM2WHNYZTRLcU9xQkNEbHk?oc=5",
-    "source": "thewrap.com",
-    "title": "Chad Stahelski to Oversee ‘Highlander’ and ‘John Wick’ Franchises in New Lionsgate Deal - thewrap.com",
-    "summary": "Chad Stahelski to Oversee ‘Highlander’ and ‘John Wick’ Franchises in New Lionsgate Deal thewrap.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: Lionsgate",
-      "also matched: Chad Stahelski (74)",
-      "source age: 958.5 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "27698be4eed4b2a702f0",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56976,5 +56914,68 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "9946f82b0c539aab3a52",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 18 Apr 2025 07:00:00 GMT",
+    "captured": "2026-09-24T18:37:17Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT1ItZWZtN0ZBNFZRWkxQemg3X242cHMtUUs5b1UwNVI5OHU0cTJ6R0FUUW5CVnBQMk1fMkFOMFkzc2dKRUY5SXpNZnBHRjFPN3h4OUgzTUdVd0N0Y1ZqRkZyNWVGRlFyUXB5V0Z5OGdHaHpPNGQyOXNIMHA0WEJFMmhvc2hZZW9QTGdEdUJMcm5qcHh0MGlPbldhNEpqNEZQQVJlaUhHYUhfbUZpVDlBSdIBtgFBVV95cUxOQmxMSUYyU0pmSzdHOU5DR0djNHk4SEotTlZkdFVkQ2dNQjhza09HSndXUERCXzFmVGh0SlNkcG81MnA4eG0zUFpzV0djNEQ3RFRmUnlWc0ltY29ReVMxbHQ4MmZSTXM4bjh2cHhfamFCcGJsbVNlN3NhR0xlVkJ0UlVOMnZ1ckg0dUpBTVdyQjcteHZWY2hhbm9JaVIzWVJaZG02TUdxRW1mTVZFSFpNTVhmODFrUQ?oc=5",
+    "source": "itc.ua",
+    "title": "«The Highlander» with Henry Cavill moved to Amazon — Lionsgate no longer wants to remake it - itc.ua",
+    "summary": "«The Highlander» with Henry Cavill moved to Amazon — Lionsgate no longer wants to remake it itc.ua",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: remake, Lionsgate",
+      "event: highlander_production (remake)",
+      "also matched: Henry Cavill (100)",
+      "source age: 524.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

@@ -1,163 +1,5 @@
 [
   {
-    "id": "c8b26c9c604d6b54e1c2",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Sat, 16 Jun 2012 07:00:00 GMT",
-    "captured": "2026-08-31T08:51:59Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHcUZfS3h1MHNiMmlNVHlIbEZFdnNobWI2cEJ0RDRVT3lqVmRZZ0VGcDRNcG5ReVJCNWM5ZjRiYkFJNE1zWktwdS01eEZya2pNb1pycm5UMmh3d01iVmZPU0NnSjVjU2UtNjZwQQ?oc=5",
-    "source": "IGN",
-    "title": "Highlander: The Raven - IGN",
-    "summary": "Highlander: The Raven IGN",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 5189.1 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5a423e15d74ba06a9a4d",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Fri, 21 May 2021 07:00:00 GMT",
-    "captured": "2026-08-31T08:51:59Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3BPMGN5bEFlSHl2R1RrcERBTE5hd3hiZUZranUyWGQ4UGNkNFBvQzhzSGhPUldja2U4SGYxZ0tnRUdvSlJhaXJnM3p2LVVDbW1EMU1BbmZzaEpYVWhNTlA0R0tVUmNLdEFjTE1hVDNmMlBSaDZMTHlQVGxHVDJHY0hmVmMyTEs0UGxB?oc=5",
-    "source": "PopCulture.com",
-    "title": "‘Highlander’ Reboot Taps Henry Cavill to Star in Classic Role - PopCulture.com",
-    "summary": "‘Highlander’ Reboot Taps Henry Cavill to Star in Classic Role PopCulture.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "source age: 1928.1 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "57b3f47f10c49c341e3b",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 74,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Thu, 17 Apr 2025 07:00:00 GMT",
-    "captured": "2026-08-31T20:19:05Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUFh2dUxZaWVCQVo5OWwtSjZkekMyY1NRNlZzd0lWOTkwNS1kaDctSW1QVHVqMkFFdEZmdWtfSlNnb0VEOWxVNUhud0JwWDVCTi1SWGJ4dXUzUEtoQThlUXNqOWtVbEZuU2tKak45REJJR2ZyLThMRUZ5M2RpQ0dzcTc1bw?oc=5",
-    "source": "thewrap.com",
-    "title": "'Highlander': Amazon MGM Studios, UA, Scott Stuber in Final Talks to Acquire Rights to Action Fantasy Franchise - thewrap.com",
-    "summary": "'Highlander': Amazon MGM Studios, UA, Scott Stuber in Final Talks to Acquire Rights to Action Fantasy Franchise thewrap.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: Amazon MGM",
-      "source age: 501.6 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "cc51653b7929570014be",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56959,6 +56801,180 @@
     "score": 100,
     "route": "Corrupted Chronicle research",
     "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "a9b8e58b90845e891331",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 24 Sep 2026 09:00:11 GMT",
+    "captured": "2026-09-24T13:44:00Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkdWZkdMckFQN2hwd0xOS2szbXFUZXlxMlV2dTFyc3R3VUYwZG9TWjNtLWo1UkFlSmllWmF2OVViczhnM08tZ0EtUEExSkFkZ0J2NDgzclNWekNwUnBkTFpCQmhmcFhWT3M1MV9OelRnbXo5ampqM2lUNjllT2hoZzNqY2dCOUh4S2ZYbU5n?oc=5",
+    "source": "Collider",
+    "title": "‘Highlander’ Officially Returns in 2026 Ahead of Henry Cavill’s Remake - Collider",
+    "summary": "‘Highlander’ Officially Returns in 2026 Ahead of Henry Cavill’s Remake Collider",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: remake",
+      "event: highlander_production (remake)",
+      "also matched: Henry Cavill (100)",
+      "source age: 0.2 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "ba358fb90412bd0d36d8",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 15 Jan 2023 20:16:25 GMT",
+    "captured": "2026-09-24T13:44:00Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ULWxnV0NzbUdlUzdKaWp4V19vd0VKRjdBUWJOT3FGMFAwQkpGNjFSVlR1S1RpZ1p2YU9QTl9ucFVHLXpVVHdNMENvcmRfY0dnRHJ6cXZpUElsRTNzMUkwRndobGwwYjVPSDhfU1QydWduM3pzdzZn?oc=5",
+    "source": "STARBURST Magazine",
+    "title": "Highlander Retrospective - STARBURST Magazine",
+    "summary": "Highlander Retrospective STARBURST Magazine",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 1347.7 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "91b876e441edd71d4c23",
+    "entity_id": "gregory_widen",
+    "entity": "Gregory Widen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "gregory_widen",
+        "name": "Gregory Widen",
+        "kind": "person",
+        "roles": [
+          "creator",
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 73,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "creator",
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 24 Sep 2026 11:26:40 GMT",
+    "captured": "2026-09-24T13:44:00Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQzNZYUJvNi1iTThGdmU4Nm1heUl3V1VjeWZBZUNaRHdfMTN3ajJzMXhjYm1nS2RsbXdGMnlZZFFmb0NydjZoYnd3ZUpXNXdxVzFKTTNmOHA4aXlkbmhoTllTTm9xNXJyV2ZId0ZUYXROQzhDd0N0YUY1RHlmT0hjV3BmSGdSSWJ1eVQ3YTRJb2s1OEtzeFZid1dSZ3FJTkpBVmo2M2x4bm9lOUZVOUZfUHQ5NEpEMjdId1VVSG41ZENNdw?oc=5",
+    "source": "en.softonic.com",
+    "title": "Highlander: The Original Screenplay arrives in 2026: Titan adapts Gregory Widen’s first script - en.softonic.com",
+    "summary": "Highlander: The Original Screenplay arrives in 2026: Titan adapts Gregory Widen’s first script en.softonic.com",
+    "evidence": [
+      "matched entity: Gregory Widen",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.1 days"
+    ],
+    "score": 73,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
     "status": "new"
   }
 ]

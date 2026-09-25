@@ -1,108 +1,5 @@
 [
   {
-    "id": "15d0465258b276c6e5ef",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "health",
-    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
-    "captured": "2026-08-31T20:19:05Z",
-    "urgency": "immediate",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZXV2VXNRTGNsMXJmYkpDcDh1QkJMa1RoMGRKZG02X3NudkhGaDRCcm9PWFZCYnJCUHY4ODhNRno5T21sWVotUGNXWnFPNzExSEJRTnh5a0t4X1FJNUk4Zl9OQnlZMVVuRW41QUhFYnY1YTFvMnJ3UnFuUVg2UG9DSVpld2wtdmRSMXgyeTVhck1uTWhNOVBhSUdQNnBNNmQzYXVNZU9xWGRCWXZUUThmZ1NMR25uWXR1VHNnLTByZEMxRV81aWRN?oc=5",
-    "source": "independent.co.uk",
-    "title": "Highlander star drops out of fan event after collapsing in medical emergency - independent.co.uk",
-    "summary": "Highlander star drops out of fan event after collapsing in medical emergency independent.co.uk",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: health (medical)",
-      "source age: 22.6 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": true,
-    "status": "new"
-  },
-  {
-    "id": "9e9809d2bff7ae8db32b",
-    "entity_id": "christopher_lambert",
-    "entity": "Christopher Lambert",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_lambert",
-        "name": "Christopher Lambert",
-        "kind": "person",
-        "roles": [
-          "actor",
-          "Connor MacLeod"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II",
-          "Highlander III",
-          "Highlander: Endgame"
-        ],
-        "score": 80,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "actor",
-      "Connor MacLeod"
-    ],
-    "franchise_titles": [
-      "Highlander",
-      "Highlander II",
-      "Highlander III",
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 13 May 2016 07:00:00 GMT",
-    "captured": "2026-08-31T20:19:05Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakJWQjdfSmpFZnBQLWtCWFluSkRON29tZGFDSVI5RnI4TTFOWTc2UFhsY2tkX1hETlowSWZBNWszR1ZOYWxGSi1KYzJNczVVQTg1NGVuTmdMQkNXNEYyS0k5OWVTRmszaDJVYV9Eb0ppMWN1OVViX0JjenlKZ29tZlBn?oc=5",
-    "source": "thewrap.com",
-    "title": "Christophe Lambert, Former EuropaCorp CEO, Dies at 51 - thewrap.com",
-    "summary": "Christophe Lambert, Former EuropaCorp CEO, Dies at 51 thewrap.com",
-    "evidence": [
-      "matched entity: Christopher Lambert",
-      "event: death (dies)",
-      "source age: 3762.6 days"
-    ],
-    "score": 80,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "c2c1269d4cee71cac0b7",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56990,5 +56887,114 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": true,
     "status": "new"
+  },
+  {
+    "id": "010c25f2c7c7a68541a1",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 25 Sep 2026 17:22:58 GMT",
+    "captured": "2026-09-25T18:50:01Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRlJfOWpBUTNxYkpQN3ZmN1NTWjJ3SnVvSTltQ0hoOGRNaGpMdmF3dXByNU1PUk5mUnBDZUtrai1HODJxOEtWaldEWTdZRzhRb183RERLVHNMR2xsQmgwbF9JTHRrY0RGVS1SVlZXU0dJdTNtdHVDOGxndTd6RXdDcndrMk1RbWFOSjEyUlpOODlPdTBxdkJiTw?oc=5",
+    "source": "SciFiPulse.Net",
+    "title": "First Look at Highlander: The Original Screenplay Comic Adaptation - SciFiPulse.Net",
+    "summary": "First Look at Highlander: The Original Screenplay Comic Adaptation SciFiPulse.Net",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 0.1 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "b0c8a48063b469c97b90",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 08 Aug 2026 21:15:55 GMT",
+    "captured": "2026-09-25T18:50:01Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hN1NnUnpQNVBPdkhpeDJGb1J6ZHRDYnFkNjU3ckJ3TUFlVHJubFJPX1dRYWNEYllreURQdGx2dGhZMG15ZXlVeEdETS1MUlNUNExnWVp4N0FVVmhHdTg3VU5ka3VXYWc?oc=5",
+    "source": "IMDb",
+    "title": "Russell Crowe Officially Shows Off Shocking New Look For Henry Cavill's 'Highlander' - IMDb",
+    "summary": "Russell Crowe Officially Shows Off Shocking New Look For Henry Cavill's 'Highlander' IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 47.9 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

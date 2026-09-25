@@ -1,137 +1,5 @@
 [
   {
-    "id": "500ca87efa0852532622",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "health"
-      },
-      {
-        "id": "christopher_lambert",
-        "name": "Christopher Lambert",
-        "kind": "person",
-        "roles": [
-          "actor",
-          "Connor MacLeod"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II",
-          "Highlander III",
-          "Highlander: Endgame"
-        ],
-        "score": 100,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "health",
-    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
-    "captured": "2026-08-31T20:19:05Z",
-    "urgency": "immediate",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeHlYS2NNTUtGaVR2V1pHTENrSDBoWEF0S0RuZE5QQXFEVTEydEV0Sy1GVTVjbnJ3d1NoQWE1ZVpHTGxKenc4Z2YwaWUzNVp4QUpWaURvMnRuRklLU05kOTJxNU96WnM1WWpNLTVEaU1qRHdkWXVOOVk1QmRzRVh5azdMM0pUOTI0YUMxTENqVnRqay1HcHVtU21tZnpGV0J6MjBrQVk5YnVvUElpZG9USG1oNGVxMGk2QmpTNTdJSkRqallDb0hlM1RRYVhQNEJDSHp5MF9JbEkySXNLWlNINkluUQ?oc=5",
-    "source": "triblive.com",
-    "title": "‘Highlander’ star Christopher Lambert leaves Steel City Con early following medical issue - triblive.com",
-    "summary": "‘Highlander’ star Christopher Lambert leaves Steel City Con early following medical issue triblive.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: health (medical)",
-      "also matched: Christopher Lambert (100)",
-      "source age: 22.6 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": true,
-    "status": "new"
-  },
-  {
-    "id": "a92b4840af25b7bcb0de",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "health"
-      },
-      {
-        "id": "christopher_lambert",
-        "name": "Christopher Lambert",
-        "kind": "person",
-        "roles": [
-          "actor",
-          "Connor MacLeod"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II",
-          "Highlander III",
-          "Highlander: Endgame"
-        ],
-        "score": 100,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "health",
-    "source_date": "Mon, 10 Aug 2026 07:00:00 GMT",
-    "captured": "2026-08-31T20:19:05Z",
-    "urgency": "immediate",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVctTDRVV3U4TFZiSU5EXzE5eW1OdmE1aTE0N0VLcEVhMjJHOUtHWEJOLS04azhsTmhybEVTajFiSTV1eWR3SHl4dGpSTHVtN2w2amd4SUVwM2ZpUXdwQS15aVdxRVo3cjZHYVRIbHFXOW9Ga0JEd0dLbzRZckxNRDA3eGFvVTJfUFhjUUpVNmN5YVlTcjRuU3dyZl9iNGRXclIwVFVvY0RfTkM5YVE?oc=5",
-    "source": "independent.co.uk",
-    "title": "Highlander’s Christopher Lambert pulls out of fan event due to illness - independent.co.uk",
-    "summary": "Highlander’s Christopher Lambert pulls out of fan event due to illness independent.co.uk",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: health (illness)",
-      "also matched: Christopher Lambert (100)",
-      "source age: 21.6 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": true,
-    "status": "new"
-  },
-  {
     "id": "15d0465258b276c6e5ef",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56996,5 +56864,131 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "9a2997e42c5483d3413e",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 24 Sep 2026 09:00:11 GMT",
+    "captured": "2026-09-25T14:06:40Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkdWZkdMckFQN2hwd0xOS2szbXFUZXlxMlV2dTFyc3R3VUYwZG9TWjNtLWo1UkFlSmllWmF2OVViczhnM08tZ0EtUEExSkFkZ0J2NDgzclNWekNwUnBkTFpCQmhmcFhWT3M1MV9OelRnbXo5ampqM2lUNjllT2hoZzNqY2dCOUh4S2ZYbU5n?oc=5",
+    "source": "collider.com",
+    "title": "‘Highlander’ Officially Returns in 2026 Ahead of Henry Cavill’s Remake - collider.com",
+    "summary": "‘Highlander’ Officially Returns in 2026 Ahead of Henry Cavill’s Remake collider.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: remake",
+      "event: highlander_production (remake)",
+      "also matched: Henry Cavill (100)",
+      "source age: 1.2 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "632d1e75fa6b6b9459f6",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 24 Sep 2026 20:03:03 GMT",
+    "captured": "2026-09-25T14:06:40Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWZpTHZyMWsyS0R5Qy01UlZ0cDB2ajlxYWZjanFKUUdVMmx5X2RxWEY1eUlrMDVHYW5ERWs0MnJZWUMxMFN5UVgtTWtWMUUzMjNJWFI2Z2YtSFYtSVFEblJhS09xVUVSTkdMZHFQa29FWlZhc1g4NmsyNEJNUE5HcExB?oc=5",
+    "source": "collider.com",
+    "title": "'Highlander' Officially Returns With New 4-Part Release Ahead of Henry Cavill's Reboot [Exclusive] - collider.com",
+    "summary": "'Highlander' Officially Returns With New 4-Part Release Ahead of Henry Cavill's Reboot [Exclusive] collider.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 0.8 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
   }
 ]

@@ -1,67 +1,5 @@
 [
   {
-    "id": "8173948d9b44f459873e",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "other",
-    "source_date": "Sat, 21 Jun 2025 07:00:00 GMT",
-    "captured": "2026-08-31T20:19:05Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUlQtREV2eDQ5Tng1SGpCNzdEalE5Qm85cTYzM211THRMajQzYjhrdGtrSXBvelZFR2RkTTJoVGN2bU45ZGpGV1B6WllzQmJsS3BKM3V1VTIxWUJlLXNkQm5Ia1M4Y3l5aVdlSzVjeUNOcTQxRTZUYjc5cFpMVjhqaGQ0Y0JFdlEwaVYwNTBEblRPMGFCRVZneWlYQTMtbmtpQ01EeDdhbmxEZGFOYUR4aTNPZ29wUFpuQTFn0gHIAUFVX3lxTFB5MGg3UUZ2dkM3Z251MEw5UjBlZzNiS01vQlc4TE5NbG5TcDNZRGhvZk43WTBnb3JQV0ZGcDhVVDFJcWYxNFRYclJreEJ3aURhNGRfVGlxblRVcFFQQm43R3duSEE5ZjBBS0xfeVdxTHVnRFNTenBTeGxMQUlhSDA3OVh6dllWbHZRRlZaRVR2NlFmZ1lUMzRnZHhqdk5RcUgxMTI0NVdRVFJDZEhkVG1ES0lCSjBRSFAyMTJqZ0V6RVI0TEJMZEN4?oc=5",
-    "source": "Indulge Express",
-    "title": "Russell Crowe to reunite with Henry Cavill in Highlander - Indulge Express",
-    "summary": "Russell Crowe to reunite with Henry Cavill in Highlander Indulge Express",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 436.6 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "51d0f037714f91001b6a",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -57057,6 +56995,72 @@
       "also matched: Henry Cavill (100)",
       "also matched: Chad Stahelski (100)",
       "source age: 221.0 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "101257835002196113f7",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      },
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "health",
+    "source_date": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-26T07:57:57Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeFBQRmhVREpsVDNJdnNPMVZnbGJNa2JManNGQllDZjJtb2RwVkNfcFR4Z0lTOEhuRUlJNG9DRW1iTlRVbGlXWHlJTU12dWFQRldxSW44TTdEeWIzeTl1QmZVdGxfcWVVY1lPLW1Qc0xGZkJLVUlmTzdwMXl6Nno1cWlmLWhGUnpTMVQzb1owcjlwWjBmYVZQSzFPQWdaV0FGZ1YyeTd5Zm9ZdjRoYlNjbzVIN0VfczZmdFdSUHpSRTZPUQ?oc=5",
+    "source": "FODMAP Everyday",
+    "title": "'Highlander' Star Christopher Lambert, 69, Collapses at Fan Convention and Is Rushed to Hospital - FODMAP Everyday",
+    "summary": "'Highlander' Star Christopher Lambert, 69, Collapses at Fan Convention and Is Rushed to Hospital FODMAP Everyday",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: health (hospital)",
+      "also matched: Christopher Lambert (100)",
+      "source age: 47.0 days"
     ],
     "score": 100,
     "route": "Corrupted Chronicle research",

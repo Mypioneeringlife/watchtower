@@ -1,54 +1,5 @@
 [
   {
-    "id": "51d0f037714f91001b6a",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Tue, 29 Oct 2013 07:00:00 GMT",
-    "captured": "2026-08-31T20:19:05Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeTVuajV5U010NnJhVHhMVG1aeWFFVFNwR2pHTUFWMldfaHo1czZMSW5VdmNoT0FjS1pNcGl4cDRkSHhiLTVnTGxPQjRfOGl3REpRbmEwWU5YSTF2VXJyVk50ZHVrbFdrZWl5Zmp4c2JSb3RXazIyXzF6SkRaYXFPMEZPTERJcEhzV2U0TmM0LXhSbGg2bldHZG1OWUE?oc=5",
-    "source": "digitalspy.com",
-    "title": "'Highlander' reboot gets director Cedric Nicolas-Troyan - digitalspy.com",
-    "summary": "'Highlander' reboot gets director Cedric Nicolas-Troyan digitalspy.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "source age: 4689.6 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "ea3fca23d5169346abca",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -57061,6 +57012,69 @@
       "event: health (hospital)",
       "also matched: Christopher Lambert (100)",
       "source age: 47.0 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ca1b428eff5e3796a735",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 28 Jan 2026 08:00:00 GMT",
+    "captured": "2026-09-26T13:20:39Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVXN0ek9sSkNVSy1idnBvRlRWc3ZaR0VLd2JoNEN1QWN4bGctbnFFbjA2WGtqQzZpdm5lTWgxa3NweDFWMnBxMk5DdlhqVHM0S2tZczJhcl9ybzBrZG1zcENVRks2LVRsWHNDcnY0X2dxN3JVRS1wamx6SnlPaW92bzBPR29LVlRzcFdSbmpUQWRTeHo4ZU9iOTZ6NXFpVm1Qa1h6YUYtTHRPdHc?oc=5",
+    "source": "comicbook.com",
+    "title": "Henry Cavill Reveals Highlander Reboot First Look (And It Looks Fantastic) - comicbook.com",
+    "summary": "Henry Cavill Reveals Highlander Reboot First Look (And It Looks Fantastic) comicbook.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 241.2 days"
     ],
     "score": 100,
     "route": "Corrupted Chronicle research",

@@ -14,17 +14,72 @@
   },
   "entities": [
     {
-      "id": "highlander_franchise",
-      "name": "Highlander",
-      "kind": "franchise",
+      "id": "adrian_paul",
+      "name": "Adrian Paul",
+      "kind": "person",
       "priority": 100,
       "poll_tier": "core",
-      "aliases": ["Highlander franchise", "Highlander reboot", "Highlander remake"],
-      "search_queries": ["\"Highlander\" film franchise", "\"Highlander\" reboot"],
-      "include_any": ["Connor MacLeod", "Duncan MacLeod", "Immortal", "Quickening", "reboot", "remake", "Amazon MGM", "Lionsgate"],
-      "exclude_any": ["Toyota Highlander", "Highlander cattle", "Highlander cat", "Highlander school"],
-      "roles": ["franchise"],
-      "franchise_titles": ["Highlander"],
+      "aliases": [
+        "Adrian Paul"
+      ],
+      "search_queries": [
+        "\"Adrian Paul\" actor"
+      ],
+      "include_any": [
+        "Highlander",
+        "Duncan MacLeod",
+        "Sword Experience",
+        "convention",
+        "interview"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "Duncan MacLeod",
+        "actor",
+        "cast member",
+        "director",
+        "producer"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame",
+        "Highlander: The Series",
+        "Highlander: The Source",
+        "Homeland",
+        "Methuselah's Gift",
+        "Revelation 6:8",
+        "The Modern Prometheus"
+      ],
+      "enabled": true,
+      "wikidata_url": "https://www.wikidata.org/entity/Q286690"
+    },
+    {
+      "id": "chad_stahelski",
+      "name": "Chad Stahelski",
+      "kind": "person",
+      "priority": 100,
+      "poll_tier": "core",
+      "aliases": [
+        "Chad Stahelski"
+      ],
+      "search_queries": [
+        "\"Chad Stahelski\" Highlander",
+        "\"Chad Stahelski\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director",
+        "reboot",
+        "production",
+        "filming",
+        "interview"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "reboot director"
+      ],
+      "franchise_titles": [
+        "Highlander reboot"
+      ],
       "enabled": true
     },
     {
@@ -33,96 +88,105 @@
       "kind": "person",
       "priority": 100,
       "poll_tier": "core",
-      "aliases": ["Christophe Lambert", "Christopher Lambert"],
-      "search_queries": ["\"Christopher Lambert\"", "\"Christophe Lambert\""],
-      "include_any": ["Highlander", "Connor MacLeod", "actor", "convention", "interview"],
+      "aliases": [
+        "Christophe Lambert",
+        "Christopher Lambert"
+      ],
+      "search_queries": [
+        "\"Christopher Lambert\"",
+        "\"Christophe Lambert\""
+      ],
+      "include_any": [
+        "Highlander",
+        "Connor MacLeod",
+        "actor",
+        "convention",
+        "interview"
+      ],
       "exclude_any": [],
-      "roles": ["actor", "Connor MacLeod"],
-      "franchise_titles": ["Highlander", "Highlander II", "Highlander III", "Highlander: Endgame"],
-      "enabled": true
+      "roles": [
+        "Connor MacLeod",
+        "actor",
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander",
+        "Highlander II",
+        "Highlander II: The Quickening",
+        "Highlander III",
+        "Highlander III: The Sorcerer",
+        "Highlander: Endgame"
+      ],
+      "enabled": true,
+      "wikidata_url": "https://www.wikidata.org/entity/Q105158"
     },
     {
-      "id": "adrian_paul",
-      "name": "Adrian Paul",
+      "id": "henry_cavill",
+      "name": "Henry Cavill",
       "kind": "person",
       "priority": 100,
       "poll_tier": "core",
-      "aliases": ["Adrian Paul"],
-      "search_queries": ["\"Adrian Paul\" actor"],
-      "include_any": ["Highlander", "Duncan MacLeod", "Sword Experience", "convention", "interview"],
+      "aliases": [
+        "Henry Cavill"
+      ],
+      "search_queries": [
+        "\"Henry Cavill\" Highlander",
+        "\"Henry Cavill\""
+      ],
+      "include_any": [
+        "Highlander",
+        "reboot",
+        "remake",
+        "casting",
+        "filming",
+        "production"
+      ],
       "exclude_any": [],
-      "roles": ["actor", "Duncan MacLeod"],
-      "franchise_titles": ["Highlander: The Series", "Highlander: Endgame", "Highlander: The Source"],
+      "roles": [
+        "reboot cast"
+      ],
+      "franchise_titles": [
+        "Highlander reboot"
+      ],
       "enabled": true
     },
     {
-      "id": "clancy_brown",
-      "name": "Clancy Brown",
-      "kind": "person",
-      "priority": 90,
+      "id": "highlander_franchise",
+      "name": "Highlander",
+      "kind": "franchise",
+      "priority": 100,
       "poll_tier": "core",
-      "aliases": ["Clancy Brown"],
-      "search_queries": ["\"Clancy Brown\""],
-      "include_any": ["Highlander", "Kurgan", "actor", "interview", "convention"],
-      "exclude_any": [],
-      "roles": ["actor", "The Kurgan"],
-      "franchise_titles": ["Highlander"],
-      "enabled": true
-    },
-    {
-      "id": "jim_byrnes",
-      "name": "Jim Byrnes",
-      "kind": "person",
-      "priority": 90,
-      "poll_tier": "core",
-      "aliases": ["Jim Byrnes", "James Thomas Kevin Byrnes"],
-      "search_queries": ["\"Jim Byrnes\" Highlander", "\"Jim Byrnes\" musician actor"],
-      "include_any": ["Highlander", "Joe Dawson", "actor", "musician", "interview", "convention"],
-      "exclude_any": [],
-      "roles": ["actor", "Joe Dawson"],
-      "franchise_titles": ["Highlander: The Series", "Highlander: Endgame"],
-      "enabled": true
-    },
-    {
-      "id": "peter_wingfield",
-      "name": "Peter Wingfield",
-      "kind": "person",
-      "priority": 90,
-      "poll_tier": "core",
-      "aliases": ["Peter Wingfield"],
-      "search_queries": ["\"Peter Wingfield\""],
-      "include_any": ["Highlander", "Methos", "actor", "doctor", "interview", "convention"],
-      "exclude_any": [],
-      "roles": ["actor", "Methos"],
-      "franchise_titles": ["Highlander: The Series", "Highlander: Endgame"],
-      "enabled": true
-    },
-    {
-      "id": "elizabeth_gracen",
-      "name": "Elizabeth Gracen",
-      "kind": "person",
-      "priority": 82,
-      "poll_tier": "core",
-      "aliases": ["Elizabeth Gracen"],
-      "search_queries": ["\"Elizabeth Gracen\""],
-      "include_any": ["Highlander", "Amanda", "actor", "interview", "convention"],
-      "exclude_any": [],
-      "roles": ["actor", "Amanda"],
-      "franchise_titles": ["Highlander: The Series", "Highlander: The Raven"],
-      "enabled": true
-    },
-    {
-      "id": "alexandra_vandernoot",
-      "name": "Alexandra Vandernoot",
-      "kind": "person",
-      "priority": 78,
-      "poll_tier": "extended",
-      "aliases": ["Alexandra Vandernoot"],
-      "search_queries": ["\"Alexandra Vandernoot\""],
-      "include_any": ["Highlander", "Tessa Noël", "Tessa Noel", "actor", "interview"],
-      "exclude_any": [],
-      "roles": ["actor", "Tessa Noël"],
-      "franchise_titles": ["Highlander: The Series"],
+      "aliases": [
+        "Highlander franchise",
+        "Highlander reboot",
+        "Highlander remake"
+      ],
+      "search_queries": [
+        "\"Highlander\" film franchise",
+        "\"Highlander\" reboot"
+      ],
+      "include_any": [
+        "Connor MacLeod",
+        "Duncan MacLeod",
+        "Immortal",
+        "Quickening",
+        "reboot",
+        "remake",
+        "Amazon MGM",
+        "Lionsgate"
+      ],
+      "exclude_any": [
+        "Toyota Highlander",
+        "Highlander cattle",
+        "Highlander cat",
+        "Highlander school"
+      ],
+      "roles": [
+        "franchise"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
       "enabled": true
     },
     {
@@ -131,13 +195,135 @@
       "kind": "person",
       "priority": 95,
       "poll_tier": "core",
-      "aliases": ["Gregory Widen"],
-      "search_queries": ["\"Gregory Widen\""],
-      "include_any": ["Highlander", "screenwriter", "creator", "interview", "reboot"],
+      "aliases": [
+        "Gregory Widen"
+      ],
+      "search_queries": [
+        "\"Gregory Widen\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter",
+        "creator",
+        "interview",
+        "reboot"
+      ],
       "exclude_any": [],
-      "roles": ["creator", "screenwriter"],
-      "franchise_titles": ["Highlander"],
-      "enabled": true
+      "roles": [
+        "creator",
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Highlander",
+        "Highlander: The Raven",
+        "Highlander: The Series",
+        "Highlander: The Source"
+      ],
+      "enabled": true,
+      "wikidata_url": "https://www.wikidata.org/entity/Q487408"
+    },
+    {
+      "id": "clancy_brown",
+      "name": "Clancy Brown",
+      "kind": "person",
+      "priority": 90,
+      "poll_tier": "core",
+      "aliases": [
+        "Clancy Brown"
+      ],
+      "search_queries": [
+        "\"Clancy Brown\""
+      ],
+      "include_any": [
+        "Highlander",
+        "Kurgan",
+        "actor",
+        "interview",
+        "convention"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "The Kurgan",
+        "actor",
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
+      "enabled": true,
+      "wikidata_url": "https://www.wikidata.org/entity/Q4488"
+    },
+    {
+      "id": "jim_byrnes",
+      "name": "Jim Byrnes",
+      "kind": "person",
+      "priority": 90,
+      "poll_tier": "core",
+      "aliases": [
+        "Jim Byrnes",
+        "James Thomas Kevin Byrnes"
+      ],
+      "search_queries": [
+        "\"Jim Byrnes\" Highlander",
+        "\"Jim Byrnes\" musician actor"
+      ],
+      "include_any": [
+        "Highlander",
+        "Joe Dawson",
+        "actor",
+        "musician",
+        "interview",
+        "convention"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "Joe Dawson",
+        "actor",
+        "cast member",
+        "voice actor"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame",
+        "Highlander: The Search for Vengeance",
+        "Highlander: The Series",
+        "Highlander: The Source"
+      ],
+      "enabled": true,
+      "wikidata_url": "https://www.wikidata.org/entity/Q513268"
+    },
+    {
+      "id": "peter_wingfield",
+      "name": "Peter Wingfield",
+      "kind": "person",
+      "priority": 90,
+      "poll_tier": "core",
+      "aliases": [
+        "Peter Wingfield"
+      ],
+      "search_queries": [
+        "\"Peter Wingfield\""
+      ],
+      "include_any": [
+        "Highlander",
+        "Methos",
+        "actor",
+        "doctor",
+        "interview",
+        "convention"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "Methos",
+        "actor",
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame",
+        "Highlander: The Series",
+        "Highlander: The Source"
+      ],
+      "enabled": true,
+      "wikidata_url": "https://www.wikidata.org/entity/Q1082835"
     },
     {
       "id": "russell_mulcahy",
@@ -145,40 +331,4053 @@
       "kind": "person",
       "priority": 85,
       "poll_tier": "core",
-      "aliases": ["Russell Mulcahy"],
-      "search_queries": ["\"Russell Mulcahy\""],
-      "include_any": ["Highlander", "director", "interview", "retrospective"],
+      "aliases": [
+        "Russell Mulcahy"
+      ],
+      "search_queries": [
+        "\"Russell Mulcahy\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director",
+        "interview",
+        "retrospective"
+      ],
       "exclude_any": [],
-      "roles": ["director"],
-      "franchise_titles": ["Highlander", "Highlander II"],
+      "roles": [
+        "cast member",
+        "director"
+      ],
+      "franchise_titles": [
+        "Highlander",
+        "Highlander II",
+        "Highlander II: The Quickening"
+      ],
+      "enabled": true,
+      "wikidata_url": "https://www.wikidata.org/entity/Q436829"
+    },
+    {
+      "id": "elizabeth_gracen",
+      "name": "Elizabeth Gracen",
+      "kind": "person",
+      "priority": 82,
+      "poll_tier": "core",
+      "aliases": [
+        "Elizabeth Gracen"
+      ],
+      "search_queries": [
+        "\"Elizabeth Gracen\""
+      ],
+      "include_any": [
+        "Highlander",
+        "Amanda",
+        "actor",
+        "interview",
+        "convention"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "Amanda",
+        "actor",
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Raven",
+        "Highlander: The Series"
+      ],
+      "enabled": true,
+      "wikidata_url": "https://www.wikidata.org/entity/Q448579"
+    },
+    {
+      "id": "alexandra_vandernoot",
+      "name": "Alexandra Vandernoot",
+      "kind": "person",
+      "priority": 78,
+      "poll_tier": "extended",
+      "aliases": [
+        "Alexandra Vandernoot"
+      ],
+      "search_queries": [
+        "\"Alexandra Vandernoot\""
+      ],
+      "include_any": [
+        "Highlander",
+        "Tessa Noël",
+        "Tessa Noel",
+        "actor",
+        "interview"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "Tessa Noël",
+        "actor",
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Series"
+      ],
+      "enabled": true,
+      "wikidata_url": "https://www.wikidata.org/entity/Q259169"
+    },
+    {
+      "id": "alan_north",
+      "name": "Alan North",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Alan North"
+      ],
+      "search_queries": [
+        "\"Alan North\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q1715146",
+      "discovered_by": "Wikidata entity API roster expansion",
       "enabled": true
     },
     {
-      "id": "henry_cavill",
-      "name": "Henry Cavill",
+      "id": "alan_swayze",
+      "name": "Alan Swayze",
       "kind": "person",
-      "priority": 100,
-      "poll_tier": "core",
-      "aliases": ["Henry Cavill"],
-      "search_queries": ["\"Henry Cavill\" Highlander", "\"Henry Cavill\""],
-      "include_any": ["Highlander", "reboot", "remake", "casting", "filming", "production"],
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Alan Swayze"
+      ],
+      "search_queries": [
+        "\"Alan Swayze\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
       "exclude_any": [],
-      "roles": ["reboot cast"],
-      "franchise_titles": ["Highlander reboot"],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Take Back the Night",
+        "The Innocent",
+        "Through a Glass, Darkly",
+        "Vendetta"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086618",
+      "discovered_by": "Wikidata entity API roster expansion",
       "enabled": true
     },
     {
-      "id": "chad_stahelski",
-      "name": "Chad Stahelski",
+      "id": "alistair_abell",
+      "name": "Alistair Abell",
       "kind": "person",
-      "priority": 100,
-      "poll_tier": "core",
-      "aliases": ["Chad Stahelski"],
-      "search_queries": ["\"Chad Stahelski\" Highlander", "\"Chad Stahelski\""],
-      "include_any": ["Highlander", "director", "reboot", "production", "filming", "interview"],
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Alistair Abell"
+      ],
+      "search_queries": [
+        "\"Alistair Abell\""
+      ],
+      "include_any": [
+        "Highlander",
+        "voice actor"
+      ],
       "exclude_any": [],
-      "roles": ["reboot director"],
-      "franchise_titles": ["Highlander reboot"],
+      "roles": [
+        "voice actor"
+      ],
+      "franchise_titles": [
+        "Highlander: The Search for Vengeance"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q4727254",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "amanda_wyss",
+      "name": "Amanda Wyss",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Amanda Wyss"
+      ],
+      "search_queries": [
+        "\"Amanda Wyss\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Series"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q2415514",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "andy_morahan",
+      "name": "Andy Morahan",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Andy Morahan"
+      ],
+      "search_queries": [
+        "\"Andy Morahan\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Highlander III: The Sorcerer"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q21592537",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "aubrey_solomon",
+      "name": "Aubrey Solomon",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Aubrey Solomon"
+      ],
+      "search_queries": [
+        "\"Aubrey Solomon\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Revenge of the Sword"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086621",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "beatie_edney",
+      "name": "Beatie Edney",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Beatie Edney"
+      ],
+      "search_queries": [
+        "\"Beatie Edney\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander",
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q434754",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "billy_hartman",
+      "name": "Billy Hartman",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Billy Hartman"
+      ],
+      "search_queries": [
+        "\"Billy Hartman\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q4912686",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "bob_weinstein",
+      "name": "Bob Weinstein",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Bob Weinstein"
+      ],
+      "search_queries": [
+        "\"Bob Weinstein\""
+      ],
+      "include_any": [
+        "Highlander",
+        "producer"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "producer"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q888311",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "brad_mirman",
+      "name": "Brad Mirman",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Brad Mirman"
+      ],
+      "search_queries": [
+        "\"Brad Mirman\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Highlander III: The Sorcerer"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q896849",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "brad_wright",
+      "name": "Brad Wright",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Brad Wright"
+      ],
+      "search_queries": [
+        "\"Brad Wright\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Counterfeit, Part 1"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q305372",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "brett_leonard",
+      "name": "Brett Leonard",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Brett Leonard"
+      ],
+      "search_queries": [
+        "\"Brett Leonard\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Highlander: The Source"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q736300",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "brian_clemens",
+      "name": "Brian Clemens",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Brian Clemens"
+      ],
+      "search_queries": [
+        "\"Brian Clemens\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Highlander II: The Quickening",
+        "See No Evil"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q1908416",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "bruce_payne",
+      "name": "Bruce Payne",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Bruce Payne"
+      ],
+      "search_queries": [
+        "\"Bruce Payne\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q327574",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "bruno_gantillon",
+      "name": "Bruno Gantillon",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Bruno Gantillon"
+      ],
+      "search_queries": [
+        "\"Bruno Gantillon\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Warmonger"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q511287",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "cary_granat",
+      "name": "Cary Granat",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Cary Granat"
+      ],
+      "search_queries": [
+        "\"Cary Granat\""
+      ],
+      "include_any": [
+        "Highlander",
+        "producer"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "producer"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q5047622",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "celia_imrie",
+      "name": "Celia Imrie",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Celia Imrie"
+      ],
+      "search_queries": [
+        "\"Celia Imrie\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q467502",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "charles_wilkinson",
+      "name": "Charles Wilkinson",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Charles Wilkinson"
+      ],
+      "search_queries": [
+        "\"Charles Wilkinson\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Brothers in Arms",
+        "Courage",
+        "Double Jeopardy",
+        "Obsession",
+        "Shadows"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q21725103",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "christian_bouveron",
+      "name": "Christian Bouveron",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Christian Bouveron"
+      ],
+      "search_queries": [
+        "\"Christian Bouveron\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Eye of the Beholder",
+        "Pharaoh's Daughter",
+        "The Darkness",
+        "Warmonger"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086623",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "christopher_malcolm",
+      "name": "Christopher Malcolm",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Christopher Malcolm"
+      ],
+      "search_queries": [
+        "\"Christopher Malcolm\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q5112800",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "claude_l_ger",
+      "name": "Claude Léger",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Claude Léger"
+      ],
+      "search_queries": [
+        "\"Claude Léger\""
+      ],
+      "include_any": [
+        "Highlander",
+        "producer"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "producer"
+      ],
+      "franchise_titles": [
+        "Highlander III: The Sorcerer"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q115255718",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "clay_borris",
+      "name": "Clay Borris",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Clay Borris"
+      ],
+      "search_queries": [
+        "\"Clay Borris\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Bless the Child",
+        "Epitaph for Tommy",
+        "Line of Fire",
+        "Revenge of the Sword",
+        "The Watchers",
+        "The Zone",
+        "Turnabout",
+        "Under Color of Authority"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q2978695",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "corinne_russell",
+      "name": "Corinne Russell",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Corinne Russell"
+      ],
+      "search_queries": [
+        "\"Corinne Russell\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q5170599",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "cristian_solimeno",
+      "name": "Cristian Solimeno",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Cristian Solimeno"
+      ],
+      "search_queries": [
+        "\"Cristian Solimeno\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Source"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q376162",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "damon_dash",
+      "name": "Damon Dash",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Damon Dash"
+      ],
+      "search_queries": [
+        "\"Damon Dash\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q344384",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "dan_gordon",
+      "name": "Dan Gordon",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Dan Gordon"
+      ],
+      "search_queries": [
+        "\"Dan Gordon\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Innocent Man",
+        "The Gathering"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3696450",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "daniel_d",
+      "name": "Daniel Dõ",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Daniel Dõ"
+      ],
+      "search_queries": [
+        "\"Daniel Dõ\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander III: The Sorcerer"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3013989",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "daniel_vigne",
+      "name": "Daniel Vigne",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Daniel Vigne"
+      ],
+      "search_queries": [
+        "\"Daniel Vigne\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "The Beast Below"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3014785",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "david_abramowitz",
+      "name": "David Abramowitz",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "David Abramowitz"
+      ],
+      "search_queries": [
+        "\"David Abramowitz\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "For Evil's Sake",
+        "Nowhere to Run"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086625",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "david_tynan",
+      "name": "David Tynan",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "David Tynan"
+      ],
+      "search_queries": [
+        "\"David Tynan\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Archangel",
+        "Avatar",
+        "Comes a Horseman",
+        "Counterfeit, Part 1",
+        "Counterfeit, Part 2",
+        "Deliverance",
+        "Double Eagle",
+        "Double Jeopardy",
+        "Eyewitness",
+        "Finale, Part 1",
+        "Finale, Part 2",
+        "Homeland",
+        "Judgment Day",
+        "Line of Fire",
+        "Manhunt",
+        "Not To Be",
+        "One Minute to Midnight",
+        "Patient Number 7",
+        "Prodigal Son",
+        "Prophecy",
+        "Shadows",
+        "Something Wicked",
+        "Song of the Executioner",
+        "Testimony",
+        "The Messenger",
+        "The Ransom of Richard Redstone",
+        "The Return of Amanda",
+        "The Sea Witch",
+        "The Wrath of Kali",
+        "To Be",
+        "Turnabout",
+        "Unholy Alliance, Part 1",
+        "Unholy Alliance, Part 2"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086628",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "deborah_kara_unger",
+      "name": "Deborah Kara Unger",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Deborah Kara Unger"
+      ],
+      "search_queries": [
+        "\"Deborah Kara Unger\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander III: The Sorcerer"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q233801",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "dennis_baxter",
+      "name": "Dennis Baxter",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Dennis Baxter"
+      ],
+      "search_queries": [
+        "\"Dennis Baxter\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Reunion"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086613",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "dennis_berry",
+      "name": "Dennis Berry",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Dennis Berry"
+      ],
+      "search_queries": [
+        "\"Dennis Berry\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Archangel",
+        "Avatar",
+        "Counterfeit, Part 2",
+        "Deadly Exposure",
+        "Deliverance",
+        "Eye For An Eye",
+        "Eye of the Beholder",
+        "Finale, Part 2",
+        "Highlander: The Raven",
+        "Indiscretions",
+        "Legacy",
+        "Methos",
+        "Not To Be",
+        "Nowhere to Run",
+        "One Minute to Midnight",
+        "Patient Number 7",
+        "Pharaoh's Daughter",
+        "Prophecy",
+        "Reasonable Doubt",
+        "Run For Your Life",
+        "Sins of the Father",
+        "Something Wicked",
+        "Testimony",
+        "The Colonel",
+        "The Innocent",
+        "The Lamb",
+        "The Return of Amanda",
+        "The Revolutionary",
+        "The Samurai",
+        "The Vampire",
+        "Through a Glass, Darkly",
+        "Till Death",
+        "Unusual Suspects"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3023139",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "dom_tordjmann",
+      "name": "Dom Tordjmann",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Dom Tordjmann"
+      ],
+      "search_queries": [
+        "\"Dom Tordjmann\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Forgive Us Our Trespasses"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086631",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "dominique_brenguier",
+      "name": "Dominique Brenguier",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Dominique Brenguier"
+      ],
+      "search_queries": [
+        "\"Dominique Brenguier\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director of photography"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director of photography"
+      ],
+      "franchise_titles": [
+        "Highlander: The Series"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q132055406",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "don_douglas",
+      "name": "Don Douglas",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Don Douglas"
+      ],
+      "search_queries": [
+        "\"Don Douglas\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q1230751",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "donnie_yen",
+      "name": "Donnie Yen",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Donnie Yen"
+      ],
+      "search_queries": [
+        "\"Donnie Yen\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q311723",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "douglas_aarniokoski",
+      "name": "Douglas Aarniokoski",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Douglas Aarniokoski"
+      ],
+      "search_queries": [
+        "\"Douglas Aarniokoski\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member",
+        "director"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q11856301",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "douglas_milsome",
+      "name": "Douglas Milsome",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Douglas Milsome"
+      ],
+      "search_queries": [
+        "\"Douglas Milsome\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director of photography"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director of photography"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q5301819",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "drunford_king",
+      "name": "Drunford King",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Drunford King"
+      ],
+      "search_queries": [
+        "\"Drunford King\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "The Colonel"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086634",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "duane_clark",
+      "name": "Duane Clark",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Duane Clark"
+      ],
+      "search_queries": [
+        "\"Duane Clark\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "The Wrath of Kali",
+        "Timeless"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q5310309",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "edge",
+      "name": "Edge",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Edge"
+      ],
+      "search_queries": [
+        "\"Edge\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q44164",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "elizabeth_baxter",
+      "name": "Elizabeth Baxter",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Elizabeth Baxter"
+      ],
+      "search_queries": [
+        "\"Elizabeth Baxter\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Bless the Child",
+        "Eye For An Eye",
+        "Legacy",
+        "Reasonable Doubt",
+        "Reunion",
+        "Saving Grace"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086636",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "fabrice_ziolkowski",
+      "name": "Fabrice Ziolkowski",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Fabrice Ziolkowski"
+      ],
+      "search_queries": [
+        "\"Fabrice Ziolkowski\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Avenging Angel",
+        "For Evil's Sake"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q21055263",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "george_mendeluk",
+      "name": "George Mendeluk",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "George Mendeluk"
+      ],
+      "search_queries": [
+        "\"George Mendeluk\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Vendetta"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3101759",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "gerard_hameline",
+      "name": "Gerard Hameline",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Gerard Hameline"
+      ],
+      "search_queries": [
+        "\"Gerard Hameline\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Comes a Horseman",
+        "Glory Days",
+        "Judgment Day",
+        "The End of Innocence",
+        "The Ransom of Richard Redstone"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086615",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "gerry_fisher",
+      "name": "Gerry Fisher",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Gerry Fisher"
+      ],
+      "search_queries": [
+        "\"Gerry Fisher\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director of photography"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director of photography"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q485770",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "giorgos_kallis",
+      "name": "Giorgos Kallis",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Giorgos Kallis"
+      ],
+      "search_queries": [
+        "\"Giorgos Kallis\""
+      ],
+      "include_any": [
+        "Highlander",
+        "composer"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "composer"
+      ],
+      "franchise_titles": [
+        "Highlander: The Source"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q5541225",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "guy_mullaly",
+      "name": "Guy Mullaly",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Guy Mullaly"
+      ],
+      "search_queries": [
+        "\"Guy Mullaly\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "The Return of Amanda"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086658",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "harvey_weinstein",
+      "name": "Harvey Weinstein",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Harvey Weinstein"
+      ],
+      "search_queries": [
+        "\"Harvey Weinstein\""
+      ],
+      "include_any": [
+        "Highlander",
+        "producer"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "producer"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q531599",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "hugh_quarshie",
+      "name": "Hugh Quarshie",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Hugh Quarshie"
+      ],
+      "search_queries": [
+        "\"Hugh Quarshie\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q487427",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "j_p_couture",
+      "name": "J. P. Couture",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "J. P. Couture"
+      ],
+      "search_queries": [
+        "\"J. P. Couture\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Methos",
+        "The Lamb",
+        "The Vampire"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086639",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "j_peter_robinson",
+      "name": "J. Peter Robinson",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "J. Peter Robinson"
+      ],
+      "search_queries": [
+        "\"J. Peter Robinson\""
+      ],
+      "include_any": [
+        "Highlander",
+        "composer"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "composer"
+      ],
+      "franchise_titles": [
+        "Highlander III: The Sorcerer",
+        "Highlander: The Source"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q649502",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "james_bruce",
+      "name": "James Bruce",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "James Bruce"
+      ],
+      "search_queries": [
+        "\"James Bruce\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Haunted",
+        "The Messenger"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3160955",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "james_cosmo",
+      "name": "James Cosmo",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "James Cosmo"
+      ],
+      "search_queries": [
+        "\"James Cosmo\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q733122",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "james_thorpe",
+      "name": "James Thorpe",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "James Thorpe"
+      ],
+      "search_queries": [
+        "\"James Thorpe\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Deadly Exposure",
+        "Diplomatic Immunity",
+        "Indiscretions",
+        "Money No Object",
+        "Sins of the Father",
+        "The Modern Prometheus",
+        "The Valkyrie",
+        "Two of Hearts"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q921294",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "jan_hartman",
+      "name": "Jan Hartman",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Jan Hartman"
+      ],
+      "search_queries": [
+        "\"Jan Hartman\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Duende"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q11865859",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "janyse_jaud",
+      "name": "Janyse Jaud",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Janyse Jaud"
+      ],
+      "search_queries": [
+        "\"Janyse Jaud\""
+      ],
+      "include_any": [
+        "Highlander",
+        "voice actor"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "voice actor"
+      ],
+      "franchise_titles": [
+        "Highlander: The Search for Vengeance"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q2070706",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "jerry_ciccoritti",
+      "name": "Jerry Ciccoritti",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Jerry Ciccoritti"
+      ],
+      "search_queries": [
+        "\"Jerry Ciccoritti\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Blind Faith"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q180247",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "jim_makichuk",
+      "name": "Jim Makichuk",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Jim Makichuk"
+      ],
+      "search_queries": [
+        "\"Jim Makichuk\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Blind Faith",
+        "Star-Crossed"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086642",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "joel_soisson",
+      "name": "Joel Soisson",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Joel Soisson"
+      ],
+      "search_queries": [
+        "\"Joel Soisson\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q1664532",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "john_c_mcginley",
+      "name": "John C. McGinley",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "John C. McGinley"
+      ],
+      "search_queries": [
+        "\"John C. McGinley\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander II: The Quickening"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q316032",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "john_dunn_hill",
+      "name": "John Dunn-Hill",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "John Dunn-Hill"
+      ],
+      "search_queries": [
+        "\"John Dunn-Hill\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander III: The Sorcerer"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3181393",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "jorge_montesi",
+      "name": "Jorge Montesi",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Jorge Montesi"
+      ],
+      "search_queries": [
+        "\"Jorge Montesi\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Bad Day in Building A",
+        "Family Tree",
+        "Innocent Man"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q5935655",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "julian_richings",
+      "name": "Julian Richings",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Julian Richings"
+      ],
+      "search_queries": [
+        "\"Julian Richings\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Raven"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q1319495",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "karen_harris",
+      "name": "Karen Harris",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Karen Harris"
+      ],
+      "search_queries": [
+        "\"Karen Harris\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Rite of Passage",
+        "The Cross of St. Antoine",
+        "Timeless"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q6369687",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "kathleen_barr",
+      "name": "Kathleen Barr",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Kathleen Barr"
+      ],
+      "search_queries": [
+        "\"Kathleen Barr\""
+      ],
+      "include_any": [
+        "Highlander",
+        "voice actor"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "voice actor"
+      ],
+      "franchise_titles": [
+        "Highlander: The Search for Vengeance"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q2509482",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "kevin_droney",
+      "name": "Kevin Droney",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Kevin Droney"
+      ],
+      "search_queries": [
+        "\"Kevin Droney\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Bad Day in Building A",
+        "Family Tree",
+        "The Hunters"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086643",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "larry_ferguson",
+      "name": "Larry Ferguson",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Larry Ferguson"
+      ],
+      "search_queries": [
+        "\"Larry Ferguson\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3218046",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "lawrence_shore",
+      "name": "Lawrence Shore",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Lawrence Shore"
+      ],
+      "search_queries": [
+        "\"Lawrence Shore\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Eye of the Beholder",
+        "Leader of the Pack",
+        "Mortal Sins",
+        "Obsession",
+        "Pharaoh's Daughter",
+        "Promises",
+        "The Darkness",
+        "They Also Serve",
+        "Warmonger"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086644",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "lisa_barbuscia",
+      "name": "Lisa Barbuscia",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Lisa Barbuscia"
+      ],
+      "search_queries": [
+        "\"Lisa Barbuscia\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q533924",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "lisa_howard",
+      "name": "Lisa Howard",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Lisa Howard"
+      ],
+      "search_queries": [
+        "\"Lisa Howard\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Series"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q456395",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "loraine_despres",
+      "name": "Loraine Despres",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Loraine Despres"
+      ],
+      "search_queries": [
+        "\"Loraine Despres\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Revenge Is Sweet"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q13563068",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "louis_bertignac",
+      "name": "Louis Bertignac",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Louis Bertignac"
+      ],
+      "search_queries": [
+        "\"Louis Bertignac\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander III: The Sorcerer"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3261244",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "mako",
+      "name": "Mako",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Mako"
+      ],
+      "search_queries": [
+        "\"Mako\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander III: The Sorcerer"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q318885",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "marie_chantal_droney",
+      "name": "Marie-Chantal Droney",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Marie-Chantal Droney"
+      ],
+      "search_queries": [
+        "\"Marie-Chantal Droney\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Band of Brothers",
+        "Mountain Men",
+        "The Beast Below",
+        "The Watchers"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086645",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "mario_philip_azzopardi",
+      "name": "Mario Philip Azzopardi",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Mario Philip Azzopardi"
+      ],
+      "search_queries": [
+        "\"Mario Philip Azzopardi\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Double Eagle",
+        "Finale, Part 1",
+        "Leader of the Pack",
+        "Mortal Sins",
+        "Rite of Passage",
+        "The Cross of St. Antoine"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3092164",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "mario_van_peebles",
+      "name": "Mario Van Peebles",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Mario Van Peebles"
+      ],
+      "search_queries": [
+        "\"Mario Van Peebles\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander III: The Sorcerer"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q126957",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "martin_broussellet",
+      "name": "Martin Broussellet",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Martin Broussellet"
+      ],
+      "search_queries": [
+        "\"Martin Broussellet\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Bless the Child",
+        "Eye For An Eye",
+        "Saving Grace"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086638",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "martin_neufeld",
+      "name": "Martin Neufeld",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Martin Neufeld"
+      ],
+      "search_queries": [
+        "\"Martin Neufeld\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander III: The Sorcerer"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3295566",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "michael_ironside",
+      "name": "Michael Ironside",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Michael Ironside"
+      ],
+      "search_queries": [
+        "\"Michael Ironside\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander II: The Quickening"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q344973",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "michael_jayston",
+      "name": "Michael Jayston",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Michael Jayston"
+      ],
+      "search_queries": [
+        "\"Michael Jayston\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander III: The Sorcerer"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q512059",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "michael_kamen",
+      "name": "Michael Kamen",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Michael Kamen"
+      ],
+      "search_queries": [
+        "\"Michael Kamen\""
+      ],
+      "include_any": [
+        "Highlander",
+        "composer"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "composer"
+      ],
+      "franchise_titles": [
+        "Highlander",
+        "Highlander II: The Quickening"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q156300",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "michael_o_mahony",
+      "name": "Michael O'Mahony",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Michael O'Mahony"
+      ],
+      "search_queries": [
+        "\"Michael O'Mahony\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Chivalry",
+        "Dramatic License",
+        "Justice",
+        "Methuselah's Gift",
+        "The Stone of Scone",
+        "Till Death"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086662",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "michel_modo",
+      "name": "Michel Modo",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Michel Modo"
+      ],
+      "search_queries": [
+        "\"Michel Modo\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Series"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q1930864",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "morrie_ruvinsky",
+      "name": "Morrie Ruvinsky",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Morrie Ruvinsky"
+      ],
+      "search_queries": [
+        "\"Morrie Ruvinsky\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Black Tower",
+        "Blackmail",
+        "Brothers in Arms",
+        "The Blitz",
+        "The End of Innocence",
+        "The Fighter",
+        "Unusual Suspects"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3324392",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "nancy_heiken",
+      "name": "Nancy Heiken",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Nancy Heiken"
+      ],
+      "search_queries": [
+        "\"Nancy Heiken\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Courage",
+        "Glory Days"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086647",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "naomi_janzen",
+      "name": "Naomi Janzen",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Naomi Janzen"
+      ],
+      "search_queries": [
+        "\"Naomi Janzen\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Run For Your Life",
+        "Studies in Light",
+        "The Samurai"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086648",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "nathan_wang",
+      "name": "Nathan Wang",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Nathan Wang"
+      ],
+      "search_queries": [
+        "\"Nathan Wang\""
+      ],
+      "include_any": [
+        "Highlander",
+        "composer"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "composer"
+      ],
+      "franchise_titles": [
+        "Highlander: The Search for Vengeance"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q1966670",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "neill_fearnley",
+      "name": "Neill Fearnley",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Neill Fearnley"
+      ],
+      "search_queries": [
+        "\"Neill Fearnley\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Reluctant Heroes"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3337847",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "nick_glennie_smith",
+      "name": "Nick Glennie-Smith",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Nick Glennie-Smith"
+      ],
+      "search_queries": [
+        "\"Nick Glennie-Smith\""
+      ],
+      "include_any": [
+        "Highlander",
+        "composer"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "composer"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q1383645",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "oris_erhuero",
+      "name": "Oris Erhuero",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Oris Erhuero"
+      ],
+      "search_queries": [
+        "\"Oris Erhuero\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q2422399",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "paolo_barzman",
+      "name": "Paolo Barzman",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Paolo Barzman"
+      ],
+      "search_queries": [
+        "\"Paolo Barzman\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Avenging Angel",
+        "Blackmail",
+        "Chivalry",
+        "Counterfeit, Part 1",
+        "Forgive Us Our Trespasses",
+        "Prodigal Son",
+        "Promises",
+        "Song of the Executioner",
+        "Star-Crossed",
+        "Take Back the Night",
+        "The Blitz",
+        "The Darkness",
+        "The Hunters",
+        "They Also Serve"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q2050301",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "patricia_gage",
+      "name": "Patricia Gage",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Patricia Gage"
+      ],
+      "search_queries": [
+        "\"Patricia Gage\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Raven"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3369100",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "paul_johansson",
+      "name": "Paul Johansson",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Paul Johansson"
+      ],
+      "search_queries": [
+        "\"Paul Johansson\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Raven"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q443486",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "peter_bellwood",
+      "name": "Peter Bellwood",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Peter Bellwood"
+      ],
+      "search_queries": [
+        "\"Peter Bellwood\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q124365047",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "peter_diamond",
+      "name": "Peter Diamond",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Peter Diamond"
+      ],
+      "search_queries": [
+        "\"Peter Diamond\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q11903466",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "peter_ellis",
+      "name": "Peter Ellis",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Peter Ellis"
+      ],
+      "search_queries": [
+        "\"Peter Ellis\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Dramatic License",
+        "Manhunt",
+        "Studies in Light",
+        "The Fighter",
+        "Unholy Alliance, Part 1",
+        "Unholy Alliance, Part 2"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q7173843",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "peter_honess",
+      "name": "Peter Honess",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Peter Honess"
+      ],
+      "search_queries": [
+        "\"Peter Honess\""
+      ],
+      "include_any": [
+        "Highlander",
+        "film editor"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "film editor"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q977704",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "peter_mohan",
+      "name": "Peter Mohan",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Peter Mohan"
+      ],
+      "search_queries": [
+        "\"Peter Mohan\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "The Revolutionary",
+        "The Zone",
+        "Under Color of Authority"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086650",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "phil_m_heux",
+      "name": "Phil Méheux",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Phil Méheux"
+      ],
+      "search_queries": [
+        "\"Phil Méheux\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director of photography"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director of photography"
+      ],
+      "franchise_titles": [
+        "Highlander II: The Quickening"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q718742",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "philip_akin",
+      "name": "Philip Akin",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Philip Akin"
+      ],
+      "search_queries": [
+        "\"Philip Akin\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Series"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q1433413",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "philip_john_taylor",
+      "name": "Philip John Taylor",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Philip John Taylor"
+      ],
+      "search_queries": [
+        "\"Philip John Taylor\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Epitaph for Tommy",
+        "For Tomorrow We Die",
+        "Free Fall",
+        "The Lady and the Tiger"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086652",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "q2915358",
+      "name": "Q2915358",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Q2915358"
+      ],
+      "search_queries": [
+        "\"Q2915358\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q2915358",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "rafal_zielinski",
+      "name": "Rafal Zielinski",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Rafal Zielinski"
+      ],
+      "search_queries": [
+        "\"Rafal Zielinski\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Little Tin God",
+        "Money No Object"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q2127063",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "ramon_pipin",
+      "name": "Ramon Pipin",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Ramon Pipin"
+      ],
+      "search_queries": [
+        "\"Ramon Pipin\""
+      ],
+      "include_any": [
+        "Highlander",
+        "composer"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "composer"
+      ],
+      "franchise_titles": [
+        "Highlander: The Animated Series"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3418533",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "raoul_trujillo",
+      "name": "Raoul Trujillo",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Raoul Trujillo"
+      ],
+      "search_queries": [
+        "\"Raoul Trujillo\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander III: The Sorcerer"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q1319846",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "ray_austin",
+      "name": "Ray Austin",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Ray Austin"
+      ],
+      "search_queries": [
+        "\"Ray Austin\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Deadly Medicine",
+        "Eyewitness",
+        "For Evil's Sake",
+        "Revenge Is Sweet",
+        "Saving Grace"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3420471",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "ren_manzor",
+      "name": "René Manzor",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "René Manzor"
+      ],
+      "search_queries": [
+        "\"René Manzor\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director",
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Band of Brothers",
+        "Highlander III: The Sorcerer"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3426592",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "richard_gilbert_hill",
+      "name": "Richard Gilbert-Hill",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Richard Gilbert-Hill"
+      ],
+      "search_queries": [
+        "\"Richard Gilbert-Hill\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Little Tin God"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086655",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "richard_martin",
+      "name": "Richard Martin",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Richard Martin"
+      ],
+      "search_queries": [
+        "\"Richard Martin\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Armageddon",
+        "Black Tower",
+        "Diplomatic Immunity",
+        "Duende",
+        "Justice",
+        "The Stone of Scone",
+        "The Valkyrie",
+        "To Be",
+        "Two of Hearts"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q7327662",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "robert_a_ferretti",
+      "name": "Robert A. Ferretti",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Robert A. Ferretti"
+      ],
+      "search_queries": [
+        "\"Robert A. Ferretti\""
+      ],
+      "include_any": [
+        "Highlander",
+        "film editor"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "film editor"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q1421676",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "robert_l_mccullough",
+      "name": "Robert L. McCullough",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Robert L. McCullough"
+      ],
+      "search_queries": [
+        "\"Robert L. McCullough\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Deadly Medicine"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086656",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "robin_davis",
+      "name": "Robin Davis",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Robin Davis"
+      ],
+      "search_queries": [
+        "\"Robin Davis\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "For Tomorrow We Die",
+        "The Lady and the Tiger"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3437057",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "rochelle_redfield",
+      "name": "Rochelle Redfield",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Rochelle Redfield"
+      ],
+      "search_queries": [
+        "\"Rochelle Redfield\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Series"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3437585",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "roger_bellon",
+      "name": "Roger Bellon",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Roger Bellon"
+      ],
+      "search_queries": [
+        "\"Roger Bellon\""
+      ],
+      "include_any": [
+        "Highlander",
+        "composer"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "composer"
+      ],
+      "franchise_titles": [
+        "Highlander: The Series"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q2161610",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "roger_daltrey",
+      "name": "Roger Daltrey",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Roger Daltrey"
+      ],
+      "search_queries": [
+        "\"Roger Daltrey\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Series"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q311672",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "roxanne_hart",
+      "name": "Roxanne Hart",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Roxanne Hart"
+      ],
+      "search_queries": [
+        "\"Roxanne Hart\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q460987",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "rusty_schwimmer",
+      "name": "Rusty Schwimmer",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Rusty Schwimmer"
+      ],
+      "search_queries": [
+        "\"Rusty Schwimmer\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander II: The Quickening"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3038793",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "sasha_reins",
+      "name": "Sasha Reins",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Sasha Reins"
+      ],
+      "search_queries": [
+        "\"Sasha Reins\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Chivalry",
+        "Dramatic License",
+        "Justice",
+        "Methuselah's Gift",
+        "The Stone of Scone",
+        "Till Death"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086663",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "scott_mcneil",
+      "name": "Scott McNeil",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Scott McNeil"
+      ],
+      "search_queries": [
+        "\"Scott McNeil\""
+      ],
+      "include_any": [
+        "Highlander",
+        "voice actor"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "voice actor"
+      ],
+      "franchise_titles": [
+        "Highlander: The Search for Vengeance"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q2702252",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "scott_peters",
+      "name": "Scott Peters",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Scott Peters"
+      ],
+      "search_queries": [
+        "\"Scott Peters\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Haunted",
+        "Reluctant Heroes",
+        "The Immortal Cimoli"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3050400",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "sean_connery",
+      "name": "Sean Connery",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Sean Connery"
+      ],
+      "search_queries": [
+        "\"Sean Connery\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander",
+        "Highlander II: The Quickening"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q4573",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "sheila_gish",
+      "name": "Sheila Gish",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Sheila Gish"
+      ],
+      "search_queries": [
+        "\"Sheila Gish\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander",
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q531467",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "stan_kirsch",
+      "name": "Stan Kirsch",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Stan Kirsch"
+      ],
+      "search_queries": [
+        "\"Stan Kirsch\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Series"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q257145",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "steve_arnold",
+      "name": "Steve Arnold",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Steve Arnold"
+      ],
+      "search_queries": [
+        "\"Steve Arnold\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director of photography"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director of photography"
+      ],
+      "franchise_titles": [
+        "Highlander: The Source"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q29862854",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "stewart_copeland",
+      "name": "Stewart Copeland",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Stewart Copeland"
+      ],
+      "search_queries": [
+        "\"Stewart Copeland\""
+      ],
+      "include_any": [
+        "Highlander",
+        "composer"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "composer"
+      ],
+      "franchise_titles": [
+        "Highlander II: The Quickening"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q315711",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "terry_nelson",
+      "name": "Terry Nelson",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Terry Nelson"
+      ],
+      "search_queries": [
+        "\"Terry Nelson\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "The Road Not Taken"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086659",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "thekla_reuten",
+      "name": "Thekla Reuten",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Thekla Reuten"
+      ],
+      "search_queries": [
+        "\"Thekla Reuten\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Source"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q467729",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "thomas_j_wright",
+      "name": "Thomas J. Wright",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Thomas J. Wright"
+      ],
+      "search_queries": [
+        "\"Thomas J. Wright\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Free Fall",
+        "Mountain Men",
+        "See No Evil",
+        "The Gathering",
+        "The Road Not Taken",
+        "The Sea Witch"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3525240",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "tony_difranco",
+      "name": "Tony DiFranco",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Tony DiFranco"
+      ],
+      "search_queries": [
+        "\"Tony DiFranco\""
+      ],
+      "include_any": [
+        "Highlander",
+        "screenwriter"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "screenwriter"
+      ],
+      "franchise_titles": [
+        "Armageddon",
+        "Revelation 6:8"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q56086661",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "torri_higginson",
+      "name": "Torri Higginson",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Torri Higginson"
+      ],
+      "search_queries": [
+        "\"Torri Higginson\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Raven"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q234114",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "tracy_granger",
+      "name": "Tracy Granger",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Tracy Granger"
+      ],
+      "search_queries": [
+        "\"Tracy Granger\""
+      ],
+      "include_any": [
+        "Highlander",
+        "film editor"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "film editor"
+      ],
+      "franchise_titles": [
+        "Highlander: Endgame"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q84360535",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "virginia_madsen",
+      "name": "Virginia Madsen",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Virginia Madsen"
+      ],
+      "search_queries": [
+        "\"Virginia Madsen\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander II: The Quickening"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q229784",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "werner_stocker",
+      "name": "Werner Stocker",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Werner Stocker"
+      ],
+      "search_queries": [
+        "\"Werner Stocker\""
+      ],
+      "include_any": [
+        "Highlander",
+        "cast member"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "cast member"
+      ],
+      "franchise_titles": [
+        "Highlander: The Series"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q102627",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "william_n_panzer",
+      "name": "William N. Panzer",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "William N. Panzer"
+      ],
+      "search_queries": [
+        "\"William N. Panzer\""
+      ],
+      "include_any": [
+        "Highlander",
+        "producer"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "producer"
+      ],
+      "franchise_titles": [
+        "Highlander",
+        "Highlander II: The Quickening",
+        "Highlander: Endgame",
+        "Highlander: The Search for Vengeance",
+        "Highlander: The Source"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q1665114",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "yoshiaki_kawajiri",
+      "name": "Yoshiaki Kawajiri",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Yoshiaki Kawajiri"
+      ],
+      "search_queries": [
+        "\"Yoshiaki Kawajiri\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "Highlander: The Search for Vengeance"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q2593083",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "yves_lafaye",
+      "name": "Yves Lafaye",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Yves Lafaye"
+      ],
+      "search_queries": [
+        "\"Yves Lafaye\""
+      ],
+      "include_any": [
+        "Highlander",
+        "director"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "director"
+      ],
+      "franchise_titles": [
+        "The Immortal Cimoli"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q3573739",
+      "discovered_by": "Wikidata entity API roster expansion",
+      "enabled": true
+    },
+    {
+      "id": "yves_langlois",
+      "name": "Yves Langlois",
+      "kind": "person",
+      "priority": 60,
+      "poll_tier": "extended",
+      "aliases": [
+        "Yves Langlois"
+      ],
+      "search_queries": [
+        "\"Yves Langlois\""
+      ],
+      "include_any": [
+        "Highlander",
+        "film editor"
+      ],
+      "exclude_any": [],
+      "roles": [
+        "film editor"
+      ],
+      "franchise_titles": [
+        "Highlander III: The Sorcerer"
+      ],
+      "wikidata_url": "https://www.wikidata.org/entity/Q2602233",
+      "discovered_by": "Wikidata entity API roster expansion",
       "enabled": true
     }
   ],
@@ -187,10 +4386,22 @@
     "provider": "Wikidata",
     "policy": "Merge discovered Highlander cast and crew into the roster; never delete manually curated entities.",
     "roots": [
-      {"label": "Highlander film series", "wikidata_id": "Q16864738"},
-      {"label": "Highlander: The Series", "wikidata_id": "Q1520493"},
-      {"label": "Highlander universe", "wikidata_id": "Q1032900"},
-      {"label": "Highlander: The Search for Vengeance", "wikidata_id": "Q1613495"}
+      {
+        "label": "Highlander film series",
+        "wikidata_id": "Q16864738"
+      },
+      {
+        "label": "Highlander: The Series",
+        "wikidata_id": "Q1520493"
+      },
+      {
+        "label": "Highlander universe",
+        "wikidata_id": "Q1032900"
+      },
+      {
+        "label": "Highlander: The Search for Vengeance",
+        "wikidata_id": "Q1613495"
+      }
     ]
   }
 }

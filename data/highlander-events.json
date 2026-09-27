@@ -1,115 +1,5 @@
 [
   {
-    "id": "e4f391ed28a2f228e5e1",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "other",
-    "source_date": "Wed, 15 Apr 2026 07:00:00 GMT",
-    "captured": "2026-08-31T20:19:05Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2lscHJqbFFNTzY1dzFabDZLRGpiUFpLc0lSU1VwMzc3OE1qR0RUR0dSSERLY3Z1cTh0b2xTaFo5X1NGOU5iekkzcWdIUXRKckhXT3BONGluVEVNdXROWGFkSE1OSXlFN0RVLVEzRlRobWZ0VXA0SmZNNnFSQWxKR0xzWFYzSFBRZnd3aTNBbFB5dUZGclh1S1FLV3ZSRnM?oc=5",
-    "source": "thewrap.com",
-    "title": "‘Highlander’ First Look Emphasizes Henry Cavill’s Stunt Training - thewrap.com",
-    "summary": "‘Highlander’ First Look Emphasizes Henry Cavill’s Stunt Training thewrap.com",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 138.6 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "70db5b513b770c27279e",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 98,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Wed, 28 Jan 2026 08:00:00 GMT",
-    "captured": "2026-08-31T20:19:05Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEdtUmZ6OGZhTk1RYUtrYnJVS1BfWnZiRmhoX3Z5NEFzel9xQWh5MlNkek9CVTFRR2RCVi1tdlRYUFBNbGVHdC1lbk01V3IweUpIUUJYSGRTaGE5Nms5UXRuZjJKRmpYLWVqVEpxd2xDekZrRjV3Y2lkSTRfTU14bFBIQm1xc2dkZVJVR2NIX09ublc3V2ZxcnRnTzlvenJnM1ZraWdrbnZxUlNaNDlMMXRR?oc=5",
-    "source": "thehollywoodnews.com",
-    "title": "First look images from ‘Highlander’ redo as filming commences in Scotland - thehollywoodnews.com",
-    "summary": "First look images from ‘Highlander’ redo as filming commences in Scotland thehollywoodnews.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: highlander_production (filming)",
-      "source age: 215.5 days"
-    ],
-    "score": 98,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "0e3c1e86034fe4e7c929",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -57093,6 +56983,124 @@
       "source age: 99.6 days"
     ],
     "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d68de6734f05ac0e4c50",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "actor",
+          "Connor MacLeod"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander III",
+          "Highlander: Endgame"
+        ],
+        "score": 96,
+        "event_type": "appearance"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 92,
+        "event_type": "appearance"
+      }
+    ],
+    "roles": [
+      "actor",
+      "Connor MacLeod"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander III",
+      "Highlander: Endgame"
+    ],
+    "event_type": "appearance",
+    "source_date": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-27T18:37:28Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMDdrd1JIR2dGbEhub1FWTHpaaFBOcHYxWC0ydG1oYjVPYk5KXy1ROHptd1Z3ZGNKYWdfLXZueWVUSElaaFNkYXhXVFFkOG5DMmtNWjQ3cDhFeXZMM081UmUtWVpXRnE0WXU2TzFFSnZqNWVIODRDLXZpbTFhekJmWlVNWnRmZWxzSzNJZThOUEFicFhmSDZOTlBzRWc?oc=5",
+    "source": "greekcitytimes.com",
+    "title": "Highlander Star Christophe Lambert Collapses At Comic-Con - greekcitytimes.com",
+    "summary": "Highlander Star Christophe Lambert Collapses At Comic-Con greekcitytimes.com",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "event: appearance (comic-con)",
+      "also matched: Highlander (92)",
+      "source age: 48.5 days"
+    ],
+    "score": 96,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "e10fa30b7108bcd758dc",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 08 Mar 1986 08:00:00 GMT",
+    "captured": "2026-09-27T18:37:28Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMEh5WFZLTEswZnc1SVl3anlCZnVDNlNqM2ctX21hTUNsbXZ1clpmLVJJMkhfeTJxcjFVa1JaT0RkdHgxUzF0Z1RxcDhuYkpUQ29JdnI3eWI5UlF0N1BsZkw1d3pHMXh5czgxSlJEV1NBc0ZfT2Y5U3EtRk90dGxLbjNpNGxOeVlKSXc?oc=5",
+    "source": "nytimes.com",
+    "title": "SCREEN: 'HIGHLANDER,' WITH SEAN CONNERY (Published 1986) - nytimes.com",
+    "summary": "SCREEN: 'HIGHLANDER,' WITH SEAN CONNERY (Published 1986) nytimes.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 14813.4 days"
+    ],
+    "score": 70,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

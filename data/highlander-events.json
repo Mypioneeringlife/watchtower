@@ -1,52 +1,5 @@
 [
   {
-    "id": "ea3fca23d5169346abca",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Sun, 15 Mar 2026 07:00:00 GMT",
-    "captured": "2026-08-31T20:19:05Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OcFctT3VwZUtZcTZXYWpSTzluZWdUOTdpRnBCYjZxWnRTalR4QzFENWVfYW9YWnM1UGdyNVBFYkRzZmRRdHktRHhLa1JGSGd6Qm5XQ0g0WU8yMWV1cTNRSmg2dWhIbUlDZGl1bTlPcHFvT2hEZVlyTGl4RQ?oc=5",
-    "source": "Hollywood in Toto",
-    "title": "Original ‘Highlander’ Is Still a Glorious Mess - Hollywood in Toto",
-    "summary": "Original ‘Highlander’ Is Still a Glorious Mess Hollywood in Toto",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 169.6 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "e4f391ed28a2f228e5e1",
     "entity_id": "henry_cavill",
     "entity": "Henry Cavill",
@@ -57075,6 +57028,69 @@
       "event: highlander_production (reboot)",
       "also matched: Henry Cavill (100)",
       "source age: 241.2 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "bece2dc9a2f449974292",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 20 Jun 2026 00:48:53 GMT",
+    "captured": "2026-09-27T14:14:01Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45elQwdGR0d1VuU2ZhNVdXY2RaX3lJbFZjUVVRS3YzZTBiY2FtSVg3RmFnaTVfMmYzRHJMUkQ3Y2dsQkl2Qks5N3lHR2JIUQ?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill’s ‘Highlander’ Reboot Gets Big Update From Its Sean Connery Replacement - IMDb",
+    "summary": "Henry Cavill’s ‘Highlander’ Reboot Gets Big Update From Its Sean Connery Replacement IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "source age: 99.6 days"
     ],
     "score": 100,
     "route": "Corrupted Chronicle research",

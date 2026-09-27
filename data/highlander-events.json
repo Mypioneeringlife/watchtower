@@ -1,122 +1,5 @@
 [
   {
-    "id": "a358e295769f7059899b",
-    "entity_id": "christopher_lambert",
-    "entity": "Christopher Lambert",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_lambert",
-        "name": "Christopher Lambert",
-        "kind": "person",
-        "roles": [
-          "actor",
-          "Connor MacLeod"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II",
-          "Highlander III",
-          "Highlander: Endgame"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "actor",
-      "Connor MacLeod"
-    ],
-    "franchise_titles": [
-      "Highlander",
-      "Highlander II",
-      "Highlander III",
-      "Highlander: Endgame"
-    ],
-    "event_type": "other",
-    "source_date": "Thu, 13 Mar 2025 07:00:00 GMT",
-    "captured": "2026-09-01T07:57:25Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajNxTDZEdDZ1Z3JSeGRabjE1ZDgyU3pGQ0djTksteF9OQlBBUGNOdmZncVN5VXM5TVZHYkhOU01GeHdEVExuVUFLNDJWV3dZTGIzWmE0dXFJRjZMNV9UT01oZ2RjUDd2TkJrWEVHQTY2TmRWb1I3WTJIaUlIWEZLbzdnUU1yOUxNaUZxeklsTjhlODR0cEFJejVJQzZ6dw?oc=5",
-    "source": "yahoo.com",
-    "title": "'Highlander' Star Christopher Lambert Recovering After Hotel Stairs Fall - yahoo.com",
-    "summary": "'Highlander' Star Christopher Lambert Recovering After Hotel Stairs Fall yahoo.com",
-    "evidence": [
-      "matched entity: Christopher Lambert",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 537.0 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "8bf7ff08f6942f1516e7",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Fri, 18 May 2012 07:00:00 GMT",
-    "captured": "2026-09-01T07:57:25Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXpacm00OW9QTTV6Q1JwVUJlR0c3RkdmLWhUNlBweVhteFJ3UUFDdUJJWWVoajh6eWFjVUkwNmlOT1JrWTJjZHlBU29aRDZzb1pXcEMwdFQ3NjJYWVg2alNFbFozSzItTzM5cm1LTGEtZmJGU2szak1UOUdLN1o1bFEyWllCNzlrUjkwMGhQN0pmRWlyYjAybURvVGlPQQ?oc=5",
-    "source": "firstshowing.net",
-    "title": "There Can Be Only One 'Highlander' and It Might Be Ryan Reynolds - firstshowing.net",
-    "summary": "There Can Be Only One 'Highlander' and It Might Be Ryan Reynolds firstshowing.net",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 5219.0 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "062710985642f5fa5fc6",
     "entity_id": "adrian_paul",
     "entity": "Adrian Paul",
@@ -56339,6 +56222,130 @@
       "matched entity: Highlander",
       "explicit Highlander reference",
       "source age: 416.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "691d07acb95580d69fc2",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 100,
+        "event_type": "health"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "captured": "2026-09-27T23:20:12Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeFBQRmhVREpsVDNJdnNPMVZnbGJNa2JManNGQllDZjJtb2RwVkNfcFR4Z0lTOEhuRUlJNG9DRW1iTlRVbGlXWHlJTU12dWFQRldxSW44TTdEeWIzeTl1QmZVdGxfcWVVY1lPLW1Qc0xGZkJLVUlmTzdwMXl6Nno1cWlmLWhGUnpTMVQzb1owcjlwWjBmYVZQSzFPQWdaV0FGZ1YyeTd5Zm9ZdjRoYlNjbzVIN0VfczZmdFdSUHpSRTZPUQ?oc=5",
+    "source": "fodmapeveryday.com",
+    "title": "'Highlander' Star Christopher Lambert, 69, Collapses at Fan Convention and Is Rushed to Hospital - fodmapeveryday.com",
+    "summary": "'Highlander' Star Christopher Lambert, 69, Collapses at Fan Convention and Is Rushed to Hospital fodmapeveryday.com",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander, convention",
+      "event: health (hospital)",
+      "also matched: Highlander (100)",
+      "source age: 48.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "cf25dbb7af743b169918",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 09 May 2016 07:00:00 GMT",
+    "captured": "2026-09-27T23:20:12Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05YjdJYzZjR21JTFlnVHNZdEtvR2VrUF9oeGdzS0xWaDhmbm1MbTcyS3RHdnFmOEl2bVJFSGM2Z2l0RC1DNGcxRnp6QmVqSGs?oc=5",
+    "source": "Blu-ray.com",
+    "title": "Highlander 30th Anniversary Blu-ray Edition Detailed - Blu-ray.com",
+    "summary": "Highlander 30th Anniversary Blu-ray Edition Detailed Blu-ray.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 3793.7 days"
     ],
     "score": 70,
     "route": "Corrupted Chronicle research",

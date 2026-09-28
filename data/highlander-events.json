@@ -1,73 +1,5 @@
 [
   {
-    "id": "062710985642f5fa5fc6",
-    "entity_id": "adrian_paul",
-    "entity": "Adrian Paul",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "adrian_paul",
-        "name": "Adrian Paul",
-        "kind": "person",
-        "roles": [
-          "actor",
-          "Duncan MacLeod"
-        ],
-        "franchise_titles": [
-          "Highlander: The Series",
-          "Highlander: Endgame",
-          "Highlander: The Source"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "actor",
-      "Duncan MacLeod"
-    ],
-    "franchise_titles": [
-      "Highlander: The Series",
-      "Highlander: Endgame",
-      "Highlander: The Source"
-    ],
-    "event_type": "other",
-    "source_date": "Tue, 05 Mar 2019 08:00:00 GMT",
-    "captured": "2026-09-01T07:57:25Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONFRlbUFGbU1qMWNFZy1SZVh4b19LN2xZWU10LU93SUE5MjRZZWthODdpREpzaVBNbVRtX1RHZmpybUdIcWRqYlRkUmZBcGZwcmZaUlk3T1BEeDFjWTNlYkZ5cm1tVXVSMERfWVVycEthNlJidDBCc3pkQnRBMFZ3cU9RQTZLWFk0OGh2R3dLUUdiS3hPajdDYm9hYTRqMTBDMG5VcXd2NUktcHRrUDBsMTZuLWlaVmd6SUE?oc=5",
-    "source": "monstersandcritics.com",
-    "title": "Adrian Paul on Arrow: Who is Dante, the villain the former Highlander actor plays? - monstersandcritics.com",
-    "summary": "Adrian Paul on Arrow: Who is Dante, the villain the former Highlander actor plays? monstersandcritics.com",
-    "evidence": [
-      "matched entity: Adrian Paul",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 2737.0 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "3be55b4a533280e557c0",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -56348,6 +56280,57 @@
       "source age: 3793.7 days"
     ],
     "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5c53511857c004b922f9",
+    "entity_id": "clancy_brown",
+    "entity": "Clancy Brown",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "The Kurgan",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 58,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "The Kurgan",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "new_project",
+    "source_date": "Wed, 15 Jul 2026 07:00:00 GMT",
+    "captured": "2026-09-28T20:42:17Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTh0NGZhbHpFYndRNVJEU3RDX1B2Ulk1V3prQmhNcGFNSlFJNmpoMVgzUDA5aUFwMkRlN0E4NlF3LWxmSFAwSVpFRlVsaXM0LWJIVkhsVkRxOWhnaXVHblBqTVlnRFJlVkN6VS1aNVZaRUdlLWwxUDl0aG5HYzF0UnltZVBoSGdCQ0ZCOExSNDRFRFdwZFZocTI1SFY5d015ejYwVEYxYw?oc=5",
+    "source": "Variety",
+    "title": "Vincent D’Onofrio, Kate Mara, Clancy Brown Among Five Cast in Netflix Las Vegas Drama ‘The Roman’ - Variety",
+    "summary": "Vincent D’Onofrio, Kate Mara, Clancy Brown Among Five Cast in Netflix Las Vegas Drama ‘The Roman’ Variety",
+    "evidence": [
+      "matched entity: Clancy Brown",
+      "event: new_project (cast in)",
+      "source age: 75.6 days"
+    ],
+    "score": 58,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

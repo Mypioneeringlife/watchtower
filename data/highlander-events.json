@@ -1,163 +1,5 @@
 [
   {
-    "id": "740459a45994e66f5ad1",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Wed, 23 Nov 2016 08:00:00 GMT",
-    "captured": "2026-09-03T18:41:06Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVlBeXZPYWFMN2c1WjhaclM5WTFPd2t4d1B2VEtTZG41SG9xMXR1bUlCYkN3TnlhY3NzWkhYYTNqWnpUS3BMbjdFdXhweEF3QkJnMG5SZDJ6bWdyMU5HWTRFMDRxY1JnTDZ6VFI0cTJTQ2d2OXd5S09SQjJmZVgtMmhrbTFqbDVrX3dNYWpoZXhuTnh4TjhTV2xR?oc=5",
-    "source": "scifinow.co.uk",
-    "title": "Highlander reboot finds a new director with action experience - scifinow.co.uk",
-    "summary": "Highlander reboot finds a new director with action experience scifinow.co.uk",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "source age: 3571.4 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4eb41fc05726d27448ce",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Tue, 01 Nov 2022 07:00:00 GMT",
-    "captured": "2026-09-03T18:41:06Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rWXdiV181WloweDI5SHZGa3hqV0szNnJ2Qm8xOE5yTTY0SzY2LXc3ZjE2M0NMS05xcG02c1FCQk8xOGdQSGpKUl9Mc2Yza0w1VXVLTHpKTjljUG5QMm5DdlRRWWg1alVzbHhRVjhLcnMyLUtm?oc=5",
-    "source": "cbr.com",
-    "title": "Highlander Almost Caused Sean Connery to Lose His Head... Literally - cbr.com",
-    "summary": "Highlander Almost Caused Sean Connery to Lose His Head... Literally cbr.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 1402.5 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "71a655ae581c173609cc",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "other",
-    "source_date": "Wed, 05 Aug 2026 07:00:00 GMT",
-    "captured": "2026-09-03T18:41:06Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMQmdkSHRTcWV2ekhDX0lfWGQzSjlsaUFXdEE4eW9mcDVNb2ZsdWRBcW9pN3hMd0FCVmF1RDdNaVVkR0hkQ2N4bklNTnJuUC15U2NZSkE0MXhmdnAtUElPQXBiUFd5dw?oc=5",
-    "source": "collider.com",
-    "title": "Russell Crowe Officially Shows Off Shocking New Look For Henry Cavill's 'Highlander' - collider.com",
-    "summary": "Russell Crowe Officially Shows Off Shocking New Look For Henry Cavill's 'Highlander' collider.com",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 29.5 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
     "id": "4d1f46e58c11b508389c",
     "entity_id": "henry_cavill",
     "entity": "Henry Cavill",
@@ -54145,5 +53987,181 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "b9ebfd0984a3d87334b1",
+    "entity_id": "adrian_paul",
+    "entity": "Adrian Paul",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "adrian_paul",
+        "name": "Adrian Paul",
+        "kind": "person",
+        "roles": [
+          "Duncan MacLeod",
+          "actor",
+          "cast member",
+          "director",
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame",
+          "Highlander: The Series",
+          "Highlander: The Source",
+          "Homeland",
+          "Methuselah's Gift",
+          "Revelation 6:8",
+          "The Modern Prometheus"
+        ],
+        "score": 78,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "Duncan MacLeod",
+      "actor",
+      "cast member",
+      "director",
+      "producer"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame",
+      "Highlander: The Series",
+      "Highlander: The Source",
+      "Homeland",
+      "Methuselah's Gift",
+      "Revelation 6:8",
+      "The Modern Prometheus"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 15 Dec 2022 08:00:00 GMT",
+    "captured": "2026-09-29T23:55:52Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LMkxnb081V0FsX3FVV1ZDY2ZaeVNncGlXYTEzODhBMHdLWmtmR2VaZWU4bHh2VlJEVjdpYU5aNnFIenRNdHNSSDR1QlV2UEp2Mk9XbTVHem5NXzJWbUlqZnk5Nk1CYmtOOHlROHlFSy1ZQ05ocjQwOEVvV1lRQlU?oc=5",
+    "source": "bestlifeonline.com",
+    "title": "He Played Duncan MacLeod on “Highlander.” See Adrian Paul Now at 63. - bestlifeonline.com",
+    "summary": "He Played Duncan MacLeod on “Highlander.” See Adrian Paul Now at 63. bestlifeonline.com",
+    "evidence": [
+      "matched entity: Adrian Paul",
+      "explicit Highlander reference",
+      "context: Highlander, Duncan MacLeod",
+      "also matched: Highlander (74)",
+      "source age: 1384.7 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "b1d17a037b646ec81543",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 15 Jan 2023 20:16:25 GMT",
+    "captured": "2026-09-29T23:55:52Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ULWxnV0NzbUdlUzdKaWp4V19vd0VKRjdBUWJOT3FGMFAwQkpGNjFSVlR1S1RpZ1p2YU9QTl9ucFVHLXpVVHdNMENvcmRfY0dnRHJ6cXZpUElsRTNzMUkwRndobGwwYjVPSDhfU1QydWduM3pzdzZn?oc=5",
+    "source": "starburstmagazine.com",
+    "title": "Highlander Retrospective - starburstmagazine.com",
+    "summary": "Highlander Retrospective starburstmagazine.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 1353.2 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "4e3b5bef9b0327edb445",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 29 Sep 2026 21:26:25 GMT",
+    "captured": "2026-09-29T23:55:52Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1raFYxNi05Z2VnZ3IzeVp0SDVkaDVreDU2X3J0Q25nSjBkdTJEZDNPUVNoM0drdVU1M18zZ2NZc0czbEI1ODJhaXhybFdsOXhmV25IekhteS1HcmoxSUN2dnI1WFFtbm5nelhBaXN3NDEzNThwaTQ5cnZ5V09rQTA?oc=5",
+    "source": "AOL.com",
+    "title": "“Let the Henry Cavill debates begin” - Fans react as GOT: Aegon’s Conquest gets release date and they have a clear favorite as lead - AOL.com",
+    "summary": "“Let the Henry Cavill debates begin” - Fans react as GOT: Aegon’s Conquest gets release date and they have a clear favorite as lead AOL.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: highlander_production (release date)",
+      "source age: 0.1 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

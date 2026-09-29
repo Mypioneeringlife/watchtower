@@ -1,141 +1,5 @@
 [
   {
-    "id": "64d5f01911b0151e31ef",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "health"
-      },
-      {
-        "id": "christopher_lambert",
-        "name": "Christopher Lambert",
-        "kind": "person",
-        "roles": [
-          "actor",
-          "Connor MacLeod"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II",
-          "Highlander III",
-          "Highlander: Endgame"
-        ],
-        "score": 100,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "health",
-    "source_date": "Sat, 08 Aug 2026 07:00:00 GMT",
-    "captured": "2026-09-02T12:55:59Z",
-    "urgency": "immediate",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWFNHdzlQRnZlb2lEWEt0dWRvdzhXVURTSGxCb0xuTkdWTE8wZWtOMDVoUTJGb3pGNzdZeVVUME5JNGFHcWZmclhNcWhWVzBnYnR3NzdtVG1KMXRkcXNVWE1ONzRJZmFPRFRpMklPR0NzLW9Cb01IX0RreVFadFlndlBR?oc=5",
-    "source": "Comic Book Resources",
-    "title": "Highlander Star Christopher Lambert Suffers Medical Emergency at Fan Convention - Comic Book Resources",
-    "summary": "Highlander Star Christopher Lambert Suffers Medical Emergency at Fan Convention Comic Book Resources",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: health (medical)",
-      "also matched: Christopher Lambert (100)",
-      "source age: 25.2 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": true,
-    "status": "new"
-  },
-  {
-    "id": "fe005eef0f215adf4d35",
-    "entity_id": "christopher_lambert",
-    "entity": "Christopher Lambert",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_lambert",
-        "name": "Christopher Lambert",
-        "kind": "person",
-        "roles": [
-          "actor",
-          "Connor MacLeod"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II",
-          "Highlander III",
-          "Highlander: Endgame"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "actor",
-      "Connor MacLeod"
-    ],
-    "franchise_titles": [
-      "Highlander",
-      "Highlander II",
-      "Highlander III",
-      "Highlander: Endgame"
-    ],
-    "event_type": "other",
-    "source_date": "Mon, 10 Aug 2026 07:00:00 GMT",
-    "captured": "2026-09-02T12:55:59Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWd2bVBJSnFUZm5wN2xYUjdJZzdKMjVQc01JcXl3UkVNcm1JZFBEZlBCZnYwb04tSzZQbnNQNWZUWk1JQ1RUdGs2YmpWZEhzYllGaUd2YmJLMURWMVNmckQ5UXJNQmliNlItRzNvYnBxbWtqcjlTRld1aERyTng2RXllWTZlRTFMbGtyc2NNWUNtQdIBlwFBVV95cUxQVExHVURhQUdOdzFMWGE5SUZDUEdXX3VzWFVPMVNZRzdxenhZYmVfcThTaHJMT0lVaEt2T3Fmd2lVT2NkTjR2Y19oUDFHT3NvYi1ndFlXLWlVWC03YWN2M2E1SU5KMkI1anBLTjdGeDhlRHAtYVozMTYzWXlVbHZrc2loWGkwMjFkc1RKT3VtU0NsbFp3aC1N?oc=5",
-    "source": "Reality Tea",
-    "title": "‘Highlander’ Star Christopher Lambert Collapses While Signing Autographs - Reality Tea",
-    "summary": "‘Highlander’ Star Christopher Lambert Collapses While Signing Autographs Reality Tea",
-    "evidence": [
-      "matched entity: Christopher Lambert",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 23.2 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
     "id": "81fe41ff76b1d39b8938",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -55114,5 +54978,115 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "eff71d5ef5a659516055",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 28 May 2021 07:00:00 GMT",
+    "captured": "2026-09-29T08:57:39Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM2E2RDNMUFhrRW9IbXhKU1pkdzdTU3AtN05mamFZcFNzaklFMFZyUkV1bmR1YTVsOTdNUTk3OFYyTlRtaElvU21xcjBWeUJ0a0ZPeV9qX0w1c05xUXg5QUlGaFR3M2ZNNnhlSHJrWHBOVFd5VVRaWnZEYnVVdHdXN0M1N0JodDg0RDF6N3d3T2xDcFBUUHAycW1qX2M3YmpZdEE?oc=5",
+    "source": "backstage.com",
+    "title": "Rumorville: Henry Cavill Is in Talks To Lead Lionsgate’s ‘Highlander’ Reboot + More To Watch - backstage.com",
+    "summary": "Rumorville: Henry Cavill Is in Talks To Lead Lionsgate’s ‘Highlander’ Reboot + More To Watch backstage.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 1950.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "fd82528204c1dbc06473",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 28 Sep 2026 17:43:17 GMT",
+    "captured": "2026-09-29T08:57:39Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb2tsMHRacUxVVEo2WXlfcE9TcnBmZE9Fa2g1RmNpMkUwYkhDU3pObmtTNkYySHV6T3NNakw3aDRzbFA2N3FZbkE2RnF5VU5oa1NlOWs4T0lMTFRHb1E5dUNwLXFLT010anZMTy1RSC1KUmFxRjJETXp4SUFEbnAtWWlZRzBOcUkxWG9v?oc=5",
+    "source": "Bleeding Fool",
+    "title": "The Lost Version of Highlander Is Finally Being Told - Bleeding Fool",
+    "summary": "The Lost Version of Highlander Is Finally Being Told Bleeding Fool",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 0.6 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

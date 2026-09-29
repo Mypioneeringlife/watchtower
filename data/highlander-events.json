@@ -1,185 +1,5 @@
 [
   {
-    "id": "81fe41ff76b1d39b8938",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "health"
-      },
-      {
-        "id": "christopher_lambert",
-        "name": "Christopher Lambert",
-        "kind": "person",
-        "roles": [
-          "actor",
-          "Connor MacLeod"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II",
-          "Highlander III",
-          "Highlander: Endgame"
-        ],
-        "score": 100,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "health",
-    "source_date": "Mon, 17 Mar 2025 07:00:00 GMT",
-    "captured": "2026-09-02T12:55:59Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQU1FtTXFzbS1BVWZhN2Fwbzl0UDc1aWdXaE9kV3dGQS00cXhfTUx6Z3A1ZXc0cXJZY0kxZnNtdFFOcXNSSTNmM3pmd3cwWGw3Tll3OHBXczFxMjZXcGkzQjd4MkNRblhIQ0lMbTAzWXhWbFA3TmUyZUZjVnltZllTWmVrdE1mcHo2dnk2amhNTTF6WHgzcEFZVHZSVmNOem5BLVhhOFZmSFhmUFJnc3pQZ0RJQzNET2pKc2VOaW14NVg5alA4a1o3blF5MDhQa094aXRlOGNZd0U3VWlJZTMyY3FnWF9lNW0xa3JEU3ljdkQ4bGhNSExLR1p2dExHeHppc00ydkFZOTF0U2FmaXVJcnZVR0x5RzhURC1JYWZvRTRGZDJSUGZr?oc=5",
-    "source": "boundingintocomics.com",
-    "title": "‘Highlander’ Star Christopher Lambert Misses Convention Appearance In Sweden Due To Hospitalization With A Back Injury Caused By A Fall Down Hotel Stairs - boundingintocomics.com",
-    "summary": "‘Highlander’ Star Christopher Lambert Misses Convention Appearance In Sweden Due To Hospitalization With A Back Injury Caused By A Fall Down Hotel Stairs boundingintocomics.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: health (hospital, injury)",
-      "also matched: Christopher Lambert (100)",
-      "source age: 534.2 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "298876db3cc82e8a00fd",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "christopher_lambert",
-        "name": "Christopher Lambert",
-        "kind": "person",
-        "roles": [
-          "actor",
-          "Connor MacLeod"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II",
-          "Highlander III",
-          "Highlander: Endgame"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Wed, 05 Jan 2022 12:01:01 GMT",
-    "captured": "2026-09-02T12:55:59Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRy1abkNiaXYtT0c3ajRqZEx2MGdYdjFpWmFiS3V6bDdmYUFPT2hJbzJmLWNzd2tDN1EtS2ljUWR5YzRLT1NDN3g2UEpGdUtUbXRucXFyOFFrdEUtWXRpdVBmeFVNNUhBbnRjWVJsOXRrMU92NkRLZUJlQzdjOVBWU0R2Ym1JOTdSZTdqdWF5d050VHBPdWVUV2wtX1B1VHZ0eGw0Y3NVS2RSUk9QTy02cjh5OGZoXzNWSUVaRw?oc=5",
-    "source": "ComicBookMovie.com",
-    "title": "Christopher Lambert Shares His Thoughts On The HIGHLANDER Remake & Ryan Reynolds - ComicBookMovie.com",
-    "summary": "Christopher Lambert Shares His Thoughts On The HIGHLANDER Remake & Ryan Reynolds ComicBookMovie.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: remake",
-      "event: highlander_production (remake)",
-      "also matched: Christopher Lambert (100)",
-      "source age: 1701.0 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c209544b442aa86b7861",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Fri, 07 Nov 2025 08:00:00 GMT",
-    "captured": "2026-09-02T12:55:59Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSVlnQWVCbGlvM0RjaWIwaDRVYUhGVGlFZUhmdTZJUW5udEFTb1VQajNJeFpWdVRoSndESEVESERDMHFOdGNGMDA2cW02SEo5T3QxS3JWQm5nYlluQXJmRGNQTk9lUTZMUW1jbFJMWjJmZ25NUmpVWTA2MjFyZ2RHTkZNOEIxR2d1VVVIVEZLSHRUd2E3ZWRiRGF3SnF1MmV3YUE?oc=5",
-    "source": "movieweb.com",
-    "title": "\"I'm Stressed About This!\": Why Dave Bautista is Feeling the Pressure of His 'Highlander' Villain Role [Exclusive] - movieweb.com",
-    "summary": "\"I'm Stressed About This!\": Why Dave Bautista is Feeling the Pressure of His 'Highlander' Villain Role [Exclusive] movieweb.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 299.2 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "445836da051dbaef58a1",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -55088,5 +54908,162 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "98c9e068f203dfe70175",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 25 Apr 2026 07:00:00 GMT",
+    "captured": "2026-09-29T19:35:47Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOekxqb3U4RXVFcVpNS0dHTXVGTlhuQzZlUWtjX2FBZDlNWFQ2Q2xqeEpJcTIzQnVTZnBqSzdXaEcxZ3lJdHBqRXR5SGw4VHgtc3BUa1gtQTVaS3VJYnp5Z3lzYV90MUhjYU84c0wtanAzcEo3cTduMU5VTQ?oc=5",
+    "source": "movieweb.com",
+    "title": "'Highlander': Everything We Know About Henry Cavill's Action Fantasy Reboot - movieweb.com",
+    "summary": "'Highlander': Everything We Know About Henry Cavill's Action Fantasy Reboot movieweb.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 157.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "06d881e31124a6a3f52e",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 80,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 29 Sep 2026 17:27:40 GMT",
+    "captured": "2026-09-29T19:35:47Z",
+    "urgency": "normal",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FOXNiZzQ0YUZxUGJjWm9vbnJ0My1qcjZGNXZBc3BaRzkzYVpnRDF2b0VPOURSWldwU1Q2ZENpR0JjNC0xTDdzOVA1QmllRV9BOV9tQnJ5RWVsR0xCTUhYdDBOcVN2VXdDay1z?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill’s 98-Minute R-Rated Thriller Officially Rises From The Dead On Global Streaming - IMDb",
+    "summary": "Henry Cavill’s 98-Minute R-Rated Thriller Officially Rises From The Dead On Global Streaming IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: death (dead)",
+      "source age: 0.1 days"
+    ],
+    "score": 80,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "d438c4aa6be8c390c509",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 09 May 2016 07:00:00 GMT",
+    "captured": "2026-09-29T19:35:47Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05YjdJYzZjR21JTFlnVHNZdEtvR2VrUF9oeGdzS0xWaDhmbm1MbTcyS3RHdnFmOEl2bVJFSGM2Z2l0RC1DNGcxRnp6QmVqSGs?oc=5",
+    "source": "blu-ray.com",
+    "title": "Highlander 30th Anniversary Blu-ray Edition Detailed - blu-ray.com",
+    "summary": "Highlander 30th Anniversary Blu-ray Edition Detailed blu-ray.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 3795.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

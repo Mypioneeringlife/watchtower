@@ -1,241 +1,5 @@
 [
   {
-    "id": "4d1f46e58c11b508389c",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "other",
-    "source_date": "Sat, 15 Aug 2026 07:00:00 GMT",
-    "captured": "2026-09-03T18:41:06Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRVNwUmlxYml1YVduVnc5SFlQM253ZGRab1dYemxhbTVmNHpKMUVXVlNIQkdYM20yU3hxU1RqQ0VBVWhSbkg3Ql9RRV9TX2twNUQzZzR1X056bHpDUl9pT21PWnRFS29zZkpiblQ5bm0xTWxDZXpxT3dSMmxTazJTd2t1eUllVk5QOVlrVnN3SkZNYXBa?oc=5",
-    "source": "collider.com",
-    "title": "Before ‘Highlander,’ Henry Cavill’s Forgotten Fantasy Epic Is Officially Back on Streaming - collider.com",
-    "summary": "Before ‘Highlander,’ Henry Cavill’s Forgotten Fantasy Epic Is Officially Back on Streaming collider.com",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 19.5 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "e36f454bfcc4b73f6629",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Thu, 16 Apr 2026 07:00:00 GMT",
-    "captured": "2026-09-03T18:41:06Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcmJmTk85Yi0xU0RaenpPRm1xUUZNWWZhenRTT19sbGZxZk0tb2QtR1FuekFPZXUyQ1dBU2ZkM055TkZaSjR1YkFqWFlhMlVHaW1KU1pBc2ViNmRyc3RxX3lJcEhUR08ydkpQZExrN0tRRndmdjV6dzNTZFlvLVpXTFdQOFV6WjY4QUhpZzRxX2FRNjVBVGtBcm1tNU10clU4YlkwbTZXa3RtTC1yVFJZ?oc=5",
-    "source": "collider.com",
-    "title": "Henry Cavill’s Long-Awaited ‘Highlander’ Reboot Gets First Official Footage and Gnarly Plot Details - collider.com",
-    "summary": "Henry Cavill’s Long-Awaited ‘Highlander’ Reboot Gets First Official Footage and Gnarly Plot Details collider.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "source age: 140.5 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "67d38eed6551eb0192cd",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 78,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Thu, 09 Apr 2026 07:00:00 GMT",
-    "captured": "2026-09-03T18:41:06Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX1pQZndqbWVKaGVzNFBTSGVXYjZ2WHdHRVEyWUJHbHZJNVB2bU9ZS082VjZURnJwd2Q5WnZST0tZR0dLZUVhdl92SElZUTRlNWtSR0NZa0xYblp4Mmc4d1ZUNVZvWktVbDljS1VockNmNzFvZmM2aTJxR3V4LUJRTC1HekwybDFKLW9YSEtScmdfWHVkQUZtSEFybzRTZUUwWXlEQktR?oc=5",
-    "source": "collider.com",
-    "title": "Henry Cavill’s Co-Star Breaks His Silence on Their Upcoming Epic Fantasy Remake [Exclusive] - collider.com",
-    "summary": "Henry Cavill’s Co-Star Breaks His Silence on Their Upcoming Epic Fantasy Remake [Exclusive] collider.com",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "context: remake",
-      "event: highlander_production (remake)",
-      "source age: 147.5 days"
-    ],
-    "score": 78,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "b398e967d646b5a11225",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Tue, 10 Feb 2026 08:00:00 GMT",
-    "captured": "2026-09-03T18:41:06Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjBDVlRvN2g3WnQ5WkVCZTdDNmhSTXhnQ0MtdkRtbjJZek56ZXVKcEpBem9zeTNwNlhXdm44bmYxR1FjZWM5XzdVZjByLTBjYXkxNmlIc1BMbW9qblFyR01sYWZ1QzdydmxSbG9XUmFfbGx3SGhyNFp6ZTY1SVdjVVhzSQ?oc=5",
-    "source": "collider.com",
-    "title": "Henry Cavill’s 'Highlander' Reboot Heats Up With WWE Icon in New Set Images - collider.com",
-    "summary": "Henry Cavill’s 'Highlander' Reboot Heats Up With WWE Icon in New Set Images collider.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "source age: 205.4 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "7dc8103ae2aabad9e9c4",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -54163,5 +53927,215 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "43775967b7e04edfa4ce",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 80,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 04 Jan 2026 08:00:00 GMT",
+    "captured": "2026-09-30T19:35:17Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uTlpkVlY2d0EwTmxGQjFvVjZMdjZKQ3BseTZKU3Z3SzVQN2JFWExoWGk4TG96R3ZfVXZDaVBMVWFjd3ZIQ2oyWUN1QTIxRjcta3VhUQ?oc=5",
+    "source": "Legacy",
+    "title": "Paul Christopher Lambert Obituary Jan 2, 2026 - Legacy",
+    "summary": "Paul Christopher Lambert Obituary Jan 2, 2026 Legacy",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: death (obituary)",
+      "source age: 269.5 days"
+    ],
+    "score": 80,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "2e0778078ce327900091",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 80,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 29 Sep 2026 15:15:36 GMT",
+    "captured": "2026-09-30T19:35:17Z",
+    "urgency": "normal",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaGtVakpDcWVTa29KQ0ZRX2g0Y2c1TjhqV0xUUng3UkdUZWFvcUVFd0dSZWYxdEVGSVlpdF91aW1CQk82eUhHbTRqS1JMWHpTamc2bFdyQ3dSaF9LdHJIZzI1dlljN2JKODljZGxFbG02Y21Za1oxbzJvQTF0b3FTT2NhM0dEWFFUc3F3TE05M25jUkY2Nzh0OHExY3lRSW5OWmtkMzN0cXRkTlFQb2c2TFpYUQ?oc=5",
+    "source": "screenrant.com",
+    "title": "Henry Cavill’s 98-Minute R-Rated Thriller Officially Rises From The Dead On Global Streaming - screenrant.com",
+    "summary": "Henry Cavill’s 98-Minute R-Rated Thriller Officially Rises From The Dead On Global Streaming screenrant.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: death (dead)",
+      "source age: 1.2 days"
+    ],
+    "score": 80,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "f39aa25457bdb1303a33",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 18 Sep 2026 17:13:31 GMT",
+    "captured": "2026-09-30T19:35:17Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVZjZwaXRqRE93TGhWdTQ1WEphbllRZ2gtMVUtN01oTURwN1RjbEN1bkFQQl9kNzd4S0ExN0ItNnZPQ19fUnhkaHI0QnM5aFh2ZnFuTWw2dHgtVlk5T2lVdA?oc=5",
+    "source": "IMDb",
+    "title": "What Happened to Highlander: The Source? How the Fifth Movie Nearly Killed the Franchise - IMDb",
+    "summary": "What Happened to Highlander: The Source? How the Fifth Movie Nearly Killed the Franchise IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 12.1 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "28bbfcde629079a5e49a",
+    "entity_id": "peter_wingfield",
+    "entity": "Peter Wingfield",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "peter_wingfield",
+        "name": "Peter Wingfield",
+        "kind": "person",
+        "roles": [
+          "Methos",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame",
+          "Highlander: The Series",
+          "Highlander: The Source"
+        ],
+        "score": 78,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "Methos",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame",
+      "Highlander: The Series",
+      "Highlander: The Source"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 19 Oct 2023 07:00:00 GMT",
+    "captured": "2026-09-30T19:35:17Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTTYxenV1SEQyRkdaOVY5VkZUd1lrX2swaXV0OWFuQU9Bb2U1LUZZZzZUUUc1c1hNTzFWQmFUa18zLS1kV1p0Mm1LMlVSOEJaMnpSSEFLOHdZdWRNbVdYY2liRzdLWjhaNks1Mk4zVmt5RHczWm02eC1wbWhXQkdPNnVvQXVuVWhRS2RoUjFMbWJxVVU?oc=5",
+    "source": "Legacy",
+    "title": "Peter Wingfield Obituary (2023) - The Star - Legacy",
+    "summary": "Peter Wingfield Obituary (2023) - The Star Legacy",
+    "evidence": [
+      "matched entity: Peter Wingfield",
+      "event: death (obituary)",
+      "source age: 1077.5 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

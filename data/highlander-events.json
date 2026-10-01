@@ -1,123 +1,5 @@
 [
   {
-    "id": "0a83b47202e4442c2069",
-    "entity_id": "christopher_lambert",
-    "entity": "Christopher Lambert",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_lambert",
-        "name": "Christopher Lambert",
-        "kind": "person",
-        "roles": [
-          "actor",
-          "Connor MacLeod"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II",
-          "Highlander III",
-          "Highlander: Endgame"
-        ],
-        "score": 76,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "actor",
-      "Connor MacLeod"
-    ],
-    "franchise_titles": [
-      "Highlander",
-      "Highlander II",
-      "Highlander III",
-      "Highlander: Endgame"
-    ],
-    "event_type": "health",
-    "source_date": "Sun, 16 Aug 2026 23:33:40 GMT",
-    "captured": "2026-09-11T12:59:06Z",
-    "urgency": "normal",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdzRET1VIZXhMejNETnNWNGJXTzhNODdaQlJsd0VlVlNPOXFYOWh1c1BLMXNtU2M0S1JNTUV2NFdXbndyeVd4eEVFS0xud0l4VVlKTXdKQnl5RTVPbmhTUzJadkY1QXJqcFptSXhzZnZPS1dDbkdkemoxZWZfWDNFQ1FEb2FZem1yaU5nZE9ZSHBKQWlnUFNQVkRlcG56WHJvTTZrdzU1TVpGbWlXVTRlWXJpUjY0ZnRTN2VoX1hoc0VXb3NRd3VxVTdmZnprQm_SAeMBQVVfeXFMTnY4MGNvcGlNV1d4d1BsX3RXYjNPU1JZcUF2VzdaZlFmOW5TMm95X0t5ZnBCVWRFN2U0QTAxX1lqN3dhc2Nnck9zODV1cXI5Yk5PNWFZX2syekJvanhzc3hERlFDU3doY3RCa0diZnNTbTBqQUV1V0t2SFVyYW1ydjkzQWFqVDVoYWVkWmVfMTdLRWV4UExpb1poRXNTbTlRU002ZVVpZVJ3cE1ISm9zYkN6MGM3ZXBDeUx2RV85dUhPVndrN2o4SjIwVk1uaWVWMGpIOEM3Q3hwSkFMUTRqWmxUQjg?oc=5",
-    "source": "nj.com",
-    "title": "Christopher Lambert, 68, receives sweet message from co-star following his hospitalization - nj.com",
-    "summary": "Christopher Lambert, 68, receives sweet message from co-star following his hospitalization nj.com",
-    "evidence": [
-      "matched entity: Christopher Lambert",
-      "event: health (hospital)",
-      "source age: 25.6 days"
-    ],
-    "score": 76,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": true,
-    "status": "new"
-  },
-  {
-    "id": "a583e142d06a4f4dcf82",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Mon, 15 Sep 2025 07:00:00 GMT",
-    "captured": "2026-09-11T12:59:06Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYU5aOXg5RGpFXzlkQmpVLTRnU3VaZTlzWE5BTVdhR1ZPMDdrcEtMTi1oRWcxOS0zVHNndkItc1JOdkdEUlVvSjZqVlRNUnVFLXdnNkt5eGx1RVlSaUpWSUwzeWxQRWx0M0VUY1l4c1Q1UmoxTUI2X1FLdGUyTm5VSFZQai1LenMyQ0sweG9tTmprcVRJTWRZVHVNMFBISURlanF2akhtNkcwTjZoOXZUelcwTm1sdGlwSzB3NkxkYWlJUUxtRFY3QVF4eGp4d2ZPN0ktQ3RUdkk1N2c?oc=5",
-    "source": "IGN India",
-    "title": "Highlander: Amazon MGM Studios Reboot Starring Henry Cavill Reportedly Hit With a Filming Delay - IGN India",
-    "summary": "Highlander: Amazon MGM Studios Reboot Starring Henry Cavill Reportedly Hit With a Filming Delay IGN India",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot, Amazon MGM",
-      "event: highlander_production (reboot, filming)",
-      "also matched: Henry Cavill (100)",
-      "source age: 361.2 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "31e4453af679310839ee",
     "entity_id": "henry_cavill",
     "entity": "Henry Cavill",
@@ -53218,5 +53100,115 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "9c462abd17e8916056e4",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 98,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 05 May 2026 07:00:00 GMT",
+    "captured": "2026-10-01T00:08:17Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObmp3Q0NJTXFuSS1oZ0lNWGV5WmI4UGlSYWhmZEdjNDZOWE52d2FIREZUWjNabHhQbHVpTkhQR2dIX2ZoaVJTRlo1cGk3UW9nTTJyZWhwU0pBUkVzYVd6dDg2N2duaEVzMFFVUHpranduVEZzVlhWMHk3YXlSVTRQeGdNZHdyTndoMGpldnJLQVpIcEZSUlR3NzZvRmRWc1JKUVFIcWh6NDI3VllLMFdiRUU1cWpKWWxZUWtkcGt0QWpBdHpyalhPSF9DQXR4ZFlmdGpneV8tdzNQOVpN?oc=5",
+    "source": "IGN Pakistan",
+    "title": "Highlander Set Photos Reveal First Look at Henry Cavill and Karen Gillan Filming 16th-Century Flashback Scenes in Scotland - IGN Pakistan",
+    "summary": "Highlander Set Photos Reveal First Look at Henry Cavill and Karen Gillan Filming 16th-Century Flashback Scenes in Scotland IGN Pakistan",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, filming",
+      "event: highlander_production (filming)",
+      "also matched: Highlander (98)",
+      "source age: 148.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "75e65604b19087afbab8",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 29 Sep 2026 17:00:11 GMT",
+    "captured": "2026-10-01T00:08:17Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83UHJsQUYzRDdBOWRLOGx1c0RteTRqMFZsN2l3VnN0MGw3ajFzcDFjMURvb0NKMmtjLWtIalZKOE5pSVNUY0FJbERFRUFsbmNMb05KeTkwOUh4NWx2XzFsVXRfYU5aOXhaR1NxR0hSc180cFhl?oc=5",
+    "source": "Comic Book Resources",
+    "title": "8 Movies To Watch If You Love Highlander - Comic Book Resources",
+    "summary": "8 Movies To Watch If You Love Highlander Comic Book Resources",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 1.3 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

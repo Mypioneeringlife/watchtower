@@ -1,288 +1,5 @@
 [
   {
-    "id": "8804995cf54096f9f8c0",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Wed, 06 Nov 2024 07:06:04 GMT",
-    "captured": "2026-09-27T19:00:15Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2Z1hzV255LWJCQWN6YTEwUFpKdlFDVDY4YTg4SjQzVXVQUmZZcnN1Tk5kYTVPYjdHQzZPUTE1OWNxYXFoZ0JDTnJaMzNnRnRLNmgwU0hzbFFnYjJHdDhkalQzSTF4cWQtZ3RvdUlmMA?oc=5",
-    "source": "IMDb",
-    "title": "Highlander: Endgame (2000) - IMDb",
-    "summary": "Highlander: Endgame (2000) IMDb",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 690.5 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5491b83eb5cb5ffe3def",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Sat, 26 Dec 2020 23:54:14 GMT",
-    "captured": "2026-09-27T19:00:15Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRZ0hTQkNKZE5pMkRGeDBsc2RCekJIT0VsSUUyQ0hxMjJCVDhRMkQ5eDlSdTFxNDZseTF2QTI3Vi14ME9idnVzUE9TOFZrOGVubF9kSERRODdrb0lhUXVXY3FxOGZWRmdxejdMWWhGVQ?oc=5",
-    "source": "IMDb",
-    "title": "Highlander (1986) - IMDb",
-    "summary": "Highlander (1986) IMDb",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 2100.8 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d4b02662deb01c9c4442",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Fri, 21 Mar 2025 09:32:18 GMT",
-    "captured": "2026-09-27T19:00:15Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkZVBqdzZCQnNnSTBlS2cxMDlGNnJHUWVxbjdpZ2pTZ19mLXpnZGFibVFRdWk0TDZFdURkN1dHQmZRYjlDdzJkTHJDR1ZUZVdIejREZ29LMWtQUUV6TEpUdmR6TjhRMXpXcGNRa2Rvbw?oc=5",
-    "source": "IMDb",
-    "title": "Highlander: The Source (2007) - IMDb",
-    "summary": "Highlander: The Source (2007) IMDb",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 555.4 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "cdb61f9c2b487e24449c",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Wed, 22 May 2024 20:55:18 GMT",
-    "captured": "2026-09-27T19:00:15Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DYWJPVjk4VjkzV0w1RVcwY19tX0xXYnhZUGVOY3J1OGdGQUFOc1FQYTNyZ3lqQXF0QmNyOVlJeFJ5Q01jYW9IQ2lWeVB6Q2NDSWx6c2RBUU44Y1JOdXJRWUJxYTN2VHJaYzg1eUxPNA?oc=5",
-    "source": "IMDb",
-    "title": "Highlander: The Source (2007) - IMDb",
-    "summary": "Highlander: The Source (2007) IMDb",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 857.9 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c1e0a422d81d144e9edc",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 88,
-        "event_type": "legal"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "legal",
-    "source_date": "Mon, 13 May 2024 07:00:00 GMT",
-    "captured": "2026-09-27T19:00:15Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSDM2eHBaZTBCRE0wdExxbDZRRmEwdV9NX1Z5TzQtcHpic0doaXVVT2lGWUhaUVBxaGd6OWRzeGZXSEFZVk83cnNmTnFCWDF2cEdETVJTajR3NkpQUXc3V1cwSTVnWEtJemhkVHQwSmJRXzk1d2JUOFVHYThjU2Fqa003d2lVc3lG?oc=5",
-    "source": "wevegotbackissues.com",
-    "title": "Highlander III: The Sorcerer (1994) – Review - wevegotbackissues.com",
-    "summary": "Highlander III: The Sorcerer (1994) – Review wevegotbackissues.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: legal (sues)",
-      "source age: 867.5 days"
-    ],
-    "score": 88,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "38ea8c7f7d5af1110e45",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Sun, 02 Jun 2019 11:13:56 GMT",
-    "captured": "2026-09-27T19:00:15Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BRVk1T3JrU21iX190RnBlTlFoTV94VGV4b0hRaWVER0Rrc3hlZ05uYUxjTndpZkVxU0I0bjdpZTZraVZCaV9pZWRJTjBUUnpQOTQtakd1NFpDU1NZUmlSdVVSczN2cklObHBTYXB2NA?oc=5",
-    "source": "IMDb",
-    "title": "Highlander: Endgame (2000) - IMDb",
-    "summary": "Highlander: Endgame (2000) IMDb",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 2674.3 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "44667c198b7a7a590b7a",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -52394,5 +52111,334 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "41c387edea8d7e002031",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 02 Oct 2026 21:35:22 GMT",
+    "captured": "2026-10-02T23:58:09Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcjdXN0NXWmxXaElHNHpzTW1SLVRBUDc4ZnhJaHhqdU56eHhMMUZOWUNCWlNhaDgxU1lvRnNGemVCN1Z2TUREY2MteWpiMTlydUF1U1VXQTlnaFZqXzUtNXh4TGZfbTlDVGtEc3d0ZWp0RV9ncXc4VXZ0Q1JiWGlZX1RGeUE4eTlU?oc=5",
+    "source": "Comic Book Resources",
+    "title": "Henry Cavill's New 80s Fantasy Movie Reboot Is Already Set To Become the Next John Wick - Comic Book Resources",
+    "summary": "Henry Cavill's New 80s Fantasy Movie Reboot Is Already Set To Become the Next John Wick Comic Book Resources",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 0.1 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "5e19722a3019b73f9b41",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 05 May 2026 07:00:00 GMT",
+    "captured": "2026-10-02T23:58:09Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOXF4UlF6ZEF6TjB2bHd1MmVjTzl5Q0hpaDZXNnduT0ZmdFRCdmJCTy1JdktwN1dncWU4b1BxZUJMcUxNZV83QWhUZmsxa1IyeUdvRkhHbTFFOGN0YXdWaWd4TXNsZTVROHNBd0JEU3JRYkRjMkZVVDNHNGRGN2Q1V3hieE9kQ19MbmZv?oc=5",
+    "source": "ScreenRant",
+    "title": "Henry Cavill Dons Connor MacLeod's Iconic Scottish Look In Highlander Set Photos - ScreenRant",
+    "summary": "Henry Cavill Dons Connor MacLeod's Iconic Scottish Look In Highlander Set Photos ScreenRant",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (74)",
+      "source age: 150.7 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "615b57687b3119b3c934",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 20 Jun 2025 07:00:00 GMT",
+    "captured": "2026-10-02T23:58:09Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdy1yWnBSaTZYSnNqalM2M1BCeUpQX1B0ZkxHcnNXRzJUSHBVOXNFRzFBV2xOd1k3b01ielBVZWpTRnBqZDl3TklXNWI0MWxjN1BEa0Z4ekJFMFd4dkY1TXo4TldCZFkwN2drZ0NZSW03eENNTzVmNVVpN2ZfWFVpSmxHNjBYcUQ4aGhyV19naGxrNFZ5RkVsM2x5elVFelZJZ3VNRi1PMk9RaWp3dlFzeXo5eTBBUEtI?oc=5",
+    "source": "Cinemablend",
+    "title": "Chad Stahelski's Highlander Movie Just Added Russell Crowe In A Key Role And It's The Man Of Steel Reunion I've Always Wanted - Cinemablend",
+    "summary": "Chad Stahelski's Highlander Movie Just Added Russell Crowe In A Key Role And It's The Man Of Steel Reunion I've Always Wanted Cinemablend",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 469.7 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "33b5e0844229862fd50e",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 17 Oct 2025 07:00:00 GMT",
+    "captured": "2026-10-02T23:58:09Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2NZUnBzWWhlWTNUSlN6bjlKVFFQQ0k3bU9BQTRJR01NcFNveXZnVmt1cEZTQTgxY3JzLTI2MnY4V2JPcGR5bzJHSG93NkJ6aVB4NngzNUZHRmJUaWVaRGhjZ1FBamFUVlNvUEViSTVFZkc1eThZU1RUR1Q1Q1gzel8weVBnYWlZOVp3akpMR1N5WWRYWXh5TENjcm80MTBKbmlYMk9SRVFJZw?oc=5",
+    "source": "Cinemablend",
+    "title": "Karen Gillan's Story About Landing The Highlander Movie Is The Most Scottish BTS Tale Ever: 'A Beautiful, Full Circle Moment' - Cinemablend",
+    "summary": "Karen Gillan's Story About Landing The Highlander Movie Is The Most Scottish BTS Tale Ever: 'A Beautiful, Full Circle Moment' Cinemablend",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 350.7 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "2d5260624caea1342d60",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 29 Aug 2023 07:00:00 GMT",
+    "captured": "2026-10-02T23:58:09Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2xJV0FlN05xSERGRDQzb2tPSndlZzJrTG80b2YwV3didmlkSC16YndsRU1OOVVRS2Q4Tm8xWE4zSE96V05sUDRXdS1pMjNXMXRBQm9TUHEySVhna1Q5ZkpwZmdGMXNTcTNhNFU0MHlhSWdxTmswT1hVWU5YX0RtemZYVjQzbmF0NUR0TVV1dW55ZG16SEFDYmVzVWRRMWJ5RF9LRUFPM214LXVFYWU0?oc=5",
+    "source": "me.ign.com",
+    "title": "Henry Cavill’s Highlander Reboot Could Be the Start of a New Franchise - me.ign.com",
+    "summary": "Henry Cavill’s Highlander Reboot Could Be the Start of a New Franchise me.ign.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 1130.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5dce678f3f39d098fad6",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 28 Sep 2026 17:43:17 GMT",
+    "captured": "2026-10-02T23:58:09Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb2tsMHRacUxVVEo2WXlfcE9TcnBmZE9Fa2g1RmNpMkUwYkhDU3pObmtTNkYySHV6T3NNakw3aDRzbFA2N3FZbkE2RnF5VU5oa1NlOWs4T0lMTFRHb1E5dUNwLXFLT010anZMTy1RSC1KUmFxRjJETXp4SUFEbnAtWWlZRzBOcUkxWG9v?oc=5",
+    "source": "bleedingfool.com",
+    "title": "The Lost Version of Highlander Is Finally Being Told - bleedingfool.com",
+    "summary": "The Lost Version of Highlander Is Finally Being Told bleedingfool.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 4.3 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

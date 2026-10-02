@@ -1,178 +1,5 @@
 [
   {
-    "id": "71ea6774d2afe25c666b",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Tue, 21 Apr 2026 19:49:21 GMT",
-    "captured": "2026-09-17T19:02:25Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lYlFGakVMNkphR1pvX3JjMzJmUVI1cWItOEYtVmdGcjd1Z1daa09DbkV1Ymlsb09DQWFWNnFXMXo2c1FWODBRZU9vdGFNREdVNGRWTVJucTBKYW1uMTJwd2RjOTBVZk1qOUxyeThYdw?oc=5",
-    "source": "imdb.com",
-    "title": "Highlander - imdb.com",
-    "summary": "Highlander imdb.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 149.0 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4f101eb4d601bec52eaa",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Sat, 22 May 2021 07:00:00 GMT",
-    "captured": "2026-09-17T23:01:30Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ycEZQc21pRVZDcWlnMW5TbU9LSE9DSC1vSlhoZHFiVFRRSGZIeHV5ZFk0NUhLbFhld2pxWWF2RXlud0VFTThMaUpNcGxqdFR3SFRPdWM4MTkwR29wV0NBaU1R?oc=5",
-    "source": "MovieWeb",
-    "title": "Henry Cavill Is Highlander in Lionsgate's Reboot - MovieWeb",
-    "summary": "Henry Cavill Is Highlander in Lionsgate's Reboot MovieWeb",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot, Lionsgate",
-      "event: highlander_production (reboot)",
-      "also matched: Henry Cavill (100)",
-      "source age: 1944.7 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "f759097df974c41e7537",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 98,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Thu, 16 Apr 2026 07:00:00 GMT",
-    "captured": "2026-09-18T07:35:03Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVk55MXREdTVVSWZ3UnZEalkybW14b2JzTTNSTExBcXp0UXQxWDFjNk1IdWkzR3R3OUQ3VExjWUFYVXpwNVhweFpzeGhDU1NVenU4Z09EWl9tNGpEMXA3bVhBRzdIR3oydFdYWXh5YU83VXVfRk9NZkNOR2prSEZ0RHd5Zw?oc=5",
-    "source": "cosmicbook.news",
-    "title": "Henry Cavill’s Highlander Reveals First Look At Karen Gillan As Scotland Filming Continues - cosmicbook.news",
-    "summary": "Henry Cavill’s Highlander Reveals First Look At Karen Gillan As Scotland Filming Continues cosmicbook.news",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander, filming",
-      "event: highlander_production (filming)",
-      "also matched: Highlander (98)",
-      "source age: 155.0 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "199a80b1c34432332b90",
     "entity_id": "henry_cavill",
     "entity": "Henry Cavill",
@@ -52883,6 +52710,147 @@
       "source age: 191.5 days"
     ],
     "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "3f5ddf69170d76234244",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 20 Jan 2026 11:32:55 GMT",
+    "captured": "2026-10-02T00:06:29Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90M2NMNF9QVEhCd1BxUWRSdFJ4aHVKS000QzRqZi16VE1vbE9Ia0d4TXNzbkwyNTFjbjlLajlrLW1QVzFHOVdxenFNSlRncmEteHFicW9QRVFvS2Z1c0tvdA?oc=5",
+    "source": "joblo.com",
+    "title": "What Happened to Highlander III? The Sequel That Tried to Fix the Franchise - joblo.com",
+    "summary": "What Happened to Highlander III? The Sequel That Tried to Fix the Franchise joblo.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 254.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "1688691dba2e222746d3",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 25 Sep 2026 21:42:13 GMT",
+    "captured": "2026-10-02T00:06:29Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRlJfOWpBUTNxYkpQN3ZmN1NTWjJ3SnVvSTltQ0hoOGRNaGpMdmF3dXByNU1PUk5mUnBDZUtrai1HODJxOEtWaldEWTdZRzhRb183RERLVHNMR2xsQmgwbF9JTHRrY0RGVS1SVlZXU0dJdTNtdHVDOGxndTd6RXdDcndrMk1RbWFOSjEyUlpOODlPdTBxdkJiTw?oc=5",
+    "source": "scifipulse.net",
+    "title": "First Look at Highlander: The Original Screenplay Comic Adaptation - scifipulse.net",
+    "summary": "First Look at Highlander: The Original Screenplay Comic Adaptation scifipulse.net",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 6.1 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "6ac6146be3c979bd767c",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 11 Jan 2021 01:17:08 GMT",
+    "captured": "2026-10-02T00:06:29Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RUUJHLVVmTElBMFVQWkJJbVFpNFYxcXB0Y2g0V0FFN1ZCYnpZbU0wQzc0SUNmQmN6d200VDZiV3k5djBQN2pMLVVqdUNfbjRGNWhMa0tFYnJ1aHphZElOMTYteWFrS0tiT2k3QmFR?oc=5",
+    "source": "IMDb",
+    "title": "Highlander (1986) - IMDb",
+    "summary": "Highlander (1986) IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 2090.0 days"
+    ],
+    "score": 70,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

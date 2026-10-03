@@ -1,52 +1,5 @@
 [
   {
-    "id": "44667c198b7a7a590b7a",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Wed, 04 Feb 2015 08:00:00 GMT",
-    "captured": "2026-09-27T19:00:15Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUtUV0VKNFhKY3hmMHFXeEVxdVgtLUR0clZ0LVpkUWowTVZzZDN6ekxDRE1oSTBBT1oydkNBSU9mMWZ1WTF2N3BBMnhmTHRTQXExVDBZaFJCZHBfQXlYY0JJSnlFaE9HNTlxWHlBOWtnMXVMenRxOWNpRGEwc0xnQnQ0VlMwOFJoSDlEU0hkbEg?oc=5",
-    "source": "A.V. Club",
-    "title": "Michael Ironside on Turbo Kid Highlander II , and being in the real McBain - A.V. Club",
-    "summary": "Michael Ironside on Turbo Kid Highlander II , and being in the real McBain A.V. Club",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 4253.5 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "552dd2b55b506eb30c86",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -52440,5 +52393,68 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "a72fc30419ecd28f0a69",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 29 Aug 2023 07:00:00 GMT",
+    "captured": "2026-10-03T08:30:58Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2xJV0FlN05xSERGRDQzb2tPSndlZzJrTG80b2YwV3didmlkSC16YndsRU1OOVVRS2Q4Tm8xWE4zSE96V05sUDRXdS1pMjNXMXRBQm9TUHEySVhna1Q5ZkpwZmdGMXNTcTNhNFU0MHlhSWdxTmswT1hVWU5YX0RtemZYVjQzbmF0NUR0TVV1dW55ZG16SEFDYmVzVWRRMWJ5RF9LRUFPM214LXVFYWU0?oc=5",
+    "source": "IGN",
+    "title": "Henry Cavill’s Highlander Reboot Could Be the Start of a New Franchise - IGN",
+    "summary": "Henry Cavill’s Highlander Reboot Could Be the Start of a New Franchise IGN",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 1131.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

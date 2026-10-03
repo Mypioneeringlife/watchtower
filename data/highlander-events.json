@@ -1,100 +1,5 @@
 [
   {
-    "id": "552dd2b55b506eb30c86",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Sat, 25 Apr 2015 07:00:00 GMT",
-    "captured": "2026-09-27T19:00:16Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oV1B6THk0aHNLZm5oeVFCc0lMbmEySGhqb21BNWpzTWZQdElSYWIxQlNmXzRlMS0wVlNwT0ZfMEJZWGtKQ3Q4em9mTmYyWmRCMzdMNmpkclB0ak1X?oc=5",
-    "source": "YouTube",
-    "title": "Michael Kamen - The Highlander Theme - HD - YouTube",
-    "summary": "Michael Kamen - The Highlander Theme - HD YouTube",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 4173.5 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "3c18416627492a236508",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 82,
-        "event_type": "award"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "award",
-    "source_date": "Thu, 26 Jun 2025 23:04:42 GMT",
-    "captured": "2026-09-27T19:00:16Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CMEJtRFowcl9tdWJuM1NYZFhLX1ByeHJDVWR3V054OUtWbFRNeDJaSUd6YlkxRzloTE9nTnAwM0ZrbVdwYi1zU29McTNQRURuSWRsU1RRcEVEVXNBMU11MS12WDdGMWRLS1VMWlYyNWdsQQ?oc=5",
-    "source": "Filmaffinity",
-    "title": "All the awards and nominations of Highlander: The Series (TV Series) - Filmaffinity",
-    "summary": "All the awards and nominations of Highlander: The Series (TV Series) Filmaffinity",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: award (award, nomination)",
-      "source age: 457.8 days"
-    ],
-    "score": 82,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "450c4f3918af6e3dc99a",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -52453,6 +52358,102 @@
       "source age: 1131.1 days"
     ],
     "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "19ace0ee77bf3bf7be41",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 03 Oct 2026 16:00:16 GMT",
+    "captured": "2026-10-03T18:07:59Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2SDFSb1lMOURMbkJiNGJlNXdNeV9JOXJlck5KOVRIbFhtRlJCLWJ3R1JNZl9nV0JwcXFIemo2QUtNc0lzbWNvMGVyR3VxaVVwbXVYYmdhSEZiODVVcjNGbVNRS3QzZkxybFlFcA?oc=5",
+    "source": "MovieWeb",
+    "title": "'John Wick' Meets 'The Witcher' in Henry Cavill's Long-Awaited '80s Action Fantasy Reboot - MovieWeb",
+    "summary": "'John Wick' Meets 'The Witcher' in Henry Cavill's Long-Awaited '80s Action Fantasy Reboot MovieWeb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 0.1 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "4330a884fb5fd634bf8d",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 04 Jun 2026 03:59:00 GMT",
+    "captured": "2026-10-03T18:07:59Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxU3lXckgxNlBlSFRJNmxWZzVtbVRZMkpZRTIxWVZQMldiVHJxTDV6OXRVY3lmUTRqaFBUYURKVU1hTDFra3dyY3oxTmtoU2lDeUgydTFxUEtIbHVwNGhTRlJ3aHZ5UDhtQU0tQXlFTk5NWlNq?oc=5",
+    "source": "ČSFD.cz",
+    "title": "Highlander II: The Quickening (1991) | Gallery - Photos - ČSFD.cz",
+    "summary": "Highlander II: The Quickening (1991) | Gallery - Photos ČSFD.cz",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Quickening",
+      "source age: 121.6 days"
+    ],
+    "score": 74,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

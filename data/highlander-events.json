@@ -1,99 +1,5 @@
 [
   {
-    "id": "3bbb0879eb4522d8d412",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 28 Sep 2026 17:15:35 GMT",
-    "captured": "2026-09-28T21:15:29Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRFVCejhmdG11em43eFNCWjhoYzlrT2FCM2tCQXd3Yk4yUEg5SVlXaGVQQzVucHJLUGwzZC1Gck0zZmJCOW9udk9rRm1GSFp3VFdoNGtYYVR5dWtjaFZZN3pTMmdLcFlhRWhJMVljS3RCSnFSQkNCenpMTERWY1FoZUFESkNOOGhiQTczbENPQk9JMnZsMWZ3?oc=5",
-    "source": "Fox 59",
-    "title": "Keller Edge Legal Minute: Know the Deadline to File a Claim - Fox 59",
-    "summary": "Keller Edge Legal Minute: Know the Deadline to File a Claim Fox 59",
-    "evidence": [
-      "matched entity: Edge",
-      "event: death (dead)",
-      "source age: 0.2 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "fca83685622ce39aec6a",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 68,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "health",
-    "source_date": "Mon, 28 Sep 2026 19:01:05 GMT",
-    "captured": "2026-09-28T21:15:29Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnN5cHlKLTh1dVVWS20xSUwtbTJZMFBkSC1zNm9WOWZieFU5SzVoN2tuVFNlMkgwWGliS2JaVjVPSFpJbXZlTFhDSkpHekJYSWZKUEk2VmJUZEJEcnFuM2RjenNwNVIyVFVmSHlBTWJMNmVFOC1xdVNrZzdCcUdHODRYM1JKSTFm?oc=5",
-    "source": "Yahoo Sports",
-    "title": "49ers Predicted to Part Ways With Injury-Prone Edge Rusher Nick Bosa - Yahoo Sports",
-    "summary": "49ers Predicted to Part Ways With Injury-Prone Edge Rusher Nick Bosa Yahoo Sports",
-    "evidence": [
-      "matched entity: Edge",
-      "event: health (injury)",
-      "source age: 0.1 days"
-    ],
-    "score": 68,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
     "id": "c5e5be6fd1e83f4cff64",
     "entity_id": "edge",
     "entity": "Edge",
@@ -52809,5 +52715,101 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "5dc17b1c8564b92c51f1",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 16 Apr 2026 07:00:00 GMT",
+    "captured": "2026-10-04T23:31:31Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZTNnS0RYQVlqdGliVmNHV1VRaEozM1dBRG9FNTMtdnJIaW1ScXhzNXQzNU81V2hkYXc3R3Q5eEZ2a0hEeVBiSFFqenBFeEp0YWE4emlyWTc4ZWxTN1NFS2d4SjRyZGE0MG1kTFJDOXpfdnNlUGhnX0FFR2Qzd19IS2tkMTVRQXhIa1dqei1aMWZqbGl4TTltVkl2OXNBQnpCRW9ZMVh2RmFtM1V4VXhXXzFTemlnWGY0Qk5obmFDb2p6QVJmUVRKbV9jLWo0RHgwaGdvMQ?oc=5",
+    "source": "Facebook",
+    "title": "At CinemaCon today, Amazon MGM Studios’ United Artists gave exhibitors and fans a look at the latest incarnation of Highlander. Read more below. - Facebook",
+    "summary": "At CinemaCon today, Amazon MGM Studios’ United Artists gave exhibitors and fans a look at the latest incarnation of Highlander. Read more below. Facebook",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Amazon MGM",
+      "source age: 171.7 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "8d7521df4fbaf484373a",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 03 Oct 2026 16:00:16 GMT",
+    "captured": "2026-10-04T23:31:31Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2SDFSb1lMOURMbkJiNGJlNXdNeV9JOXJlck5KOVRIbFhtRlJCLWJ3R1JNZl9nV0JwcXFIemo2QUtNc0lzbWNvMGVyR3VxaVVwbXVYYmdhSEZiODVVcjNGbVNRS3QzZkxybFlFcA?oc=5",
+    "source": "movieweb.com",
+    "title": "'John Wick' Meets 'The Witcher' in Henry Cavill's Long-Awaited '80s Action Fantasy Reboot - movieweb.com",
+    "summary": "'John Wick' Meets 'The Witcher' in Henry Cavill's Long-Awaited '80s Action Fantasy Reboot movieweb.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 1.3 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

@@ -1,53 +1,5 @@
 [
   {
-    "id": "0251a7b7adc8c61e1373",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 15 Jan 2020 08:00:00 GMT",
-    "captured": "2026-09-27T19:00:16Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWFUOVF5YzdRYzVaMy1yM1FOWm1ucEZUSEp0dHJ0WU4xbnBSN2xubkNyN004dnZPck9iU21qS3Q0azhGTzIzVVZlcnNkb1Fnb0s3akJDa1JWTXN5X21heUg2Q0tldUJKNFVDMjRZNmFyRXlNdjdXSnJyajBOallFZGFTZVBRZGNqd2o4amlfVWxFWGQ0UGFOZlFGZ0EyeGZYUFdRSUdFLTE2ak1nYVHSAbMBQVVfeXFMTTlXdTBkTEQwZDREdElRMWt4SU5nMFU0YXJjcGl1YURudDZmVnhEZzZyTmszTDNvNFhxQ2lXaWhWWXYycWI2UVJtMl9SSnlRa21ZNGMyN3Jmb1RnZlBjSzFIa1JjUVM0bzVEWjdyYkJ4SjVDVFBIa2o2MWpsNjI0WEwtZkpPVGlXYlQ1cEIxWWU4cnlKaVlsZ0N4Rmo0cEdUanNMNHpVSEtVZHZ2TTJ1MjhpS1E?oc=5",
-    "source": "Daily Express",
-    "title": "Stan Kirsch dead: Highlander and Friends star 'found dead at home by wife' aged 51 - Daily Express",
-    "summary": "Stan Kirsch dead: Highlander and Friends star 'found dead at home by wife' aged 51 Daily Express",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: death (dead)",
-      "source age: 2447.5 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "3615cfeb738c6f4d5891",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -52661,6 +52613,67 @@
       "source age: 457.5 days"
     ],
     "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "7b079515daea0897d119",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 76,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Wed, 12 Aug 2026 07:00:00 GMT",
+    "captured": "2026-10-04T08:41:52Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYUk3U0lKWE9YenNoTDZ0X3VhVmJjTUhfcllWUTJua215SXB4SVNPRVFjdmwtODdwNTFjX2tlTjZzSVlYR3lxdUpYdFFiU19HSGRyUUl1Q0dEdkVMdURvSExXTGd0UTlkUGlieWpoR3RycUpFZ0lwS0NJeG5RbXNXcFhoNGNmVE5ydW1nMw?oc=5",
+    "source": "SunStar Publishing Inc.",
+    "title": "Christopher Lambert faints, receives medical attention - SunStar Publishing Inc.",
+    "summary": "Christopher Lambert faints, receives medical attention SunStar Publishing Inc.",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: health (medical)",
+      "source age: 53.1 days"
+    ],
+    "score": 76,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

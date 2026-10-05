@@ -1,280 +1,5 @@
 [
   {
-    "id": "4b9e6e22c8583b66ab2f",
-    "entity_id": "elizabeth_baxter",
-    "entity": "Elizabeth Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "elizabeth_baxter",
-        "name": "Elizabeth Baxter",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Bless the Child",
-          "Eye For An Eye",
-          "Legacy",
-          "Reasonable Doubt",
-          "Reunion",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Bless the Child",
-      "Eye For An Eye",
-      "Legacy",
-      "Reasonable Doubt",
-      "Reunion",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 23 Nov 2018 17:03:37 GMT",
-    "captured": "2026-09-28T21:15:29Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DbGJGSmFDOE91Q3FvRHd4WGpic0w2MHpDemVMSlUwcjk0eGxyTGk1TjFpZ005YXBLVWU5cnNEZ0U2S3NHNC1teDBTUEx3NXBSVHEwVjVkbTVSWm1nOFBj?oc=5",
-    "source": "Osborn Funeral Home",
-    "title": "Elizabeth Baxter Cage | 1922 - 2011 | Obituary - Osborn Funeral Home",
-    "summary": "Elizabeth Baxter Cage | 1922 - 2011 | Obituary Osborn Funeral Home",
-    "evidence": [
-      "matched entity: Elizabeth Baxter",
-      "event: death (obituary)",
-      "source age: 2866.2 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "658334c24479546355b3",
-    "entity_id": "elizabeth_baxter",
-    "entity": "Elizabeth Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "elizabeth_baxter",
-        "name": "Elizabeth Baxter",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Bless the Child",
-          "Eye For An Eye",
-          "Legacy",
-          "Reasonable Doubt",
-          "Reunion",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Bless the Child",
-      "Eye For An Eye",
-      "Legacy",
-      "Reasonable Doubt",
-      "Reunion",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 16 May 2022 07:00:00 GMT",
-    "captured": "2026-09-28T21:15:29Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxSTFKS05QRWxxVTU1YVBILUlGblUwZGhTa3lUNEROai0wVEwyVXprOHRDbXdsYXlDVWxpUmdXWjVSeEd2N25HSExVWTZTV0FSV3ZxeVNqamJsSWlZaEUxS2pocEJXb0l4cVNFNS16T1BvcWo0NnNkbUp6U3dsbzQ?oc=5",
-    "source": "The Cullman Tribune",
-    "title": "Obituary: Laura Elizabeth Baxter - The Cullman Tribune",
-    "summary": "Obituary: Laura Elizabeth Baxter The Cullman Tribune",
-    "evidence": [
-      "matched entity: Elizabeth Baxter",
-      "event: death (obituary)",
-      "source age: 1596.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "28d901cdae6db3512085",
-    "entity_id": "elizabeth_baxter",
-    "entity": "Elizabeth Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "elizabeth_baxter",
-        "name": "Elizabeth Baxter",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Bless the Child",
-          "Eye For An Eye",
-          "Legacy",
-          "Reasonable Doubt",
-          "Reunion",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Bless the Child",
-      "Eye For An Eye",
-      "Legacy",
-      "Reasonable Doubt",
-      "Reunion",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 13 Feb 2021 08:00:00 GMT",
-    "captured": "2026-09-28T21:15:29Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU2F0d1JmYk5BT1ZxeG81V1NyVWZzdWJlbk1fNmd0cU1IcHdJanhqZnBuYXY2ZnF5ajU1TlZ4eHRFYlFqbGNXenBJVVBlY3RuOXFpMmVYNkc3VXJRTG1vcW5zSWJwbGI4RWw4bzU5N2pud3VUcUJ0WmNPSzVtekEteDhsdU1rTExwNldUNmRRM0laQ2s?oc=5",
-    "source": "Legacy obituary",
-    "title": "Elizabeth Baxter Obituary (1947 - 2021) - Everett, WA - The Herald (Everett) - Legacy obituary",
-    "summary": "Elizabeth Baxter Obituary (1947 - 2021) - Everett, WA - The Herald (Everett) Legacy obituary",
-    "evidence": [
-      "matched entity: Elizabeth Baxter",
-      "event: death (obituary)",
-      "source age: 2053.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c2f87afd688f1920bd91",
-    "entity_id": "elizabeth_baxter",
-    "entity": "Elizabeth Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "elizabeth_baxter",
-        "name": "Elizabeth Baxter",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Bless the Child",
-          "Eye For An Eye",
-          "Legacy",
-          "Reasonable Doubt",
-          "Reunion",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Bless the Child",
-      "Eye For An Eye",
-      "Legacy",
-      "Reasonable Doubt",
-      "Reunion",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 19 Aug 2015 07:00:00 GMT",
-    "captured": "2026-09-28T21:15:29Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82T0lzRDFJazZfWEtuUV9RdGRCR0dJcWk3S0tUQUhNMWtMR25CREw0ZEVGQ2dqVF9fdzhNWlFKalJmZ1FUdnc1ZWlRVG9rN2FtM05WeS1oWFYzbzMtQUVHNkNMYllVMTBxQ1hqV3N1eE4tbU9TOEZVLXVMNA?oc=5",
-    "source": "Windsor Star Obituaries",
-    "title": "Gwendolyn Elizabeth BAXTER Obituary | 1934 - 2015 - Windsor Star Obituaries",
-    "summary": "Gwendolyn Elizabeth BAXTER Obituary | 1934 - 2015 Windsor Star Obituaries",
-    "evidence": [
-      "matched entity: Elizabeth Baxter",
-      "event: death (obituary)",
-      "source age: 4058.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5092b9461e5dac0286c7",
-    "entity_id": "gerry_fisher",
-    "entity": "Gerry Fisher",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "gerry_fisher",
-        "name": "Gerry Fisher",
-        "kind": "person",
-        "roles": [
-          "director of photography"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director of photography"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 06 Jan 2015 08:00:00 GMT",
-    "captured": "2026-09-28T21:15:29Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQVBicV9zMVVlcTZHVVZPX3hpeWllQXNldVdsMUoyUktGY1lXMXNVM2xpdkVwa2p2TW55MjlLVjBRb0NfMENSUG9lNXdxYUZzcThLak9OSGNFMUo2QjRUSDJFTTZmNE52bl82SU9McHluOEFteTdXVmdFTHZkNTc4bnB2VEhVdw?oc=5",
-    "source": "The Telegraph",
-    "title": "Gerry Fisher - obituary - The Telegraph",
-    "summary": "Gerry Fisher - obituary The Telegraph",
-    "evidence": [
-      "matched entity: Gerry Fisher",
-      "event: death (obituary)",
-      "source age: 4283.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "4c968160d08350859527",
     "entity_id": "harvey_weinstein",
     "entity": "Harvey Weinstein",
@@ -52843,6 +52568,259 @@
       "source age: 250.1 days"
     ],
     "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "62dee7406876cb48d61a",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 16 May 2026 10:31:36 GMT",
+    "captured": "2026-10-05T21:35:54Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zQUxNNFF6Y0RhemVmRHIyLTlQOTgwWTNidk9DcUJ2RTFRdHU3Z2RCV1NsaWN1YXY2bV9NOEgzS3lvNTRybXZ4SW5ocnlMMnhZUWhoLUprUGV0LUp4cHlKTQ?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill Chats with Fans on ‘Highlander’ Set in Poland - IMDb",
+    "summary": "Henry Cavill Chats with Fans on ‘Highlander’ Set in Poland IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 142.5 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "98d6d3d83502f8d82e48",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 20 Aug 2026 17:05:23 GMT",
+    "captured": "2026-10-05T21:35:54Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zUkhrUklFMklFYXN0TGM0UDZNUmlwVGs5VWZMendJOFltMWswYUJ6ZUwzOFRQakJ6UU41NnFEMGJfWldXWF9tX2JjRnBONlZxUVNSV2ZnWkVSY3BRb2p6ZzRkZXZJa3BnS2c?oc=5",
+    "source": "IMDb",
+    "title": "Highlander Reboot Still In Development With Twilight Screenwriter Working On Script - IMDb",
+    "summary": "Highlander Reboot Still In Development With Twilight Screenwriter Working On Script IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 46.2 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5e706eaca8c1cb11c587",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 24 Apr 2026 09:32:12 GMT",
+    "captured": "2026-10-05T21:35:54Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Vdnl1NGk5YmRWY0tZWHo2d2Z0WUhreUNWRDd2Q2xUR0szUkxES0hBYTVoVl9jTWYtWHhxVFBNRF9jNnVGT1hKbXZsX3l2bElNN2lWNWhEd2M4bF9wNVFUS2NtVkx1UVdIaE9hMWRYZw?oc=5",
+    "source": "IMDb",
+    "title": "Highlander (1992) - IMDb",
+    "summary": "Highlander (1992) IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 164.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "b2675252e066f94d4c6e",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 04 Jun 2026 03:59:00 GMT",
+    "captured": "2026-10-05T21:35:54Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxU3lXckgxNlBlSFRJNmxWZzVtbVRZMkpZRTIxWVZQMldiVHJxTDV6OXRVY3lmUTRqaFBUYURKVU1hTDFra3dyY3oxTmtoU2lDeUgydTFxUEtIbHVwNGhTRlJ3aHZ5UDhtQU0tQXlFTk5NWlNq?oc=5",
+    "source": "csfd.cz",
+    "title": "Highlander II: The Quickening (1991) | Gallery - Photos - csfd.cz",
+    "summary": "Highlander II: The Quickening (1991) | Gallery - Photos csfd.cz",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Quickening",
+      "source age: 123.7 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "669cfbb2eef9e9a9ea6c",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 08 Jun 2016 07:00:00 GMT",
+    "captured": "2026-10-05T21:35:54Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZE1Qb3V4LU9HZWpTYXBqWXVndm95MFo3ckRCbnZrVkFoUURCWXdiRWtDS0JEYmlDUFZ3V2EwdVYwdVFDa29rM0VPZE4xM1hGZklzbEF5OGdNbWJscHlad0s3emdJMHlwWTAzRExsUUtVLVR1c2xSejQtcXhmR0ZjRm5fV3ZMOHVzTkl4Y09YYVBBWUJCYjRqalVjRUkzMThr0gGmAUFVX3lxTE5USzlkRmVJcGRDVS1ucXpvalE1YjZUTnB0UUpKOEZQcDdpbVRVampWS1AxWUMwUmFhdVlZWnVSZDROeDBtV2t0akhsNlp1WmlqQ2ZFQVJjNWhENThBam5TYjZVZDJRVlFUVVlsa2p3WUUyOTBTbkVCLTZVZEFyMlFTbUdXaGJBYVczLXVNRGR6bU1WOTNTLU12TjJVT1NQNjh2ck1LelE?oc=5",
+    "source": "ScreenAnarchy",
+    "title": "HIGHLANDER Returns To The Big Screen In A New 4K Restoration! - ScreenAnarchy",
+    "summary": "HIGHLANDER Returns To The Big Screen In A New 4K Restoration! ScreenAnarchy",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 3771.6 days"
+    ],
+    "score": 70,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

@@ -1,109 +1,5 @@
 [
   {
-    "id": "c5e5be6fd1e83f4cff64",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 68,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "health",
-    "source_date": "Mon, 28 Sep 2026 17:31:07 GMT",
-    "captured": "2026-09-28T21:15:29Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTjc3WW11ajJ1NGYybTFWbFVGRDVwQVJWYWM0QzA3anlOZXEyUmRaWHFNcE4xR2puMFBMZFhOcW1SZ1Q3YkNoTE8tUXVFLXhBNDE5dkpPX3d0Q2ZCa1I3YWI1SFlSSkV3VHdRSVg0UmNvOGd1RDB0Zk9rcGlSRzNnNzV5Qnl6WnFHQXZteXZSaDRkN19JbVl0VTZEc1RnTnA2YTV4d0g5d1ZoNjZWVDlNWGNTakNXUQ?oc=5",
-    "source": "Blazer's Edge",
-    "title": "Warriors Lose Kristaps Porzingis to Health Concerns - Blazer's Edge",
-    "summary": "Warriors Lose Kristaps Porzingis to Health Concerns Blazer's Edge",
-    "evidence": [
-      "matched entity: Edge",
-      "event: health (health)",
-      "source age: 0.2 days"
-    ],
-    "score": 68,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "30fef5d567c84740b619",
-    "entity_id": "elizabeth_baxter",
-    "entity": "Elizabeth Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "elizabeth_baxter",
-        "name": "Elizabeth Baxter",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Bless the Child",
-          "Eye For An Eye",
-          "Legacy",
-          "Reasonable Doubt",
-          "Reunion",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Bless the Child",
-      "Eye For An Eye",
-      "Legacy",
-      "Reasonable Doubt",
-      "Reunion",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 14 Aug 2026 07:00:00 GMT",
-    "captured": "2026-09-28T21:15:29Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV184ZDVIci1Mc0tXSG0xa3ZFLXFnZEo1Rk1PQURBSW5pSUFUcUw2X2ZJUmQtcFR3cEgtdlNtc0R5Q0pTZTFfREk2TnVEcThVckp4TjlhSS1CY21nZDNkR3h0R1UwSzZ5U2JLV21waWpHa1BmMWlNeVk1Rk5kNF9FVDZEeDJnQXhnSmlELTZJdjFuY0syQWNnWVJZYks3WkdKeGI4VTgxYkE2UTlFMF9sWWdjTnJ6RVQ2Y0hlYWd3?oc=5",
-    "source": "Altogether Funeral",
-    "title": "Mary Elizabeth Baxter Obituary Aug 14, 2026 - Altogether Funeral",
-    "summary": "Mary Elizabeth Baxter Obituary Aug 14, 2026 Altogether Funeral",
-    "evidence": [
-      "matched entity: Elizabeth Baxter",
-      "event: death (obituary)",
-      "source age: 45.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "4b9e6e22c8583b66ab2f",
     "entity_id": "elizabeth_baxter",
     "entity": "Elizabeth Baxter",
@@ -52811,5 +52707,144 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "6983fbc8f9c191bbb2d1",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 100,
+        "event_type": "health"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-10-05T09:33:29Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHlZOVdPQ3AxUDVFYl9VUUxqS1JsZzA0dkR4SWZiZ0l0dTVZWElSWTFXUEdFTmlsYUp2VFZ5SHBTQWJrS0dLSHRqMnZOV09ObzNMUkc1akViQXdKVkJkTENnYXU4Rks4LWRKVkhLcklPWFRIeF9XblBhQnROSlozdzgxc1EwZ3FoT0tocEJMOVl2TlU5TDQxbGtWSW5DVFFfQVlDTWFtNmo3XzI5TE04T3pnNzNoRTJhZ3c?oc=5",
+    "source": "Metro.co.uk",
+    "title": "Highlander star Christopher Lambert, 69, hospitalised after collapsing at fan convention - Metro.co.uk",
+    "summary": "Highlander star Christopher Lambert, 69, hospitalised after collapsing at fan convention Metro.co.uk",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander, convention",
+      "event: health (hospital)",
+      "also matched: Highlander (100)",
+      "source age: 57.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5df5ce209cf93c221d2a",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 28 Jan 2026 08:00:00 GMT",
+    "captured": "2026-10-05T09:33:29Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd21UcGZmeDNhRVJ4ajVublp3ZmRxWnhPM1NKN0hQWEdtZENVaFExdUdfOEtfVUE3T3dFU0xsQmxpM2pqLVM4dVpuYlJ3eFpqSVlMWkxiUnJwNDhuWXh0UEo5S3hjVUNFSW4tU1VNb1Z4aXdtN2YxUmhRLXhHaHZfcXoyNVJFSDhIZVA3T0szdF9lTXhTUjZYdnk3RWZ4a2NZZDZ1cktVT3plV2Ri0gGyAUFVX3lxTFBJMDdyQnZoa3hmM0ZaY2gwOTBNQUV3TWZiNzJ5QVFwcmcyWnRJZFB0b3RPbnpldk9VOVhMbHZ4cTFWQ2NhcWFNRjRQWFh3MkFkTHJOcjlSbm1rOXlhSndfYk9SRUdyTzlaM2xYSUw4RTlnSG1pb0ZCbVFndWRHS09LSzRlZHN1cVdlMmhzZzY3WWNPLWJYNUlOZ0dVYmV0YUl1WDFCN1hnRnpHeFBjR0RqbXc?oc=5",
+    "source": "SuperHeroHype",
+    "title": "Highlander: Henry Cavill Action Movie Gets Epic First Look Images - SuperHeroHype",
+    "summary": "Highlander: Henry Cavill Action Movie Gets Epic First Look Images SuperHeroHype",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 250.1 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

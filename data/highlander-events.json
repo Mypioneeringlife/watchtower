@@ -1,52 +1,5 @@
 [
   {
-    "id": "0a5725dc73b1282ee31a",
-    "entity_id": "michael_jayston",
-    "entity": "Michael Jayston",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "michael_jayston",
-        "name": "Michael Jayston",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander III: The Sorcerer"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander III: The Sorcerer"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 05 Feb 2024 08:00:00 GMT",
-    "captured": "2026-09-28T21:15:29Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNGtFOXctVkNkXzMwZ0ZSRXAzTW8ycG1wQmF0M3c3cWxSUjA4NWdLSlJ3SHFERE9uRGlLS3pucGNFV2pTcFQwU3d1bXhUai1hQlhpdkRZOEplQUUwWFVNU2dVdDVuQkUzdm0wMG5IQlBpUWRfeElrZU4yZkk0QWtZQjRUYWNzaUNlYTRVZTExWE5LaUFDMFg2RlpOZnR3V1BOd0p30gGoAUFVX3lxTE9SX2ZFNzZBcWFYU2hLak1mVlVMWUpCdkpJc0s1MjZ6bDVadnc3alBDWVpSOVpBUUFtZUI0dk16YUpmXzRDeWhKamwzRDZNU2VPdGVjMTFWMU5LRmtKQjRKcE9FU1RVbWcta1NRUGIxTlkwSXozOU45X1o0OFNjT1NiNDUzdHBHTmE5OGJyX3Jlc1pBVVVERlZxcEZUd3pNTkJwdDk4eEVQQg?oc=5",
-    "source": "Metro.co.uk",
-    "title": "Only Fools And Horses star Michael Jayston dies aged 88 - Metro.co.uk",
-    "summary": "Only Fools And Horses star Michael Jayston dies aged 88 Metro.co.uk",
-    "evidence": [
-      "matched entity: Michael Jayston",
-      "event: death (dies)",
-      "source age: 966.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "9bcf5f854dd526aac108",
     "entity_id": "michael_jayston",
     "entity": "Michael Jayston",
@@ -52912,6 +52865,69 @@
       "source age: 185.6 days"
     ],
     "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "41e68c293f58b37593bb",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 15 May 2026 00:53:58 GMT",
+    "captured": "2026-10-06T09:19:06Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnZTBzVUwweHI1VFFQSVZQWUg4NDBGVmlSdjNKSE5tb2taTk1LaVQ0clFKZF8xRGdENUFndW13OC1oeHFFS0xDZlpMUEdVaXNUTWc?oc=5",
+    "source": "IMDb",
+    "title": "Russell Crowe Officially Reveals His Stunning Transformation for Henry Cavill's 'Highlander' Reboot - IMDb",
+    "summary": "Russell Crowe Officially Reveals His Stunning Transformation for Henry Cavill's 'Highlander' Reboot IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 144.4 days"
+    ],
+    "score": 100,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

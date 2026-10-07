@@ -1,52 +1,5 @@
 [
   {
-    "id": "a334b43ad324db1f0d9d",
-    "entity_id": "paul_johansson",
-    "entity": "Paul Johansson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "paul_johansson",
-        "name": "Paul Johansson",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Raven"
-        ],
-        "score": 54,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Raven"
-    ],
-    "event_type": "interview",
-    "source_date": "Sat, 01 Jul 2023 07:00:00 GMT",
-    "captured": "2026-09-29T20:00:21Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjFuRDB4dGRNYXdzX25QQU9YM0NMZU01UWpaZVhDNFNTZUlMZjBLTklrb1ZPSnpZdmliZlBreGtubWdzdUZzYWxWU0ZEYl9PSlBiN0RRQjZ3a0ljazU2OEFDZ19vdXdMWnpYODhvdWxvbVBaVGlua3pHa3lxa0pMSXZ3?oc=5",
-    "source": "PopHorror",
-    "title": "Interview With Paul Johansson, Star Of ‘God Is A Bullet’ - PopHorror",
-    "summary": "Interview With Paul Johansson, Star Of ‘God Is A Bullet’ PopHorror",
-    "evidence": [
-      "matched entity: Paul Johansson",
-      "event: interview (interview)",
-      "source age: 1186.5 days"
-    ],
-    "score": 54,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "081b92016aeea3351e33",
     "entity_id": "paul_johansson",
     "entity": "Paul Johansson",
@@ -53604,5 +53557,54 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "fe5254dbbe702d0758b3",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 30 Jul 2021 07:00:00 GMT",
+    "captured": "2026-10-07T20:06:31Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbjZHdjZ6WXRuSkp1ZmdKNGhSR0NSWjM1R1lOelRhalU2NTVaUGpIbnBvdXlCOFd0YklhdUdKYkF3QlZSaFoxRnp3VWE3ZUI0eW9SSVU4YjhFUzAwMVZ4cEJZQW5SYTdFVk0tMXhiaFpTcWVac0ZNR3VBSXgwQ2ZMckhnSEdMQjFEOXfSAY8BQVVfeXFMTnFQWUlCZ01Da2NCUkxzY3JDci1CMURVbVRSQlNrSUpFNXEwazFRYmNzX3ZmVlEzRjBLYW1BOFBnMWVXNnlEUzBNM3FUV2d5TlFpS0hzSG1sOVFpaFVpVmRTLWQzcmN6NXhWby1ST1M0OU8xUm1NVUJlUlBxY2NGWW1VaXVFb05QSm9UQzhybzA?oc=5",
+    "source": "JoBlo",
+    "title": "Chad Stahelski is hoping not to f**k up his Highlander reboot - JoBlo",
+    "summary": "Chad Stahelski is hoping not to f**k up his Highlander reboot JoBlo",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "source age: 1895.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

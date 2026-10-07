@@ -1,52 +1,5 @@
 [
   {
-    "id": "8ebd2dc3709eb7cfecd7",
-    "entity_id": "patricia_gage",
-    "entity": "Patricia Gage",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "patricia_gage",
-        "name": "Patricia Gage",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Raven"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Raven"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 05 May 2018 07:00:00 GMT",
-    "captured": "2026-09-29T20:00:21Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYi1HYk1zT2NWTHd0VU51RGhocWYwMEUweVJBbi1FcC1NTTl6NDIxbDk2VVlnX2dzNGRCbEVvUTIzZXkzN2lrbzB3Nm0xUzdxZXh2Wm16aEctcW5UemV2WVpFZkQzNlF3RVRyY0E1SEFDLVNkcEM0cHhsb2ZSNW42ZXhSY1VaX1k?oc=5",
-    "source": "legacy.com",
-    "title": "Patricia Gage Obituary (2018) - 75, Belford, NJ - Asbury Park Press - legacy.com",
-    "summary": "Patricia Gage Obituary (2018) - 75, Belford, NJ - Asbury Park Press legacy.com",
-    "evidence": [
-      "matched entity: Patricia Gage",
-      "event: death (obituary)",
-      "source age: 3069.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "a334b43ad324db1f0d9d",
     "entity_id": "paul_johansson",
     "entity": "Paul Johansson",
@@ -53604,5 +53557,52 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "38df8d876445b5b125d5",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 68,
+        "event_type": "appearance"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "appearance",
+    "source_date": "Tue, 06 Oct 2026 20:43:08 GMT",
+    "captured": "2026-10-07T00:01:05Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91bFlpdkpUdlhpYncyTlpnU0VJVDVxQjQwMnBzUXJnajFXQ213WFJWalROUVBITkQtRG40YmVLWlpZQWlLUWsycDcwdURYNFhPemZIaldyWXFmZ3N4UXNZc1lfd2xNM3M?oc=5",
+    "source": "IMDb",
+    "title": "‘Enola Holmes’ Star Henry Cavill’s (43) Googlebook Launch Appearance Has Fans Asking Who Called Him Too Old - IMDb",
+    "summary": "‘Enola Holmes’ Star Henry Cavill’s (43) Googlebook Launch Appearance Has Fans Asking Who Called Him Too Old IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: appearance (appearance)",
+      "source age: 0.1 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

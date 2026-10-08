@@ -1,194 +1,5 @@
 [
   {
-    "id": "fd588bf220dbd19bf027",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 08 Apr 2026 07:00:00 GMT",
-    "captured": "2026-09-29T20:00:21Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BVkowLXQtTWtEc0pGcGFwZnZRaHNXc051NGx0bFBVZmxYLW5RbEw1M3FZWGRtQ1Z2R01wdFQyUDZER1BBemRlQ1RPMmdSbC1td1k3b0NlS0taTFZRLWp5cGN2LWFLVkhPbGk2eQ?oc=5",
-    "source": "Melson's Funeral Services",
-    "title": "Richard Martin Allen Obituary Apr 8, 2026 - Melson's Funeral Services",
-    "summary": "Richard Martin Allen Obituary Apr 8, 2026 Melson's Funeral Services",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 174.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d94d7a44fde3364e9a50",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
-    "captured": "2026-09-29T20:00:21Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM3NQWWN5UjNXak9Kcnl6X2NTUzljcHdVTXVyN3dYRUhmVDlRS2czbW9WWEoxeU5QcklZUlZrQkZpaFNJZkdnZVpmV3d1SGlwaFFIRUJzdmYzZEsyeVY5T1FYYjk3VlNQZWlQeEJwSUVSMjlqTm5xc056aENIM1VKVTNKbFNORkNrLXU0SFQ1UFlETFVj?oc=5",
-    "source": "legacy.com",
-    "title": "Richard Martin Obituary (1930 - 2026) - Savoy, IL - The News-Gazette - legacy.com",
-    "summary": "Richard Martin Obituary (1930 - 2026) - Savoy, IL - The News-Gazette legacy.com",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 51.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "9a9e5938899d84737afa",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 21 Aug 2026 07:00:00 GMT",
-    "captured": "2026-09-29T20:00:21Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfZXgwZ3FTLWtsc2FGRENXY1A0alBHUF9iVGhTRTNacWJyejR5OXl2OHl0NTByc3BSZUNYUUNTRzJPSlVYV2tyQV9SNkRRcDRPNEFVSUx3bFdxY1hnd084ZHhqdDVLQnQxcGttRXdvbzJ0STY5eXNLWXJ6WEJQQQ?oc=5",
-    "source": "legacy.com",
-    "title": "Roy Richard Martin II Obituary (2026) - Latonia, KY - Connley Brothers Funeral Home - Covington (Latonia) - legacy.com",
-    "summary": "Roy Richard Martin II Obituary (2026) - Latonia, KY - Connley Brothers Funeral Home - Covington (Latonia) legacy.com",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 39.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "9a159efc36c43c5d3011",
     "entity_id": "richard_martin",
     "entity": "Richard Martin",
@@ -53533,5 +53344,189 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "84c0558902108aa7b51a",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 31 Jan 2026 08:00:00 GMT",
+    "captured": "2026-10-08T09:23:48Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fMHMxSVRiNUJEVzJtSXcyLU9Yd1FLMXkwYjVkOVdEZ29NUlptU0IzM3J5VGZwa1c0ZWJRWHhpWER0MWtSU3JmSzVtSWFtSHhjb3duTThCMUJyRkQxcFRJWlhfVW9udGlYRThN?oc=5",
+    "source": "Tbreak UAE",
+    "title": "Henry Cavill shares first look at his sword-wielding Highlander character - Tbreak UAE",
+    "summary": "Henry Cavill shares first look at his sword-wielding Highlander character Tbreak UAE",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 250.1 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "688426fd8009b2f05c08",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 76,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-10-08T09:23:48Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaGxXSW1LOEtOeGpiZTRFWE45X3dVVzJOQ2l5Z0JjQmQ4SU5XbUNhN21jdHJUb1ZGSzh3SkxMbGdNYzBaeEd3eElaSEZOZ2YzUjNROWdJNWhsUU85dFdCRFpNT1NocWZFUzlHbWU3aXlZTjdVUUR0OHRjZG1qaENXaGJhUUJJV0txeTBsWFNoWkhobVktVTl5bnNtOUloZw?oc=5",
+    "source": "The Daily Beast",
+    "title": "1980s Star Christopher Lambert Suffers Medical Emergency at Fan Event - The Daily Beast",
+    "summary": "1980s Star Christopher Lambert Suffers Medical Emergency at Fan Event The Daily Beast",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: health (medical)",
+      "source age: 60.1 days"
+    ],
+    "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "32ee691054411b346811",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "appearance"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "appearance",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-10-08T09:23:48Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ1UwLVBaSngwck9XdEpJSllJLXRmU0dDZFN0U1J5SDNybVdGWmZLSkQwSmR2UUM3Q2xRanBVNFpNX3NjVFZXTkt4ZDByZE8xSERCanlxZU1qSGZSQWlkZENUNHU5dS1USGlkV1RUdnZYTjNTeHluQ3hRX3JTMTNaNS1FRm9aTWM?oc=5",
+    "source": "Yahoo News UK",
+    "title": "Christopher Lambert Collapses at Comic Con Due to Low Blood Sugar, Now Recovering - Yahoo News UK",
+    "summary": "Christopher Lambert Collapses at Comic Con Due to Low Blood Sugar, Now Recovering Yahoo News UK",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: appearance (comic con)",
+      "source age: 60.1 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

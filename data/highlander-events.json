@@ -1,103 +1,5 @@
 [
   {
-    "id": "a200ac3d9737cf60bfcf",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 16 Jul 2023 07:00:00 GMT",
-    "captured": "2026-09-29T20:00:21Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa0ZmUTJKa1U1MlFXeFVwTFZSSkJFVjFpTXpBNkNEX0l0ZktnV3NiOE1WZFBPandUaGVOUFFqcm1leVNPOFpMY1B0VjlKZHUtX0RZUW1wZzAtX1NqcWVfU1dNRTRVaFdBeEU5T2FMSjhnMVNlc0ZGenFic0NEUHlfWFM3TW5HZUhPVEdCTDlrQ3A2TzA?oc=5",
-    "source": "legacy.com",
-    "title": "Robin Davis Obituary (2023) - Washington, DC - The Washington Post - legacy.com",
-    "summary": "Robin Davis Obituary (2023) - Washington, DC - The Washington Post legacy.com",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 1171.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4fd2fa403eb7c2d2732b",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 27 Jan 2023 16:04:19 GMT",
-    "captured": "2026-09-29T20:00:21Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOck9KbDhmUjJUbXFrUUZ5cHRaekhWSGpwVU52OFdpNndwUkZkYzllMjRYRGhRaERPSEpYNzF5emdxTUpLaWQyRzRyRVJEdUZta0FOS19qV0g0bkgxV1JQZ3dHTVpNOExqQldVa0h6TVRxb20yQkpuUWdQMGNMNHk4eHdzdG1NVDR1c0tVczUyX1V2WDB1SUhwcGFnbw?oc=5",
-    "source": "legacy.com",
-    "title": "Robin Davis Obituary (2020) - Pensacola, FL - the Pensacola News Journal - legacy.com",
-    "summary": "Robin Davis Obituary (2020) - Pensacola, FL - the Pensacola News Journal legacy.com",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 1341.2 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "234ff4d0eaa0df93bea5",
     "entity_id": "robin_davis",
     "entity": "Robin Davis",
@@ -53264,6 +53166,102 @@
       "source age: 176.1 days"
     ],
     "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "3a8aa7f1396ec91631d7",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 18 Sep 2026 07:00:00 GMT",
+    "captured": "2026-10-09T19:40:03Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxVERjMnZWN2c5S2ozWmQ3dUFIckdPYXZTVXA4OFBRLWFVaFNPamFuLXJMM2IzNWFfWXZ6MUJtdmFpUVNFYmJET2QzbWQ4Skl5TUtLSEZSNzNMdEkt?oc=5",
+    "source": "YouTube",
+    "title": "How Highlander: The Source DESTROYED the Franchise - YouTube",
+    "summary": "How Highlander: The Source DESTROYED the Franchise YouTube",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 21.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "96f686188607606072f2",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 23 Feb 2022 08:00:00 GMT",
+    "captured": "2026-10-09T19:40:03Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wTjJvcEhHLW9GQnNIbmRadTI2Yl9wNkpIVElPQzJZbF9xckZnVEJSY2RRNS1qX0pCVmlpWDdmTkxCMHR4Z0ZnWEJZdTEyeDUweC1wRGZYVXlibkVITHpOUzZsOHIxQXJ3N0MzS285Qm1qMVZJX0E?oc=5",
+    "source": "SciFiPulse.Net",
+    "title": "Will the Highlander Reboot be a Success? - SciFiPulse.Net",
+    "summary": "Will the Highlander Reboot be a Success? SciFiPulse.Net",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 1689.5 days"
+    ],
+    "score": 100,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

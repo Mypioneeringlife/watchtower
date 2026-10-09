@@ -1,152 +1,5 @@
 [
   {
-    "id": "1fb65df33b37df86832c",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 22 Aug 2026 07:00:00 GMT",
-    "captured": "2026-09-29T20:00:21Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUURYNVJhLVh6R0taazNBNHhLelNYa1poZjltRGlWcVk2TkI5ZHN3SVZNOXd6SFhNRFRvcFJXcWl2QUFKSXh4dktqUzc0OFd5d2xJMmpoN29tZ1ZIcUFEMnQwXzM2dWhWSGc1MXY3d1VfLXZfRjJkUE9kUmlvU09iRURYMExLNUVj?oc=5",
-    "source": "legacy.com",
-    "title": "ROBIN DAVIS Obituary (2026) - Oakdale, CT - The Day - legacy.com",
-    "summary": "ROBIN DAVIS Obituary (2026) - Oakdale, CT - The Day legacy.com",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 38.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "fb02707e92218c2304ea",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 04 Aug 2025 07:00:00 GMT",
-    "captured": "2026-09-29T20:00:21Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uTEo1c1h1VlFOb0tDRGNRSnlPOVdNQmRRT0tXc1ZrSjJSTnhVejF1aUZRLVVfdkFXakw5VXZzNlNERHVsMmxRZmpFY0RuNUttMXVsNmV0MnhTUG5kUDc1RzlIS2dGQm5pbEJlMmpkeHJSYzRpTnVwNnJkbzBZOWM?oc=5",
-    "source": "legacy.com",
-    "title": "Robin Davis Obituary (2025) - Cleveland, GA - Cleveland Funeral Home & Crematory - legacy.com",
-    "summary": "Robin Davis Obituary (2025) - Cleveland, GA - Cleveland Funeral Home & Crematory legacy.com",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 421.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "11932f59610fd92a87f9",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 20 Aug 2024 07:00:00 GMT",
-    "captured": "2026-09-29T20:00:21Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVkVCdXNRZ3FpbHRqS2Fua0hjV1BmQ2E0QlRoc2FzZmY3MHI4VE8ySjJOTUFpS2k0QVo2c04tUDg5cHVsc1lwU2RYSGRqRW14UUZyZzhsZVI2QXAtVG9DUWpPQ2VTWEFDMnh3TnBsOGlmQVJsbjFxMm80ZDNreExOdTRZQXlTdVdT?oc=5",
-    "source": "legacy.com",
-    "title": "ROBIN DAVIS Obituary (2024) - Oakdale, CT - The Day - legacy.com",
-    "summary": "ROBIN DAVIS Obituary (2024) - Oakdale, CT - The Day legacy.com",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 770.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "a200ac3d9737cf60bfcf",
     "entity_id": "robin_davis",
     "entity": "Robin Davis",
@@ -53224,6 +53077,193 @@
       "source age: 1707.6 days"
     ],
     "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d8870331a8beaf1fc5c1",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 82,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 21 Jul 2026 12:17:23 GMT",
+    "captured": "2026-10-09T09:32:03Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLQkxtUDdaN2tuNDh3SFlJMmc0czRZSHhNRmw3clhxQjlCTC00eFJ1Z3dTNXRSV0k3NGJjOUlpVVdNX0xpX0JETGhlU1U5d0U?oc=5",
+    "source": "玩具人 TOY PEOPLE",
+    "title": "\"John Wick\" Director Chad Stahelski Reportedly Tapped for Marvel's \"Blade\" Reboot, Now Set After \"Avengers: Secret Wars\" - 玩具人 TOY PEOPLE",
+    "summary": "\"John Wick\" Director Chad Stahelski Reportedly Tapped for Marvel's \"Blade\" Reboot, Now Set After \"Avengers: Secret Wars\" 玩具人 TOY PEOPLE",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: director, reboot",
+      "event: highlander_production (reboot)",
+      "source age: 79.9 days"
+    ],
+    "score": 82,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "57e693db3c99aa136c57",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 100,
+        "event_type": "health"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-10-09T09:32:03Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNelAxM3FlRDRPTmVIanJ6SU9HN21ZcFB1d050R3J4cDQxR0EyV1NPejlxN2dpZkxScnNQc1JHWk1heUpJMkxEa3FGU2cycHNuMmZ4SUNDMkk0cE1qeGY5V2Z3Y0k0dmNaNTUtc0JIb3VsemhkTks1bmpSaWJ2UldjYWVaTWRFSE85cDkwNEdhN0pXX1ExaWFqUnNpR2dIRXRwN2tUWlVUdUZOV2U3R1dRQ0NYSHBkeTNYeE5KU0I5VV9HZ1djNDBGdDV30gHSAUFVX3lxTE5iT1dHcDRwZWZNYnphSG1Yejcyam9KMWdvZXlrZXhzdExia2Y2VEYySUJxUENMZUp5OWNZLTFZbjhZM0JwenVmMk1mN0pKcmhKeTVuLUxiaExJd1luZFBSUTlJV1pfSGhfUS1fZjRKUEZWTzY3cURvelk3c2xvWXM3ckJqRUNvczJXbjI4eWFCZURsX1VpcU9FdGQzY3V6Z1V1d0Q4LVJrZWVJVElkOFNheVVZVVh5ajd2Ui1Xa0pweE1HRnRudkpYUmlyWXczWjMtZw?oc=5",
+    "source": "NBC Los Angeles",
+    "title": "‘Highlander' star Christopher Lambert leaves Pittsburgh fan convention early after health scare - NBC Los Angeles",
+    "summary": "‘Highlander' star Christopher Lambert leaves Pittsburgh fan convention early after health scare NBC Los Angeles",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander, convention",
+      "event: health (health)",
+      "also matched: Highlander (100)",
+      "source age: 61.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "2c35f77cba5abf181960",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 16 Apr 2026 07:00:00 GMT",
+    "captured": "2026-10-09T09:32:03Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXF1WXRhZVBmQllsakp6QUNCbVY1REFiVnUyWkk1b1ZpUEsxSDdrbFRTclZISWw3UXBTYTVXaXdORjJIWmo3UjNOWlV1RE1zM1RnNFJ6V19Ic0VsT3dUR2gxdkVKR3pMc0pjZjdJakxHYnFHSThUQkt3a2JvQk9kamdtbXUwckdwdXJlTjNna2taQ2VBLTN3NA?oc=5",
+    "source": "Variety Australia",
+    "title": "‘Highlander’ Footage Unveils Henry Cavill’s ‘John Wick’-Like Action - Variety Australia",
+    "summary": "‘Highlander’ Footage Unveils Henry Cavill’s ‘John Wick’-Like Action Variety Australia",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 176.1 days"
+    ],
+    "score": 74,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

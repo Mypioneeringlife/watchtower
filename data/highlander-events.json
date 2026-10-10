@@ -1,52 +1,5 @@
 [
   {
-    "id": "74eeb2cd5c1cc85c7983",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 21 Aug 2026 07:00:00 GMT",
-    "captured": "2026-09-29T20:00:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHY2lvX0lDS0MxZWNLOTRpZmo1Ykg2ZE1DZHFBeWw1RjhPM1FLSmE3ai1GenpXUW5LYW44YWpCbTZBcGVOWG1PSjVhMHpPNTliczh6VjZUWUVJS3NWMmhaM3FOTWRoNjBjSVdlQjdhcmFhUTVuUnJ4M2FOLS0?oc=5",
-    "source": "legacy.com",
-    "title": "Terry Nelson Lee Obituary (2026) - Elmhurst, IL - Ahlgrim Funeral Home - Elmhurst - legacy.com",
-    "summary": "Terry Nelson Lee Obituary (2026) - Elmhurst, IL - Ahlgrim Funeral Home - Elmhurst legacy.com",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 39.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "43282489ea1d3fc2a74a",
     "entity_id": "terry_nelson",
     "entity": "Terry Nelson",
@@ -53374,6 +53327,109 @@
       "context: Highlander",
       "also matched: Highlander (70)",
       "source age: 5042.7 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f32f705d02057ea6ba64",
+    "entity_id": "adrian_paul",
+    "entity": "Adrian Paul",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "adrian_paul",
+        "name": "Adrian Paul",
+        "kind": "person",
+        "roles": [
+          "Duncan MacLeod",
+          "actor",
+          "cast member",
+          "director",
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame",
+          "Highlander: The Series",
+          "Highlander: The Source",
+          "Homeland",
+          "Methuselah's Gift",
+          "Revelation 6:8",
+          "The Modern Prometheus"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "Duncan MacLeod",
+      "actor",
+      "cast member",
+      "director",
+      "producer"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame",
+      "Highlander: The Series",
+      "Highlander: The Source",
+      "Homeland",
+      "Methuselah's Gift",
+      "Revelation 6:8",
+      "The Modern Prometheus"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 12 Apr 2020 07:00:00 GMT",
+    "captured": "2026-10-10T08:53:01Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwUnBhZGs5RFZEYUIxRVpORnNUc0c2cEcyS2ZWb1NybHN4aUxTLUZMVXRRbV8xZHFMU0JVNUtTbEptVDRYN2FLN0lXX191RjFJazd6ZkdsdFJDV1g0?oc=5",
+    "source": "YouTube",
+    "title": "Highlander: Endgame (2000) Trailer | Christopher Lambert | Adrian Paul - YouTube",
+    "summary": "Highlander: Endgame (2000) Trailer | Christopher Lambert | Adrian Paul YouTube",
+    "evidence": [
+      "matched entity: Adrian Paul",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Christopher Lambert (74)",
+      "also matched: Highlander (70)",
+      "source age: 2372.1 days"
     ],
     "score": 74,
     "route": "Corrupted Chronicle research",

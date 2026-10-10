@@ -1,52 +1,5 @@
 [
   {
-    "id": "b56287603ae0ffa600ad",
-    "entity_id": "stewart_copeland",
-    "entity": "Stewart Copeland",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "stewart_copeland",
-        "name": "Stewart Copeland",
-        "kind": "person",
-        "roles": [
-          "composer"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "composer"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 21 Aug 2026 09:13:28 GMT",
-    "captured": "2026-09-29T20:00:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNnZRNDJzemRSRU9udmR4b2JrYTBLWlI0Vkc0SXBnaExsSHczWWJGYTZMOFM3a0thaF9mXy1YS0hyaGNCYUFwMWt0SVNidFVBOFE3b082TV9sZEl3ZVdJbmZNOEczelNtZ2FYUDJKTi1pcmF4bHZZaVdTZm5EQjBRN2NjZU5IV3FDZlF1RkQtZ1NiWWptZFdiVnVBSzc4MW1YZzlIdGNSTEEzMkU2S1ZXU3VDaDJyMTJyclpmZlN1Nzhua0tHUkFPTXdobXVLRTF1QVBmc1hwcWxiUmdkNjZlVW9ldkpHSkYwVnRxNFRhV05QVWVoY09YNDRzR1I3YnBjUVE?oc=5",
-    "source": "ultimate-guitar.com",
-    "title": "Stewart Copeland Has Become a Metalhead: 'Chops Are All in Death Metal, Sound of Extremely Angry Young Men Cheers Me Up' - ultimate-guitar.com",
-    "summary": "Stewart Copeland Has Become a Metalhead: 'Chops Are All in Death Metal, Sound of Extremely Angry Young Men Cheers Me Up' ultimate-guitar.com",
-    "evidence": [
-      "matched entity: Stewart Copeland",
-      "event: death (death)",
-      "source age: 39.4 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "74eeb2cd5c1cc85c7983",
     "entity_id": "terry_nelson",
     "entity": "Terry Nelson",
@@ -53341,6 +53294,88 @@
       "source age: 2248.5 days"
     ],
     "score": 52,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "7d21d21fcf491cf28d22",
+    "entity_id": "adrian_paul",
+    "entity": "Adrian Paul",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "adrian_paul",
+        "name": "Adrian Paul",
+        "kind": "person",
+        "roles": [
+          "Duncan MacLeod",
+          "actor",
+          "cast member",
+          "director",
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame",
+          "Highlander: The Series",
+          "Highlander: The Source",
+          "Homeland",
+          "Methuselah's Gift",
+          "Revelation 6:8",
+          "The Modern Prometheus"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "Duncan MacLeod",
+      "actor",
+      "cast member",
+      "director",
+      "producer"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame",
+      "Highlander: The Series",
+      "Highlander: The Source",
+      "Homeland",
+      "Methuselah's Gift",
+      "Revelation 6:8",
+      "The Modern Prometheus"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 19 Dec 2012 08:00:00 GMT",
+    "captured": "2026-10-10T00:17:00Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaTdOZlZ5WGxqNDRzOHVNVV9nU3J1RWxyNkpQQ1hZQmYya0pSZFBod0stWXJVNU9nX3Z6Qml3aG9qTEJUZFBELWdTUDBRdUpUSmZLZThuUTFaa2d2RkprVmpUeEJxMU54SlNvaUVocU9sQkVqanRvOU5SWmoxTE54S0JqYXpCM3JneS05NVUtOF9RQUd0anBz?oc=5",
+    "source": "Look To The Stars",
+    "title": "Highlander's Adrian Paul Launches Charity Radio Show - Look To The Stars",
+    "summary": "Highlander's Adrian Paul Launches Charity Radio Show Look To The Stars",
+    "evidence": [
+      "matched entity: Adrian Paul",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 5042.7 days"
+    ],
+    "score": 74,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

@@ -1,52 +1,5 @@
 [
   {
-    "id": "4ca162c603a2b69749e3",
-    "entity_id": "christopher_malcolm",
-    "entity": "Christopher Malcolm",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_malcolm",
-        "name": "Christopher Malcolm",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 17 Feb 2014 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:33Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1VjQ3YWJnZzZsLWJUcFlHa3JNd0luYjdKWHlkc3dkTnozbi1qY1NZaDZSWVRBcE1hYWdacThNSDJ4ZldwQVVhd2JuZDFPS2pWM2hiUFVyYUZMeS1nYkxucWFmOUFwQjJBRlJpR0V4TldOYnM?oc=5",
-    "source": "theguardian.com",
-    "title": "Christopher Malcolm obituary - theguardian.com",
-    "summary": "Christopher Malcolm obituary theguardian.com",
-    "evidence": [
-      "matched entity: Christopher Malcolm",
-      "event: death (obituary)",
-      "source age: 4608.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "f60b3a9d5793456a9150",
     "entity_id": "christopher_malcolm",
     "entity": "Christopher Malcolm",
@@ -53403,6 +53356,53 @@
       "source age: 1809.5 days"
     ],
     "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d7dd26bda4ed7bcc9fcd",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 30 Oct 2025 07:00:00 GMT",
+    "captured": "2026-10-11T23:53:24Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zX2d4aFdsZ2s1bDU3R0cxeG92aDlBVzd0VkJpZURIX0NZVzhBaFNoN09td0pVeG1kMDdFMUZQS3Z2Q3NZR0h6MHdLSTRnVUkyTEhFQlpXRXEwZVc2SEpEOUtRVkFWMzFhYXgxNWFwOHFGZnUyemxoMw?oc=5",
+    "source": "MiscelAna",
+    "title": "Highlander: 40 Years of Defying Time - MiscelAna",
+    "summary": "Highlander: 40 Years of Defying Time MiscelAna",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 346.7 days"
+    ],
+    "score": 70,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

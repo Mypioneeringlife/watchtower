@@ -1,99 +1,5 @@
 [
   {
-    "id": "8e8dd37dc3b5f97d6d95",
-    "entity_id": "bruce_payne",
-    "entity": "Bruce Payne",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "bruce_payne",
-        "name": "Bruce Payne",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 07 May 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:33Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1VjenBoYTlVQk1WZjV6TFZ6NGJNZzhSZTNldTA5Sl94S1doWWptU0ZfU015Vll4TUh4eDMtTm9oVEtNZUdHS3lINWVpOGx0NV9nTWxmekRJZEc1UGFCTEw4Wm9sb0VaaXZNT0lWMTJ4SHpBMDhENDFlc3VCeEpDVThR?oc=5",
-    "source": "Legacy",
-    "title": "Anthony Bruce Payne Obituary (2026) - Leesburg, FL - Page-Theus Funeral Home & Cremation Services - Legacy",
-    "summary": "Anthony Bruce Payne Obituary (2026) - Leesburg, FL - Page-Theus Funeral Home & Cremation Services Legacy",
-    "evidence": [
-      "matched entity: Bruce Payne",
-      "event: death (obituary)",
-      "source age: 146.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "47e31f3dc9e61f3799c2",
-    "entity_id": "bruce_payne",
-    "entity": "Bruce Payne",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "bruce_payne",
-        "name": "Bruce Payne",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 21 Aug 2022 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:33Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR0dPOWtOS3NLM0FRT1lDZk9tT0ZZckoxdVlERDZfLUpkXzFwNl9xMmVFQUNkZXJIZDNWeDJrUDVSSVlaNV9kVWlnLW1MdEZSR0NJS29XdlRTek5HTFpaRDJUY1hacVVHNldfaVFkOE8tN203ekUzY3N1X0lUa3dLUVdnWjFDTEZremkxV3JLaGxPeEtJ?oc=5",
-    "source": "Legacy",
-    "title": "Bruce Payne Obituary (1969 - 2022) - Inverness, FL - Citrus County Chronicle - Legacy",
-    "summary": "Bruce Payne Obituary (1969 - 2022) - Inverness, FL - Citrus County Chronicle Legacy",
-    "evidence": [
-      "matched entity: Bruce Payne",
-      "event: death (obituary)",
-      "source age: 1501.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "bd2efdd50fb6d386d1f0",
     "entity_id": "bruce_payne",
     "entity": "Bruce Payne",
@@ -53421,6 +53327,116 @@
       "matched entity: Highlander",
       "explicit Highlander reference",
       "source age: 601.1 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "446f44695e0e7d937bd3",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sun, 02 Jun 2024 07:00:00 GMT",
+    "captured": "2026-10-11T19:08:12Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONTN1Mnpub2kzNi05bVBEaVNTTVNER3NmZ3QtTEZfV0l2RG1VRlozSWsybG5aTHNDNmdtYV94UVVVTTNkdDA1ZDZtbVdncUxLR1hpQ2FheXhXQWFOWFVXTUFMLTE3Nl9sWHA4aG1HXzY0UHQwWHFtSGh4cHh6X1ZFSkthbVhJeU9pRkhLUw?oc=5",
+    "source": "ScreenRant",
+    "title": "Henry Cavill's Highlander Movie Is Very Likely To Avoid The Mistakes Of His Other Major Reboot - ScreenRant",
+    "summary": "Henry Cavill's Highlander Movie Is Very Likely To Avoid The Mistakes Of His Other Major Reboot ScreenRant",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 861.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "239fa562c7512ae472a4",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 12 Dec 2024 12:20:01 GMT",
+    "captured": "2026-10-11T19:08:12Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1dDhXbHc2enBoejh5dUdQZHpSeTlTbkNqZFNMZ0QtS1V6OHBRMkZYQWt2UDlsUmxXNFoycUxORzdRRi0zT2VkNFZyOFdzSmFmaVE?oc=5",
+    "source": "IMDb",
+    "title": "Highlander (1986) ⭐ 7.0 | Action, Aventure, Fantastique - IMDb",
+    "summary": "Highlander (1986) ⭐ 7.0 | Action, Aventure, Fantastique IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 668.3 days"
     ],
     "score": 70,
     "route": "Corrupted Chronicle research",

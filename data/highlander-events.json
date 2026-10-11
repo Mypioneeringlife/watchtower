@@ -1,153 +1,5 @@
 [
   {
-    "id": "cb15c3d66f2d6430e07c",
-    "entity_id": "brian_clemens",
-    "entity": "Brian Clemens",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "brian_clemens",
-        "name": "Brian Clemens",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening",
-          "See No Evil"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening",
-      "See No Evil"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 12 Jan 2015 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:33Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03cVVRdHNRcTF5VThpc0JLR3FDbGVLSjN3M0ItQUVRMXJDR2hIaTBleUtwSXAyd0lLcTNJMzdCWVRQYVlsQ2VpeVBjUVZPMzlnQzRMSjBiZ2NtUllMcnppRkllSTdlTXI4bkNVS0d0ZDNDQ0NU?oc=5",
-    "source": "theguardian.com",
-    "title": "Brian Clemens obituary - theguardian.com",
-    "summary": "Brian Clemens obituary theguardian.com",
-    "evidence": [
-      "matched entity: Brian Clemens",
-      "event: death (obituary)",
-      "source age: 4279.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "103a607e72e825abe0a4",
-    "entity_id": "brian_clemens",
-    "entity": "Brian Clemens",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "brian_clemens",
-        "name": "Brian Clemens",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening",
-          "See No Evil"
-        ],
-        "score": 76,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening",
-      "See No Evil"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 12 Jan 2015 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:33Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjJXNXppNXM2WFhrUWI0NkRyV2VmLWhlSU9GaHBqdXdGU0lTRmw4U2JUQWZYLXJtTk5pdU1MS2R0UmRGdk9fRGFMRTVsZDhSMU9sdDA1SkxYOHFoUUpvN3pTMm8tUy02OEVEaDFFZ3JtUzAycG5saUZ0UkI2OWJ3YW1qa1djNVJaay1mUWRtT1l0TjJNMGpGcA?oc=5",
-    "source": "theguardian.com",
-    "title": "Avengers screenwriter Brian Clemens dies at 83 - theguardian.com",
-    "summary": "Avengers screenwriter Brian Clemens dies at 83 theguardian.com",
-    "evidence": [
-      "matched entity: Brian Clemens",
-      "context: screenwriter",
-      "event: death (dies)",
-      "source age: 4279.5 days"
-    ],
-    "score": 76,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "9188f948bb4f72f51210",
-    "entity_id": "brian_clemens",
-    "entity": "Brian Clemens",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "brian_clemens",
-        "name": "Brian Clemens",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening",
-          "See No Evil"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening",
-      "See No Evil"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 29 Jan 2015 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:33Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUk5kb0ZMaUtpUFdKNWlTNW9HcjhsOVhUd0V3dlUydmhBekNkY1ZkVl9NYlJ2MmszTHNPX21CbUNPS3JiRW5LZXNhNFdkU0M5MlhtVTY0STJyZFFDNXNZQnVjVzFpUmoyZnJkSUMtYlZSNjNyNGZmeEZqZnJtbno1cQ?oc=5",
-    "source": "theguardian.com",
-    "title": "Letter: Brian Clemens obituary - theguardian.com",
-    "summary": "Letter: Brian Clemens obituary theguardian.com",
-    "evidence": [
-      "matched entity: Brian Clemens",
-      "event: death (obituary)",
-      "source age: 4262.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "8e8dd37dc3b5f97d6d95",
     "entity_id": "bruce_payne",
     "entity": "Bruce Payne",
@@ -53428,6 +53280,149 @@
       "source age: 3424.5 days"
     ],
     "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "646f055d6ac4102118fc",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 10 Oct 2026 21:06:47 GMT",
+    "captured": "2026-10-11T09:14:04Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVGNPb01wUHB3R2JMc3h6bDBrOHRhUlhQQkxPSldjSHhtSGl4bkZvZFp4NThqY09FVE1URTByLVRFZ2c5SXN4WDFCc1hnS1lfMXpUS21OckcyRWtpMjFHaTNBVEdKSnUzUTNfN1RseTd4YmVlcnFwaDNsczRFM3RwaA?oc=5",
+    "source": "Polygon.com",
+    "title": "Henry Cavill's New Sci-fi Streaming Series Sets Carrie Reboot Creator to Direct - Polygon.com",
+    "summary": "Henry Cavill's New Sci-fi Streaming Series Sets Carrie Reboot Creator to Direct Polygon.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 0.5 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "2138fc27e6bee33bc997",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sun, 11 Oct 2026 06:07:39 GMT",
+    "captured": "2026-10-11T09:14:04Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc3VYQkxqVjV5VWtRbk1pUjRvQmU3NU9TWWp3Z1R0dm5SZThlZWkxaVJXQ0VPMk00MGJ0c1VlWUlqN1M0WmJKcEpuWkhvZjQyeDVkWXp3N1ZPZWg2OEFuV0VDcTBLaGh1SjQ4bkFUT2g0SGpkNG55VFNUa3RtU25Mc0J1b1c3bGVMRU1qTDZ1cVNrejFjSm9OcGkwM3RHelJWQ2N1Q2p5V3djelZodGc?oc=5",
+    "source": "eGamers.io",
+    "title": "Amazon Hands Henry Cavill’s Warhammer 40,000 Series to Carrie Reboot Director Mike Flanagan - eGamers.io",
+    "summary": "Amazon Hands Henry Cavill’s Warhammer 40,000 Series to Carrie Reboot Director Mike Flanagan eGamers.io",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 0.1 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "b0527c7d9908c2574be6",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 17 Feb 2025 08:00:00 GMT",
+    "captured": "2026-10-11T09:14:04Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaEd3b3pFank5X1N5QTh1S1lqMVJUcXJVZFk5NlBPQ3NCYXRZdkVHZDc1OHFRM203LUVrOVJVWEhZamdLb2lRQlNRZzgzVENDUlRIQ1p4UF9SSDNXUEJpYkh0V0JUWEVNWFVMU25hWkJYNnNNbDJNakNkdWVwdEVxdzhlbG95WDhwLUFjQTM0dkRCc2UyajMxNUtxUDRoaUc2dzZDS2tHbmtJTjd2NmtrR0NpY0lIWlZoYjdBb0JWUVhlR1UwclJGOUpVYkRNc1Q0M1U2N2FSeEFJcXkzNWJaSdIB6AFBVV95cUxPUUtjTjZVenBHVmNVazVOaGpNb0pFOVp6aXJfYXNPLXc1T3ZEU2NGNkM1aVNLbXNSSV82SXZtelJQSVJWcUE2enliZ0ZTc09obGZwYlJUYlZnV1loUExsSXl6VmpRTFlrbUpIai1FR1lIS0V4WUdaWlg3MkV0VDR1bG90bU5tZlc2SVR0VFQxSGdZczdaM0dKN3gyZE5IeTVwY1ljX3RZSnVFTUxBR0FwNGtxRXM2bW9FUmlnTEZXbVBXVUJYWXRLcFphTXBTTHRRQ2h5MC1BTF9HS1VJc1NJODhTRWE4TlZC?oc=5",
+    "source": "Cancelled Sci Fi",
+    "title": "Streaming Sci Fi TV: Highlander The Series Is Streaming for Free on Amazon, The Roku Channel, Plex and More - Cancelled Sci Fi",
+    "summary": "Streaming Sci Fi TV: Highlander The Series Is Streaming for Free on Amazon, The Roku Channel, Plex and More Cancelled Sci Fi",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 601.1 days"
+    ],
+    "score": 70,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

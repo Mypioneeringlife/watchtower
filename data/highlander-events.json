@@ -1,103 +1,5 @@
 [
   {
-    "id": "1bb0d7704e1cf5a61b25",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 27 Mar 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:33Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTZ2hOcXhvMEFhQTdMazJuZHlqbjNmS1FCengwVE4zaHRxZnFFUlMtX3Q3MldlUkQwenBYM3Rmd3FqOUJLRzRmY0xMTjc5M1JnY0I2TVV4OUtXcEtvdEZCOEt6N2JvWEkya0M2eWxSY3NmQktuLXNKWkpDQ09MNU0?oc=5",
-    "source": "Legacy",
-    "title": "James Bruce Allen Obituary (2026) - Salt Lake City, UT - Kramer Family Funeral & Cremation Center - Salt Lake City - Legacy",
-    "summary": "James Bruce Allen Obituary (2026) - Salt Lake City, UT - Kramer Family Funeral & Cremation Center - Salt Lake City Legacy",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 187.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "270732efd4e02e6076bb",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 14 Apr 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:33Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUnJCREI3R3FrVjUzb3JDVUU3SVFqcmg2SnFuOEsxa3ZfVUtaczlCUURQWlhqM1NYRENSNVo3VDl0RXpNSFd0X1BCbkxMT21UZHJ3WjVxSGpWSXpsM1JkaTgtQ3NWdExWMVlQeGp2LUF1amZxaEdzZzAzNlZ6QkRZNG5B?oc=5",
-    "source": "Legacy",
-    "title": "DR. JAMES BRUCE BURNETT Obituary (2026) - Haddonfield, NJ - Hinski-Tomlinson Funeral Home - Legacy",
-    "summary": "DR. JAMES BRUCE BURNETT Obituary (2026) - Haddonfield, NJ - Hinski-Tomlinson Funeral Home Legacy",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 169.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "28bcf32c8f72c3c08821",
     "entity_id": "james_bruce",
     "entity": "James Bruce",
@@ -52916,6 +52818,102 @@
       "source age: 5890.6 days"
     ],
     "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "c473ffa53f265e770e72",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 13 Oct 2026 21:34:32 GMT",
+    "captured": "2026-10-13T23:49:34Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tWE0zWGE1dDhjaW9LOURXUndCdWVFZHl4LWxkZ1FZNlZMcGtYLTRtVjRCR2g4TlAyZG9kb2ItN2dwQWN1UW8zajJUTUJjMXZWRjBPSlE2SGtqVVVuTVBqYjVpVUFVdzA?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill's New Sci-fi Streaming Series Sets Carrie Reboot Creator to Direct - IMDb",
+    "summary": "Henry Cavill's New Sci-fi Streaming Series Sets Carrie Reboot Creator to Direct IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 0.1 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "eeb077ce871b42bc4a56",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 17 Feb 2026 08:00:00 GMT",
+    "captured": "2026-10-13T23:49:34Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcDJIR1h0OHFoUjFtQ3BTZkVSVWVUSU1vb05KQVpGb0JWeG5pNE5hMkFudnk4Ym92UnRuVEgxdk94aF9ibWc2Ym9GTjREaTZRM1NDNEZuSngyVG5GNFFFZ0FyQlBKNjJENW9YTkhPV2t3VE1zZC1LMEZMNlYxRnhFZ1l1ZGx1bkptVHoyVWVTdGg0VldLX3JTQ2E2dWlCbWZQdkE?oc=5",
+    "source": "Entertainment Weekly",
+    "title": "'A Knight of the Seven Kingdoms' star debunks Henry Cavill casting speculation - Entertainment Weekly",
+    "summary": "'A Knight of the Seven Kingdoms' star debunks Henry Cavill casting speculation Entertainment Weekly",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: casting",
+      "event: highlander_production (casting)",
+      "source age: 238.7 days"
+    ],
+    "score": 78,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

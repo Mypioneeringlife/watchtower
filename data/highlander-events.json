@@ -1,103 +1,5 @@
 [
   {
-    "id": "ac9468844c284f29d203",
-    "entity_id": "duane_clark",
-    "entity": "Duane Clark",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "duane_clark",
-        "name": "Duane Clark",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "The Wrath of Kali",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "The Wrath of Kali",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 13 Apr 2025 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:33Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU1Q4V0NvbVZmVUpFcTNDRGF3azkycFFnaTRORDhUQ3R1TkRiSTNIZlFuYS1mMFE4bE1HREZZVVJUVWZWNXo3QzFjT2Z5c21QdEx4aUlCMFk0dTIwVktzR1pwNFhLV19va0NoZWQ3MFJOSlUwQ0VWeThsSnB2ci1NS1BfaU9qVVBJ?oc=5",
-    "source": "Legacy",
-    "title": "Duane Clark Obituary (2025) - Oxford, OH - Dayton Daily News - Legacy",
-    "summary": "Duane Clark Obituary (2025) - Oxford, OH - Dayton Daily News Legacy",
-    "evidence": [
-      "matched entity: Duane Clark",
-      "event: death (obituary)",
-      "source age: 535.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "6357db3850c01f771df6",
-    "entity_id": "duane_clark",
-    "entity": "Duane Clark",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "duane_clark",
-        "name": "Duane Clark",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "The Wrath of Kali",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "The Wrath of Kali",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 05 Apr 2018 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:33Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WNUxvNFkwbHJmMFlrUmZSQm5uMzBHTUZ0NFpVSHk1ZmJveUVaZGNqS19LUDhwb1Y4QnZpeE1vY2FmQnNDTTJCckNWN1Y3VUg5U2RHZ2NNTUl1OUxvQ3JfSnAzWnZta0ds?oc=5",
-    "source": "morrisandhislope.com",
-    "title": "Richard Duane Clark Obituary Apr 5, 2018 - morrisandhislope.com",
-    "summary": "Richard Duane Clark Obituary Apr 5, 2018 morrisandhislope.com",
-    "evidence": [
-      "matched entity: Duane Clark",
-      "event: death (obituary)",
-      "source age: 3100.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "9f3e46b5dbe2c8863f3f",
     "entity_id": "duane_clark",
     "entity": "Duane Clark",
@@ -52951,6 +52853,115 @@
     "score": 96,
     "route": "Corrupted Chronicle research",
     "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "00c2cfebbc272e680dc7",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 07 Mar 2012 08:00:00 GMT",
+    "captured": "2026-10-13T20:19:32Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWlJuVzk3NHktVmROR21SZlFPYml2cnFCYlZGSHVGMVppTE84SWJGdVZwN1J1RDlQc1prb2tSc0ZjVVV2bmxFUmZ0UU9neUtPSXdSdVFQMGJuMFZzekF5aGd5V09QbmU5Y0pZQ0pBdTBDbHV2cE1fZ1ExSk9zQjFreU5jQnBrQ0JWaHdBNFVn?oc=5",
+    "source": "looktothestars.org",
+    "title": "The Highlander Star Launches Charity Auction - looktothestars.org",
+    "summary": "The Highlander Star Launches Charity Auction looktothestars.org",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 5333.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "7a78b6265b8003738a88",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 13 Oct 2026 14:00:11 GMT",
+    "captured": "2026-10-13T20:19:32Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd0VRaVhmSmVvYmJCcmtldnpvZFR5cGFYSGRWWEpYcmstTG9PNDRSa1VTd2djZC1BRDRySy1MeXhFUFd3OTNBNHRvOV80OGFQcS1OQlZyWDNYeThXeWlhWFAxbmN1emlKSS1NNnVyLXF1dFBFc2FIRERMOGFPOFNHNA?oc=5",
+    "source": "Collider",
+    "title": "WWE Star Drew McIntyre Officially Reveals Henry Cavill's Shocking New Skill in 'Highlander' [Exclusive] - Collider",
+    "summary": "WWE Star Drew McIntyre Officially Reveals Henry Cavill's Shocking New Skill in 'Highlander' [Exclusive] Collider",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.3 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
     "status": "new"
   }
 ]

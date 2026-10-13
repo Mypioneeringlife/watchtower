@@ -1,54 +1,5 @@
 [
   {
-    "id": "cf03a11575acf5b56565",
-    "entity_id": "duane_clark",
-    "entity": "Duane Clark",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "duane_clark",
-        "name": "Duane Clark",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "The Wrath of Kali",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "The Wrath of Kali",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 21 Apr 2022 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:33Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mT2JBclFBOGRNWGctVkhCUllBeGtRYndaS2FBMERoRTdtaDRTR1NHVHVKQ3ZyakFNaDNBTWR0ZHBZLUdobTg4YjE1LWpEd3JPSG5qOHlLRHRBVl9mYl9GNTRB?oc=5",
-    "source": "Hopkins Lawver-Ellet",
-    "title": "Duane Clark Obituary Apr 21, 2022 - Hopkins Lawver-Ellet",
-    "summary": "Duane Clark Obituary Apr 21, 2022 Hopkins Lawver-Ellet",
-    "evidence": [
-      "matched entity: Duane Clark",
-      "event: death (obituary)",
-      "source age: 1623.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "ac9468844c284f29d203",
     "entity_id": "duane_clark",
     "entity": "Duane Clark",
@@ -52924,5 +52875,82 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "eaebc47c4212ba4a8756",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 96,
+        "event_type": "appearance"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 92,
+        "event_type": "appearance"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "appearance",
+    "source_date": "Mon, 12 Oct 2026 14:05:17 GMT",
+    "captured": "2026-10-13T09:41:53Z",
+    "urgency": "high",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RLWJtenFCVDNSeXliN0JtRlBNbm1VbWVITC1IbUN0WVZrZ0taMkFrbExROTRvczJNYXVoQWtEWUlGYndZcURsX3pKYzZCUjBqV2c?oc=5",
+    "source": "IMDb",
+    "title": "‘Highlander’ Star Christopher Lambert Collapses at Steel City Comic-Con - IMDb",
+    "summary": "‘Highlander’ Star Christopher Lambert Collapses at Steel City Comic-Con IMDb",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "event: appearance (comic-con)",
+      "also matched: Highlander (92)",
+      "source age: 0.8 days"
+    ],
+    "score": 96,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
   }
 ]

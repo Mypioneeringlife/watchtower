@@ -1,127 +1,5 @@
 [
   {
-    "id": "0c84981f529c6544ae61",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 07 Jan 2026 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:33Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOUVrYjBZejZXblNQYTZGMk1kVFJoRTkyMDVXYkdEN2F0MVlqRWI4MTVwZHdfV0lzZm1pZWx5ZWFYdzlBTncycDZHOHc2UnNtU0NnYl9oVjAyU3JiNmZ4NW5zSFFvS2ZJeXhGZXlrWENiamZqZHNxb0NNX2tzaHNUYUJ0azE2NVQzU3EzNk9DdXJkU2lIb3VjWA?oc=5",
-    "source": "Legacy",
-    "title": "James Thorpe Obituary (1953 - 2026) - Baltimore, MD - The Courier Express - Legacy",
-    "summary": "James Thorpe Obituary (1953 - 2026) - Baltimore, MD - The Courier Express Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 266.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "94b7acf9b1f26b1201d0",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 09 Apr 2017 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:33Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRHNFR3AzczVJVFUxNXNZREttbDVUZUxPa1ZKVkxjdFJCb0t1azFyck9RaE5ndFFHVnhDRjZ5YzlMM2FzWlRHc1Nsb3E2LUx2MnVKd0pydUhOazZYeG1CdC14aEFxVUtHTHR0SWRDWU4tY2ZMQ09QZ00wNjd3cTE3Mzh6X0J2Q25qZWlJ?oc=5",
-    "source": "Legacy",
-    "title": "James Thorpe Obituary (2017) - St. Louis, MO - St. Louis Post-Dispatch - Legacy",
-    "summary": "James Thorpe Obituary (2017) - St. Louis, MO - St. Louis Post-Dispatch Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 3461.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "e12dabf407a1f57b8f29",
     "entity_id": "james_thorpe",
     "entity": "James Thorpe",
@@ -52895,5 +52773,115 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "93380fcb956eff22645a",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 98,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 14 Oct 2026 20:22:24 GMT",
+    "captured": "2026-10-14T23:23:14Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGZXUl9kM19nOVpEYnlmNkZoQ05kZFRmTW9MOXcxNzV3ZDdYdWhwVWNUWW9zYTlialdKb3FTbmR1UTZwUGtIajlDTmp2bWtZc19NR1hKQlYySVhZYXQ3Q2lEdVIyOTRBMURoU3g4Ui1SYng3YnZJZVQ2WVV0eXlUNmFHQnlTVVBsWjhSaVFDV2g5U3ppcURZLXprZl90UTRfMUVTRW1YeXBPUTQyNFI5MDR4QnktbTFlOW1tbdIBwgFBVV95cUxPN3h0MEtQYUZqUHloZkEtQWM2bnhCYU5iWU4yb2xTMGg5eldueVVldGppX0Y0b1MyVmZjZlRhUnZqMlQzSG55WnBMdzltMGp4ZGhHNDNzTjBZMHhBUGY5eF90c3BXZS1zNEMzM0Jaa2g0Nl9DLW9rQ2xKeV9HNHd2RmhVSUVlcVlxS0tOZDNLNXVWNW9DcUo0THBvSXRWYTRCc1I1cHdJdXZQeVVGNXdGY2diNGxkT1RjODloTXlISFlYdw?oc=5",
+    "source": "iXBT.games",
+    "title": "Henry Cavill surprised a Scotsman - WWE star shared a story from the filming of \"Highlander\" - iXBT.games",
+    "summary": "Henry Cavill surprised a Scotsman - WWE star shared a story from the filming of \"Highlander\" iXBT.games",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, filming",
+      "event: highlander_production (filming)",
+      "also matched: Highlander (98)",
+      "source age: 0.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "b9e9d369dee69d45e754",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 16 Sep 2026 07:00:00 GMT",
+    "captured": "2026-10-14T23:23:14Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IcllRVTNwM1Nua2ZuVWJSVWdLZGJrRV96U1h6VEhQZUo3dmU5NzVyYlR1U09acnNpNUlKVWdMbF9Nd21LTmcwbVFYYUhfaUJLMk41Q3ZxZEowSUl0eklWdHlB?oc=5",
+    "source": "Comics Beat",
+    "title": "Titan’s HIGHLANDER graphic novel switching to miniseries release - Comics Beat",
+    "summary": "Titan’s HIGHLANDER graphic novel switching to miniseries release Comics Beat",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 28.7 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

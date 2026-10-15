@@ -1,0 +1,36 @@
+---
+title: "Dead Drivetrain? K-EDGE Saves the Day with Clever SRAM AXS Battery Holder - Bikerumor"
+type: "Highlander Watch"
+status: "Inbox"
+entity: "Edge"
+event_type: "death"
+source: "Bikerumor"
+source_url: "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXNQaXdJdWhtRzZRMnhkQU1LYjJhNEl4a3lCZUdEY1R4TEI0Ymo0V3otMF9XaVR1OW5MLXBoZ1c0cXJWSDhZM2xNX2U1b0JfT0hwbDVKNDlBX0d2bE93c1ZDYUJwcm8zRUNxOTlRS1ZydDJ5cmp2d0JZM0xsUmlKZ0h0ODQyWllrM3dLTTN5MTNWQmpVWTR0ZVRBNA?oc=5"
+source_date: "Thu, 15 Oct 2026 12:12:00 GMT"
+relevance_score: 72
+route: "Corrupted Chronicle research"
+notify_candidate: false
+tags:
+  - highlander-watch
+  - corrupted-chronicle
+---
+
+# Dead Drivetrain? K-EDGE Saves the Day with Clever SRAM AXS Battery Holder - Bikerumor
+
+## What changed
+
+Dead Drivetrain? K-EDGE Saves the Day with Clever SRAM AXS Battery Holder Bikerumor
+
+## Why it surfaced
+
+- matched entity: Edge
+- event: death (dead)
+- source age: 0.3 days
+
+## Recommended handling
+
+review for Corrupted Chronicle coverage.
+
+## Source
+
+https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXNQaXdJdWhtRzZRMnhkQU1LYjJhNEl4a3lCZUdEY1R4TEI0Ymo0V3otMF9XaVR1OW5MLXBoZ1c0cXJWSDhZM2xNX2U1b0JfT0hwbDVKNDlBX0d2bE93c1ZDYUJwcm8zRUNxOTlRS1ZydDJ5cmp2d0JZM0xsUmlKZ0h0ODQyWllrM3dLTTN5MTNWQmpVWTR0ZVRBNA?oc=5

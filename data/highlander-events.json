@@ -1,991 +1,5 @@
 [
   {
-    "id": "2642043ac838eee15910",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 08 Jan 2016 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa1M4aGFKQ2poZTRNeXdrSjNNUGxJenBuS2hlQ0F3QUh4ZlJFREIxem5VbVlIVDl5QUhXUnRWS2dLbmR2bk02NndiQ1JRamlhYkdiZlNqcnJOTDdMQmlxcXBaUmJLcWJVaHczb1BmS0tkTHlBdkFIV2NfemZrT0FNUEItWQ?oc=5",
-    "source": "Legacy",
-    "title": "James Thorpe Obituary (2016) - Cortland, NY - Riccardi Funeral Home - Cortland - Legacy",
-    "summary": "James Thorpe Obituary (2016) - Cortland, NY - Riccardi Funeral Home - Cortland Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 3918.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0a73efffd1687c350aae",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 12 Oct 2021 06:05:04 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcTQ0ekloNGtJMGRBamJhMndyVDlLTElueERzSWhFa1kzOTJOaExFNThUSHRWaktLT21lUGJwdE9UOE0xTzNmUXlhSVBRVEYyNGhIZG1ZTEFIaW9peFdhMENMa2kxTnhaZ2lROS1PZjdrWUNNekptY3h1d2h3TF9qWGxYQkVFbEJZd3BZ?oc=5",
-    "source": "Legacy",
-    "title": "James Thorpe Obituary (2011) - Atlanta, GA - Atlanta Journal-Constitution - Legacy",
-    "summary": "James Thorpe Obituary (2011) - Atlanta, GA - Atlanta Journal-Constitution Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 1814.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "e640b8bf54f5b54b60a3",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 11 Apr 2019 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSFloVHpxTFVEdnpnVVRSd0FHVndPLVc0QXdhX2gyMW8wNzh6TG13QWtNdEZaZ3NoNGd1TmJoUXFyRkhPQndaMjhiTTR0NENVU2F2M2E3cVVGVVM1Yk1HcGx1aDlQQ2lZV2NRT29WMGgyRmJPTDZsMllfaW4zVXFaOWwybjUwOE5aRlA0?oc=5",
-    "source": "Legacy",
-    "title": "JAMES THORPE Obituary (2019) - Oshawa, ON - Toronto Star - Legacy",
-    "summary": "JAMES THORPE Obituary (2019) - Oshawa, ON - Toronto Star Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 2729.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "45fe67cace630a989b32",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 10 Jan 2014 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUzlyM2hnWU9BOHhVd2xsM3ZfS1MxY2RHZ3lEUkhOSGQ1dHlxVURPNV9jQUtnWFl0UXctN0JUbk1aY0RyT0pURnZuZGY1UG4xel83czFfUkVIeVp1STlvN1pDbXlmZkdCcmxkTFpPU3AwYWRYa0l2d1M4S1pGOXBfUG8zOA?oc=5",
-    "source": "Legacy",
-    "title": "James Thorpe Obituary (2014) - Fall River, MA - Legacy",
-    "summary": "James Thorpe Obituary (2014) - Fall River, MA Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 4646.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "72940df4dee142c14b02",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 26 Sep 2018 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYTJKT3Q1VDNyNzRWUkZ1VF9YU1FLVkdfS2pLT0Q4VVlRT3ZMYlBZU0Y4czVublYtbFJTMkdvdU42SGRsLS12T3d5cDR0SzFkOTNTQTBSNmpSd0RfWS1TbWl3Q2tobXpyT21XZEJ5NlBFSUZZdUptd2lGUEUyQUc0Z2tkaUJsQ3hh?oc=5",
-    "source": "Legacy",
-    "title": "James THORPE Obituary (1937 - 2018) - Dayton, OH - Dayton Daily News - Legacy",
-    "summary": "James THORPE Obituary (1937 - 2018) - Dayton, OH - Dayton Daily News Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 2926.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "658230416a17a47705da",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 16 Sep 2005 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMkNrYU8ycG9pYUpvLU1vRUoxSEVhM1U3V2R5bGdKcXhLSTJ0bHpaVi1uUDBzQzV4eGpSbmU1bEZHOWc4U1E1d2VTenZOcWRWMDlVSDJXVy1Cb0NlelRsbVQwN3p5dkFxWTdabEY1b21mbWNQTVdHcDQwZHoxOGNBbGdsemh4Tmc?oc=5",
-    "source": "Legacy",
-    "title": "James Thorpe Obituary (2005) - Las Vegas, NV - Las Vegas Review-Journal - Legacy",
-    "summary": "James Thorpe Obituary (2005) - Las Vegas, NV - Las Vegas Review-Journal Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 7684.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5eec4e2d2066f0d3e3cc",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 13 Sep 2008 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcDcxWllKNVB6a3FqMWtJMnFINEplaUNfYmE4UmJGRUVneE9wUDRLQk05YW1CM0tDYUJNNVVBbWo0Mlo3c1FmV1VBWWQyMGJ3UXhFLXEwcFd0OU1zdjk0NmNKUnNhWkEyUlF0Z1lxdEVCQzJHNW9oelJRNUlldm5Dd0lvUnNKTlVybHY1Rk90WUZ5NXdK?oc=5",
-    "source": "Legacy",
-    "title": "James Thorpe Obituary (2008) - Pettersburg, VA - The Progress-Index - Legacy",
-    "summary": "James Thorpe Obituary (2008) - Pettersburg, VA - The Progress-Index Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 6591.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "70d186c5b8cd98f91c21",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 16 Mar 2005 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDU3cHJ1cTV4ZTJMRTRxNlB2TDRwLWx5aTc3T2VqRXg1V0Z0V1Y2WEZLdkQ1MWxhSTdQWURiSmJ3MHZLMHByZExRWFFNZU5PMGFqMVhOX0lsNGtWX21VWFR4ZVMzTHRGd05CVUkxRHh2amdxVm1BNmlCekE2amdWRExlWS1KU0Fq?oc=5",
-    "source": "Legacy",
-    "title": "James Thorpe Obituary (2005) - San Bernardino, CA - San Bernardino County Sun - Legacy",
-    "summary": "James Thorpe Obituary (2005) - San Bernardino, CA - San Bernardino County Sun Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 7868.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "7d260bed9715b5702027",
-    "entity_id": "jan_hartman",
-    "entity": "Jan Hartman",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "jan_hartman",
-        "name": "Jan Hartman",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Duende"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Duende"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 15 Aug 2021 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNEVVNlhZREQ1d2U4MjcxeEVVWk50ZXR6NmZ6LURQN01IX0NxSWlKX2hTZFhnQ0dseWpSZE9KRGI0SW82OFpfd0NfOTA1UEd2a0RXTno3S3J3ZUNiZ1hlWW94MmY5N2czQ0U3WVl6b29Ca0w0clFsTGNZU2tDcjVabmlRV2g2ZzIzeWxz?oc=5",
-    "source": "Legacy",
-    "title": "Jan Hartman Obituary (2021) - Munster, IN - The Times - Legacy",
-    "summary": "Jan Hartman Obituary (2021) - Munster, IN - The Times Legacy",
-    "evidence": [
-      "matched entity: Jan Hartman",
-      "event: death (obituary)",
-      "source age: 1872.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "849a1401d31bf0819d23",
-    "entity_id": "jan_hartman",
-    "entity": "Jan Hartman",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "jan_hartman",
-        "name": "Jan Hartman",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Duende"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Duende"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 20 Aug 2020 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGhqbzZLQ1g3SDF4Tjh4Zmh4TTd4RkduYS1xSVJMMFhzRGxRN1pBVkVwVFpzcVhRVXk4SUZmTnZHN1ZrbG5RRndoVThkYy1rbjFCUHFrSzk0NVRfRTBnSXV2TXBsTDFYbGhibFJsUy1jVWU2bHh4M3Iyc0lsTm42ZmV5UjJ4MTFqb1E?oc=5",
-    "source": "Legacy",
-    "title": "Jan Hartman Obituary (1955 - 2020) - Munster, IN - The Times - Legacy",
-    "summary": "Jan Hartman Obituary (1955 - 2020) - Munster, IN - The Times Legacy",
-    "evidence": [
-      "matched entity: Jan Hartman",
-      "event: death (obituary)",
-      "source age: 2232.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "a56c6ec1dbeb465dbada",
-    "entity_id": "john_c_mcginley",
-    "entity": "John C. McGinley",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "john_c_mcginley",
-        "name": "John C. McGinley",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening"
-        ],
-        "score": 66,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Tue, 11 Nov 2025 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HcUstZFIyUFBBdkVHMGxBRWM1N3B4VkE2SGFoc2tUM3lUNkdET3RDcXBBWXA4ejFoRndRUlRDUDVlVFNqQ1NnaWZuMlpLSmhXR3RlQ2h1MHpDOW9nRFhyaVpxNFROTk1ya1hXTEVJdi1WbGUxYnNZNE9XcXhOSWs?oc=5",
-    "source": "aol.com",
-    "title": "John C. McGinley Says Reuniting With ‘Scrubs’ Cast for New Reboot Was ‘Like Riding a Bike’ - aol.com",
-    "summary": "John C. McGinley Says Reuniting With ‘Scrubs’ Cast for New Reboot Was ‘Like Riding a Bike’ aol.com",
-    "evidence": [
-      "matched entity: John C. McGinley",
-      "event: highlander_production (reboot)",
-      "source age: 323.5 days"
-    ],
-    "score": 66,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "bb4f223226951a12af56",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 23 Sep 2026 23:52:11 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2dxazA2MW9IdmYwX0RzUTlSMGh2OVNhb2tlVnZwM1p1NU96ZjNtVVdvNm9YLW1scEtCNlRQeTdvWHZkRmlLNnh5c01OZ255RkpsTDJETzV5MWlUa21qVnItZjVlTTVSRW5BaHo5V2FJU3FhbzRadWhDTURBcDhWLQ?oc=5",
-    "source": "Legacy",
-    "title": "Karen Harris Obituary (2026) - Dawsonville, GA - Bearden Funeral Home - Dawsonville - Legacy",
-    "summary": "Karen Harris Obituary (2026) - Dawsonville, GA - Bearden Funeral Home - Dawsonville Legacy",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 6.8 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "57fb5eacf2c8c31fceb2",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 07 Aug 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXlpd3VuWUtRMFBXQkRacGloOWV1VXhsNVo5ODNkMFlTaGk0VHVqakk5Snk1WVhSYWw1b2lMSTBBeU9ZSk14WDBtWWpmd254c2JfYjktazhwNlN0VjRNWE9BVHhWbjlocFhpMkFIOXVtZ0UtNVlsaTRxd1lHNTVKMllNekJQR3E2bmNsblRhMWg?oc=5",
-    "source": "Legacy",
-    "title": "Karen Harris Obituary (1940 - 2026) - Glendale, AR - The Courier - Legacy",
-    "summary": "Karen Harris Obituary (1940 - 2026) - Glendale, AR - The Courier Legacy",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 54.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "16c10b897ef110499ee1",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 19 Dec 2025 17:31:01 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHFpVzJjT3N1NHN0TnZTbmtLS2tvWU1iaWFRbUxGdHY0MnFBMUtfdV9TOWtjM3J1NmN5dUxEUkRkNndJZ2hGWDVhQW01X1paTmhSNzZXYjZvX2xDeDloNTJxZE5UQl9ubm5RS1U3Z0R2ZjV6S0k4VV9qckR2anRET3JPbGdHNklMUGJIQQ?oc=5",
-    "source": "Legacy",
-    "title": "Karen Harris-Unsworth Obituary (2025) - Bountiful, UT - Lindquist's Bountiful Mortuary - Legacy",
-    "summary": "Karen Harris-Unsworth Obituary (2025) - Bountiful, UT - Lindquist's Bountiful Mortuary Legacy",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 285.1 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "e53d029fa0fbe56dd31c",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 06 Jan 2024 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tanB6Vlp6Z1pyZ0lqbWMzS3oxdHFpRDN3X0F1VnBRVFB5S2tmbVNXMTVsWEtzaDNDUmJteHg2ejlrNGE2SThpY2xjNC1qVXNyaDJIN3JuUUdxN1hxNGt0U3BPdXFFVDF4NnplRg?oc=5",
-    "source": "mobilefuneralservice.com",
-    "title": "Karen Harris Obituary Jan 6, 2024 - mobilefuneralservice.com",
-    "summary": "Karen Harris Obituary Jan 6, 2024 mobilefuneralservice.com",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 998.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "16371964d9fe6c6eedf4",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 12 May 2024 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM1NxN1N3bmE3V2VPWk9JUjMwNVJEWmpQdUt4bHFxbUNlZTktVXlOX3RTQjZ4c1BBQllsVWVTTWJ5VDRDMEVBVFdGQkZiaWw5X3Nyc3J0WjAxX3lldlNOZkc3em0wbHF0LWRSbGRtVGFFMDVLQVE4UXM5U1d1U0tfaXd5WUdENlY4dnpxakpR?oc=5",
-    "source": "Legacy",
-    "title": "Karen HARRIS Obituary (2024) - Spokane, WA - Spokesman-Review - Legacy",
-    "summary": "Karen HARRIS Obituary (2024) - Spokane, WA - Spokesman-Review Legacy",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 871.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0545a2b3f44e7d1ffcc7",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 30 Sep 2021 01:38:11 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdVJnT0lDMFpsNmRFZF9lQklWdU5tM2ZsUTMtLWQ1RC1oSWgtM2pLdG80aGF3WktpUU10SDRVM1hJZFh1VTdReWd4NVRNbW5rVVNnUTZEZEVmZzAyY2N0dXJ3MUJLSjVhZGR3bUtMRkR4MmNnLXRhTXlKQWJzUmRNOFBvSzdWaW9TNFR6TlZYbw?oc=5",
-    "source": "Legacy",
-    "title": "Karen Harris Obituary (1947 - 2018) - Fort Collins, CO - the Fort Collins Coloradoan - Legacy",
-    "summary": "Karen Harris Obituary (1947 - 2018) - Fort Collins, CO - the Fort Collins Coloradoan Legacy",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 1826.8 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "6796c46710fa859587b5",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 10 May 2025 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2owOU84c01RbzhuMmFxeGlBWW1ua3pGNjhTQkZUblZ4ZkZpaFlxODJTcnJOMXdZeHBUQm5nWVJ3TXdacm5mQ28wWlR4WmQyVldwa2VJdUR2ZW1ZU0NiazhqellmNzgzckpINUpUcUpiNklDczhUN3h1LVdOdXN4eEFseWNsVUhVbF9CUU1KQ0VIdFdQQ3c?oc=5",
-    "source": "Legacy",
-    "title": "Karen Harris Obituary (2025) - Crystal River, FL - Citrus County Chronicle - Legacy",
-    "summary": "Karen Harris Obituary (2025) - Crystal River, FL - Citrus County Chronicle Legacy",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 508.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "4322324701b6468fbb37",
     "entity_id": "karen_harris",
     "entity": "Karen Harris",
@@ -52848,5 +51862,931 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "7e38acf84321818ebcce",
+    "entity_id": "bruce_payne",
+    "entity": "Bruce Payne",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "bruce_payne",
+        "name": "Bruce Payne",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 30 May 2022 07:00:00 GMT",
+    "captured": "2026-10-15T19:10:28Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YVWxoQ09ZOWFWLTdOZWZJb0h1dFJZNVYwbHNPMVN0bFh1bUVTYlpvSUlTT2doSVZ0aEdsUmNXUkxKdUJYeElzOWZEMkNPREpvczFwQm9vbVhHRGdRdzhkVnI2Y25NTkp1Snc?oc=5",
+    "source": "Davidson Funeral Home",
+    "title": "Bruce Payne Obituary May 30, 2022 - Davidson Funeral Home",
+    "summary": "Bruce Payne Obituary May 30, 2022 Davidson Funeral Home",
+    "evidence": [
+      "matched entity: Bruce Payne",
+      "event: death (obituary)",
+      "source age: 1599.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "88c35a576ddecff38a8c",
+    "entity_id": "bruce_payne",
+    "entity": "Bruce Payne",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "bruce_payne",
+        "name": "Bruce Payne",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 01 Nov 2024 04:51:06 GMT",
+    "captured": "2026-10-15T19:10:28Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ1FwRU5EbU5Vdm9tUS1Jd0JMdFhXSEhtRUtmWnQ0MlU4TTdEUU1MbFJtR0RzeThrX1NJZGRZeTVYaFZyVjBrUEVLREE3UnZjMTNqNGI3Vk0xNnVmTFl5Qm9nWm5BMVFBdTlDUE5TU2ZQbm16NE1ZU0hrQ1NwUV8zNWZNVGhNQlRGT0ItR0F3?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Bruce Payne Obituary and Online Memorial (2022) - Legacy | Obituary",
+    "summary": "Bruce Payne Obituary and Online Memorial (2022) Legacy | Obituary",
+    "evidence": [
+      "matched entity: Bruce Payne",
+      "event: death (obituary)",
+      "source age: 713.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "3ca452d02863f9be3fa3",
+    "entity_id": "bruce_payne",
+    "entity": "Bruce Payne",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "bruce_payne",
+        "name": "Bruce Payne",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 23 Nov 2012 08:00:00 GMT",
+    "captured": "2026-10-15T19:10:28Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVF9HSS12ZXlPZVQ3SzR5dlhlRTFDeGZWNkxqeWxGRHpRUGs2ZnM2ODh6MGUwMU5nVkhhSkxPM1lnNjJfbF9pNHk3bnMxdTN4WGhocVlZdGJpbW5hbHctcW5PSWg3dWstRzRCZTdnaXlyNC1hdkVhc3R4c2FwNUt3MHBzMWN2Zw?oc=5",
+    "source": "Adams-Green Funeral Home",
+    "title": "Obituary information for Torrence Philip Bruce Payne - Adams-Green Funeral Home",
+    "summary": "Obituary information for Torrence Philip Bruce Payne Adams-Green Funeral Home",
+    "evidence": [
+      "matched entity: Bruce Payne",
+      "event: death (obituary)",
+      "source age: 5074.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "dd068efa51cd6474a47b",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Thu, 15 Oct 2026 16:55:05 GMT",
+    "captured": "2026-10-15T19:10:28Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTh1U29jRzd6NU5BbzZaTFVIVmlkUnA3dVVYY3lHRmx6eko1S3B3NG5YLVNzMU0wbW5VeWRNM1ItNHhJc2FZajZHR3BMSTU0T1AzOXd2RG8zVFNqWUliSVd2WGxXalY1UzdHa1Iwa0ZWeGhHN0Z6Rnl2SEY3OUI5c2xtS1daTFliNEpyYUZraUdMZ1NPZ3Zn?oc=5",
+    "source": "Yahoo Finance",
+    "title": "Moderna Rallies 6% as Money Rotates Into Healthcare; BioNTech and Pfizer Edge Higher - Yahoo Finance",
+    "summary": "Moderna Rallies 6% as Money Rotates Into Healthcare; BioNTech and Pfizer Edge Higher Yahoo Finance",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (health)",
+      "source age: 0.1 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "eb1a32cf1040ab4aa0c0",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 15 Oct 2026 12:12:00 GMT",
+    "captured": "2026-10-15T19:10:28Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXNQaXdJdWhtRzZRMnhkQU1LYjJhNEl4a3lCZUdEY1R4TEI0Ymo0V3otMF9XaVR1OW5MLXBoZ1c0cXJWSDhZM2xNX2U1b0JfT0hwbDVKNDlBX0d2bE93c1ZDYUJwcm8zRUNxOTlRS1ZydDJ5cmp2d0JZM0xsUmlKZ0h0ODQyWllrM3dLTTN5MTNWQmpVWTR0ZVRBNA?oc=5",
+    "source": "Bikerumor",
+    "title": "Dead Drivetrain? K-EDGE Saves the Day with Clever SRAM AXS Battery Holder - Bikerumor",
+    "summary": "Dead Drivetrain? K-EDGE Saves the Day with Clever SRAM AXS Battery Holder Bikerumor",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (dead)",
+      "source age: 0.3 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "ab2b929a3bb629a60873",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 15 Oct 2026 15:40:49 GMT",
+    "captured": "2026-10-15T19:10:28Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sS0V5aUgyVHRaVWE3al8tRUVjd0FZcjhFSThQNS1RRm96M1BNa1hDUTdidmhrX3FtREhpeHJ5QUJKWHgyNU5tMmtMQU1mNFZ6cS1obDRKUWFqWk01VWR6Z1A2blV3cmt4cmFDNVVYenZaVVVwSEU0V1FyOXN6U1k?oc=5",
+    "source": "USGlass Magazine",
+    "title": "Glass Prices Edge Higher as Diesel Costs Surge - USGlass Magazine",
+    "summary": "Glass Prices Edge Higher as Diesel Costs Surge USGlass Magazine",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (dies)",
+      "source age: 0.1 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "588663ed9cb8fdf84940",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 66,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 15 Oct 2026 13:34:51 GMT",
+    "captured": "2026-10-15T19:10:28Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2YzR3N6OFRiSHJLMnl2VXdOVDZQeURKeUFadlA0UnVLRzVKM19BM0RjWi1hZlRmNWFQam5rcTd0aU9LTU5qUGNvSmVubzlqXzFZcjNoTndYWXlBYXZieHNCZ3R5dUNtVHgyS0RUQ2JkYkFHeTJuVXZaX25IN2ZjSHpwZEVCemJMZF9XWDJ2S205bmdUczZr?oc=5",
+    "source": "Games Press",
+    "title": "EDGE OF MEMORIES ANNOUNCES A NEW RELEASE DATE AND AN UPDATED DEMO - Games Press",
+    "summary": "EDGE OF MEMORIES ANNOUNCES A NEW RELEASE DATE AND AN UPDATED DEMO Games Press",
+    "evidence": [
+      "matched entity: Edge",
+      "event: highlander_production (release date)",
+      "source age: 0.2 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "de86e5842f22c37e171f",
+    "entity_id": "elizabeth_baxter",
+    "entity": "Elizabeth Baxter",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "elizabeth_baxter",
+        "name": "Elizabeth Baxter",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Bless the Child",
+          "Eye For An Eye",
+          "Legacy",
+          "Reasonable Doubt",
+          "Reunion",
+          "Saving Grace"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Bless the Child",
+      "Eye For An Eye",
+      "Legacy",
+      "Reasonable Doubt",
+      "Reunion",
+      "Saving Grace"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 27 Apr 2024 07:00:00 GMT",
+    "captured": "2026-10-15T19:10:28Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OeXFsZm5IbjV6bTRPak5MRm1HYzhwYkZwajVyS1dmMEdackF3anV3RnlPRFdPMDgyTGN5YmhVZUZ0MTBSa1ROSl9lVDR4QW9lWEVWTEVZaXJhS2lrNXlaUg?oc=5",
+    "source": "Fitzgerald Funeral Home & Crematory",
+    "title": "Jane Elizabeth Baxter Obituary April 27, 2024 - Fitzgerald Funeral Home & Crematory",
+    "summary": "Jane Elizabeth Baxter Obituary April 27, 2024 Fitzgerald Funeral Home & Crematory",
+    "evidence": [
+      "matched entity: Elizabeth Baxter",
+      "event: death (obituary)",
+      "source age: 901.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "963cc0dc664662f4e74d",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 19 Mar 2026 07:00:00 GMT",
+    "captured": "2026-10-15T19:10:28Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vNGVtQlFpY0VyWUtSYXQxTXdNV0VHdlo0WC12NDZqVmtMUW1PaTVCbF96azZyOWJwUURqNWRtakQyRUx6SWZ2N1FJd2R6RlhGSVdKQWJ1T0ZlaTlXU3RhZFZVeDFsOWxtcVBDY1FnX2NyZXdyNmwzWWlLc1dHdw?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "James Bruce Owen Obituary (2026) - Alton, MO - Clary Funeral Home - Alton - Legacy | Obituary",
+    "summary": "James Bruce Owen Obituary (2026) - Alton, MO - Clary Funeral Home - Alton Legacy | Obituary",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 210.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "968b260be69e25e71d3b",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 13 Apr 2026 07:00:00 GMT",
+    "captured": "2026-10-15T19:10:28Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc1o2WjJjRGUxeXhnZGE1ZzV5c2NWMFNpNktiRk5hcTdqeG9NQUlKcy1QVVQzUGplTWw3OHNobHNUMGZ3eWhCOFd4M2E5Rmh4YWlYNTFHdGlicl9LUERLLWRQWUItcG1aT3BuaE1HcHFScTRlekF4RGlNamZzUWYtNUFXV2xRZGRzNGMwZ2pYNy1NTkdHejhFRU9LSjlWYUdzNHZsVS12cUtyN3FlRG5Ea3VteEhmUDN5X0VVLXVyNA?oc=5",
+    "source": "Tribute Archive",
+    "title": "DR. JAMES BRUCE BURNETT Obituary | Hinski-Tomlinson Funeral Home | Haddonfield, NJ - Tribute Archive",
+    "summary": "DR. JAMES BRUCE BURNETT Obituary | Hinski-Tomlinson Funeral Home | Haddonfield, NJ Tribute Archive",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 185.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "030b37681173f33a77af",
+    "entity_id": "james_thorpe",
+    "entity": "James Thorpe",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_thorpe",
+        "name": "James Thorpe",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Deadly Exposure",
+          "Diplomatic Immunity",
+          "Indiscretions",
+          "Money No Object",
+          "Sins of the Father",
+          "The Modern Prometheus",
+          "The Valkyrie",
+          "Two of Hearts"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Deadly Exposure",
+      "Diplomatic Immunity",
+      "Indiscretions",
+      "Money No Object",
+      "Sins of the Father",
+      "The Modern Prometheus",
+      "The Valkyrie",
+      "Two of Hearts"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 29 Sep 2026 07:00:00 GMT",
+    "captured": "2026-10-15T19:10:28Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zcW5nVlUzOVBlUDYtTUVRcWxERFhmLUpCLWFpN0IyZTRUZ1NvUnF6MjJuRms5eXpfajJkbGQzc0lTdEd3WnFJREo1ZUJzWXMxZWlmRVZaU0M5anplMG9QeHVrYk9mZlZtOHM0cGVZaHBQWWlDYkRhWk9n?oc=5",
+    "source": "Tribute Archive",
+    "title": "Arthur \"Art\" James Thorpe, Jr. Obituary | Ratterman & Sons Funeral Home | Louisville, KY - Tribute Archive",
+    "summary": "Arthur \"Art\" James Thorpe, Jr. Obituary | Ratterman & Sons Funeral Home | Louisville, KY Tribute Archive",
+    "evidence": [
+      "matched entity: James Thorpe",
+      "event: death (obituary)",
+      "source age: 16.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "df5c0d122ef856ba4aa7",
+    "entity_id": "james_thorpe",
+    "entity": "James Thorpe",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_thorpe",
+        "name": "James Thorpe",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Deadly Exposure",
+          "Diplomatic Immunity",
+          "Indiscretions",
+          "Money No Object",
+          "Sins of the Father",
+          "The Modern Prometheus",
+          "The Valkyrie",
+          "Two of Hearts"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Deadly Exposure",
+      "Diplomatic Immunity",
+      "Indiscretions",
+      "Money No Object",
+      "Sins of the Father",
+      "The Modern Prometheus",
+      "The Valkyrie",
+      "Two of Hearts"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 28 Mar 2007 07:00:00 GMT",
+    "captured": "2026-10-15T19:10:28Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HNnpmUXgxazFFeWNfaFhxbGU5RkgycW1YbHhORVk3ZDVCeTVUTkhIckNJVk04ZVZBQndzV19MT3hOX2tncHdKc3ZYRFdNbGxTYlNVTURzZ2o0elRrSjRuaTJEclE0N3AzcG9KT0syMA?oc=5",
+    "source": "Cassaday Turkle Christian Funeral & Cremation Service",
+    "title": "James Thorpe Obituary Mar 28, 2007 - Cassaday Turkle Christian Funeral & Cremation Service",
+    "summary": "James Thorpe Obituary Mar 28, 2007 Cassaday Turkle Christian Funeral & Cremation Service",
+    "evidence": [
+      "matched entity: James Thorpe",
+      "event: death (obituary)",
+      "source age: 7141.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "8b1b0a3ab982d090882e",
+    "entity_id": "james_thorpe",
+    "entity": "James Thorpe",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_thorpe",
+        "name": "James Thorpe",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Deadly Exposure",
+          "Diplomatic Immunity",
+          "Indiscretions",
+          "Money No Object",
+          "Sins of the Father",
+          "The Modern Prometheus",
+          "The Valkyrie",
+          "Two of Hearts"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Deadly Exposure",
+      "Diplomatic Immunity",
+      "Indiscretions",
+      "Money No Object",
+      "Sins of the Father",
+      "The Modern Prometheus",
+      "The Valkyrie",
+      "Two of Hearts"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 30 Aug 2007 07:00:00 GMT",
+    "captured": "2026-10-15T19:10:28Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZUJaMmRWdFhwcFI1S2pXNjhVbFljNzhVMVVZNm1xOFVQQ2kzdnowV1dTVXlQVG5rSUlKa0stc0tDVTZ5WDVweFJfTnRmSkpFWlJpcURXMDRoOXMzSllGLVJvbHhhV1gtQnp4Z1g2bG9KbmNJMl8zSXcza01FaWJpcw?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "James Thorpe Obituary (2007) - Traverse City, MI - Legacy | Obituary",
+    "summary": "James Thorpe Obituary (2007) - Traverse City, MI Legacy | Obituary",
+    "evidence": [
+      "matched entity: James Thorpe",
+      "event: death (obituary)",
+      "source age: 6986.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "34a82e8f9e5aaf0953fc",
+    "entity_id": "ray_austin",
+    "entity": "Ray Austin",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "ray_austin",
+        "name": "Ray Austin",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Deadly Medicine",
+          "Eyewitness",
+          "For Evil's Sake",
+          "Revenge Is Sweet",
+          "Saving Grace"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Deadly Medicine",
+      "Eyewitness",
+      "For Evil's Sake",
+      "Revenge Is Sweet",
+      "Saving Grace"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 26 Feb 2023 08:00:00 GMT",
+    "captured": "2026-10-15T19:10:29Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tV0VHYzhYZUVDd2d4NVIydGQxYms1Q1VObTZFZW5rRzAwZXBvZ29aN3MwWXdEUjdZVjJwMTZndl83RC1wX2JSYmVBcHZxQ1BvWkxXVElVVGtzcmMwcmtWUENzcGlNOVJZdDRPc2VR?oc=5",
+    "source": "Horne Funeral Service",
+    "title": "Darrell Ray Austin Obituary Feb 26, 2023 - Horne Funeral Service",
+    "summary": "Darrell Ray Austin Obituary Feb 26, 2023 Horne Funeral Service",
+    "evidence": [
+      "matched entity: Ray Austin",
+      "event: death (obituary)",
+      "source age: 1327.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5539e2a4aac6ebc38ea0",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      },
+      {
+        "id": "roxanne_hart",
+        "name": "Roxanne Hart",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 66,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 06 Sep 2026 07:00:00 GMT",
+    "captured": "2026-10-15T19:10:29Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlpJMXFHNTQtN2IyUjNDYU9lQTU0dXZzc3hVaHUxWXdIVDhnZjgzY0ZHQjd6MnU1dGgxZkcyOS1Takp1Q3J2VkVFdWNPY3VMbzFEeVJNamNnWW5qWXpLYjBpdC1oTHpSRVltRTFuZkhWRThjbUlhM0FOWVQwMmlrV0FFUklXNU9SMXd0bU55ZmZ3NzhHckNmeQ?oc=5",
+    "source": "Glam",
+    "title": "What '80s Star Roxanne Hart Looked Like Decades After Her Breakout Role In Highlander - Glam",
+    "summary": "What '80s Star Roxanne Hart Looked Like Decades After Her Breakout Role In Highlander Glam",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "also matched: Roxanne Hart (66)",
+      "source age: 39.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "fde471076bef99141ca1",
+    "entity_id": "sheila_gish",
+    "entity": "Sheila Gish",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "sheila_gish",
+        "name": "Sheila Gish",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander: Endgame"
+        ],
+        "score": 52,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander: Endgame"
+    ],
+    "event_type": "new_project",
+    "source_date": "Thu, 21 Aug 2025 07:00:00 GMT",
+    "captured": "2026-10-15T19:10:29Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pMllxWFVmZjBiUl9CTGd4N1V0RXZxS2wwRFN2QWFDWUlyTGFZazBDRk9hbGRWUjNTT1BWUDdjd3NpTXZUT3k1S3lBUDRnRlcyRUtSNUw1aU5yenRI?oc=5",
+    "source": "YouTube",
+    "title": "Leonie - starring Barbara Murray, Richard Morant and Sheila Gish (1975) - YouTube",
+    "summary": "Leonie - starring Barbara Murray, Richard Morant and Sheila Gish (1975) YouTube",
+    "evidence": [
+      "matched entity: Sheila Gish",
+      "event: new_project (starring)",
+      "source age: 420.5 days"
+    ],
+    "score": 52,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "18725ca1fbf6936b0dc5",
+    "entity_id": "stewart_copeland",
+    "entity": "Stewart Copeland",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "stewart_copeland",
+        "name": "Stewart Copeland",
+        "kind": "person",
+        "roles": [
+          "composer"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 54,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "composer"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "interview",
+    "source_date": "Thu, 15 Oct 2026 10:30:00 GMT",
+    "captured": "2026-10-15T19:10:29Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbjhCd0pEYlhZTjVfSGtJS1U1TDFGVVVndEcxTDZlWEdlTXFDMG1nVVdqM2F4ZDNDX1BTVWRBbXdRdGlkLU50WkRqMm5hbkdYUXNOTHNLTUZuUERuS1JnWV8wYnlvTmtEMDNkSTJ5UUlwVlM4amMweWp4bjI0b0xZdnJrblEzam1qYnJqYkFTVXktTWJqUllXd19sTU01QVZTZHZhc2FIMnBacnkzbW5OLVFIWE9ZSUJTMW14SVFsOEtMSlpBYWZCWDdzR2FZQQ?oc=5",
+    "source": "KMUW",
+    "title": "Ahead of documentary screening, drummer Stewart Copeland reflects on the power of saying yes - KMUW",
+    "summary": "Ahead of documentary screening, drummer Stewart Copeland reflects on the power of saying yes KMUW",
+    "evidence": [
+      "matched entity: Stewart Copeland",
+      "event: interview (reflects on)",
+      "source age: 0.4 days"
+    ],
+    "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "594ad39b3e0c934d69c2",
+    "entity_id": "stewart_copeland",
+    "entity": "Stewart Copeland",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "stewart_copeland",
+        "name": "Stewart Copeland",
+        "kind": "person",
+        "roles": [
+          "composer"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "composer"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Fri, 19 Jun 2026 07:00:00 GMT",
+    "captured": "2026-10-15T19:10:29Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQUZMd2hHVUViZl9NdVllMllOaGNFR3ZWbHBLS0RwclhqZnhnWDUwNlhwSFhrdTM0b3ljNW5iTm1GTEs4di0xVmlqelhnZW9tMlI1M2VwVjg2aEJ6eHVOeFpOTWk3eE9JU1V1Q0Z5MmF3TzloTWViOVJkc2RCa1VZRlpHQ2FMaG1jTENUcmE2cGhlaDZqUm1uRlhCam9QbkhZOUE?oc=5",
+    "source": "Guitar Player",
+    "title": "“We get along great as long as we’re not trying to make music together.” Stewart Copeland on why he and Sting are still friends despite a $2 million royalties lawsuit - Guitar Player",
+    "summary": "“We get along great as long as we’re not trying to make music together.” Stewart Copeland on why he and Sting are still friends despite a $2 million royalties lawsuit Guitar Player",
+    "evidence": [
+      "matched entity: Stewart Copeland",
+      "event: legal (lawsuit)",
+      "source age: 118.5 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

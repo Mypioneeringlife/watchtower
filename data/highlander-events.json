@@ -1,310 +1,5 @@
 [
   {
-    "id": "5b560a620cc9f5f0c5c4",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 04 Oct 2021 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWdIUVNQak9scHI0TnJoRzAxcWNoWVFDeW9LSXV3SW5RdTU2cXdPdEJrczNrNGxBRUJiUUFZaUlLR1UxS281aE4zWnAxVlJXdVVsS3ItNWJVRlFlMEdCUFlqbzBmdk5PVWhvOXAtOEVFMVU2dm1CaEpOWWZFWmxURENxSXlrUVZV?oc=5",
-    "source": "Legacy",
-    "title": "James Thorpe Obituary (2021) - Yonkers Ny, NY - The Journal News - Legacy",
-    "summary": "James Thorpe Obituary (2021) - Yonkers Ny, NY - The Journal News Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 1822.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "72e0158e768bfac66e12",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 16 Jun 2018 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM21KMDlMRjhFYmI5NXRoUzRRMlcxRXhUdURJVl9HOUNZZEU3Mk1OS3hPZkdXdEozSjR1Y0l4UFNQWEcyMjJ6NlEwcnlueXp0R2RoWEtBMlpSNXFLVzRiNkdScS0yeXJ4eEJTZW54X1lHRDJtc3N3bjh6WUpSX0tRdFRvZG9ITjlGV05VMlRGdw?oc=5",
-    "source": "Legacy",
-    "title": "James Thorpe Obituary (1935 - 2018) - Murray, UT - Deseret News - Legacy",
-    "summary": "James Thorpe Obituary (1935 - 2018) - Murray, UT - Deseret News Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 3028.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "6eaf5c0225fefc4a98bd",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 30 Dec 2019 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS0NtZVE5SDBfMXBIRVVnNUpIN0ZWS3BobEwwM1FKSkVGX1NVY0xzV0tlX2g2Y0dQcENZM2dPWFhOcGY0NktFd0RsZUN3R2R4MkZvNUw0X2thN3VJUjN5ZjBCcVhJTktqMVFfRnBrWXhpQlIzN1c4VG02eVp2Mi1iY0l2aV9vc1FwTThvdXBUQ3kyQQ?oc=5",
-    "source": "Legacy",
-    "title": "James THORPE Obituary (2019) - St. Petersburg, FL - Tampa Bay Times - Legacy",
-    "summary": "James THORPE Obituary (2019) - St. Petersburg, FL - Tampa Bay Times Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 2466.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c20e9bac9bc97db2d14c",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 18 May 2023 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkYyeTR2cWJzOFd6cmhoc2c0OVJodVJKSHpqUHpyQ0FGU2tIdGZMYU13MURtb1lBMlQ2QmtGaDBGdjhUUWUyU1BNNWlucWxua0txanBkbXBMVWo0MkJTRkJrRUtzUWhJSFpYNVhPR2N5ZGRBcnNMNU9vSW8zbXdmdVZqWjkwZm1wRm9HMg?oc=5",
-    "source": "Legacy",
-    "title": "James Thorpe Obituary (2023) - Rock Island, IL - The Rock Island Dispatch Argus - Legacy",
-    "summary": "James Thorpe Obituary (2023) - Rock Island, IL - The Rock Island Dispatch Argus Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 1231.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "1f9d61d783c52781c5d0",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 16 May 2023 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRjFMODNzSDU4dE05Q0NZemsyYUN3V2tYZmxtbkxvemtjOWZQZTl4ZThuQ0VCWjFlakRJN3R6WDZjYndYejVFMl9UQkx3ZlpfSTI3WUVwT1djOWZvbzZScGY1X01MOVNPaXZvNXVzbDFtRkFUX196VGtTalF4SmtkN2s2eEdGbXpNcWVJ?oc=5",
-    "source": "Legacy",
-    "title": "James Thorpe Obituary (2023) - Rock Island, IL - Quad-City Times - Legacy",
-    "summary": "James Thorpe Obituary (2023) - Rock Island, IL - Quad-City Times Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 1233.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "2642043ac838eee15910",
     "entity_id": "james_thorpe",
     "entity": "James Thorpe",
@@ -52869,5 +52564,289 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "b4bf2fb67b2c83544478",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 29 Aug 2023 07:00:00 GMT",
+    "captured": "2026-10-15T18:34:07Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUVF3TnU0QVBqWUQ4Vm9qUEhLSVFDT3NaTzBrWDliblBkSl9jb0lDRlhkdDdldnFnaGZNRjhrMjJKaHlvbko2dWw5SDVWT3ladjV3Ynh2NFlNMXJTWkVUN0FWNWV4V3R4SlUxWENacmxLTXFpY2Y4aUZkRUY5YVN6TXZPOUJZTnJ3N2c?oc=5",
+    "source": "Yahoo Entertainment UK",
+    "title": "Chad Stahelski's Highlander reboot could launch a franchise - Yahoo Entertainment UK",
+    "summary": "Chad Stahelski's Highlander reboot could launch a franchise Yahoo Entertainment UK",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 1143.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "4e57a39a8d9b8bbc29d7",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 08 Oct 2026 00:00:11 GMT",
+    "captured": "2026-10-15T18:34:07Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcUVBc1UtMGtfSkN6ZmRWVzdXWTVPcE9leDBCcHk3dHBYaEFLT2xPTWJZclZBajhxMjRRQVoyaEtRMkhMS05uR3JtMGRSZEhaOWswbGdCcnNrR1owdnVfbnd6cUJyOTMyMEFVdGZvOG56cjNxaDR4UWlHZ1RZNFI0bHo0aFA2eGE3?oc=5",
+    "source": "Comic Book Resources",
+    "title": "Henry Cavill's Upcoming 80's Movie Reboot Is Already The Fantasy Event of The Decade - Comic Book Resources",
+    "summary": "Henry Cavill's Upcoming 80's Movie Reboot Is Already The Fantasy Event of The Decade Comic Book Resources",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 7.8 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "6551b2caaaebaffb2033",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 22 Sep 2026 07:00:00 GMT",
+    "captured": "2026-10-15T18:34:07Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTUpDM21xQ2J5MlhNUnRjbU15Tzd1LWhtWmxZOVZRblh2TG9WTEFyclcycC0wa0U2WUNNdEhHdjV4M0Q2Qm1iRkh6QXN0Y0h2NGE5TUZlcUpjVmc1MmNnODMzdzZuYUFqbTJuY1ZhdHRmc1dzT1lIdUxmUDhKREp0bXd5V0Y4NXJCV3duTWN2NA?oc=5",
+    "source": "Comic Book Resources",
+    "title": "Henry Cavill's Action-Packed Fantasy Epic Is Mandatory Viewing Ahead of the Highlander Reboot - Comic Book Resources",
+    "summary": "Henry Cavill's Action-Packed Fantasy Epic Is Mandatory Viewing Ahead of the Highlander Reboot Comic Book Resources",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 23.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "30878900502888ddc1d2",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 19 Sep 2026 07:00:00 GMT",
+    "captured": "2026-10-15T18:34:07Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOXpZNzVLcFdjYVY2MkVlRmpjZzBlNzl2TmJjSU5QUXRhSGRPNGFFWFBkVXlBSXRQUG54S2Y0dzhRbjg0WG9rOG90OGJVMGF5SVRCbEsyRnNjNk55eHYyODFBMEVObUx6YXFOQnZCbXkycEg3RnpnUElzQ3VQNFpSdFk2RQ?oc=5",
+    "source": "ScreenRant",
+    "title": "10 Shows To Watch While Waiting For Henry Cavill’s Highlander Reboot - ScreenRant",
+    "summary": "10 Shows To Watch While Waiting For Henry Cavill’s Highlander Reboot ScreenRant",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 26.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "ad26346cfd0fe9c375ca",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 20 Sep 2026 07:00:00 GMT",
+    "captured": "2026-10-15T18:34:07Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5ZUd6V3dpa29XRlM3QzluMUJTcld2blVQNW1TdGNoTTZRUDl3SEdHdFJpeEZJYk1sQk9fYTUyc01HZldDOFFka241cVhVX1lVOU1KaFktMXVaZDJiRm5DenJobVlCbFoxX0M4NWlIRGVjOG15V2c?oc=5",
+    "source": "Comic Book Resources",
+    "title": "40 Years Later, Sean Connery's Best Highlander Line Is Still the Greatest 5 Words in Fantasy - Comic Book Resources",
+    "summary": "40 Years Later, Sean Connery's Best Highlander Line Is Still the Greatest 5 Words in Fantasy Comic Book Resources",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 25.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

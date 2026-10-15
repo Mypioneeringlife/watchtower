@@ -1,56 +1,5 @@
 [
   {
-    "id": "4322324701b6468fbb37",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 06 May 2025 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUkFRNEJBZDBUenJueTQ2MV93cjhYb2JpanA5dGtMcWpwTHo4VkJKZUQ1eU9ZVC1YVDhaNVd4eWFjcFo1ZllKdWowWVFycnpBMmc1RExCYS15dkFDVUs4YXY2Ti1Rekx6Mjg2bUhYeGZUMENUVVdMRTJLc2ZNOWl3R3NGTV9MV09yekI3OWxTZjBZZw?oc=5",
-    "source": "Legacy",
-    "title": "Karen Harris Obituary (1947 - 2024) - Juneau, AK - Juneau Empire - Legacy",
-    "summary": "Karen Harris Obituary (1947 - 2024) - Juneau, AK - Juneau Empire Legacy",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 512.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "d09f8a814387ca16b31d",
     "entity_id": "karen_harris",
     "entity": "Karen Harris",
@@ -52788,5 +52737,54 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "ea3b44ab28ddbe4e5bda",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 14 Oct 2026 09:40:35 GMT",
+    "captured": "2026-10-15T23:13:33Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OUzhIV1B5TW94NXY1eFhYVEVkWVlEOVBWdC10bV95QUJPTWxoTWs4eHN4NTVnaHFSa3dlYjdaZW9CLWVfQ2h0bFRtMDJ4U04wd084eHprMjQ2SGdsbURPZVNKN1RjeTQ?oc=5",
+    "source": "IMDb",
+    "title": "“Highlander” Reboot Hires A First-Time Director - IMDb",
+    "summary": "“Highlander” Reboot Hires A First-Time Director IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 1.6 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
   }
 ]

@@ -1,66 +1,5 @@
 [
   {
-    "id": "e12dabf407a1f57b8f29",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 15 Feb 2015 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObXZwR3Fnb0QxM05aQVRlVDFyc2M5NHVEVGhuUTdtQ1UzcHRodWMtWUhmbVRMckJ6YWY1b0F2c3Q0VXVTaFpIVlNGQkM4OEF3cDJsazF0V3JCb3FkZlR1djFiU010eGw4MTFfMzJoOTBuOGV1OXBvRlZiZERVSlhNTUtzdXFnNllVZ1NqckFTVFp6QQ?oc=5",
-    "source": "Legacy",
-    "title": "James Thorpe Obituary (1929 - 2015) - Seattle, WA - The Seattle Times - Legacy",
-    "summary": "James Thorpe Obituary (1929 - 2015) - Seattle, WA - The Seattle Times Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 4245.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "5b560a620cc9f5f0c5c4",
     "entity_id": "james_thorpe",
     "entity": "James Thorpe",
@@ -52883,5 +52822,52 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "3079bb74e70cde987596",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 18 Jun 2026 00:28:05 GMT",
+    "captured": "2026-10-15T07:41:33Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84eWNQSFhaRFlac29WekZlUUU4WVlNc0FZNUhoTFJ1b2xIMG5sUDQ5UThRT3pLMnd1QUZzR0FaZUJIREUwTlNUWU9ReDZlSnJ0ZG1PM2w3TVo1bVdhRmVINW11aURna21aT3BtTnNKaw?oc=5",
+    "source": "IMDb",
+    "title": "Highlander: The Source (2007) - IMDb",
+    "summary": "Highlander: The Source (2007) IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 119.3 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

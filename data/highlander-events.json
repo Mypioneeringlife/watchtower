@@ -1,52 +1,5 @@
 [
   {
-    "id": "d640d2778e91391024b4",
-    "entity_id": "larry_ferguson",
-    "entity": "Larry Ferguson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "larry_ferguson",
-        "name": "Larry Ferguson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 12 Sep 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGE3d1pSOGstNzNGaEx4YXBpNGNBRks3MGVvV3pvQU92dkFJOVBzMkY1QVhGZVBOS2ZFLTQwU2dZVDZKRHZXLVZreGpHQ1AxSW1XanhLRGllWE1JZ21sY2xBTnVwMllHcFpVUkdXQmppbzM0RVZyY1VCRUhCUVNiVHhMZjdaMWZxT0dFMkRieUloVVF0Qmc?oc=5",
-    "source": "Legacy",
-    "title": "Larry Ferguson Obituary (1937 - 2026) - Bowling Green, KY - Bowling Green Daily News - Legacy",
-    "summary": "Larry Ferguson Obituary (1937 - 2026) - Bowling Green, KY - Bowling Green Daily News Legacy",
-    "evidence": [
-      "matched entity: Larry Ferguson",
-      "event: death (obituary)",
-      "source age: 18.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
     "id": "47ac21aa9ff489b4d0e9",
     "entity_id": "larry_ferguson",
     "entity": "Larry Ferguson",
@@ -52777,5 +52730,67 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "4019f14a931f1c039436",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 16 Oct 2026 22:14:33 GMT",
+    "captured": "2026-10-16T22:58:19Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BQWNBUzZ2WkNBQkRoRUJnOER3UnNzUkdLWndCWUhFM0NlcUZtVjdsUW1WMjd3cVJYcmFMSnZraEhrQ05xVnlhMVNKM2NKbWRkTVpnanBjbWI1SW9LOVBVbTJ0UDctakJoU0g1WWItSzRZLWR6VEZqTWdGVDlhT1E?oc=5",
+    "source": "Collider",
+    "title": "Henry Cavill’s ‘Highlander’ Scottish Accent Is Officially \"Bang On,\" Says Co-Star [Exclusive] - Collider",
+    "summary": "Henry Cavill’s ‘Highlander’ Scottish Accent Is Officially \"Bang On,\" Says Co-Star [Exclusive] Collider",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.0 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

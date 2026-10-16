@@ -1,56 +1,5 @@
 [
   {
-    "id": "d09f8a814387ca16b31d",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 30 Apr 2024 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55TzRFTldzMkJ6QnNwcXM1RVZnY1lLaVROLVBFZjN1MG5CNGNEN3YyZWdkSTY0aWVTeHRHLWtUZmNfVVNKd29Bd0VHRGJvck45Y0cxcGJGT29nWjJ6Qk9ERw?oc=5",
-    "source": "Rutherford Source",
-    "title": "OBITUARY: Karen Harris - Rutherford Source",
-    "summary": "OBITUARY: Karen Harris Rutherford Source",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 883.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "5c8cc39461bf2ba9400d",
     "entity_id": "karen_harris",
     "entity": "Karen Harris",
@@ -52786,5 +52735,53 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": true,
     "status": "new"
+  },
+  {
+    "id": "b77460572421286c46fe",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 06 Oct 2023 07:00:00 GMT",
+    "captured": "2026-10-16T07:28:39Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUXRUWjNvTlNoTnpaY2FGWWEtZnYwY2ZFb2NmaWhfejRNQjFFaGpWMzhRcWZNOF9LLWh4Z0ZuSXZXVHJIMklJR2RaclFsSE96WG1BZldaTUVWc1dkS2p1R1FHRXl6aXNBa3JpUE1HX2V3QUY5UGllLWpUNHVEa0FwVUpVSEZqUQ?oc=5",
+    "source": "Pro Wrestling Stories",
+    "title": "Immortals and Suplexes: 5 Hidden Highlander and Wrestling Connections - Pro Wrestling Stories",
+    "summary": "Immortals and Suplexes: 5 Hidden Highlander and Wrestling Connections Pro Wrestling Stories",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Immortal",
+      "source age: 1106.0 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

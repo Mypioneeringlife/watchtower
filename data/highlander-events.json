@@ -1,593 +1,5 @@
 [
   {
-    "id": "7d2c721545ed9ea08583",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 18 Sep 2024 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWW9hZG0wdTdrU1NpYndmVFpVZUFxYkxvcnFFQ1d6RmpnYy03TjRhcWhkWTV3ZlJQOC1MLTFOcUllMnFjcFVrZkVxcWFQMlVkdDZfakZ6NE9NaFhYN0lSdXBXOTdJMjNJc1ZLT1FhdXRtMFpUMmxWaFdpcjIxMWpySHN5ODlLbDFzVmMtQko2eDY0Z1Nnc2c?oc=5",
-    "source": "Legacy",
-    "title": "Karen Harris Obituary (1947 - 2024) - Savannah, GA - Connect Savannah - Legacy",
-    "summary": "Karen Harris Obituary (1947 - 2024) - Savannah, GA - Connect Savannah Legacy",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 742.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0c0500fdabb2d6ccb914",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 28 Oct 2010 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0V0SE9xOG9mZnJUV0VJbFFrY2xRNEd3UGVQYlhvWE05U05DZkhaRXNDSHVxXzc5R3ZXVmNxdjBrRWRMRG4tQU5lRzMxTzZCRV84RWFmeWgyYVdtRlBmUHBLc3BETjRPQ21Obzk0SlZjQnlHLWVteXptUTRpYlBqWEFac0wwOXNmR21N?oc=5",
-    "source": "Legacy",
-    "title": "Karen HARRIS Obituary (2010) - Lexington, KY - Lexington Herald-Leader - Legacy",
-    "summary": "Karen HARRIS Obituary (2010) - Lexington, KY - Lexington Herald-Leader Legacy",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 5816.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "06fc0ec6d505e104de64",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 25 Jul 2010 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYVNIR2k1VnVtOVVEV0EyWGNnWnlqNTBZVTBvT3J1SjJJcXdUWjBTVEdfSVROU3RXc3hldmdrOVhGcTlYWXJSVG1TYUkyWHJ3YTJ2UkRLTGdsVV85M3ZQdDhtV3o5QWMzd21vdzRsUE5ieC11Q1A1UzhCcVR4VFNGcGtNRVIzdmlvUDQ0?oc=5",
-    "source": "Legacy",
-    "title": "Karen Harris Obituary (2010) - Saint Louis, MO - St. Louis Post-Dispatch - Legacy",
-    "summary": "Karen Harris Obituary (2010) - Saint Louis, MO - St. Louis Post-Dispatch Legacy",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 5911.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "6b2a1f6b36aeee204bfd",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 25 Oct 2011 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1BBYjI1djAwei13Sm5nUVkwN2EyVGdDUTdvZnZ3ZHZsekhvWG1fbmNDeWNKS2dYTk9VZkhsQU1oWkt4QVNLTmI1SEVJX3pkR084dS1jYWE1bkNuM21VQTB2UFRFUGhqdi1XSEJBdFVLRGRXM19sVXFjQXRfTmNpRlMyLXlObTJtdTFZSw?oc=5",
-    "source": "Legacy",
-    "title": "Karen Harris Obituary (2011) - Lexington, KY - Lexington Herald-Leader - Legacy",
-    "summary": "Karen Harris Obituary (2011) - Lexington, KY - Lexington Herald-Leader Legacy",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 5454.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "6277b88a454cec4b4924",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 10 Apr 2020 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONGR3aUtMUmFnSXIwNmJCQXd0TXBNS3JIeTFQandNeHhadDVwa0tpTHAwZWY4RlJ5a3dYbGt6NTNBbnJBZmtmXzZ5clFUOUxZZWF5UlpnTFl3Q2RyRDBwX054VHZpeVlPQXVsWHE3cHlYX2MxcnR3a3NGelRjQUdVU1AzSzhQd29M?oc=5",
-    "source": "Legacy",
-    "title": "Karen Harris Obituary (1942 - 2020) - Stony Point, NY - The Journal News - Legacy",
-    "summary": "Karen Harris Obituary (1942 - 2020) - Stony Point, NY - The Journal News Legacy",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 2364.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "e104e6d821bf67c46afc",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 04 Apr 2015 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNlhSUjU0a2Z1U24wMVh3bUFpcF9vT1pnXzJCTGxDeHlBbWF1RVpmOWJMbjdDZ3hBMjN6c0RvRWYwVzhZSjF2Qk1NODMtX25QcTZET05KRGk0N1otRkhyWEdDNGhQSUdzZXNUbmVrY0NuRERlOWpVaGFqbmFrRGl6eGxYRFk1bkE3TnlQYmVvWUExRHF4OHc?oc=5",
-    "source": "Legacy",
-    "title": "Karen Harris Obituary (2015) - 49, Asbury Park, NJ - MyCentralJersey - Legacy",
-    "summary": "Karen Harris Obituary (2015) - 49, Asbury Park, NJ - MyCentralJersey Legacy",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 4197.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "127fc45a0c0004c62990",
-    "entity_id": "kathleen_barr",
-    "entity": "Kathleen Barr",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "kathleen_barr",
-        "name": "Kathleen Barr",
-        "kind": "person",
-        "roles": [
-          "voice actor"
-        ],
-        "franchise_titles": [
-          "Highlander: The Search for Vengeance"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "voice actor"
-    ],
-    "franchise_titles": [
-      "Highlander: The Search for Vengeance"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 12 Oct 2017 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0NlWGQzQldETUl1MkI4MTRCaFZZQVBOT2d1a3g2dXRScGNQSzE3VGh0SnRCWnRkRno5bDBUZUZSN1g5cGRxWlJvRUExMXBvcVBiN2ZzY0dkUXVhVkRwX1hnVHpacG5JRURMcjhxWjdvSF9fdHZEWkhqZHlxaGd1bW9hNzV6ZWdheWN1NDgtRFR3cnRJTnE4a2NieTNUUQ?oc=5",
-    "source": "Legacy",
-    "title": "Kathleen Barr Obituary (2017) - Hamlin, NY - Rochester Democrat And Chronicle - Legacy",
-    "summary": "Kathleen Barr Obituary (2017) - Hamlin, NY - Rochester Democrat And Chronicle Legacy",
-    "evidence": [
-      "matched entity: Kathleen Barr",
-      "event: death (obituary)",
-      "source age: 3275.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "674628c09cf3ea34ee20",
-    "entity_id": "kathleen_barr",
-    "entity": "Kathleen Barr",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "kathleen_barr",
-        "name": "Kathleen Barr",
-        "kind": "person",
-        "roles": [
-          "voice actor"
-        ],
-        "franchise_titles": [
-          "Highlander: The Search for Vengeance"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "voice actor"
-    ],
-    "franchise_titles": [
-      "Highlander: The Search for Vengeance"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 07 Oct 2018 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONUVoLTNUek5tX0ZFeFRqU2JWTjIweG4yZTVLbHpldkdTUkRuZVJFVDA0RkFnOGd3aUtYa1Qxcm9KcjMxRFNFdXBsTjZuelRrUTRPVU51VUFjUUg4MjcxNVBWSGs4NXJtcXRtLWdpMEtXUWVvX1JKOTl6OEdaS1I3ZTFKcDJDTXlGc291bFZCOEpQTW8tTktMS3h0OTQzdw?oc=5",
-    "source": "Legacy",
-    "title": "Kathleen Barr Obituary (2018) - Rochester, NY - Rochester Democrat And Chronicle - Legacy",
-    "summary": "Kathleen Barr Obituary (2018) - Rochester, NY - Rochester Democrat And Chronicle Legacy",
-    "evidence": [
-      "matched entity: Kathleen Barr",
-      "event: death (obituary)",
-      "source age: 2915.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "b3d9a6bc7be02e1a3b2f",
-    "entity_id": "kathleen_barr",
-    "entity": "Kathleen Barr",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "kathleen_barr",
-        "name": "Kathleen Barr",
-        "kind": "person",
-        "roles": [
-          "voice actor"
-        ],
-        "franchise_titles": [
-          "Highlander: The Search for Vengeance"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "voice actor"
-    ],
-    "franchise_titles": [
-      "Highlander: The Search for Vengeance"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 25 Jun 2023 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxR0V2TGxJWjZKQ0tNa3NPTzRxYkJxdDMtZjNxdURBSlNZTHJEeUZFUnVaS0FfMUFrck1tX09nbE5UZFJtT2VXVGxkbjFCZGFmUjJPYmR5a044N3E1cngtS3Izc214WHBveDFtS0RWSk5hMnE1MVFXS3NnV2E?oc=5",
-    "source": "Legacy",
-    "title": "Mary Kathleen Barr Obituary (2023) - Scottsville, KY - Goad Funeral Home - Scottsville - Legacy",
-    "summary": "Mary Kathleen Barr Obituary (2023) - Scottsville, KY - Goad Funeral Home - Scottsville Legacy",
-    "evidence": [
-      "matched entity: Kathleen Barr",
-      "event: death (obituary)",
-      "source age: 1193.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0325747fef67c22a6017",
-    "entity_id": "kathleen_barr",
-    "entity": "Kathleen Barr",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "kathleen_barr",
-        "name": "Kathleen Barr",
-        "kind": "person",
-        "roles": [
-          "voice actor"
-        ],
-        "franchise_titles": [
-          "Highlander: The Search for Vengeance"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "voice actor"
-    ],
-    "franchise_titles": [
-      "Highlander: The Search for Vengeance"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 11 Oct 2019 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNck5oLVN6Z3FrXzJOUUpBdmNVS0VIR2JOLUlONUZrRi1wYnV4UVpDTHFPS3RxUDNCeEQ0RWdoTkxrcWYtcVZFUlJwa1BvSFVmVU5xNEFmVXB6LVlNYWFUYmg4VkpWbkM4U19UQTRob000bjFrcHBNYlZOLTNHRHRTWnVGeTdaRVlHTnZNdERyTkZkcXZ2Mmc?oc=5",
-    "source": "Legacy",
-    "title": "Kathleen Barr Obituary (1928 - 2019) - Anderson, SC - Anderson Independent-Mail - Legacy",
-    "summary": "Kathleen Barr Obituary (1928 - 2019) - Anderson, SC - Anderson Independent-Mail Legacy",
-    "evidence": [
-      "matched entity: Kathleen Barr",
-      "event: death (obituary)",
-      "source age: 2546.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "8a7c011ea57fc4718856",
-    "entity_id": "kathleen_barr",
-    "entity": "Kathleen Barr",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "kathleen_barr",
-        "name": "Kathleen Barr",
-        "kind": "person",
-        "roles": [
-          "voice actor"
-        ],
-        "franchise_titles": [
-          "Highlander: The Search for Vengeance"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "voice actor"
-    ],
-    "franchise_titles": [
-      "Highlander: The Search for Vengeance"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 29 Apr 2011 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaFNqc1FmTklRRnlhSE5JZjV3UnJBZjFPNTVMc3NJZjIyZkpvYWF6QlpVOXdqUDM1aVRqbHRfSWMtZVZ3d05TSEszUnJHeVh2R2ZsY3MwUWNhd044djVkMnV6bVJMQUdUM2JoQ29YNWJxUmdHX19QYWF1SHNVdGtValBXTVdOUlhBUHlj?oc=5",
-    "source": "Legacy",
-    "title": "Kathleen BARR Obituary (2011) - Sacramento, CA - The Sacramento Bee - Legacy",
-    "summary": "Kathleen BARR Obituary (2011) - Sacramento, CA - The Sacramento Bee Legacy",
-    "evidence": [
-      "matched entity: Kathleen Barr",
-      "event: death (obituary)",
-      "source age: 5633.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "7594bd61469866ff41a3",
-    "entity_id": "larry_ferguson",
-    "entity": "Larry Ferguson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "larry_ferguson",
-        "name": "Larry Ferguson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 30 Sep 2026 19:08:52 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORWx5OEZYQy1WSnFnWWVOVWN6dEEwQmVxNnZETE5aRVNJS3RiOG5tY3QyRi1NRFdhRm1GSzg2NTFaZ1dUQmVZanh3bEFOYkRCTmlzVWF2QVNVcXBFV2I0bXFMMDF0aUR4eGlNWGMxdC1IX0pKMWNBXzc5QjRIWUJkTlJpYmtBMEJDTXEwcnlxdXRiVFl1aDRJMjJn?oc=5",
-    "source": "Legacy",
-    "title": "Larry Ferguson Obituary (2026) - Franklin, NC - The Franklin Press - Legacy",
-    "summary": "Larry Ferguson Obituary (2026) - Franklin, NC - The Franklin Press Legacy",
-    "evidence": [
-      "matched entity: Larry Ferguson",
-      "event: death (obituary)",
-      "source age: 0.0 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
     "id": "d640d2778e91391024b4",
     "entity_id": "larry_ferguson",
     "entity": "Larry Ferguson",
@@ -52794,5 +52206,576 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "1e68bac9603f2b436cca",
+    "entity_id": "billy_hartman",
+    "entity": "Billy Hartman",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "billy_hartman",
+        "name": "Billy Hartman",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 54,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "interview",
+    "source_date": "Mon, 28 Sep 2026 07:00:00 GMT",
+    "captured": "2026-10-16T18:49:55Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSFF2QjZFMGNDWFNVUjNHay1rRDNJVVlaWlVjYmNIWl9UNDhNQ3VyR2ttNkROWms0TE44c0J1SThQODgwTlphY2RxYW1Ic3RnMjNWRGVwVkl4TzBRVVBhV3JyQlVTaEtLQ2Jsdk1SQV82UnR2M09VRE5LZEEzNjljRXo2UzZjWjNfQ3RYS212Tm82TV9YVmVhbzd5Z0MyYXkya2NNb1pWOTNkbEdVWWtweUlHR3lFWWM?oc=5",
+    "source": "Yahoo Finance",
+    "title": "How Programmatic is Reshaping Podcast Advertising: ART19’s Billy Hartman - Yahoo Finance",
+    "summary": "How Programmatic is Reshaping Podcast Advertising: ART19’s Billy Hartman Yahoo Finance",
+    "evidence": [
+      "matched entity: Billy Hartman",
+      "event: interview (podcast)",
+      "source age: 18.5 days"
+    ],
+    "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "830966654c06312ad1a2",
+    "entity_id": "dan_gordon",
+    "entity": "Dan Gordon",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "dan_gordon",
+        "name": "Dan Gordon",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Innocent Man",
+          "The Gathering"
+        ],
+        "score": 58,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Innocent Man",
+      "The Gathering"
+    ],
+    "event_type": "interview",
+    "source_date": "Fri, 12 Apr 2024 07:00:00 GMT",
+    "captured": "2026-10-16T18:49:55Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZDdvZDFvWktUaHhYb3lZM0tvaER2RlFlRVUzdkZIZnhpVUlRTmphTWlVM04tQlo2S0F5NGpDOWJIanRfQXVCc093dFZ3SHAtNlgtOUR1TzN2ektXUVdsZE5vdjRYa29fTThuTFI2RHpCUWpHSzg4QzFCMjczZzZrWjVMUk9rZTJqOU5FaDBrclptc2pORVBLZGRGYTAtTHZPbHFUSmFjT3JTWGxidVc4UHFtZkg4Rlo2ejVtbjB3?oc=5",
+    "source": "The Collision",
+    "title": "‘Irena’s Vow’: Dan Gordon (Screenwriter) Talks about the Film and Irena Gut’s Amazing Legacy and Faith - The Collision",
+    "summary": "‘Irena’s Vow’: Dan Gordon (Screenwriter) Talks about the Film and Irena Gut’s Amazing Legacy and Faith The Collision",
+    "evidence": [
+      "matched entity: Dan Gordon",
+      "context: screenwriter",
+      "event: interview (talks about)",
+      "source age: 917.5 days"
+    ],
+    "score": 58,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "7c785b93696d4bfb6231",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Fri, 16 Oct 2026 14:00:02 GMT",
+    "captured": "2026-10-16T18:49:55Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OQ3pBRDdUTk0xckZnZkxhUTR1bFlKaFg0T3Y2Z25uYW5zQ0h2d2FtamE3elJmZDNyZXhkX3JVZnZjTFkyT0JJOG1KWUQxNzJnZ05MOXlDVUJ1ZzJEeUx6blVqTGxIaWR0dVBzOWZfalV5YU5VUEE?oc=5",
+    "source": "Sports Illustrated",
+    "title": "Odeyingbo Injury, Sweat Suspension Leaves Bears Depending on Uncertain Cast of Edge Rushers - Sports Illustrated",
+    "summary": "Odeyingbo Injury, Sweat Suspension Leaves Bears Depending on Uncertain Cast of Edge Rushers Sports Illustrated",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.2 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "31360071d70647c237f5",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 52,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "new_project",
+    "source_date": "Fri, 16 Oct 2026 07:32:32 GMT",
+    "captured": "2026-10-16T18:49:55Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYnp4WGhabnVpRWUxbEdhMUhYbmotcUs5N3h0YjVuay1TZ0VqWWROVHJpU094bGlTWE91MmhMRUFkM3planV2Z2s3S1A5Ym1FSndKTHBtSkdUZEw2QVVDeWw3VlQ2cGx1eFhJWUxHbE02VlNWcUVvX0loZnlzVHFIOXM5XzNzVzFURXNKSGxVUkw4MUJPbUxTNnpIOA?oc=5",
+    "source": "MarTech Cube",
+    "title": "Consumer Edge Announced the Launch of Cosmos Intelligence Platform - MarTech Cube",
+    "summary": "Consumer Edge Announced the Launch of Cosmos Intelligence Platform MarTech Cube",
+    "evidence": [
+      "matched entity: Edge",
+      "event: new_project (announced)",
+      "source age: 0.5 days"
+    ],
+    "score": 52,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "2493e28ed6f193583d10",
+    "entity_id": "harvey_weinstein",
+    "entity": "Harvey Weinstein",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "harvey_weinstein",
+        "name": "Harvey Weinstein",
+        "kind": "person",
+        "roles": [
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "producer"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 15 May 2026 07:00:00 GMT",
+    "captured": "2026-10-16T18:49:55Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM2E2b0k4NGRqcGpwbDRubkZNRDkwSkJrY21OQXRkUlNsRkU2V0ZyQnRCclJKSWNNNXVQaWdDRTRBc1dIdnhieXExeXl5al9UNjV0a2hRQk8zMy1OVXNLRGE2WUMxNjZNNzd2NmhWQnhVRWdqcnBqMUZqLUFOZTRZOEtsOGtjNWVRNDJhRVJjTjdSOUpLdnF3ajlBWHBXODgwLS1vbUVqSW4zVW8zUlEycUZTdGo2TWtWMEM0QmMwSE9jQjJVb25TMS1YRWVZUdIB1gFBVV95cUxOQzZMd1A5M2NobTR5bGJ6UVVPVEZzdmxVQkhFQlFSQUhRWjJvVVlQS0FzN1JPajlGSTJTX0VISm5VU2NQNW53ZUpwRmE2UTgtbVF5WVJ4MjAzam9tc2RIeVZlci1ZaENyckMxN2NNa1I4SUhWX19qV0FCX0RpdW1CbWw3MEJTV0Q3WGdkd1FlcXUtR181QVBRUU9jNVctYkFta0d5Yi04VXBoWDZSZmZLUDdnYnFuZzVPS2tpalJYcm5DSUhJRWQtaFJtNjdwZzhVWDhEcU9R?oc=5",
+    "source": "NBC New York",
+    "title": "Mistrial declared in Harvey Weinstein rape retrial after jury deadlocks on allegations - NBC New York",
+    "summary": "Mistrial declared in Harvey Weinstein rape retrial after jury deadlocks on allegations NBC New York",
+    "evidence": [
+      "matched entity: Harvey Weinstein",
+      "event: death (dead)",
+      "source age: 154.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "cdd01844c7e2b2301c3d",
+    "entity_id": "mako",
+    "entity": "Mako",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "mako",
+        "name": "Mako",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander III: The Sorcerer"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander III: The Sorcerer"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 13 Oct 2026 21:30:36 GMT",
+    "captured": "2026-10-16T18:49:55Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHdQXzVWaExGbk5PNFhiUnlCWDJYQVlldWhiVWVGaGxvSmVWX0lDQ3IwUC0yc1ZrTDduZW9HbzNDR2hFNlhCOGZIX2ZaNHVMNmNlTlctVWZHX2dWbzVrZmZNLWgxQzN2MEpGQ3ljOHVkQjkzZFpHTVJVS3N5UjE3Sl9aLUNjSUZKaWJlcFUxazVPdnE0Wm9ZUDNkV0NpRm56dlF4VXNUR25YRzhRZzRqSjJYU2RlRXRjcEE?oc=5",
+    "source": "Orlando Sentinel",
+    "title": "SeaWorld Orlando closes Mako coaster after death at Six Flags Over Georgia - Orlando Sentinel",
+    "summary": "SeaWorld Orlando closes Mako coaster after death at Six Flags Over Georgia Orlando Sentinel",
+    "evidence": [
+      "matched entity: Mako",
+      "event: death (death)",
+      "source age: 2.9 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "4f281abfe9cc4f7932ea",
+    "entity_id": "mako",
+    "entity": "Mako",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "mako",
+        "name": "Mako",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander III: The Sorcerer"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander III: The Sorcerer"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 16 Oct 2026 17:27:50 GMT",
+    "captured": "2026-10-16T18:49:55Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWFg3bGlGWVBGODBISlBoemc4bThTM2JkbmoyeFpKcnZHNDVoOEdxLVprSzdzQzQ4VVI0bDZYbnFYX0RqVTZSZU5rZDRvcVgtdEU1MEc3UjEwT3ZNRE1WanVpOTBESGhqU3U1cUY5Tk1nNnlDTmNnOU9PblhVODRxN1lCV3A?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Masako \"Mako\" Sanehira Obituary (2026) - Hilo, HI - Dodo Mortuary, Inc. - Hilo - Legacy | Obituary",
+    "summary": "Masako \"Mako\" Sanehira Obituary (2026) - Hilo, HI - Dodo Mortuary, Inc. - Hilo Legacy | Obituary",
+    "evidence": [
+      "matched entity: Mako",
+      "event: death (obituary)",
+      "source age: 0.1 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "ba16309c3503b4cec2d4",
+    "entity_id": "mako",
+    "entity": "Mako",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "mako",
+        "name": "Mako",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander III: The Sorcerer"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander III: The Sorcerer"
+    ],
+    "event_type": "health",
+    "source_date": "Fri, 16 Oct 2026 07:07:00 GMT",
+    "captured": "2026-10-16T18:49:55Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3g2YkNmZHVxVzh6bHVBUzNsMWNOd3VNX0VNYWhXUmtoTkgzcTUtamYtS2RJME1ZSWZWU3JEdXdHNkxWYWxFZUlkVmV2QXg0ZnRNcjFRRkp6U21Dd1VybE05WmFpVW5YTTFlMkVFdGozS21talVVVUp5ekhCNkItQ3YzLVRjYVRkTWVHeUJvOTN4WmJXX1lmMlNDM0EyRUxfOUppODdIOEpxY3N2M3ZvdlZzZw?oc=5",
+    "source": "Digital Health News",
+    "title": "KIMS Hospitals to Bring Stryker’s Latest Mako 4 Robotic Technology to Karnataka - Digital Health News",
+    "summary": "KIMS Hospitals to Bring Stryker’s Latest Mako 4 Robotic Technology to Karnataka Digital Health News",
+    "evidence": [
+      "matched entity: Mako",
+      "event: health (hospital, health)",
+      "source age: 0.5 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "907b1b25826712b96b03",
+    "entity_id": "roxanne_hart",
+    "entity": "Roxanne Hart",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "roxanne_hart",
+        "name": "Roxanne Hart",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 05 Mar 2024 06:45:29 GMT",
+    "captured": "2026-10-16T18:49:56Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40RUlCVmJpQVlNa3lmdUFZLTJFOEpVWFJqQVJEOTVVeFB5bk5NX0o5ZkIzNmtiNXdaM2xtMHhxNzBpeVBRWUlpTDkzbzBJalp6Nm9fcC0yVlZaeU9sUm5CZ243UE4xY1NrVzA1Vm5tdHE?oc=5",
+    "source": "Chicago Tribune",
+    "title": "Roxanne Hart Obituary - Chicago - Chicago Tribune",
+    "summary": "Roxanne Hart Obituary - Chicago Chicago Tribune",
+    "evidence": [
+      "matched entity: Roxanne Hart",
+      "event: death (obituary)",
+      "source age: 955.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "7b9f0fb76816c139f2db",
+    "entity_id": "scott_peters",
+    "entity": "Scott Peters",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "scott_peters",
+        "name": "Scott Peters",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "Reluctant Heroes",
+          "The Immortal Cimoli"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "Reluctant Heroes",
+      "The Immortal Cimoli"
+    ],
+    "event_type": "health",
+    "source_date": "Fri, 16 Oct 2026 17:12:33 GMT",
+    "captured": "2026-10-16T18:49:56Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ1BaQmZ4LUpMM2xZSVUzTDR2bGM1c0dlQkxpc2lLV2k2LU80UVZ0eVpabklQR2xOY1V2dHluN1p6YjlWOTFHR2ZsQWVZNHRyRy1xdXNicGw4V0VEME4tSjdoTGRqMGFSWi1mTEJfcHZocFBRdFBJc29tUVVnZlRuSUY1RWMtMl9adTdNeFBnSlB1X0ZMRTlRNjRmT2VqTmI3Y3dUWHVHcDl0RFFPSFktLVBhZG94Nnh4cF9nemdPNEYtRGJQVFoweTlETm5HeDlqZl82aDdzZ3R0NkhURGlsTm44OUU1eV95amt6Xzd3?oc=5",
+    "source": "Investing.com",
+    "title": "Scott Peters makes significant trades in California State Government and Charlotte-Mecklenburg Health - Investing.com",
+    "summary": "Scott Peters makes significant trades in California State Government and Charlotte-Mecklenburg Health Investing.com",
+    "evidence": [
+      "matched entity: Scott Peters",
+      "event: health (health)",
+      "source age: 0.1 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "b3f8dc069ada1cd6a7de",
+    "entity_id": "steve_arnold",
+    "entity": "Steve Arnold",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "steve_arnold",
+        "name": "Steve Arnold",
+        "kind": "person",
+        "roles": [
+          "director of photography"
+        ],
+        "franchise_titles": [
+          "Highlander: The Source"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director of photography"
+    ],
+    "franchise_titles": [
+      "Highlander: The Source"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 08 Apr 2025 20:06:23 GMT",
+    "captured": "2026-10-16T18:49:56Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wWmZEZkg5eGl6MDB4aWcxbU5ua09jVTNuY2VuTjRHcU5GUU45VjJGd056cEVEUFlqWEFodWRTZlVaSEtGVDVjVlBabWVmWVpJdWh6aXFHS0k0S3lwM1N5RjNIeF9yS2NTX1F5Y0JJTHU?oc=5",
+    "source": "Tribute Archive",
+    "title": "Steve Arnold Obituary | Webb Funeral Home | Spruce Pine, NC - Tribute Archive",
+    "summary": "Steve Arnold Obituary | Webb Funeral Home | Spruce Pine, NC Tribute Archive",
+    "evidence": [
+      "matched entity: Steve Arnold",
+      "event: death (obituary)",
+      "source age: 555.9 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "486ea5ee6f489ec7485e",
+    "entity_id": "terry_nelson",
+    "entity": "Terry Nelson",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "terry_nelson",
+        "name": "Terry Nelson",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "The Road Not Taken"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "The Road Not Taken"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 09 Sep 2021 07:00:00 GMT",
+    "captured": "2026-10-16T18:49:56Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWFNVlRuSEFzQ3pZQktObFRVM1lNYXBkdmVnN3lUU1Z1MHdLTHd6MHB0R0RiZ1pUVkVobUxJbEdwZWtPZGt0c2FtQThEWUhCOVFLMzhraWVORGxlN1h6Q0FvOXdSMEFTSVM3Y1htblluTlBlY2hDWmtLSDNOTThqQ3YyM2VfM0xHYW9lTA?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Terry Nelson Obituary (1950 - 2021) - Eau Claire, WI - The Chippewa Herald - Legacy | Obituary",
+    "summary": "Terry Nelson Obituary (1950 - 2021) - Eau Claire, WI - The Chippewa Herald Legacy | Obituary",
+    "evidence": [
+      "matched entity: Terry Nelson",
+      "event: death (obituary)",
+      "source age: 1863.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

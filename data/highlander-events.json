@@ -1,56 +1,5 @@
 [
   {
-    "id": "5c8cc39461bf2ba9400d",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 21 Oct 2021 22:30:47 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU01ON0FXVEZ2QWNZTVhUcTFyRlc5MDVTRU9TLW5VTnZLdks3N1p6bnpwYlBrZnlsVGpYYWRHVC14bjU5QWRVR0t2aU9ZTWRLbFdsck5oMVBqN2p1dlRtb1JoZDdReVF3dTh5ZnpReXlKS3hoVXBnakN6Rlc2a1NqVUZaNkZ5bkNIOFVEV0ZpSTBKMzAyTjZRLQ?oc=5",
-    "source": "Legacy",
-    "title": "Karen Harris Obituary (2016) - Frederick, MD - The Frederick News-Post - Legacy",
-    "summary": "Karen Harris Obituary (2016) - Frederick, MD - The Frederick News-Post Legacy",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 1804.9 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "7d2c721545ed9ea08583",
     "entity_id": "karen_harris",
     "entity": "Karen Harris",
@@ -52783,5 +52732,67 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "964b2431a464dc420a15",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 16 Oct 2026 14:31:59 GMT",
+    "captured": "2026-10-16T18:17:24Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lSmw2ZkdPUF90ZEtYaktpQW90R0Vmc3cxY2pYaUNWc2ZLc0Zod2xWUl9OQkgxdEhaRExJRnRhbHBjTlR6elMza1VCbHNoQl9QWTEzR0FGbXdObklFcFNRMVJTLTdDVFU?oc=5",
+    "source": "IMDb",
+    "title": "WWE Star Drew McIntyre Officially Reveals Henry Cavill's Shocking New Skill in 'Highlander' [Exclusive] - IMDb",
+    "summary": "WWE Star Drew McIntyre Officially Reveals Henry Cavill's Shocking New Skill in 'Highlander' [Exclusive] IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.2 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

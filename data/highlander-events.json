@@ -1,99 +1,5 @@
 [
   {
-    "id": "0b68a6e2700d2a3ba397",
-    "entity_id": "mario_van_peebles",
-    "entity": "Mario Van Peebles",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "mario_van_peebles",
-        "name": "Mario Van Peebles",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander III: The Sorcerer"
-        ],
-        "score": 54,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander III: The Sorcerer"
-    ],
-    "event_type": "interview",
-    "source_date": "Fri, 24 Sep 2021 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZXkxZnM3blhkSWVmeng0Z0p3SWdnTDktZTl5VTBKUWFoWnlpR25sbG5fQzhveHk3RkpZZjQ2UUI2dzdOSnExaW96YXRDVXZXblpuZUx2WlBuRDhEQVduZk5LTVQzczdzRk11NnhwYm9QT3M1d1N1V2JKU1pJb2lUQ09LNWljcnRDZFZMYTBIYWM1c1dBUjQwLWY4N296U0dYWU55SVlKODJRekFJcGoxdzgwSFNWUUp4RlNXYmVMT1ViMENsZ2lXN3N5eVV2dWhNQm9FWGE5SWhHVGJRWTA1dXFrWQ?oc=5",
-    "source": "ms.now",
-    "title": "‘Beautiful exit’: Mario Van Peebles reflects on his iconic father’s film and civil rights legacy - ms.now",
-    "summary": "‘Beautiful exit’: Mario Van Peebles reflects on his iconic father’s film and civil rights legacy ms.now",
-    "evidence": [
-      "matched entity: Mario Van Peebles",
-      "event: interview (reflects on)",
-      "source age: 1832.5 days"
-    ],
-    "score": 54,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4e985dc6d067ab1a9d5c",
-    "entity_id": "mario_van_peebles",
-    "entity": "Mario Van Peebles",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "mario_van_peebles",
-        "name": "Mario Van Peebles",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander III: The Sorcerer"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander III: The Sorcerer"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 07 Sep 2017 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWhDRWtoUU9xMmM2ZG1kTno2RlBWNlRvT1FXNVBHdktNSUY0Mk5fNGw4TlYxUkNQbWF6a2pNbDM5N0ZsMi1VNHhjUFdLQk9UaEhVclpCSnV5OG91UjM2YWFlOWZVWFdzbzdLZEZZVl91alBudHE0dGFsZHdRb194SWhuT2RCVkp5b2laUGdwODNwb0FPTVVMT1FIajZBZFJsa0E?oc=5",
-    "source": "Deadline",
-    "title": "Mario Van Peebles’ Thriller ‘Armed’ Acquired By Hannibal Pics - Deadline",
-    "summary": "Mario Van Peebles’ Thriller ‘Armed’ Acquired By Hannibal Pics Deadline",
-    "evidence": [
-      "matched entity: Mario Van Peebles",
-      "event: death (dead)",
-      "source age: 3310.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "369659cbfc6f67cbaad4",
     "entity_id": "michael_jayston",
     "entity": "Michael Jayston",
@@ -52876,5 +52782,115 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "27f5b692b563ba991e61",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 13 Oct 2026 14:00:38 GMT",
+    "captured": "2026-10-17T22:34:56Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jdTZkZmJQT0xqYV9PMG1jQWdxQm9IeGNDVDd6Q2ppZ2R3b0x4Z3ZEQUxBU3ZrZTVXNDBKVzFfODRWZkF6OU9QYXRMR0ZmRFFIbXJZUU5SX2lEeVVn?oc=5",
+    "source": "YouTube",
+    "title": "Drew McIntyre on Highlander With Henry Cavill & Russell Crowe and New ReelShort Series - YouTube",
+    "summary": "Drew McIntyre on Highlander With Henry Cavill & Russell Crowe and New ReelShort Series YouTube",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 4.4 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "89be712d5a9d2b75f6c9",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 17 Oct 2026 17:30:14 GMT",
+    "captured": "2026-10-17T22:34:56Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSHN5bWI3bHUyMUpxcmU2bUo1VkZqWWszOXFmbUU3OTBSeFJDOXFwZmptMXJmcTRheXI1NEVGZWNtUXdKckdtZTI5XzVmYjRTdkpUd3hKazdsd3c5cThjNnp3RktMUVZjQWhfbnBHT1pRbC1peVdNMW45LWhQTEpOWA?oc=5",
+    "source": "Comic Book Resources",
+    "title": "John Wick Meets The Witcher in Henry Cavill's New 80's Fantasy Movie Reboot - Comic Book Resources",
+    "summary": "John Wick Meets The Witcher in Henry Cavill's New 80's Fantasy Movie Reboot Comic Book Resources",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 0.2 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

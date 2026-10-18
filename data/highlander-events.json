@@ -1,62 +1,5 @@
 [
   {
-    "id": "94f3209253841bad573a",
-    "entity_id": "michael_o_mahony",
-    "entity": "Michael O'Mahony",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "michael_o_mahony",
-        "name": "Michael O'Mahony",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Chivalry",
-          "Dramatic License",
-          "Justice",
-          "Methuselah's Gift",
-          "The Stone of Scone",
-          "Till Death"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Chivalry",
-      "Dramatic License",
-      "Justice",
-      "Methuselah's Gift",
-      "The Stone of Scone",
-      "Till Death"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 13 Jan 2022 05:29:27 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hWkNMVlV1M2ttWlBKNVNmajYtQVQyMkdPRFd0T3FxQW5RWmdtOUFHZmNabXl1SlN1RDlTNXBXNjJUaFlHcl9kU29QZTYyRG13SWtZR1ZaVlJfQVY0S3RORXlhN0c2bkl3bldFZ1hn?oc=5",
-    "source": "Melson's Funeral Services",
-    "title": "Joseph Michael O'Mahony Obituary Dec 25, 2021 - Melson's Funeral Services",
-    "summary": "Joseph Michael O'Mahony Obituary Dec 25, 2021 Melson's Funeral Services",
-    "evidence": [
-      "matched entity: Michael O'Mahony",
-      "event: death (obituary)",
-      "source age: 1721.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "28b35de6d1c5267bfd05",
     "entity_id": "edge",
     "entity": "Edge",
@@ -52939,5 +52882,68 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": true,
     "status": "new"
+  },
+  {
+    "id": "298fcc13b702b2562586",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 20 Aug 2024 07:00:00 GMT",
+    "captured": "2026-10-18T17:29:55Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xUVNKMXgxRHMtdWhkdFhXXzFBVG1rUlFaX1ptNXRuQl90UEFEdEVoenA0RFVMYWZqQ29od0ZhN21NQlR3ZEVOZUZ4Y09nQzdyZWphT3FIRUE0ejJDX3hKODFndGI1ekRTdjBmMThhTVpjekd4?oc=5",
+    "source": "giant freakin robot",
+    "title": "Highlander Reboot: Everything About The Henry Cavill Movie - giant freakin robot",
+    "summary": "Highlander Reboot: Everything About The Henry Cavill Movie giant freakin robot",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 789.4 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

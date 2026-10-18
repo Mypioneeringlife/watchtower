@@ -1,146 +1,5 @@
 [
   {
-    "id": "369659cbfc6f67cbaad4",
-    "entity_id": "michael_jayston",
-    "entity": "Michael Jayston",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "michael_jayston",
-        "name": "Michael Jayston",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander III: The Sorcerer"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander III: The Sorcerer"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 05 Feb 2024 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcGtkM2xzZ3NwQmhZNFpva052UmUzUC1zU19Bck5wNnJIVEpWZ0Nubk5xRmRpM3dLS1QyaHlMM0FlbWV2X1VBVEhNbUNwMUplRzZGUDlaNkJ4djFDT09LcWNJQmwwdWN0MUV6X2ZfYzBrc2E2Wm5rWTFCUHV6MmtUdGFZMA?oc=5",
-    "source": "theguardian.com",
-    "title": "Michael Jayston obituary - theguardian.com",
-    "summary": "Michael Jayston obituary theguardian.com",
-    "evidence": [
-      "matched entity: Michael Jayston",
-      "event: death (obituary)",
-      "source age: 968.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "a2106af231609f453c86",
-    "entity_id": "michael_jayston",
-    "entity": "Michael Jayston",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "michael_jayston",
-        "name": "Michael Jayston",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander III: The Sorcerer"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander III: The Sorcerer"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 06 Feb 2024 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd1V1NWpUYkhJRlRhR1ZoOEhYbFFmSlNQZThVamU5bHFNZVA3NXh3Zm5nbGt6b3hCRHljSlUyb3JSaUF5QW1wNU93OHN1R3BkMGIzRkRjbXBHUFhnWVkyNEVURjJyaVRRNi04MEdrSXFXY3ZUczhPa0Zva25vc081LWVkVmd0cFI3LVRsWHliOA?oc=5",
-    "source": "mi6-hq.com",
-    "title": "James Bond radio actor Michael Jayston dies aged 88 - mi6-hq.com",
-    "summary": "James Bond radio actor Michael Jayston dies aged 88 mi6-hq.com",
-    "evidence": [
-      "matched entity: Michael Jayston",
-      "event: death (dies)",
-      "source age: 967.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "347f5cfc7c1f2e21781b",
-    "entity_id": "michael_jayston",
-    "entity": "Michael Jayston",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "michael_jayston",
-        "name": "Michael Jayston",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander III: The Sorcerer"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander III: The Sorcerer"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 05 Feb 2024 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzdqWC1QRllUeXZqSnFGRDJpR0tTQlNlOFpwRU8yTExuMEVkeTdqRW4yVmpXWWdlRk8xSFRJazBrSnJ3OEJOLXFaLTNBN2U3UjJ0SWQyTE8zYU5LN01rRTg5T3hjWmhMSURuQkZ1ZjRzZGdPZXJSdEY0dDVWTG4ycjB0MDhtTWxNdmQ4bWZFNm9rbkVUZkozX3Z3aE95eGowbE9DaG1yXzZHMkczUVE?oc=5",
-    "source": "North Wales Chronicle",
-    "title": "Only Fools And Horses actor Michael Jayston dies aged 88 - North Wales Chronicle",
-    "summary": "Only Fools And Horses actor Michael Jayston dies aged 88 North Wales Chronicle",
-    "evidence": [
-      "matched entity: Michael Jayston",
-      "event: death (dies)",
-      "source age: 968.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "3193d54a1fdd341b6985",
     "entity_id": "michael_kamen",
     "entity": "Michael Kamen",
@@ -52892,5 +52751,175 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "72d48f74152a58202756",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sun, 18 Oct 2026 02:51:20 GMT",
+    "captured": "2026-10-18T07:23:45Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EVE41Zk9rMGVLdzdPbjBaQXNKOExpN2o4bmVxMVVpUllOY1JKbkt3dGlOR3pNUVhtbmZIanFidHpFaWxITmtnUS1YRjVIS3RqQXNvRzJtWDd2dzUxZjZiLV9BVGM?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill toma el relevo de Christopher Lambert como Connor MacLeod en el reboot de ‘Los inmortales’ - IMDb",
+    "summary": "Henry Cavill toma el relevo de Christopher Lambert como Connor MacLeod en el reboot de ‘Los inmortales’ IMDb",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "context: Connor MacLeod",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (78)",
+      "source age: 0.2 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "aac48a66c45a223255ea",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 07 Sep 2023 07:00:00 GMT",
+    "captured": "2026-10-18T07:23:45Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTWFZWdDlkWU1LQ0xCZjhqUW1RbHp4MDNIY204VHotMmZmWVJZRU1FOExKdFFiQ3M4SlRTb2Z3dUJTR3haM3BYUjVWWWJWTmFHVnZjeGlFcloxMk5l?oc=5",
+    "source": "YouTube",
+    "title": "Entire Highlander Story And Movie & TV Franchise Explored In Detail - YouTube",
+    "summary": "Entire Highlander Story And Movie & TV Franchise Explored In Detail YouTube",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 1137.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "7cf2556f4ec8526aef12",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 17 Sep 2026 07:35:12 GMT",
+    "captured": "2026-10-18T07:23:45Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3lvUzBRcHdKNzhQY2l2eXZqcnpKS1BWa3pkSmRrT05yOW10WDZSNmZfUG9mTm5Cc2VCYy0zeTNWOUFRenc2RG9fcDQ4bDVTYy1ZRVczSXlCaHlQXzZQZEFfd0FGa2hUbDE3UWFvWWU0LWUwbGlHUWtoQjdRbFRJR3dZbm9Rb2xCZEtoRXhpVHJYRV8xMWJkZnMtQ3o3Yjg?oc=5",
+    "source": "Comic Geeks",
+    "title": "New Limited Series: Highlander: The Original Screenplay - Comic Geeks",
+    "summary": "New Limited Series: Highlander: The Original Screenplay Comic Geeks",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 31.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

@@ -1,2972 +1,5 @@
 [
   {
-    "id": "28b35de6d1c5267bfd05",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 10 Oct 2021 13:40:20 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWjFpVm5aS2h4TE1UenlEWGVsMVhGTkhpNGNjY0NBd1QzdDkyenV3Z2tXZXMyUER6S0Z6TjNsREhnZk1SOFBEUl9ZRVR0UHJ4cGhNVEVoZktsbVJqdWlwX0RQWXNlbmd4djNkRlhiUkxrYWdtVU9oN1ZKczV2Z0xUNUJFT19qSy02dEc0MzJldVJSNUJYdGotbVFOY243NEE?oc=5",
-    "source": "Legacy",
-    "title": "Carol O'Mahony Obituary (2011) - Quincy, MA - The Patriot Ledger - Legacy",
-    "summary": "Carol O'Mahony Obituary (2011) - Quincy, MA - The Patriot Ledger Legacy",
-    "evidence": [
-      "matched entity: Edge",
-      "event: death (obituary)",
-      "source age: 1816.3 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d449ca5d9e8be94fd58b",
-    "entity_id": "patricia_gage",
-    "entity": "Patricia Gage",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "patricia_gage",
-        "name": "Patricia Gage",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Raven"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Raven"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 01 Apr 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTzV2NGZlcTM5Nm5pQnpIQjI3QXo1SnJlbkhySjFzTjNYcUFGUHJWY0pYOGQweVQ1LW9abUQyUmFzaTAzQ2pzWlJaeGRNYnFQRjNabjJZRzFJTG9qNzEwTmY4RkExSGpYOXJTZFlmNGJiNEF4Tmh0Q2hzR3JyVUlsRG13?oc=5",
-    "source": "Legacy",
-    "title": "Patricia Gage Obituary (2026) - Santa Fe, TX - Legacy",
-    "summary": "Patricia Gage Obituary (2026) - Santa Fe, TX Legacy",
-    "evidence": [
-      "matched entity: Patricia Gage",
-      "event: death (obituary)",
-      "source age: 182.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "3f1a3c688cb31e81a7d1",
-    "entity_id": "patricia_gage",
-    "entity": "Patricia Gage",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "patricia_gage",
-        "name": "Patricia Gage",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Raven"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Raven"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 03 Jun 2025 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcDVoVUo5U2VHLUpzbHZzZEFhaDEyYUYyWFNRQUpTSS1DOVJJZnlURGdHWmIwMGw2c0ZDV3hXeC1xUTNVdXc1cjYxZElPdFRpYnJJSk5BX2tNOHBLaXQ2Q3dDUURUMXZoSXBja2dJb0o5VUhuWGF6S1hqc0t5aHVWQjZKOWh3VGpCMGNRR01R?oc=5",
-    "source": "Legacy",
-    "title": "Patricia Gage Obituary (1933 - 2025) - Madison, WI - WiscNews.com - Legacy",
-    "summary": "Patricia Gage Obituary (1933 - 2025) - Madison, WI - WiscNews.com Legacy",
-    "evidence": [
-      "matched entity: Patricia Gage",
-      "event: death (obituary)",
-      "source age: 484.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "603a3c8f3eb8cfea75d6",
-    "entity_id": "patricia_gage",
-    "entity": "Patricia Gage",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "patricia_gage",
-        "name": "Patricia Gage",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Raven"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Raven"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 03 Oct 2021 23:42:41 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjVnMkpUa183dFhhYVBkLXowWXI0X243U0VCWl9nZ1pMVnZEcGZMOC1zaFRkUzI3T3pLcnowUzh1X0g3Y1NQZE5mQU0yV2VJT1N6REFRNHVtTVhQVEhCRUx4VzZfWlJyRE95TnNuTno5cC1uZ2FKa0FhaVhqeWNSTnNIaHZLWlFJdG1xTzQ1Tzh3b3llZnd0Z1VB?oc=5",
-    "source": "Legacy",
-    "title": "Patricia Gage Obituary (2020) - Visalia, CA - Tulare County - Legacy",
-    "summary": "Patricia Gage Obituary (2020) - Visalia, CA - Tulare County Legacy",
-    "evidence": [
-      "matched entity: Patricia Gage",
-      "event: death (obituary)",
-      "source age: 1822.8 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "9326080bde27c3342d2c",
-    "entity_id": "patricia_gage",
-    "entity": "Patricia Gage",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "patricia_gage",
-        "name": "Patricia Gage",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Raven"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Raven"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 18 Jan 2024 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQlJZOWtWMHpiOGNwbWExSVR0dFV6TnZsbXlvelVwb0NCNnhVaTJDVm8zYVJtQW1HWGw4VU91U2xEcl9TMk14V3hYMHBPdFRSc0JNVUhnWi1Pam1aN1BpQ09FUlhac25zZXRKbHMxWnBWc1RaQjQ2aVFnQlZGcUluTW02YWk3RXg2ejhyN3pDOGE3UDdUUVRZc1Fn?oc=5",
-    "source": "Legacy",
-    "title": "Patricia Gage Obituary (2024) - Schoharie, NY - Albany Times Union - Legacy",
-    "summary": "Patricia Gage Obituary (2024) - Schoharie, NY - Albany Times Union Legacy",
-    "evidence": [
-      "matched entity: Patricia Gage",
-      "event: death (obituary)",
-      "source age: 986.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "58b71e20ec17f6e9039f",
-    "entity_id": "patricia_gage",
-    "entity": "Patricia Gage",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "patricia_gage",
-        "name": "Patricia Gage",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Raven"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Raven"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 28 Apr 2020 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd08tWC00MGJTb0hXdDVXSHJIRXQ5dVJwQW8wTExOMENfQnhZMEgwNm1icHlxdVpib0JnNGpCdWhDZ2F5bWx3TWpkRUhKcTV3Nlc1MDExQ2wwQUFmM29FakJmQXRIYzlscGxmdDNMQmZVdkxKOHh3TXBxa0FEUC1NVkozSkhwZE1GRkpQM3RSUlpDRDg?oc=5",
-    "source": "Legacy",
-    "title": "Patricia Gage Obituary (1935 - 2020) - Schenectady, NY - The Daily Gazette Co. - Legacy",
-    "summary": "Patricia Gage Obituary (1935 - 2020) - Schenectady, NY - The Daily Gazette Co. Legacy",
-    "evidence": [
-      "matched entity: Patricia Gage",
-      "event: death (obituary)",
-      "source age: 2346.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0595c596198a19e20247",
-    "entity_id": "patricia_gage",
-    "entity": "Patricia Gage",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "patricia_gage",
-        "name": "Patricia Gage",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Raven"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Raven"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 05 May 2018 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYi1HYk1zT2NWTHd0VU51RGhocWYwMEUweVJBbi1FcC1NTTl6NDIxbDk2VVlnX2dzNGRCbEVvUTIzZXkzN2lrbzB3Nm0xUzdxZXh2Wm16aEctcW5UemV2WVpFZkQzNlF3RVRyY0E1SEFDLVNkcEM0cHhsb2ZSNW42ZXhSY1VaX1k?oc=5",
-    "source": "Legacy",
-    "title": "Patricia Gage Obituary (2018) - 75, Belford, NJ - Asbury Park Press - Legacy",
-    "summary": "Patricia Gage Obituary (2018) - 75, Belford, NJ - Asbury Park Press Legacy",
-    "evidence": [
-      "matched entity: Patricia Gage",
-      "event: death (obituary)",
-      "source age: 3070.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "3a0f3bdb98933ab68891",
-    "entity_id": "paul_johansson",
-    "entity": "Paul Johansson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "paul_johansson",
-        "name": "Paul Johansson",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Raven"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Raven"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 05 Jan 2020 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3liVlotRFY2b25qY0c0R09ZNW4xc3VRR1R5VWh0QXJKSTZneVNSd19Jb2NhVE9EVUwtbWZ2Q3doSGcyRWpTaXZFVF9uaHlzLUUtUkJtckkzSUFOUi1UazI5TVROc0ZoLVZvMnJCNG0zOFdwTERfdVpUbGVzUVdaQXI3REJ6RWIwSWRqNHl0WE5jNDA?oc=5",
-    "source": "Legacy",
-    "title": "PAUL JOHANSSON Obituary (2020) - JOHNSBURG, IL - Daily Herald - Legacy",
-    "summary": "PAUL JOHANSSON Obituary (2020) - JOHNSBURG, IL - Daily Herald Legacy",
-    "evidence": [
-      "matched entity: Paul Johansson",
-      "event: death (obituary)",
-      "source age: 2460.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "e049724241d0ec750a32",
-    "entity_id": "peter_diamond",
-    "entity": "Peter Diamond",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_diamond",
-        "name": "Peter Diamond",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 06 May 2013 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMVRJekVXQ0NMQjlpRHp1LUVGamNDbno4WUxwM0ZsN3RfMko0WFdDX0JhcEJ6a1BWdzM5X3FMR1pXelBMVXhWdlViS2JlQmpwNlNxcWhrcnktZFNMSmtmOHR0eHZ0UkI2Ul9QTEdoN0hYNG5GSmhaSXYyUzFmMHVvZUw3N2tBbnZsc2hER0RhN2Y?oc=5",
-    "source": "Legacy",
-    "title": "Peter DIAMOND Obituary (2013) - Cincinnati, OH - The Cincinnati Enquirer - Legacy",
-    "summary": "Peter DIAMOND Obituary (2013) - Cincinnati, OH - The Cincinnati Enquirer Legacy",
-    "evidence": [
-      "matched entity: Peter Diamond",
-      "event: death (obituary)",
-      "source age: 4895.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "6411aceff9af4b9ddf7b",
-    "entity_id": "peter_diamond",
-    "entity": "Peter Diamond",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_diamond",
-        "name": "Peter Diamond",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 30 Dec 2011 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYVhkS01HT3laaUF2Qnpoai13M2lGM1pMVTVVVjEwTnZQSXdnN2ZWM3B1dHJ3M2hnNUFLRlIyVVUwOXhGSU1OQ0lsd0Jxdno2bkFJZEYzbUc4aWtnN1E2anJJM2JXWVJiTC1rMDNZTTU4eF9kMmFIU3R4ZmNWQjhaSWUzZTRacXlJRlExWjJKSWNUbEFFVzBtenpOWElJRXNhai04Tg?oc=5",
-    "source": "Legacy",
-    "title": "Peter DIAMOND Obituary (2011) - Edinburgh, City of Edinburgh - Edinburgh News - Legacy",
-    "summary": "Peter DIAMOND Obituary (2011) - Edinburgh, City of Edinburgh - Edinburgh News Legacy",
-    "evidence": [
-      "matched entity: Peter Diamond",
-      "event: death (obituary)",
-      "source age: 5388.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "8ce44bd5ba1b19cdb4ab",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 22 Jul 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41Q0VBN0p3YThzSHE0NnpLNEVWbGxwbmNjT1Izd2J3Nk1NY1FpVXBwODVySWl1SkpRYlZlc21hdGJVQ0xPZWVlQ01MTnFQdEd4RTJzZlR0Yms0QTE0TjBOc2p4bzA3VGxSNU5qWlpnWGZNXzFmNUE0MHdiSlhRN2c?oc=5",
-    "source": "Legacy",
-    "title": "Peter Ellis Obituary (2026) - Waterbury, CT - Chapel Memorial Funeral Home - Waterbury - Legacy",
-    "summary": "Peter Ellis Obituary (2026) - Waterbury, CT - Chapel Memorial Funeral Home - Waterbury Legacy",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (obituary)",
-      "source age: 70.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "cd6461bc6f33769530f5",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 17 Mar 2023 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUdRQnlGMzFJNzBwOWFoakdld3VzbUE1ejdudmdubGp5Y05ETXpFbERRWUs0Rk9WTS1UbF82WDVjM2lObktmUWRFZEhHMzZUd3NpSjJqSHY1Tmp6aUg5ZWdnTlFCQ1h1dW0zRER1bXlqOGNGY0RkOWpqb3h5VVZhb2VJMkxMTFNOQXNzSg?oc=5",
-    "source": "Legacy",
-    "title": "Peter Ellis Bower Obituary (1981 - 2022) - Taft, CA - Anchorage Daily News - Legacy",
-    "summary": "Peter Ellis Bower Obituary (1981 - 2022) - Taft, CA - Anchorage Daily News Legacy",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (obituary)",
-      "source age: 1293.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "1ee2e76eedea087dbd52",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 09 Mar 2024 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9saGR3ZWxXR05Ra3ZSM05tSERiNUZEWEU4ZjM1d2hwUnZiZlFlMXRjY3pzRUE3OVYycDdrMVYzVnluN0NSTVFrSWRaOE1tcWFkaW8zWWcxM0w3aW1vR1N6X0dBaEhEak9IXzFsNmFNbzFPMkhOS1JONXdwUTFJczA?oc=5",
-    "source": "Legacy",
-    "title": "Peter Ellis Obituary (2024) - New York, NY - Riverdale Funeral Home, Inc. - New York - Legacy",
-    "summary": "Peter Ellis Obituary (2024) - New York, NY - Riverdale Funeral Home, Inc. - New York Legacy",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (obituary)",
-      "source age: 935.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5ea86ee73ab3ff6eb8bd",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 13 Jan 2018 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFRqLVRMaWZLd1NfS09CZlg0cjFXT1RQTGM4T2dxSFNlZnFqZlgxR3NmZ0pCQ3ZDTWstV3hzUzNMUXItZ0draWYzdGRfdlpYOHNTNmIwckhPaXR0VlZNbFgwQUFPOEg5bzdsSjF2NGRFWlQwRVVZRHUzR0YxZEFtbUhqcE1vZ1dl?oc=5",
-    "source": "Legacy",
-    "title": "Peter Ellis Obituary (1943 - 2018) - Ogden, UT - Logan Herald Journal - Legacy",
-    "summary": "Peter Ellis Obituary (1943 - 2018) - Ogden, UT - Logan Herald Journal Legacy",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (obituary)",
-      "source age: 3182.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "8724438613dc26e65c28",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 25 Oct 2013 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV0M1VGVuOUUyYkxHSG52LUNYSG51dnE4dmszZjljN3NSR2JhQVlUVzJrVXBBblBuUmVWY0hpWFBXcW1GNGZQbVIzQy1iZWI3dHNfN3VvV3dxTmY2Z3NuMURaZW9CNlFyeDktZlVPS0RBZXIzeERlSGp5cVpCNnJheHl5Y3FOb3YtXzBMSjBrMS11LV9ldEJJcmU3VUhtNFpIem53a2c4QXFpVHdYOVE?oc=5",
-    "source": "Legacy",
-    "title": "Peter Ellis Obituary (2013) - Murrysville, PA - Pittsburgh Tribune Review - Legacy",
-    "summary": "Peter Ellis Obituary (2013) - Murrysville, PA - Pittsburgh Tribune Review Legacy",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (obituary)",
-      "source age: 4723.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "1d8a9121f66ddd4fa289",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 16 Oct 2008 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcHVYQm9qOV9VTjcwRVZ3S2JzYlVuejRmY1pJZjh5TXZnN2MyRGstclBsUjR6S1ljSXBTT1RORnI1MlZ1bTdwWmg4X0hMZjZUcS05WEpWYlpYeVI4andmUFkwTnZSbGRxdnhqNmVPZ25KTzlaQUdyNDdmOVRCV0xoZVVydllUT3lzUFB6eHptUmE?oc=5",
-    "source": "Legacy",
-    "title": "Peter Ellis Obituary (2008) - Baltimore, MD - Baltimore Sun - Legacy",
-    "summary": "Peter Ellis Obituary (2008) - Baltimore, MD - Baltimore Sun Legacy",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (obituary)",
-      "source age: 6558.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "02b1fd4d038e76d489a0",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 07 Dec 2008 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHg0MDNpVVJLS3A4dnZXcmNYM0FJQ1lkNnR5ZzF4ajBoeWgzQ3NXWHhrMm9JbzR5V295UEFRbXV3T3IwaFZybEsyMEFIdXZaR0ZFSm5zM1ZpSmlhV083X0tRNUdMbV8tOXEyNHBUX3FQQ3gtNXZDRDM2NGl2V005R3ZCb2NyMzVFWU1n?oc=5",
-    "source": "Legacy",
-    "title": "Peter Ellis Obituary (2008) - Hopedale, MA - Worcester Telegram & Gazette - Legacy",
-    "summary": "Peter Ellis Obituary (2008) - Hopedale, MA - Worcester Telegram & Gazette Legacy",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (obituary)",
-      "source age: 6506.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "62736f6339f2fe242111",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 09 Apr 2015 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUZmbUVIRmp5V2RHLXN2WXVYQzlmcGFCbXhQRGl6REIwTGdMRG0zbWYySnQ0Z1oyYnlkakc1ZzFKU1ZSd2hleTU0SVB2djRBVHR1WXVrZm9WZHRZM0NOdVdVbV93Q3UzaDZkbWtsMWU1dVBQWXotRnowS0NzN25pM3Rqckw2aGVFMTNvR1Utdw?oc=5",
-    "source": "Legacy",
-    "title": "Peter Ellis Obituary (2015) - Isle of Man, Isle of Man - Isle of Man Today - Legacy",
-    "summary": "Peter Ellis Obituary (2015) - Isle of Man, Isle of Man - Isle of Man Today Legacy",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (obituary)",
-      "source age: 4192.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "6247226d7afad3f73278",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 29 Dec 2009 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObUFCXzdjY1E1WkNCMmJmUTBaUE1kWUlUMzUxMGJKalRxWUxJY1M4b1cxdzdWdElNUFpjaDhlVjA5RHZWTnFObThycm9MbllVS2FuazJ6U0pYTktERndDMFU0aHM2dFhDc3JmVHhVNmhOZWpnVHFBMV9WY1FyaTVwOW5aRS1iWVRPNGdZN2ZDaEdFVEhY?oc=5",
-    "source": "Legacy",
-    "title": "Peter ELLIS Obituary (2009) - The Globe and Mail - Legacy",
-    "summary": "Peter ELLIS Obituary (2009) - The Globe and Mail Legacy",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (obituary)",
-      "source age: 6119.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4f67eada49bf16d4d96f",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 15 Mar 2014 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWpYcndBYUNncVdVSVZSY1NpTVRURXFnbTdseFFOWGN1U2tNU2QyYko4NnZWbHkyclVQU2txUjMwSEp3RTdSX3NEZFp5R1RpWEU1WThXbmpKRkdLaGF0YlZUWFhjNXhndHVVWlZPNXozN0JPaWlkWERvWFFKbHE4U01JUzNoLW4yQUctVk9IajVPWEVCdWQ5N0lB?oc=5",
-    "source": "Legacy",
-    "title": "Peter Ellis Obituary (2014) - Shropshire Star - Legacy",
-    "summary": "Peter Ellis Obituary (2014) - Shropshire Star Legacy",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (obituary)",
-      "source age: 4582.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "f11179e744d6f89b8d77",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 06 Oct 2022 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWDgwOWNXUENIcWJQY3M5VWZ5X0llQkV4U2tOb1ZjUWo2TXZCMlNyLXl4ZDRxM2xoR2FBbE5jdU93QnQycURyWXg3VkR4UDZIZkVzVlNEX3B6U3RBcEhmYmQzZ3gtLTZ2dGZnYUxiOVBESG5OeGlOS1I1QXNOWTY4Mkc0b1FXNUNPMnRicEptY2VtaXdvQXR1aDFKUDlyQmpMRnAwUDRhb05STmVjUDE0bTM5QmVzZ1JkU01UcU5ENjRmY1htNlFEdA?oc=5",
-    "source": "nzherald.co.nz",
-    "title": "Peter Ellis maintained his innocence and fought for justice after death - nzherald.co.nz",
-    "summary": "Peter Ellis maintained his innocence and fought for justice after death nzherald.co.nz",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (death)",
-      "source age: 1455.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "3a5e6ec49209c199a067",
-    "entity_id": "peter_mohan",
-    "entity": "Peter Mohan",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_mohan",
-        "name": "Peter Mohan",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Revolutionary",
-          "The Zone",
-          "Under Color of Authority"
-        ],
-        "score": 54,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Revolutionary",
-      "The Zone",
-      "Under Color of Authority"
-    ],
-    "event_type": "interview",
-    "source_date": "Mon, 12 Aug 2024 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVTdSY2pMcEhZVFFZMHhRQjVJMkQ1a1dsRmhrXzMyemhxdFRHdWhad1lWeUhYQTJaU1V3WVdsbUtLN1dpMWZUUWtld2hJaGZyMVRwMS1iYzNJN0lSb3ZJYkxfY3ZUb0xQS3l4TUhnVjNnWnRJZTBjQkJoUjZoMFpKLWtBbldnRUV2MFRUSWE3X2xwYnNkeFBQTHdzRlc?oc=5",
-    "source": "greatergovanhill.com",
-    "title": "An interview with Peter Mohan, author of \"Cheers, Govanhill!\" - greatergovanhill.com",
-    "summary": "An interview with Peter Mohan, author of \"Cheers, Govanhill!\" greatergovanhill.com",
-    "evidence": [
-      "matched entity: Peter Mohan",
-      "event: interview (interview)",
-      "source age: 779.5 days"
-    ],
-    "score": 54,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5ced24253fcdfa730416",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 08 Jun 2026 15:25:48 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd0VMczJGQnNRS1VaTDZDWXA1R1gzU0xnbWFTRXFwV1FSaWJYaUFmN0l4Yk1DMHRTX2tzRGtKR0RDMUQ5dFlsMVJQUGZwZXktS0g3MWc4Yk9fYnR4V2RIZGt5TktCQXRHVWE5V0Q5d0MyVzF6d1RKMjNWcXdhMi1fN0sydw?oc=5",
-    "source": "Legacy",
-    "title": "Charles Ray Austin Obituary (2026) - Idabel, OK - Nunley's Funeral Home - Idabel - Legacy",
-    "summary": "Charles Ray Austin Obituary (2026) - Idabel, OK - Nunley's Funeral Home - Idabel Legacy",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 114.2 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "b5544a682a56ad36d3ef",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 20 May 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNejVSZHRYUFJwaXVjeFUxYU5USVFlTWRiV1dWdFd5anhnS193eHNQdkZrUjZZUWZITXp1NUVid1h1VWZGbnVlc1FQUDRuYl91aEFwdjZSQ1ZicDVFWDZCd3RTNjdhM1NmUFp5TzVtV1pmVjFVMFBoaC0xZkpaLVdVcGJlYkpndm5uMnZybC1oVzVDNTZDZ0hJWg?oc=5",
-    "source": "Legacy",
-    "title": "Danny Ray Austin Obituary (1964 - 2026) - Trumann, AR - Jonesboro Right Now - Legacy",
-    "summary": "Danny Ray Austin Obituary (1964 - 2026) - Trumann, AR - Jonesboro Right Now Legacy",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 133.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "39d1e197a5e285fa2ce2",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 25 Mar 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYnBHbWlDTVI3Q01nam45TVlaS2hpT1hjN2g5LW1IbUljQVc4anJfZmZJdjRyRnVqZ3hwSWh5RC1qMVRkcjF1NGJ4OFVTa1VrM0d4SHR2aVdTWUVKM2d2WjI4RjBzZW44QXpUOGFSWFEzMTFpTG96SkhqajU2eXg2SA?oc=5",
-    "source": "Legacy",
-    "title": "James Ray Austin Jr. Obituary (2026) - Cedar Hill, TX - Sacred Funeral Home - Legacy",
-    "summary": "James Ray Austin Jr. Obituary (2026) - Cedar Hill, TX - Sacred Funeral Home Legacy",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 189.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "f670c1166fbb0ebfc10b",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 25 Apr 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlBkNjNHZGM1aFYwdnk4Rnd4cURWdFVraGJHb0RDNDg3QW5JUzhHY0FDRWpWeDNiaUpNclJsZmNYYkhtMnl5al81aFQwUmJ0QXJTUHRfOGtkdUNVRnJBWHdDb1k2QlE5NmxvS3BhM1BFTjV6MlFOdzQ1Y1VlRmRXM3hLVQ?oc=5",
-    "source": "Legacy",
-    "title": "Kenneth Ray Austin Obituary (2026) - Checotah, OK - Hunn Funeral Home and Cremation Service - Checotah - Legacy",
-    "summary": "Kenneth Ray Austin Obituary (2026) - Checotah, OK - Hunn Funeral Home and Cremation Service - Checotah Legacy",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 158.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "eb0aa698c6abbd1911f0",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 18 Mar 2025 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LTVFjT0hFWWFUcm8wQWw1ajFpUXA4RjctN0lGdHlMenhWUXhmRTRTN3VrX0I2a3B5cUh2ZWJ5TUI4YmpzT1VLcGt5aDU0Z1UyMlFIWlRDVkpoVERMaEhVX3V0T2dOQQ?oc=5",
-    "source": "calfeefuneralhome.com",
-    "title": "Ray Austin Obituary Mar 18, 2025 - calfeefuneralhome.com",
-    "summary": "Ray Austin Obituary Mar 18, 2025 calfeefuneralhome.com",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 561.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "09809efdadf3dd61f3d2",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 18 Mar 2025 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xSU9hbDJ5Q0RNMDljUGY2SEdlbkFxbGtvazFLQ1NBMXhrdlZJam5PRUJFd2tlY1dtSlVNS00zbUdSWWY0aFNFeHlZVzU0WE4zM2JBeUduUUFWWE9TREs3N3BWQ0NqV0lNdVBBeW9HczUtUktoZ3dWZDFsZmlfUQ?oc=5",
-    "source": "Legacy",
-    "title": "Ray Austin Obituary (2025) - Coal City, WV - Calfee Funeral Home - Beckley - Legacy",
-    "summary": "Ray Austin Obituary (2025) - Coal City, WV - Calfee Funeral Home - Beckley Legacy",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 561.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "22eb259dd4b6ecdebdce",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 06 Dec 2024 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNE5GaHJFOFIyVlhBX0VkVkJjQ1BTeUdqajJzbm5wNnlETlRDYUdpODlHMV8zclNLbUZtdTJXYm9pejc2QjYtUUY1TjVEcnFyZUJFTGxoaVVpSUJNT0NHTFhiZGRtRmQydTh6bXdpZmRwRkJiVUdhdHZ1SHNRQ2tsNHR3?oc=5",
-    "source": "Legacy",
-    "title": "Ray Austin Kessinger Obituary (2024) - North Vernon, IN - Dove-Sharp & Rudicel Funeral Home - North Vernon - Legacy",
-    "summary": "Ray Austin Kessinger Obituary (2024) - North Vernon, IN - Dove-Sharp & Rudicel Funeral Home - North Vernon Legacy",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 663.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "6fc6ae83214719328376",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 01 Feb 2020 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeE5GZ1VSWjRrNDlUSmd5cDFKM01FVmE2TzFJbHItMFFHdEJvM2RJOXdMTEtWMEFwSVBRTVdRV3NvVG1pQXNTSGVsSHI1Vm56NWtyMzV5Q1JEeWt1eC1JTU5DbmxNaGVqSGpMUkx0ZVdJWF9rQmh2c2FaQzNkcXJDdHFpVGJId0tkcnY4?oc=5",
-    "source": "Legacy",
-    "title": "Ray Austin Obituary (2020) - Canton, OH - The Repository - Legacy",
-    "summary": "Ray Austin Obituary (2020) - Canton, OH - The Repository Legacy",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 2433.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "eb1f808daf1dedbcc018",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 20 Jan 2013 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPekZJWU1TVEdMOHNKT2FMX3kzVnJUQnQxTG5fV09WQWt3RG1RN0w0X0p5bU9CQzc2dlVoWm9PMjZCM29idVRuOTJzUVZFNGpjbmpFQ0tNU0NiaGl0N2lwTHJfMFdyMmV5SnBfN0VlX2tob0k5d0tVR0JVRDVYZlRwQUxUWU1OM3ZuckhxUGtLdjM?oc=5",
-    "source": "Legacy",
-    "title": "Ray Austin Obituary (1928 - 2013) - Valdese, NC - Hickory Daily Record - Legacy",
-    "summary": "Ray Austin Obituary (1928 - 2013) - Valdese, NC - Hickory Daily Record Legacy",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 5001.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "73ad848182a71494d72a",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 20 May 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVkt5MFhlOVVDajk1Q0hRMFNJVDF1d2ZmcnBCSFp6UGlDNG4yMGtqNWxXWURPZHJYNFlIeWhGd2NRakdZenkxMi1YWlAwX0l3Sm1Icm5IT0ZPamlBRkZNZ1ZiVVVDREtwQkp3aU5kTUN5eHVqdjRNMUlHQlgwZm13ejBISE5aclNNVjZBeGdrNzJEUWRtejNoYmNHOHJta1UwSVRFblpR?oc=5",
-    "source": "obits.denvergazette.com",
-    "title": "Richard Martin Hernandez Obituary (1946 - 2026) - Denver, CO - obits.denvergazette.com",
-    "summary": "Richard Martin Hernandez Obituary (1946 - 2026) - Denver, CO obits.denvergazette.com",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 133.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "da55ac6dc48cede13f91",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM3NQWWN5UjNXak9Kcnl6X2NTUzljcHdVTXVyN3dYRUhmVDlRS2czbW9WWEoxeU5QcklZUlZrQkZpaFNJZkdnZVpmV3d1SGlwaFFIRUJzdmYzZEsyeVY5T1FYYjk3VlNQZWlQeEJwSUVSMjlqTm5xc056aENIM1VKVTNKbFNORkNrLXU0SFQ1UFlETFVj?oc=5",
-    "source": "Legacy",
-    "title": "Richard Martin Obituary (1930 - 2026) - Savoy, IL - The News-Gazette - Legacy",
-    "summary": "Richard Martin Obituary (1930 - 2026) - Savoy, IL - The News-Gazette Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 52.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "8a39de5aae7d8bed5bc2",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 18 Dec 2025 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56a3ZQMmt1V21UcG9FbXBvUzU4NzA0bGh2emdFZzk1Z0g2RUNCZ0ppdzFXZUtSTHU4YVN0SHpzQi0td2Nxekt0MWRsNkUxbm9rZXhSLXdEel9hTHpDaElBQXlVV00?oc=5",
-    "source": "cavin-cook.com",
-    "title": "Neil Richard Martin - View Obituary & Service Information - cavin-cook.com",
-    "summary": "Neil Richard Martin - View Obituary & Service Information cavin-cook.com",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 286.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "32fcce63680e4c9ba5eb",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 21 Aug 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfZXgwZ3FTLWtsc2FGRENXY1A0alBHUF9iVGhTRTNacWJyejR5OXl2OHl0NTByc3BSZUNYUUNTRzJPSlVYV2tyQV9SNkRRcDRPNEFVSUx3bFdxY1hnd084ZHhqdDVLQnQxcGttRXdvbzJ0STY5eXNLWXJ6WEJQQQ?oc=5",
-    "source": "Legacy",
-    "title": "Roy Richard Martin II Obituary (2026) - Latonia, KY - Connley Brothers Funeral Home - Covington (Latonia) - Legacy",
-    "summary": "Roy Richard Martin II Obituary (2026) - Latonia, KY - Connley Brothers Funeral Home - Covington (Latonia) Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 40.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d8548683d12c45f8f93f",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 12 Mar 2026 17:04:01 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNi1tbm4xR0xyNVI2TnptWS03QkJzN0VHQ2hJdUxzaEpKSzZxTFFreURDOURIVmthUjBMSFdIOGZlX2JTbmY1bkJVNVZWcUtrOWlERHFWNVE2ZUwtWVlkdzQ1NDMwVTdxZUxVWFJyc011Ql9Ka0NDSVJSMncxSnM3c2hn?oc=5",
-    "source": "Legacy",
-    "title": "Richard Martin Marek Obituary (2026) - Pewaukee, WI - Yonke & Son Funeral Home - Legacy",
-    "summary": "Richard Martin Marek Obituary (2026) - Pewaukee, WI - Yonke & Son Funeral Home Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 202.1 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "ff9527d1f516d0cb1762",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 76,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 23 Mar 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSy1nSzVIT3hHbGwtSk5xTnc3cUdvZy13M3NUakxLbmM5S1hxRlNtdHBuWUNMLXpKWXh5WTFBeW12S05YMzBsMkF5T19DMGdnUGw0M25ZaEZVVEc4aEZweWFmbzVvQVpIalh4cGxtZVFsWUZpZkJfMmJaUDF2bV9RT2pn?oc=5",
-    "source": "Legacy",
-    "title": "Richard Martin Suess Obituary (2026) - McDonough, GA - Cannon Cleveland Funeral Directors - East Chapel - Legacy",
-    "summary": "Richard Martin Suess Obituary (2026) - McDonough, GA - Cannon Cleveland Funeral Directors - East Chapel Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "context: director",
-      "event: death (obituary)",
-      "source age: 191.5 days"
-    ],
-    "score": 76,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "94ae00a98009382633db",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 20 Apr 2026 18:46:33 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTG5mdVpWMG9JS2tQa21XdGZSY2RqaDJrWUlyTWRZV1lkQW5xajBVa3paYzZZWDRIM2pEbjZRMmppUEJEZVk3Y3dCV1dDMWdUbXFVUnUxbWJnRVBvMFJnbTAyamFvUEdzM3JSd1V5M0tLUklvaklyQktXZmdxU0dEY0R6Q0g2WjdjY0tr?oc=5",
-    "source": "Legacy",
-    "title": "Dr. Richard Martin \"Marty\" Salzgeber Obituary (2026) - Dade City, FL - Hodges Family Funeral Home - Dade City - Legacy",
-    "summary": "Dr. Richard Martin \"Marty\" Salzgeber Obituary (2026) - Dade City, FL - Hodges Family Funeral Home - Dade City Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 163.1 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5e32b4896dc6347654f4",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 13 Mar 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVjdGVi15Q1FhX2FYZEhzcl90ODNoaG95RVE3Nmd5M21PcVREODFJaUJuQml4c2VPWms3dm9XcFFoaWtnUEo3VU8xVGdkS2JDZThvVE9uelFsclFaTWRkYm5JNmtlY0ptRTVFeFpzSDNiWGJNdy1xTkhiQzJ1blRXVVUzU1FrZw?oc=5",
-    "source": "Legacy",
-    "title": "Richard Martin Gleghorn Obituary (2026) - New Port Richey, FL - International Cremation & Funeral Care - Legacy",
-    "summary": "Richard Martin Gleghorn Obituary (2026) - New Port Richey, FL - International Cremation & Funeral Care Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 201.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0a819fdfd16ce17d67e6",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 05 Mar 2026 05:04:22 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94SC1pQXhxU1JFaFdiNVFKSmhsMV9pSUpQek9pVmo3ZWZUUzE3RDVXT0NxVWt1Z1MtS1RZcVAwR09QOTRzRW82VUduZVdZekFEWU54akVJM29FTHM?oc=5",
-    "source": "dispatch.com",
-    "title": "Richard Martin Obituary - dispatch.com",
-    "summary": "Richard Martin Obituary dispatch.com",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 209.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "f80e23d775f77659731e",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 24 Apr 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92ZmFvcnN3QmtZNDUyRnRLWU52Q3pLWl9sdDl2Z2lhQ0ViWHZSbDNwR1FncndUVlhjQ0h3VlpuZUNZY1VKS1I3NVc3ZU10RW9pV3hBQlJFN3dsQ0NBNlhLMHdWTGlpcldwV0pfVWhsNTZ4U3Z6MFVMZVNBUjZqdEU?oc=5",
-    "source": "Legacy",
-    "title": "John Richard Martin Obituary (2026) - White Plains, NY - McMahon, Lyon & Hartnett Funeral Home, Inc. - White Plains - Legacy",
-    "summary": "John Richard Martin Obituary (2026) - White Plains, NY - McMahon, Lyon & Hartnett Funeral Home, Inc. - White Plains Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 159.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c810d4696d2e4f4bb78b",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 19 Mar 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQU1YZll6cVkwMm9UVktpSHdKUk9rYlhXeG44NjZEcUdQOXBRdldfcW5Sc0JVLW50MWhURDlTd3JVMUIzYlBoNFcxVGVfUlBUU3VwT0kySVVBQm9HSGlobGwyOTNMX3FfbzN5amJZR2NHWWc3WG80WjVXTFIzbVdCYzRPZjM?oc=5",
-    "source": "Legacy",
-    "title": "Richard Martin Bithell Obituary (2026) - Siloam Springs, AR - Backstrom-Pyeatte Funeral Home - Siloam Springs - Legacy",
-    "summary": "Richard Martin Bithell Obituary (2026) - Siloam Springs, AR - Backstrom-Pyeatte Funeral Home - Siloam Springs Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 195.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "444ef3625a079ef80b5c",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 06 Jul 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTTcwOHVsVGNzTXp4SWc3bVpUTjZLU3JWSTFmUHdaNUtuUEF1WHBjdnlJVWI2R1FZX0JWMVg1a2NTOUNsVTQ4V1hYdDRuR1pTaGJ6cTFaNkNtd21YQ1BkdEFkallSNUxVOWdQTms5aTVVWFVvS3VfeGRWZmgyOFdsZG0yNUc3UQ?oc=5",
-    "source": "Legacy",
-    "title": "Richard Martin Wennberg Obituary (2026) - Benton, AR - Arkansas Cremation - Legacy",
-    "summary": "Richard Martin Wennberg Obituary (2026) - Benton, AR - Arkansas Cremation Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 86.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5526d104aa898c5fbf2e",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 22 Feb 2026 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMVBEdDZueEdXZFRlZnUxaUtZNDRaSEtRTFNTSWFyMmdyVHdnNHBLN2VfNWs0czltbm1uQVFudm9lcjdPQjk0SGc4cUdzeFdYV1ZXNFRCS3RneUp4Qjdfa1JQYlZ6TmdtQVowV29FQ1pfaU94dEIyaGNZSWg1VVhZb2paNHV4WDU1cVA4Ug?oc=5",
-    "source": "Legacy",
-    "title": "Richard Martin Obituary (2026) - Hamilton, OH - Dayton Daily News - Legacy",
-    "summary": "Richard Martin Obituary (2026) - Hamilton, OH - Dayton Daily News Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 220.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "00d886457bd2287a5347",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 09 Mar 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUWF6X2JlbWc0WXJWeGdRQ3VVWEpkUmR0a0tGU0tMMjZhU21RVjVLUkZNdWplajE1WHh0Ym5Pck9rZUdzM1dtYVh5QXAyMXBnblVLOWdJTlYxeWFNeXFSRG9Ca1Q2dGFmSHJNNHNVTjVHN3hLWXc3Tm41VFF1QmdKZEJlUEg4dw?oc=5",
-    "source": "Legacy",
-    "title": "Richard Martin Majestic Obituary (2026) - Scottsdale, AZ - Messinger Mortuaries- Indian School Mortuary - Legacy",
-    "summary": "Richard Martin Majestic Obituary (2026) - Scottsdale, AZ - Messinger Mortuaries- Indian School Mortuary Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 205.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "a43d7b86234e2803fc4f",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 05 Apr 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMS0tcldxTERXd29seUtpUVNKRXRSTzhGTnRuNzM0b25lZ3MyQVRCWGc5VUREUFZWYkhpQlpmc0VxR3JkSjVjWThRU2Y3ZlZmb1ZsYzZQemRwblY0VjZ3SFFTSF9jQXRQSk42V05UX2VzeFJyMC1GLS1naUFNSzhiWmlHQXpFZG05a0lDSg?oc=5",
-    "source": "Legacy",
-    "title": "Richard Martin Obituary (1942 - 2026) - Springfield, OH - Dayton Daily News - Legacy",
-    "summary": "Richard Martin Obituary (1942 - 2026) - Springfield, OH - Dayton Daily News Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 178.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "f0d9bf10b739107b0350",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 29 Jan 2026 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53N2RfTkJqZnc3aElJdkFPQW5JVTdLeU1zekJSYVdWdXJPRV9nZGl0Z3RGWWVlMWp2WkRmNU1tRTVfZU5EZ3djdFVDU21wZFdBT005N0pBOA?oc=5",
-    "source": "Legacy",
-    "title": "William Richard Martin Obituary Jan 15, 2026 - Legacy",
-    "summary": "William Richard Martin Obituary Jan 15, 2026 Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 244.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "396bc0357d60e37d82a6",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 30 Aug 2026 17:22:07 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUpkSXd3RVJWWGpUTkl3alRNZ3dQMldyYm1vTHlwWWw5aklBMG1IcU9EaGhIM2pwVk1JclROQUF1REFxR0kwVnhsNU0wQUtFWVpUbmszNUNicTV6YlRGOUsya2FaNmFOQmQ4Q3hmQllLeVd0SWhabEVya1hyaE5Vcg?oc=5",
-    "source": "Legacy",
-    "title": "Richard Martin Dose Obituary (2026) - Tulsa, OK - Collinsville Dolton Funeral Home - Collinsville - Legacy",
-    "summary": "Richard Martin Dose Obituary (2026) - Tulsa, OK - Collinsville Dolton Funeral Home - Collinsville Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 31.1 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "a0c84efa5823db75999d",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 13 Apr 2026 14:32:23 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQWIyc2xNNE85cERyVmU0a05CbURhTFlVeGRIV0toTG5yd29xTllRRUlDanRXckkybFJ4SFh1MlJjMy00akdXNUFkekFyOGNneXluQUJZS2gwWFVDZHZuclN6Qi1GSzdiWDJtUUJrTUdDa293WGx2X3J0LW55NFdYZF93?oc=5",
-    "source": "Legacy",
-    "title": "Richard Martin Allen Obituary (2026) - Ocean View, DE - Melson Funeral Services - Ocean View Chapel - Legacy",
-    "summary": "Richard Martin Allen Obituary (2026) - Ocean View, DE - Melson Funeral Services - Ocean View Chapel Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 170.2 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c8584558f10a7fc594e5",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 04 Jan 2026 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc05GSEttQTJjUTE5YzFMOW9iQlhTRGxweUVXYzlCdXRnbmMwaGRjWU5ubXNmSDcyemdvR3J0c0tvaGtLdGI4a2pkaWJhU0hCMmg5MXAwc2Z3SDc3c25mbU5PUFdKcjFEUWs4TndaOUFPTlhNeEdFMjBLQ3pTVzJ1VEpfNA?oc=5",
-    "source": "Legacy",
-    "title": "Richard Martin Obituary (2026) - Mena, AR - Bowser Family Funeral Home - Broken Bow - Legacy",
-    "summary": "Richard Martin Obituary (2026) - Mena, AR - Bowser Family Funeral Home - Broken Bow Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 269.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c6d56e26c76347d24b76",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 26 Jan 2026 18:28:21 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY254YnVPMjNtazVZamxlY1dJUkFUS1dqRWpNLVBwbWxwcWFYYXlDUEJfYjNaWUF0eDk2MHNHanloTFpSSFdfS2d3TVFrUkpocnFKWGtROW5mM0poc0RaYUE4NXZKQU5qb0o3YkFuT3hkMDlnd0dSYUQ2R2ZRNXY2Y21B?oc=5",
-    "source": "Legacy",
-    "title": "Roland Richard Martin Obituary (2026) - Sanford, NC - Rogers-Pickard Funeral Home - Legacy",
-    "summary": "Roland Richard Martin Obituary (2026) - Sanford, NC - Rogers-Pickard Funeral Home Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 247.1 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "bb7603ec04d38051336a",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 12 Jan 2026 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZGh4ZFRoeENyY1JPWWVlR01PdU1LX0I3cUM2SHFfMmNnUVRzUzctMnU0OW92RU5MaW1aTzZCdlNQanpJM0p6SFlrZ3RmcG9JUmZOYzZpVlBjR2dFbmRHV1ROTllGWm5zUnlBM3Zmb3J3OTdDNzBkbjR1ZmJaS0s4RzFHc3hEZw?oc=5",
-    "source": "Legacy",
-    "title": "Richard Martin Halperin Obituary (2026) - Savannah, GA - Gamble Funeral Service - Legacy",
-    "summary": "Richard Martin Halperin Obituary (2026) - Savannah, GA - Gamble Funeral Service Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 261.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "b1a5efa9cc1022bcf95f",
     "entity_id": "richard_martin",
     "entity": "Richard Martin",
@@ -52942,6 +49975,2719 @@
       "source age: 789.4 days"
     ],
     "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "c5847a8fc73736151ff3",
+    "entity_id": "bruce_payne",
+    "entity": "Bruce Payne",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "bruce_payne",
+        "name": "Bruce Payne",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 27 Mar 2011 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0lGX3FFTmR1OE1DRVc0VFZuRk56Wk9LbzIyckkxMmVLRjgwOGtFQWdpejBjTUZ0YVBRNFYwcnB4Mmp2TlpNNzRLMWYyRi15SHBISFQxSVhDWUVLX2VvaXp2S0E2eENPd3hsSTFkelhKN0VPSGhTWGlBVW91X3ZoZDBOcVo3Vl9ydUs5Uzk5RkRndw?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Bruce Payne Obituary (2011) - The Times Colonist - Legacy | Obituary",
+    "summary": "Bruce Payne Obituary (2011) - The Times Colonist Legacy | Obituary",
+    "evidence": [
+      "matched entity: Bruce Payne",
+      "event: death (obituary)",
+      "source age: 5684.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "8de6f9820a8725da5f1c",
+    "entity_id": "cary_granat",
+    "entity": "Cary Granat",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "cary_granat",
+        "name": "Cary Granat",
+        "kind": "person",
+        "roles": [
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 58,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "producer"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "interview",
+    "source_date": "Thu, 01 Nov 2018 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbHRkTklvYjJjQURnaUJDSjBWSlZXcFAtcjZLeHFIZlMxWmVFWkpTN2o2bWlKcUkzcWd6c2RwREdPdmVEc3VsWm9aeUdmdkFIcVdJMGh3Und3NEgtejdYc2o5dXVLdUxuRnhienpWR2tEaS1yS3RCWTJvdFV0QkdqRjN4QjBoZ3BWM3NuSDdTRTRXYXlhRHo1MzRvMTQwRGJOMDVwWXhEV05MbVFzLVhNU21MTHlTWHRoR29zYndTRzYweUlQUmxGQ1BjNV9rUFFB?oc=5",
+    "source": "RUE MORGUE",
+    "title": "Exclusive Interview: Veteran horror producer Cary Granat on the fresh possession perspective in “WELCOME TO MERCY” - RUE MORGUE",
+    "summary": "Exclusive Interview: Veteran horror producer Cary Granat on the fresh possession perspective in “WELCOME TO MERCY” RUE MORGUE",
+    "evidence": [
+      "matched entity: Cary Granat",
+      "context: producer",
+      "event: interview (interview)",
+      "source age: 2908.5 days"
+    ],
+    "score": 58,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "962ed99469d9c016f52a",
+    "entity_id": "charles_wilkinson",
+    "entity": "Charles Wilkinson",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "charles_wilkinson",
+        "name": "Charles Wilkinson",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Brothers in Arms",
+          "Courage",
+          "Double Jeopardy",
+          "Obsession",
+          "Shadows"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Brothers in Arms",
+      "Courage",
+      "Double Jeopardy",
+      "Obsession",
+      "Shadows"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 02 Oct 2022 10:42:57 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaGJibm0xQ0hTVEZGSllUWUVQdEhRRnJPeFFYa0c5ZWRZenUtVk5LQUc3ZnBON09IXzZ0LUtEQXY2dEtJR1FIWjJzMTV2ellJMUR6dThFaE5CTU40eDZ0cEJ3aXpuVU13VlMyMXExLThJVTM4UXlPWVBFOXZnQThQcFU3SXc3UVc4YXdJcWswMlZnQmdiWEE?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Charles Wilkinson Obituary (2017) - Baton Rouge, LA - The Advocate - Legacy | Obituary",
+    "summary": "Charles Wilkinson Obituary (2017) - Baton Rouge, LA - The Advocate Legacy | Obituary",
+    "evidence": [
+      "matched entity: Charles Wilkinson",
+      "event: death (obituary)",
+      "source age: 1477.3 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5dc9617db573736cab8c",
+    "entity_id": "charles_wilkinson",
+    "entity": "Charles Wilkinson",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "charles_wilkinson",
+        "name": "Charles Wilkinson",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Brothers in Arms",
+          "Courage",
+          "Double Jeopardy",
+          "Obsession",
+          "Shadows"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Brothers in Arms",
+      "Courage",
+      "Double Jeopardy",
+      "Obsession",
+      "Shadows"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 28 Dec 2007 08:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRkNzclc1amtJNWVkb0k4NDFkZFgzWTRqS1Rna1Z4N2Zjc1MyOU9IQ21kM3Ixb3hhSF9BQ1JhYWtFNlhScXpnV1o5bXEtdnRvN0lXVGFZZE5OQWUwMzIzWEl6V3h5RTRnSGN6RmxMMmpJbjZwRjNWeWRoVkJ3X2pCYmRmdjhtUG5ZY3dNdlJVS3g0VzVv?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Howard Charles Wilkinson - Legacy | Obituary",
+    "summary": "Howard Charles Wilkinson Legacy | Obituary",
+    "evidence": [
+      "matched entity: Charles Wilkinson",
+      "event: death (obituary)",
+      "source age: 6869.4 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "25aa6edf44c15497fb36",
+    "entity_id": "dennis_berry",
+    "entity": "Dennis Berry",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "dennis_berry",
+        "name": "Dennis Berry",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Archangel",
+          "Avatar",
+          "Counterfeit, Part 2",
+          "Deadly Exposure",
+          "Deliverance",
+          "Eye For An Eye",
+          "Eye of the Beholder",
+          "Finale, Part 2",
+          "Highlander: The Raven",
+          "Indiscretions",
+          "Legacy",
+          "Methos",
+          "Not To Be",
+          "Nowhere to Run",
+          "One Minute to Midnight",
+          "Patient Number 7",
+          "Pharaoh's Daughter",
+          "Prophecy",
+          "Reasonable Doubt",
+          "Run For Your Life",
+          "Sins of the Father",
+          "Something Wicked",
+          "Testimony",
+          "The Colonel",
+          "The Innocent",
+          "The Lamb",
+          "The Return of Amanda",
+          "The Revolutionary",
+          "The Samurai",
+          "The Vampire",
+          "Through a Glass, Darkly",
+          "Till Death",
+          "Unusual Suspects"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Archangel",
+      "Avatar",
+      "Counterfeit, Part 2",
+      "Deadly Exposure",
+      "Deliverance",
+      "Eye For An Eye",
+      "Eye of the Beholder",
+      "Finale, Part 2",
+      "Highlander: The Raven",
+      "Indiscretions",
+      "Legacy",
+      "Methos",
+      "Not To Be",
+      "Nowhere to Run",
+      "One Minute to Midnight",
+      "Patient Number 7",
+      "Pharaoh's Daughter",
+      "Prophecy",
+      "Reasonable Doubt",
+      "Run For Your Life",
+      "Sins of the Father",
+      "Something Wicked",
+      "Testimony",
+      "The Colonel",
+      "The Innocent",
+      "The Lamb",
+      "The Return of Amanda",
+      "The Revolutionary",
+      "The Samurai",
+      "The Vampire",
+      "Through a Glass, Darkly",
+      "Till Death",
+      "Unusual Suspects"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 18 Dec 2020 08:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGpKbzNRa0FobTMxaXU2YlYyYTRMakoxSVFIeVlpQmhuY2xNSWdEMlkxVERKNEw5SXZ6N0lScENBVUtsZ3V2ZkpmMzJhbHVFbE1Fd2RDa1BSaF83SVpqbmNpNGttY0wxMGRDTnYwUGl6REdiRGhQM2FKVlFkWnFrSHpuUTFlNnhVUmcyc2hn?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Dennis Berry Obituary (2020) - Iowa City, IA - The Gazette - Legacy | Obituary",
+    "summary": "Dennis Berry Obituary (2020) - Iowa City, IA - The Gazette Legacy | Obituary",
+    "evidence": [
+      "matched entity: Dennis Berry",
+      "event: death (obituary)",
+      "source age: 2130.4 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "7392c3d0900727edee2e",
+    "entity_id": "dennis_berry",
+    "entity": "Dennis Berry",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "dennis_berry",
+        "name": "Dennis Berry",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Archangel",
+          "Avatar",
+          "Counterfeit, Part 2",
+          "Deadly Exposure",
+          "Deliverance",
+          "Eye For An Eye",
+          "Eye of the Beholder",
+          "Finale, Part 2",
+          "Highlander: The Raven",
+          "Indiscretions",
+          "Legacy",
+          "Methos",
+          "Not To Be",
+          "Nowhere to Run",
+          "One Minute to Midnight",
+          "Patient Number 7",
+          "Pharaoh's Daughter",
+          "Prophecy",
+          "Reasonable Doubt",
+          "Run For Your Life",
+          "Sins of the Father",
+          "Something Wicked",
+          "Testimony",
+          "The Colonel",
+          "The Innocent",
+          "The Lamb",
+          "The Return of Amanda",
+          "The Revolutionary",
+          "The Samurai",
+          "The Vampire",
+          "Through a Glass, Darkly",
+          "Till Death",
+          "Unusual Suspects"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Archangel",
+      "Avatar",
+      "Counterfeit, Part 2",
+      "Deadly Exposure",
+      "Deliverance",
+      "Eye For An Eye",
+      "Eye of the Beholder",
+      "Finale, Part 2",
+      "Highlander: The Raven",
+      "Indiscretions",
+      "Legacy",
+      "Methos",
+      "Not To Be",
+      "Nowhere to Run",
+      "One Minute to Midnight",
+      "Patient Number 7",
+      "Pharaoh's Daughter",
+      "Prophecy",
+      "Reasonable Doubt",
+      "Run For Your Life",
+      "Sins of the Father",
+      "Something Wicked",
+      "Testimony",
+      "The Colonel",
+      "The Innocent",
+      "The Lamb",
+      "The Return of Amanda",
+      "The Revolutionary",
+      "The Samurai",
+      "The Vampire",
+      "Through a Glass, Darkly",
+      "Till Death",
+      "Unusual Suspects"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 17 Feb 2012 08:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMHVTUElOeTlzQWpmQk9RVnJwaU5wQ0Y3bWpROUVuQUNrd1gtTzlzeEwteXZNVjZQRHMxdm5aWFZ4VFlsNWNLQ3h6OW44SjNSYy1GVDU0cF9XQ081OTdrM2dPTWZsWEUwazVWY3RJS2xwOVVVN1BqWXJJRnBkX29vcUxiakthN3dnQ3I2VVdB?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Dennis Berry Obituary (2012) - Austin, TX - Austin American-Statesman - Legacy | Obituary",
+    "summary": "Dennis Berry Obituary (2012) - Austin, TX - Austin American-Statesman Legacy | Obituary",
+    "evidence": [
+      "matched entity: Dennis Berry",
+      "event: death (obituary)",
+      "source age: 5357.4 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ffb53a2381ee453cda56",
+    "entity_id": "duane_clark",
+    "entity": "Duane Clark",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "duane_clark",
+        "name": "Duane Clark",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "The Wrath of Kali",
+          "Timeless"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "The Wrath of Kali",
+      "Timeless"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 21 May 2015 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOanZ6NWtWM0YtVVdZbnNuM0NJaXB5WmJoZnRzbGQxYWswN1ozaWxnN29ob1NLdmFyZWUybk50ekY4YzNlRFprVTBOTFlTVERPN0Z6UXJTRkp3OWd6V1F4eDJxMVJkZ1p3RWRuS3YxVGo2dFAyT25JTWN5dlowSWU4RlM3MVloMU50NjFib1hQRQ?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Duane Clark Obituary (2015) - Hurley, MO - News-Leader - Legacy | Obituary",
+    "summary": "Duane Clark Obituary (2015) - Hurley, MO - News-Leader Legacy | Obituary",
+    "evidence": [
+      "matched entity: Duane Clark",
+      "event: death (obituary)",
+      "source age: 4168.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "eddd46087966908ead4f",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Fri, 16 Oct 2026 15:30:43 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KUksydlVyVTh2dlJ3emZzZlQ1QWFNejBDTlR6MEZYNW5qdlNvTjFSLS0yWTlvOWZlTHNhU0d2STZVanBhMm5reW1XR25sTkZWYnZ0d21aREktUUhlX1o0VWFEOG9wVk1QOE5MOV91OWpZbm13RHFBanlfbVhFQQ?oc=5",
+    "source": "Engadget",
+    "title": "Fitbit Edge Vs Fitbit Air: The Differences Beyond A Screen - Engadget",
+    "summary": "Fitbit Edge Vs Fitbit Air: The Differences Beyond A Screen Engadget Google debuts $180 Fitbit Edge tracker in continued health push The Seattle Times Google Fitbit Edge: Our all-new smartest fitness tracker ever blog.google",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (health)",
+      "source age: 2.1 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "0d9c4384022e081aea96",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 18 Oct 2026 17:02:22 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd1Ewblo0M1loUVUwOGtxaVJUQjV4dFZXQ191UVpfTWlmMy1iLWw0U1E5Z1Y1MzJ5NXFRWE5jQVEtT0x3OG9tUWRzVVR4LUU4WGNhZVhndUxILVdLdXYtVk1pZXRmdGdYVGpmRWQtWGh4MmxwZXl5WHJFMHdoZUIyQzB2eUFfeTU4ZXZBUjlFc0NBNXo3TnhIdlVJWlBnQ2FJTmVWczl3?oc=5",
+    "source": "On3",
+    "title": "UPDATE: Latest Injury Report on Texas EDGE Colin Simmons - On3",
+    "summary": "UPDATE: Latest Injury Report on Texas EDGE Colin Simmons On3",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.0 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "5124fa9ecc3ef0719417",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 18 Oct 2026 10:05:52 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa3lkMDh4TnBxN0RGWXBtYlN5TlFLX1R1ekFXRm9ZVGl1T1B6S3dSSEd4WkV3NkJjOWRfdF9PR3FtQVpNUS1FZXlYYmRPb0ZKeTdhaVVtYTNlRnp2VWFzbEhObU9SX2JqZVozZUFlMmQ3Zks3TWFrX2h4WV9ZTUpTUHpwOGtHdw?oc=5",
+    "source": "Yahoo Sports",
+    "title": "Is Micah Parsons playing today vs Cowboys? Packers edge injury update - Yahoo Sports",
+    "summary": "Is Micah Parsons playing today vs Cowboys? Packers edge injury update Yahoo Sports",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.3 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "a2a1aff1fc3c507ec3ec",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 18 Oct 2026 06:59:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTGJrN21YMzBpSEpuMDZvaWp1QUg2dG1aMkF6V3k3NDZ5Rk5iMDhBc21JdTR3VU1nSFNfUDFQQi1KSzVsWjBBekhkY1dsT09EZFV4NjNxOE4xNnQ3NllFQ0tpRGRoOVI5ZnFvbVhPZmN5NG0xOGp5MDV3SkEzd0k0aXRrV3dYS0VxQWN5cTlQR2dMbGhwNGZfZQ?oc=5",
+    "source": "Lambgoat",
+    "title": "No Cure deliver straight edge anthem, \"Till Death,\" for Edge Day - Lambgoat",
+    "summary": "No Cure deliver straight edge anthem, \"Till Death,\" for Edge Day Lambgoat",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (death)",
+      "source age: 0.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "57acf23608ac0fdd0293",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 18 Oct 2026 17:52:39 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3h1X0pIdlp4RUt0NzhfbnFGWFRSZmxXSjFlYW1aUWhIUVB2bUVRS1hkaGVoVU1YWmF5UWYtS21EQkJVcXkwYVAwWmYyUmZZSlAzcENYdzZnQTkwQW1lR0ZoWEpIMTd2WTRxUkZpcHd0bGhfX1R1a1Bmb3RVNnhadHM0aHMwX3RpdzRLNTlSX29MN2lFdENjRndsQ2lyTm1q?oc=5",
+    "source": "Metal Injection",
+    "title": "Listen: No Cure Cover's Brotherhood's \"Till Death\" to Celebrate Edge Day - Metal Injection",
+    "summary": "Listen: No Cure Cover's Brotherhood's \"Till Death\" to Celebrate Edge Day Metal Injection",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (death)",
+      "source age: 0.0 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "73a6ce52b3f63ba17b05",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 17 Oct 2026 21:01:22 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92RHBucHgtdTBseTlYbG5BdmxJVmVJTHdOa0RUbGJKU1h3NWFMd3F6M0N6U2JQN3RsQU80OXF6cnFLLXBlSHpyUDluTFUxcDI4ZHUzaTlaYTRQdlgyejJRWG5rNThONTh2VmVQc0xkcjdYdHVGRUFwSXlLMWhIZw?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "James Edge Obituary (2026) - Arlington, VA - Legacy | Obituary",
+    "summary": "James Edge Obituary (2026) - Arlington, VA Legacy | Obituary",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (obituary)",
+      "source age: 0.9 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "6dea9dbef96c3ecdbd90",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sat, 17 Oct 2026 21:48:11 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTnhlZFFILUhab0xOdDltNFBFNFJoN2NYdnhGNGdlVDdJcTdsamVNT0NVYmF2TVBkeXNBYXFxbWRLWkMzU1E0UmJoaUVkSF93T1VmWjdhS3RSMnpKYzVacWI3Q3NuLVFJblE1RFlHaG5qb0l0dFZwWG83WFlGazhqdkJVUXo4eS1qQTlFaVZQSzZ6NEdIeVVuZHVPbzlTa0d2NzNjVVdQTXRTX3dSejc0MVdrM0s2cGF5ak1MV3AxYzlrdmV2NVBKTmoxN1YwM01lcjl0QjdnTFhzMW4wR0E?oc=5",
+    "source": "247Sports",
+    "title": "Texas EDGE Colin Simmons leaves Saturday's loss with a \"lower leg\" injury, per Steve Sarkisian - 247Sports",
+    "summary": "Texas EDGE Colin Simmons leaves Saturday's loss with a \"lower leg\" injury, per Steve Sarkisian 247Sports",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.8 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "09eff2ddf62f2b85dd92",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 10 Sep 2025 20:31:45 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CWE1ndkxPTWpsQ3d3am9oRXpHZmV3Y2o0clJyX2gwNkp6RGRuVGdaUUxXOWdXRGhoa0JDVGhtR3p1RHNyQmFnU2xMbVNVZ2UwUDVZc1pOMDNjZ0dkUUJFVnNvYXV6TGFCUU1jSnpQODRmcG5Sb1E?oc=5",
+    "source": "Emerson Funeral Home",
+    "title": "James Bruce Gilmer Sr. Obituary Apr 3, 2006 - Emerson Funeral Home",
+    "summary": "James Bruce Gilmer Sr. Obituary Apr 3, 2006 Emerson Funeral Home",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 402.9 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ef46e7797696d612f1ce",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 13 Apr 2023 22:33:16 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yUDBMQldoVzFmXzM5REgzWXpoSEFTQVN3YnYwMGdkWF9jLThCeEFINlN6SnJXODB0UEd0M1hxeWthRmFkVXZtR3JrMG5DNjJER1J6OXlfaXdYWG5tc2gyM0VBdktsbWc?oc=5",
+    "source": "Goff Mortuary",
+    "title": "James Bruce Andrews Obituary Nov 28, 2021 - Goff Mortuary",
+    "summary": "James Bruce Andrews Obituary Nov 28, 2021 Goff Mortuary",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 1283.8 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "08d4dce0d1571a6b022d",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 14 Aug 2023 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Cc0tjdUg2azlxQW9nNnlncmNQamlvRmpJdlJsVEk0dzlaOW4xMDk5MVBIcUlEY1VRQjJzZWxpWU5uOG0zSVpsbXVqQUVNeGVzLWdPeHVNUUtTYWFYanVXU0xGLVpqMlliMkVySUJR?oc=5",
+    "source": "McDougald Funeral & Cremation Services",
+    "title": "James Bruce 'Jb' Collins Obituary Aug 14, 2023 - McDougald Funeral & Cremation Services - McDougald Funeral & Cremation Services",
+    "summary": "James Bruce 'Jb' Collins Obituary Aug 14, 2023 - McDougald Funeral & Cremation Services McDougald Funeral & Cremation Services",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 1161.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "008647f8bb3177bd8f51",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 19 Nov 2023 22:07:46 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBja1ladjBrNFlaQ2xwY04tZ1V3cktncFN6YWpIY2ZKYzd4M3hPbkZqMVctd3ZGQ3lMc24wTFhHOV9SeFpueTgxNHRjdHZsejJkODFua1dMbUpYZ0pzQ25rYkx6RGh4a2Nvb0RCMTdwQXQ?oc=5",
+    "source": "Nicholson Funeral Home",
+    "title": "James Bruce Ruston Obituary Jul 17, 2021 - Nicholson Funeral Home",
+    "summary": "James Bruce Ruston Obituary Jul 17, 2021 Nicholson Funeral Home",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 1063.8 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "98b4257472480e30d3a2",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 76,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 11 Jan 2025 03:21:31 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rTkdOM3FzczVPVndmTGt5Q3JNVUlvdzROUEpHcjF2a1pvZnRaRlY5OUh0Z2NLNmhpRnJyN3RLS00wMTZrM1prdE9BMDVRY1RjaVZoWFhEX0NxUjJ1MFJuWGdxMHYxU1VEQmlURXRMN29jVUNUQXoteTc3M096NXM?oc=5",
+    "source": "Wm. Sullivan & Son Funeral Directors",
+    "title": "James Bruce Hutchinson - View Obituary & Service Information - Wm. Sullivan & Son Funeral Directors",
+    "summary": "James Bruce Hutchinson - View Obituary & Service Information Wm. Sullivan & Son Funeral Directors",
+    "evidence": [
+      "matched entity: James Bruce",
+      "context: director",
+      "event: death (obituary)",
+      "source age: 645.6 days"
+    ],
+    "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5620c5cd441664142f7d",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 29 May 2022 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoQ3RRdUJXeHJkcWdGT0R2TXZqWGNQdHhYb1JlMEhDQm9kUVFvNFpXclR4OGRNaUdlYWJzUnZVX0Rxc2ljd2lMdzBIRXFreXpNNS1hcUUtQVFvYzNsSWhfRkgzeDMtOUpLd2lDdFl3RTY?oc=5",
+    "source": "Nichols-Gilmore Funeral Home & Cremation Service",
+    "title": "James Bruce Latney Jr Obituary May 29, 2022 - Nichols-Gilmore Funeral Home & Cremation Service",
+    "summary": "James Bruce Latney Jr Obituary May 29, 2022 Nichols-Gilmore Funeral Home & Cremation Service",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 1603.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "30fa1098dad8eb31ed27",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 31 May 2024 17:00:47 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yczFuNU44bXlWYktFTWxNVjJlRjVIMzV4MC01U1BIZ2QwMEtWTE5RSWRmaW1iUjNCQzk2QVZXM0p1Rm5zSUx1TFdCTjJaSUJmSFdBWF9ldVNyZDRGZU9wdGNxMDBsQQ?oc=5",
+    "source": "www.newcomerdayton.com",
+    "title": "Raymond James Bruce Obituary Sep 30, 2020 - www.newcomerdayton.com",
+    "summary": "Raymond James Bruce Obituary Sep 30, 2020 www.newcomerdayton.com",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 870.0 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "7d3d7cdab3da7eff2df7",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 28 Nov 2022 20:58:26 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91cG83SnBwbTlETEJ2UTBVa0xnYlRnODVGNERjNTRxT2I5V0lkanNFMTJ0UHdMdmNEd2hQcU1xNFRfTkF6eUpObkxxQjVNeUJNTlJ5R2xoZlhVU2MyeVJrTlRrbHR5UQ?oc=5",
+    "source": "Schrader-Howell Funeral Home",
+    "title": "James Bruce Ratkos Obituary Nov 25, 2022 - Schrader-Howell Funeral Home",
+    "summary": "James Bruce Ratkos Obituary Nov 25, 2022 Schrader-Howell Funeral Home",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 1419.9 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "983d8e3d550f32470d44",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 76,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 05 Apr 2020 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWEdNNEsxVklxbndiUmpKaHNxX29URlNjNGRFa3FZMHdiZ2xoclJkS2I1YU9tU1hrd24yYmNJNEg4LUJrTXlhTDg0eGhzSi1JRG1NNE9nZjRCT1o1WkRkM21CSzVJYVVLcmhrcmdrZ0xGZ0hFRU5mVzAzMkllSW5ibTVmWQ?oc=5",
+    "source": "A.J. Desmond & Sons Funeral Directors",
+    "title": "Obituary information for James Bruce Kelly - A.J. Desmond & Sons Funeral Directors",
+    "summary": "Obituary information for James Bruce Kelly A.J. Desmond & Sons Funeral Directors",
+    "evidence": [
+      "matched entity: James Bruce",
+      "context: director",
+      "event: death (obituary)",
+      "source age: 2387.5 days"
+    ],
+    "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "c1454d62eec7149b6ca6",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 11 Mar 2025 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CV0x4Z3pxTjA1UldUV2hOandUQkFsMmExaV96bnFPRFItNEpGenk4U1RobWxFbG90SEZ0X2NvN1VWelJQTF9PbnBtTXpxMUhvVnZwU2MzXzJsUjJ3bThjUDdyM0hxckVSaGk0NFUwSmd6MWxYREVZdU84N1lZOEk?oc=5",
+    "source": "Dignity Memorial",
+    "title": "James Bruce Obituary - Roswell, GA - Dignity Memorial",
+    "summary": "James Bruce Obituary - Roswell, GA Dignity Memorial",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 586.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "bae2a00cab953d2f06ff",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 06 Jan 2022 08:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wSFVKaWhGMlFST1YxdVJxcGR6dXo1ZHlWMGRhakp0NUtuRDdYNV9CdlFWYkpERGdza284Z1JveTM0Z0cwaGJCMjI5V1pPTUVoVGZ5V01KVQ?oc=5",
+    "source": "Noblin Funeral Service",
+    "title": "Obituary for James Bruce Madrid - Noblin Funeral Service",
+    "summary": "Obituary for James Bruce Madrid Noblin Funeral Service",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 1746.4 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "b16f413ca2ab7accff25",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 24 Mar 2018 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MZ0F2dF9QTTkwWEZWLUZyVnNxVVN6WUxMUjB5S2xhNWdJRDc3NWF4OUFPWE4tUFkyd1U3UkF3UmJVcWYyYXZQZ1VBc29YWGJGLS14cW4zTDhzMmtUTjJJaWtmUXRZUElIakRiaQ?oc=5",
+    "source": "Russon Brothers",
+    "title": "James Bruce Hansen Obituary Mar 24, 2018 - Russon Mortuary & Crematory - Russon Brothers",
+    "summary": "James Bruce Hansen Obituary Mar 24, 2018 - Russon Mortuary & Crematory Russon Brothers",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 3130.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "55d2e4e35d4052ed5eaa",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 25 Mar 2019 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQVJSbTE0OVROZXpycnNBZVZiYmMwY0VpWkpsTzc3VkVwRzVJUHZjRmdSZ2pZS2F0NWRDSmU4c2dHVnlMZkNXQW1aLWRNYTlPdVQ0bmlCYWFGMXhHZ3dHYTYySTFtVUstLVlj?oc=5",
+    "source": "Palmer Funeral Homes",
+    "title": "Obituary for James Bruce Groendyke - Palmer Funeral Homes",
+    "summary": "Obituary for James Bruce Groendyke Palmer Funeral Homes",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 2764.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "50e1510be483d20fea45",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 29 Mar 2022 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90UjZDXy16dkt0anhXTkpoMHcwTlZNODItWjlJMmRiek90NFAxSzZlaU9BcF9UQWh5b21uRjRQMk9jRk03OWtBUVVsLWFmcVFZVEtodzREZ3gzSy1rVmZXcF8yWTdzQQ?oc=5",
+    "source": "Serenity Funeral Home of Southern Utah",
+    "title": "James Bruce Densley Obituary - Visitation & Funeral Information - Serenity Funeral Home of Southern Utah",
+    "summary": "James Bruce Densley Obituary - Visitation & Funeral Information Serenity Funeral Home of Southern Utah",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 1664.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "3191f6d9028e84441afa",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 22 Feb 2021 08:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfNkx1UElsa3A0dmRQaGpXMGNRb3ZadTZhNm44ZlF2dlFCUmZRMHJMSkdwODJHcy1TcWtrdE9vZEVZbW5xNzdPOEg2c24tekt1YjJZVlhSYm1tNW1ISXQtMUhQRUJNNkdxdVh6MnpFNA?oc=5",
+    "source": "Munden Funeral Home",
+    "title": "James Bruce Ellington Jr. Obituary February 22, 2021 - Munden Funeral Home",
+    "summary": "James Bruce Ellington Jr. Obituary February 22, 2021 Munden Funeral Home",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 2064.4 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f874efd1aba5b9d4df4a",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 26 Jul 2014 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Vb0l0X0NzZFFNWGVwT0RRQ3h6dUEzU1UtYWN6MG5CQUtjOG95NDNra2syRlViMHBSYnczRlhqYTFQY19Ja256ZGVQcm1tcDkzaG53ZG1uSlJfUUpqVTc0eTBfY0VUeWFmd3BZTGlBOHdicnJndFE?oc=5",
+    "source": "Combest Family Funeral Homes & Crematory",
+    "title": "James Bruce Thornton Obituary Jul 26, 2014 - Combest Family Funeral Homes & Crematory",
+    "summary": "James Bruce Thornton Obituary Jul 26, 2014 Combest Family Funeral Homes & Crematory",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 4467.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "23c9fb6cbc4b1206fdb5",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 24 Jan 2012 08:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kblFYZWxfMS02RXNRdHhiMlo0MTZIWUU0dHdRY01MZHZUWnpOUVozT0VPWFVDNGdSa1NJZDRyZFNWLTVJc0hibGRLNWVGa2hkLTc5M3VKZFJDQkxQeEJZ?oc=5",
+    "source": "Mankato Mortuary",
+    "title": "James Bruce Obituary Jan 24, 2012 - Mankato Mortuary",
+    "summary": "James Bruce Obituary Jan 24, 2012 Mankato Mortuary",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 5381.4 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "cd3ea598d168fd18aa83",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 04 Dec 2014 08:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VWEJlN3ROVzBJOTZRX0ZleWRFajBPUV9qMGVYZEpoNEk0Q0cxeTFISUNHelctdGUtVkE2QVlZeTRSZjZNU0xFNmVneUJDLV9XZGpreFkzVmIwdmEz?oc=5",
+    "source": "White's Funeral Homes",
+    "title": "Colt James Bruce Obituary Dec 4, 2014 - White's Funeral Homes",
+    "summary": "Colt James Bruce Obituary Dec 4, 2014 White's Funeral Homes",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 4336.4 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "0e8279a0dbb4c11a37c3",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 22 Oct 2016 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UUmQxSnpjUjBqUjQ3R2RDR2VQNlZ0VG95NExaTXA4ZHd1ZDQ5dWZCRFFzZzFoZ3hHeGFxbGxsT2pDU1BhRFJfOUJ6RkZ2WjhPVTJuU0Z1dEVORXhtU0FtdWNpQzdIdFJHT2o5bGdQbw?oc=5",
+    "source": "Watson Funeral Home & Crematorium",
+    "title": "JAMES BRUCE LOOMIS, SR.'s Obituary, Visitation & Funeral Information - Watson Funeral Home & Crematorium",
+    "summary": "JAMES BRUCE LOOMIS, SR.'s Obituary, Visitation & Funeral Information Watson Funeral Home & Crematorium",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 3648.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "de4ed23127f5968bab1c",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 22 Jul 2012 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wZnpQZERBX210WVBDeldRQm14SndNbVEyMlBtRkF4MnVaSFVmd2Utb1AtTW1kbkstUm40SDRacndlRmVUcHF2MnBsWG81aWFiZnFjVUhDcmFQamRU?oc=5",
+    "source": "Horan & McConaty Funeral Service and Cremation",
+    "title": "James Bruce Lehr Obituary Jul 22, 2012 - Horan & McConaty Funeral Service and Cremation",
+    "summary": "James Bruce Lehr Obituary Jul 22, 2012 Horan & McConaty Funeral Service and Cremation",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 5201.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "bdf39d849a35a3e285b8",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 06 Jan 2016 08:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PbWdTSm1VVm5LdVN0dk5za1lTdjZJdUIyX1VHaDcwWm1WR2xLMks3anRQSTU5cFZSYVdPUWQ5M01zWjlDdHd3MC0yZ1J3Z1ZIVmFWOUE4Z3FlcWJoX3dDZ3ZzX0RNcHpxSXpYV0dodlkxTnF6SnpsZ3RNb3FfQQ?oc=5",
+    "source": "McLane Funeral & Cremation Services",
+    "title": "James Bruce Daugharty, Sr. Obituary Jan 6, 2016 - McLane Funeral & Cremation Services",
+    "summary": "James Bruce Daugharty, Sr. Obituary Jan 6, 2016 McLane Funeral & Cremation Services",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 3938.4 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "9239be72abab1f0be8fc",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 20 Oct 2018 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcGQyY3gwbmdiSTk0YUFsdTNmc2JsWXNqTUZ5S3ZISEc2N3pKVTNuaktya0hHaXhjXzRrVmZpSlpKb2xfcE44bHd1VHJqNG5hRW9GTXdpbkpaWnh3QnEwRjYtaWM1NmQyVE52bmlIR3JCVnA3SFRWMWI3eEdxaU5vZUJ0NnY2QQ?oc=5",
+    "source": "Windsor Chapel",
+    "title": "Obituary of James Bruce Gordon - Windsor Chapel",
+    "summary": "Obituary of James Bruce Gordon Windsor Chapel",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 2920.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "961d5d667b68c59f2e84",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 25 Apr 2015 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iTklyNXl3b0Y2M0NQTEx3Y1gxWVd6UUQ1UEFNTkdsMTFhckRGWE5DWFVITGFlRnFPdG40d0diSTB3ZTgzejNrNVlNQlZFMHA2SmtTVlg3T3VtRnBFME52N1VVRU13Ynd6OXc?oc=5",
+    "source": "MacMillan-Drapeau Funeral Home",
+    "title": "Obituary for James Bruce Miller - MacMillan-Drapeau Funeral Home",
+    "summary": "Obituary for James Bruce Miller MacMillan-Drapeau Funeral Home",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 4194.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "cd4d98e21290b7e36bb8",
+    "entity_id": "james_thorpe",
+    "entity": "James Thorpe",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_thorpe",
+        "name": "James Thorpe",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Deadly Exposure",
+          "Diplomatic Immunity",
+          "Indiscretions",
+          "Money No Object",
+          "Sins of the Father",
+          "The Modern Prometheus",
+          "The Valkyrie",
+          "Two of Hearts"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Deadly Exposure",
+      "Diplomatic Immunity",
+      "Indiscretions",
+      "Money No Object",
+      "Sins of the Father",
+      "The Modern Prometheus",
+      "The Valkyrie",
+      "Two of Hearts"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 08 Feb 2019 08:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbW0xZE1EZzVSUUhVUVpWT0tuQ2NYX1RwOGliMEY0S0o1SERXM3dIa0xEaG50Q2ptbzdVZ1VCaUpVaFg1aGt5YzZZNUhDSmpPeDZWVnliTzFqenJ0MFdtaVE2Zk5YRlBNNGpvNWJrUHB2OXIwLVl1M0t0WXo0VVMwZ1BQOA?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "James Thorpe Obituary (2019) - Legacy | Obituary",
+    "summary": "James Thorpe Obituary (2019) Legacy | Obituary",
+    "evidence": [
+      "matched entity: James Thorpe",
+      "event: death (obituary)",
+      "source age: 2809.4 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "15f4e9964b2e0ff2432d",
+    "entity_id": "karen_harris",
+    "entity": "Karen Harris",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "karen_harris",
+        "name": "Karen Harris",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Rite of Passage",
+          "The Cross of St. Antoine",
+          "Timeless"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Rite of Passage",
+      "The Cross of St. Antoine",
+      "Timeless"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 15 Jan 2024 08:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVlNHYVpMOUxHN0h0Vk1WYnIwQVN6cXNTcGE1dmRVLWVMSVJ1aHY5Qkh2V3BWcUoyZ3BnMUM5V2ppNWJvM1l4a1gzQ0FHcFRQV1lfSlpLb0NTdTB4bDZfR1VDTGZfbkFyWkpPeXNtTW9CdVBOVlo5MzBtM0NGSUhfRlp3?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Karen Harris Justice Obituary (2024) - Valley, AL - Vance Brooks Funeral Home - Phenix City - Legacy | Obituary",
+    "summary": "Karen Harris Justice Obituary (2024) - Valley, AL - Vance Brooks Funeral Home - Phenix City Legacy | Obituary",
+    "evidence": [
+      "matched entity: Karen Harris",
+      "event: death (obituary)",
+      "source age: 1007.4 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "da09b0a4c0d24c488b69",
+    "entity_id": "kathleen_barr",
+    "entity": "Kathleen Barr",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "kathleen_barr",
+        "name": "Kathleen Barr",
+        "kind": "person",
+        "roles": [
+          "voice actor"
+        ],
+        "franchise_titles": [
+          "Highlander: The Search for Vengeance"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "voice actor"
+    ],
+    "franchise_titles": [
+      "Highlander: The Search for Vengeance"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 24 Feb 2019 08:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1FwRzQ0NkR0RkdlQmozdmIzN2dBbHJVeDJaWkFWMUxobmk4TWRwdTFockcxbkRPWnFrcDktNVl0TnpsbFpXa3lQTWZkZEJuRTFvQVNaRVVqVFFJMzNNU0NGbVVNVnNzWi1IbmNKenBkUDdmTFZhczVBUjB2TFRId1pHWXRPaEhfMnFPME5vejI?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Kathleen Barr - Legacy | Obituary",
+    "summary": "Kathleen Barr Legacy | Obituary",
+    "evidence": [
+      "matched entity: Kathleen Barr",
+      "event: death (obituary)",
+      "source age: 2793.4 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "c5c2f0de8efed001de5b",
+    "entity_id": "larry_ferguson",
+    "entity": "Larry Ferguson",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "larry_ferguson",
+        "name": "Larry Ferguson",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 23 Sep 2023 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2NMbHIzRXRhNHNrX2ExTmNza2xRYmtKOWFxMzdRc2ZVSXlPOTN2Q3h1VjhaZnA2YlNIVXQ1Z1FnUlpQeUMtSmVaa3ZvTzh3V1lncUtzWXIyRTdSNERwV2ZiVUlKeEluZGVNREV4cVU2b3o1RkdxQWw2OUU2eloxbXd3UWpNS3dEOFJQZHBRc09NQQ?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Larry Ferguson Obituary (2023) - Tulsa, OK - Tulsa World - Legacy | Obituary",
+    "summary": "Larry Ferguson Obituary (2023) - Tulsa, OK - Tulsa World Legacy | Obituary",
+    "evidence": [
+      "matched entity: Larry Ferguson",
+      "event: death (obituary)",
+      "source age: 1121.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "dcfe74ddd5e02d5d1048",
+    "entity_id": "larry_ferguson",
+    "entity": "Larry Ferguson",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "larry_ferguson",
+        "name": "Larry Ferguson",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 18 Jun 2006 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdGQ1UmxVM09jQWJkdklXVV9MR2ZlMktDb0I3TGFSeWwzaml0YTY1WnVSQ2I2NmdHS1pPcTRsM1VpazQzQW5VeHl0VVNrTDYwVS1CYjU2MWlwRmxGZmpIZkcwZlRrVHF6QndfbDBNTTZIeWhoZ2loUjdZanNxX0ZYQjlWT2xsT0tkck5wWHpXWlNYTDNzNUlNSw?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Larry Ferguson Obituary (2006) - Long Beach, CA - Press-Telegram - Legacy | Obituary",
+    "summary": "Larry Ferguson Obituary (2006) - Long Beach, CA - Press-Telegram Legacy | Obituary",
+    "evidence": [
+      "matched entity: Larry Ferguson",
+      "event: death (obituary)",
+      "source age: 7427.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "4ef3b167b5991e31f7ed",
+    "entity_id": "lisa_howard",
+    "entity": "Lisa Howard",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "lisa_howard",
+        "name": "Lisa Howard",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: The Series"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 01 Oct 2021 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DQmVvb1o3empzaHU4eXUxRzVPSVZvdC1uT3g1VEFJR2g4TU1XR0RCUUxuRXNUQjUwLU9lTURxRHZPUDFmZVBBVnotRC1RRUNYckxsOXdUZUd5bEMtRV9Pa1Q5dVk0aWo0M3dJQkF5blF4Z29rX1Q5ZnNoemU0Tkk?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Lisa Howard Obituary (2021) - Klamath Falls, OR - O'Hair-Wards Funeral Chapel - Legacy | Obituary",
+    "summary": "Lisa Howard Obituary (2021) - Klamath Falls, OR - O'Hair-Wards Funeral Chapel Legacy | Obituary",
+    "evidence": [
+      "matched entity: Lisa Howard",
+      "event: death (obituary)",
+      "source age: 1843.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "af5ea7a5e8ec84df5d6d",
+    "entity_id": "patricia_gage",
+    "entity": "Patricia Gage",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "patricia_gage",
+        "name": "Patricia Gage",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: The Raven"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: The Raven"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 08 Mar 2009 08:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdDBQRG9zMkhFSjdNeTZ2djlJb1lQQXdsbVpZSlRfY2dnRE9FdV9PQm1nR25MWmR2Rkw2andGRk1CVEZtdi1ORXhmMTdUSmYyV2VCTGM4Ykd3Zi1RRER1YnpHVGpXSU1penV5TXRHS2drZ1h0M19OMzlEQXA2VzFLYTBMY00?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Patricia Gage Obituary (2009) - Rowayton, CT - Lawrence Funeral Home - Darien - Legacy | Obituary",
+    "summary": "Patricia Gage Obituary (2009) - Rowayton, CT - Lawrence Funeral Home - Darien Legacy | Obituary",
+    "evidence": [
+      "matched entity: Patricia Gage",
+      "event: death (obituary)",
+      "source age: 6433.4 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "50a831a67534cb7ec153",
+    "entity_id": "peter_ellis",
+    "entity": "Peter Ellis",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "peter_ellis",
+        "name": "Peter Ellis",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Dramatic License",
+          "Manhunt",
+          "Studies in Light",
+          "The Fighter",
+          "Unholy Alliance, Part 1",
+          "Unholy Alliance, Part 2"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Dramatic License",
+      "Manhunt",
+      "Studies in Light",
+      "The Fighter",
+      "Unholy Alliance, Part 1",
+      "Unholy Alliance, Part 2"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 16 Oct 2008 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcHVYQm9qOV9VTjcwRVZ3S2JzYlVuejRmY1pJZjh5TXZnN2MyRGstclBsUjR6S1ljSXBTT1RORnI1MlZ1bTdwWmg4X0hMZjZUcS05WEpWYlpYeVI4andmUFkwTnZSbGRxdnhqNmVPZ25KTzlaQUdyNDdmOVRCV0xoZVVydllUT3lzUFB6eHptUmE?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Peter Ellis Obituary (2008) - Baltimore, MD - Baltimore Sun - Legacy | Obituary",
+    "summary": "Peter Ellis Obituary (2008) - Baltimore, MD - Baltimore Sun Legacy | Obituary",
+    "evidence": [
+      "matched entity: Peter Ellis",
+      "event: death (obituary)",
+      "source age: 6576.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "0ddeb0a5aaeb04692eae",
+    "entity_id": "peter_ellis",
+    "entity": "Peter Ellis",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "peter_ellis",
+        "name": "Peter Ellis",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Dramatic License",
+          "Manhunt",
+          "Studies in Light",
+          "The Fighter",
+          "Unholy Alliance, Part 1",
+          "Unholy Alliance, Part 2"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Dramatic License",
+      "Manhunt",
+      "Studies in Light",
+      "The Fighter",
+      "Unholy Alliance, Part 1",
+      "Unholy Alliance, Part 2"
+    ],
+    "event_type": "legal",
+    "source_date": "Thu, 01 Aug 2019 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHdyN2ZfeXYzTi0yTWV3ZXVpekNsSTc0SWliYjZjWUJmaUxUd0FtZ2tiTGRCZ2ZMVEp5Qlh6WUlhQzdkRUJ1aXVWLUkyZktyNmt1UHNlZHBDZWJqb3ItTmlXaGFzaC1RT2tURXNleHFKNDlxa3FqcDN0djFjZGFYdGNtQzRyZy1FVkJ3MTJYbUNTR2wzZm1uWmdJOEc?oc=5",
+    "source": "The Spinoff",
+    "title": "Cheat Sheet: Peter Ellis case heads to Supreme Court - The Spinoff",
+    "summary": "Cheat Sheet: Peter Ellis case heads to Supreme Court The Spinoff",
+    "evidence": [
+      "matched entity: Peter Ellis",
+      "event: legal (court)",
+      "source age: 2635.5 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d5c6da3bffce16a1dc50",
+    "entity_id": "richard_martin",
+    "entity": "Richard Martin",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "richard_martin",
+        "name": "Richard Martin",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Armageddon",
+          "Black Tower",
+          "Diplomatic Immunity",
+          "Duende",
+          "Justice",
+          "The Stone of Scone",
+          "The Valkyrie",
+          "To Be",
+          "Two of Hearts"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Armageddon",
+      "Black Tower",
+      "Diplomatic Immunity",
+      "Duende",
+      "Justice",
+      "The Stone of Scone",
+      "The Valkyrie",
+      "To Be",
+      "Two of Hearts"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 21 Aug 2026 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfZXgwZ3FTLWtsc2FGRENXY1A0alBHUF9iVGhTRTNacWJyejR5OXl2OHl0NTByc3BSZUNYUUNTRzJPSlVYV2tyQV9SNkRRcDRPNEFVSUx3bFdxY1hnd084ZHhqdDVLQnQxcGttRXdvbzJ0STY5eXNLWXJ6WEJQQQ?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Roy Richard Martin II Obituary (2026) - Latonia, KY - Connley Brothers Funeral Home - Covington (Latonia) - Legacy | Obituary",
+    "summary": "Roy Richard Martin II Obituary (2026) - Latonia, KY - Connley Brothers Funeral Home - Covington (Latonia) Legacy | Obituary",
+    "evidence": [
+      "matched entity: Richard Martin",
+      "event: death (obituary)",
+      "source age: 58.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "a0670a629530d275465f",
+    "entity_id": "richard_martin",
+    "entity": "Richard Martin",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "richard_martin",
+        "name": "Richard Martin",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Armageddon",
+          "Black Tower",
+          "Diplomatic Immunity",
+          "Duende",
+          "Justice",
+          "The Stone of Scone",
+          "The Valkyrie",
+          "To Be",
+          "Two of Hearts"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Armageddon",
+      "Black Tower",
+      "Diplomatic Immunity",
+      "Duende",
+      "Justice",
+      "The Stone of Scone",
+      "The Valkyrie",
+      "To Be",
+      "Two of Hearts"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 15 Jan 2026 08:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3dQS25BTjk0TkFhM1N3SzZETGY4cGhxSGRqZXdGd25XYnVDU241MnRzNW5EcUR1djJzTWNvOUZuSzBxTXUzdVBqZTZOcHNhNm8za1RNdHRlVDV0TnYyOFU4UElyVkdDeTRQMC1LX2c2QjhOS3hRc0Y3TTVFclI5UTZDY1RsUQ?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Richard Martin Bridburg Obituary (2026) - Watertown, MA - DeVito Funeral Home - Legacy | Obituary",
+    "summary": "Richard Martin Bridburg Obituary (2026) - Watertown, MA - DeVito Funeral Home Legacy | Obituary",
+    "evidence": [
+      "matched entity: Richard Martin",
+      "event: death (obituary)",
+      "source age: 276.4 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "2253011d0f95ab3b31cd",
+    "entity_id": "robin_davis",
+    "entity": "Robin Davis",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "robin_davis",
+        "name": "Robin Davis",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "For Tomorrow We Die",
+          "The Lady and the Tiger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "For Tomorrow We Die",
+      "The Lady and the Tiger"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 02 Jan 2015 08:00:00 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oT2ZTVXhadmRJcTQzWGNhZDllZmNCdVBZRDJlOTFfOU5QcmdBd2RDcXcyNl92d2ZjaDhEeHBPTzJseEVrZTRyMWtnRU80OTRpN283ZjhFVmNOczdUcUI4LWJhQk9ORElla0c3RGJjSUhmYUVEdWJLQkJJNm9DQQ?oc=5",
+    "source": "Tribune 242",
+    "title": "Obituary for Anishka Robin Davis-Darville - Tribune 242",
+    "summary": "Obituary for Anishka Robin Davis-Darville Tribune 242",
+    "evidence": [
+      "matched entity: Robin Davis",
+      "event: death (obituary)",
+      "source age: 4307.4 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "aae6ed50dc1f5c0561c9",
+    "entity_id": "sean_connery",
+    "entity": "Sean Connery",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "sean_connery",
+        "name": "Sean Connery",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II: The Quickening"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 23 Feb 2026 01:36:25 GMT",
+    "captured": "2026-10-18T18:07:24Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80c0RON09qOVRoMk5wM0c4NjRqQk04dUt5bWFfcHY3UFZZM1VBQWVSc3ozbUJrUnhNTkpDNUVwSDhPMzg4Y2RTX1J2MlpzWTZtUFE?oc=5",
+    "source": "IMDb",
+    "title": "Sean Connery’s Wife Says Actor Battled Dementia Prior to Death - IMDb",
+    "summary": "Sean Connery’s Wife Says Actor Battled Dementia Prior to Death IMDb",
+    "evidence": [
+      "matched entity: Sean Connery",
+      "event: death (death)",
+      "source age: 237.7 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "8c016e9fd252f4cdb210",
+    "entity_id": "terry_nelson",
+    "entity": "Terry Nelson",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "terry_nelson",
+        "name": "Terry Nelson",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "The Road Not Taken"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "The Road Not Taken"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 16 Apr 2022 07:00:00 GMT",
+    "captured": "2026-10-18T18:07:25Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFh2bkJwSHZCNXJjRWUwYjltXzRBQnpMWEpSS1FDYXpzdTc3U2Z2ZG8wZjVnbGwxNUY5TFM3OV8xZl9nNVB6aVQxQU9Zam1zZDVlOGVmTlRlWGxPUHB5MVFtaUNJd01CX0FTUmQxcjNsbnRvb3UtWlZGV3hpa2lCcQ?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Terry Nelson Obituary (2022) - Cuyahoga Falls, OH - Clifford-Shoemaker Funeral Home & Crematory - Cuyahoga Falls - Legacy | Obituary",
+    "summary": "Terry Nelson Obituary (2022) - Cuyahoga Falls, OH - Clifford-Shoemaker Funeral Home & Crematory - Cuyahoga Falls Legacy | Obituary",
+    "evidence": [
+      "matched entity: Terry Nelson",
+      "event: death (obituary)",
+      "source age: 1646.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "3181c12898266374aece",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 06 Feb 2023 08:00:00 GMT",
+    "captured": "2026-10-18T18:07:25Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemNxRjJoMDV3TGxabVpoMXdZd3BIcmlEOVU1dkpPUkt0czlla0x2ZE9HQlNjLXRXWDROVmU3NHo0TlJIZTYwb21oUk1wWWhva0FUc2RKekIxWW5sbklMSndQb0xjMFJyS1dYX3N6ck5DMTFiVlNEeENYZ2w5NzlJNFdjZFJ4S25BakpCV1VCNUFOb3ZUakJhR0tCMEMyRnEtaFQxRTdQQW00MUxweHdjODkzZjFVM0g5dE9QTmxpTW1LZVNTMjZkcFBZc1p4OXBWUFJvVDd3?oc=5",
+    "source": "Deadline",
+    "title": "‘The Portrait’: First Teaser For Horror Starring Natalia Cordova-Buckley, Ryan Kwanten, Virginia Madsen, Mark-Paul Gosselaar & Isidora Goreshter - Deadline",
+    "summary": "‘The Portrait’: First Teaser For Horror Starring Natalia Cordova-Buckley, Ryan Kwanten, Virginia Madsen, Mark-Paul Gosselaar & Isidora Goreshter Deadline",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: death (dead)",
+      "source age: 1350.4 days"
+    ],
+    "score": 72,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

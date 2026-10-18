@@ -1,111 +1,5 @@
 [
   {
-    "id": "3193d54a1fdd341b6985",
-    "entity_id": "michael_kamen",
-    "entity": "Michael Kamen",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "michael_kamen",
-        "name": "Michael Kamen",
-        "kind": "person",
-        "roles": [
-          "composer"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II: The Quickening"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "composer"
-    ],
-    "franchise_titles": [
-      "Highlander",
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 01 Dec 2003 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTlRPbkltRG5GTzBoeWlJdzdoUUVGZkU3ZmxLM1oyWG5nSUU2ZGxlcFpNT0xIVDc2R0RWZGpFa0pYc0xpMjFQU2VqbGVIME1lUy1NbGgyRkFqUkZvRWlmNW9tcGhZOVl5UzNnZXl2ZWhjRFNTcjM1cEJlY0x3M1A0UmRybFRUcXIzeUZrZmxHVFBRMXFFMXJDdGZuM21JZw?oc=5",
-    "source": "Legacy",
-    "title": "Michael Kamen Obituary (2003) - San Diego, CA - San Diego Union-Tribune - Legacy",
-    "summary": "Michael Kamen Obituary (2003) - San Diego, CA - San Diego Union-Tribune Legacy",
-    "evidence": [
-      "matched entity: Michael Kamen",
-      "event: death (obituary)",
-      "source age: 8339.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "aa2954252d1a96e636b0",
-    "entity_id": "michael_o_mahony",
-    "entity": "Michael O'Mahony",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "michael_o_mahony",
-        "name": "Michael O'Mahony",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Chivalry",
-          "Dramatic License",
-          "Justice",
-          "Methuselah's Gift",
-          "The Stone of Scone",
-          "Till Death"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Chivalry",
-      "Dramatic License",
-      "Justice",
-      "Methuselah's Gift",
-      "The Stone of Scone",
-      "Till Death"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 17 Oct 2021 00:38:26 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbnFfbGg4eklBd21XZzhFMkl6WVoyaXF6SnhubHJFbDEwWHVMRkVwS0h0QXVnZFZVMkZqTnVtWVNKOEp0Yld4MzNZNkZzT1JzbEZiSENCY3FBV1k4TmV2YktNTzhLc1lieHVBLUFnbDlKU3Q1Tll2enpkSjZtX21FSUdIY1ZEa2FuZnhTUU5rdjB1dUJweFE?oc=5",
-    "source": "Legacy",
-    "title": "Michael O'Mahony Obituary (2005) - Quincy, MA - Boston Globe - Legacy",
-    "summary": "Michael O'Mahony Obituary (2005) - Quincy, MA - Boston Globe Legacy",
-    "evidence": [
-      "matched entity: Michael O'Mahony",
-      "event: death (obituary)",
-      "source age: 1809.8 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "94f3209253841bad573a",
     "entity_id": "michael_o_mahony",
     "entity": "Michael O'Mahony",
@@ -52921,5 +52815,129 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "07ffa2883a8313499e7b",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "appearance"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "appearance",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-10-18T12:45:50Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVVoQ3RBYkNwMzhLbVhGdVFjT2N3d2RlYUcxV3kwV1dKRUxFcXpaX1ZxVUhoV1VQU2J1SzNSS29hczE3NGt1UHJPbnFWQ1pPOEVyVFI1SUhFUU9YRzNnNEQ2NER6WkdtcTJZWnZ2TW1fWURYTjExcUpTdkljSi02Q0xqRWF1eUhzVDhKc0pMYUNqTjZBcW9zUExQSWdvcmxtWEo1U2FjYXc0bWlabW15a3plYy1FNlkyMVhF?oc=5",
+    "source": "Hoodline",
+    "title": "Christopher Lambert Collapses at Monroeville's Steel City Con - Hoodline",
+    "summary": "Christopher Lambert Collapses at Monroeville's Steel City Con Hoodline",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: appearance (steel city con)",
+      "source age: 70.2 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "4e87aaca06542bbe4e4c",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sun, 27 Sep 2026 20:36:21 GMT",
+    "captured": "2026-10-18T12:45:50Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLUVR0UXlXWEwwekRzMThlN2lmRHZNRTktVmhGSjdWaHkxM0dmY3NkbjVOQm9Scmd3TjRPSHRIOUk3M3RDOVFieWVlclRabUd3MVhjWmpLbFZUUlNoOGtCZDhiUHhBc1E?oc=5",
+    "source": "IMDb",
+    "title": "'Highlander' Officially Returns With New 4-Part Release Ahead of Henry Cavill's Reboot [Exclusive] - IMDb",
+    "summary": "'Highlander' Officially Returns With New 4-Part Release Ahead of Henry Cavill's Reboot [Exclusive] IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 20.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
   }
 ]

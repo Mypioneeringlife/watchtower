@@ -1,131 +1,5 @@
 [
   {
-    "id": "b1a5efa9cc1022bcf95f",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 07 Jan 2026 19:28:48 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVR5QXZzU05VMjlEQkZ3cXpCV2paSmtrWWEyUmEyaTJFbmhyTklNdnViQW0tWmQ4MTY4N21SUUNmdHJQMkZaT0R0eVlqYUc5UGVKdzFIMGliMjZZU0k0UWlGV1RKV0pUMXFzc1o3QmVEMVFMb2dXR3UwOXJMZ1ZnSlBIZS1ISVlqYnU2UUhjemY4R0o2?oc=5",
-    "source": "Legacy",
-    "title": "Richard Martin Obituary (2026) - Valley City, ND - Valley City Times-Record - Legacy",
-    "summary": "Richard Martin Obituary (2026) - Valley City, ND - Valley City Times-Record Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 266.0 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4115b664ba2daad7abe4",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 29 Dec 2025 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXpPMFdhbFJ3aHh2ZTZOV0ZVU2ZuWm1Da1BWNERURG1CLXhxVzJ1YlgtMVZ6Nk5lbUtzRUJKdVZHNDYwM2JKM0pQSTZZYkRpT05aV0VjRjFleHhHSUZXRVppcXNJeks0YzJmNHFjUHFBWTdsSEJjbFpfbllPOHo3Q1dxXzU?oc=5",
-    "source": "Legacy",
-    "title": "Homer Richard Martin, Jr. Obituary (2026) - Cheyenne, WY - Wiederspahn-Radomsky Chapel of the Chimes - Legacy",
-    "summary": "Homer Richard Martin, Jr. Obituary (2026) - Cheyenne, WY - Wiederspahn-Radomsky Chapel of the Chimes Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 275.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "15b35f5f1acb7d1b87fb",
     "entity_id": "richard_martin",
     "entity": "Richard Martin",
@@ -52688,6 +52562,102 @@
       "source age: 1350.4 days"
     ],
     "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "9bf0f43694f5b7e3c0d8",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 84,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 24 Mar 2023 07:00:00 GMT",
+    "captured": "2026-10-19T08:02:40Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeUJhNmhlNDJ0V0NFSjE2dlJGajEtSXE0dDhoc3d2VFJROWl2TFRPcFJidVRCTVh2VWo0MXNjQVkyRHkyVlNsU2ZWdGs2eEFZbUN3WllQQXN6NHlXUlVCRU1iVl9Xdnl0R1hZQVo1eUd4aWpMV0MtM3VOSHI5dkt4M1JWeG92QWpOT1VqQllTTlliZGk5UTRLS21HczRNOVR3QWY1MEhubw?oc=5",
+    "source": "Deadline",
+    "title": "‘John Wick’ Franchise Director Chad Stahelski On Permanently Retiring Keanu Reeves’ Hitman & Why Academy Must Add Stunts To Oscars Categories - Deadline",
+    "summary": "‘John Wick’ Franchise Director Chad Stahelski On Permanently Retiring Keanu Reeves’ Hitman & Why Academy Must Add Stunts To Oscars Categories Deadline",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: director",
+      "event: death (dead)",
+      "source age: 1305.0 days"
+    ],
+    "score": 84,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "274bb347c1730214f8b7",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 66,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "interview",
+    "source_date": "Thu, 05 Aug 2021 07:00:00 GMT",
+    "captured": "2026-10-19T08:02:40Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTm9UU290QXdROUVxd1ZHZEw1TU5paEFMZHZNd3UyeWV3a0EzX0hwZzliRGNPZUpOZHBCQkJkMWp5b2xYWXFWYWFnVTJtaW1rYnMyRmI3cENQT2NROS05ZTJpT2JrLW00WWZQcElqN0ZfMFpqVWFwd2RUSElXNXNUSlc0MlJ3WWVjUXFNSGxMSXZ1bTZXLTV4QjJQenFia1FfSHfSAacBQVVfeXFMTUpOaUZfWWNHYnJKd0VzWVhsRzJHd2JaRlhJdDFaQ1ZZQVc4Y1RRVlMzbzM0cHJYMHhuWW1wSXVvTTRHcnJ2MTdiTnRJWHlEd1RvS2c3QmVWeHhNcU1GZ1NmTkxXcEFXQ2p0aWhtcjlZUGdMeUFHOE9oeE1WVVlxN3ZvcGdLMGJiQ0VxYTUyWHNsNk85RGlzTml6b0VDdmtFNXZvSC1vZG8?oc=5",
+    "source": "JoBlo",
+    "title": "Interview: Chad Stahelski talks John Wick 2 Blu-Ray & what’s in store for 3 - JoBlo",
+    "summary": "Interview: Chad Stahelski talks John Wick 2 Blu-Ray & what’s in store for 3 JoBlo",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 1901.0 days"
+    ],
+    "score": 66,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

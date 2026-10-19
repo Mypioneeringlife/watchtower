@@ -1,54 +1,5 @@
 [
   {
-    "id": "e49a2556e6176afe512b",
-    "entity_id": "sheila_gish",
-    "entity": "Sheila Gish",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "sheila_gish",
-        "name": "Sheila Gish",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander",
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 11 Mar 2005 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPay1lRnVMd1RHdUJPUGE0ZS1HYVlwZEM3WDlZVF9zeVoza01feVlTMmRVVklxX3FYUFFZYTJHbnhuN2w0SXp1eC1jeU9fRlhtUGVNNnU2ZlVEWGxoT0NGTzE0TGxRSTFFOUxKYWZieEQ3X2lCZDRTWmQ3U3lBRHRLeFlrdDQ?oc=5",
-    "source": "theguardian.com",
-    "title": "Obituary: Sheila Gish - theguardian.com",
-    "summary": "Obituary: Sheila Gish theguardian.com",
-    "evidence": [
-      "matched entity: Sheila Gish",
-      "event: death (obituary)",
-      "source age: 7873.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "13f30e5fd967518dd310",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -52721,5 +52672,67 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "8adb088494aa91b55554",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 16 Oct 2026 07:00:00 GMT",
+    "captured": "2026-10-19T23:53:48Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHbW92MmFrUVJSelF5VV8zUm1hQ29tVVZUUlVRY0VwRnZCUENGM1RLMTZMd1BMcFlzcnEtbTR1WHhWYnJmSnptNEl3a1ZRUU1ETnlrOWRXMGlOOUlZcEhORjFReHNsdDA?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill’s ‘Highlander’ Scottish Accent Is Officially \"Bang On,\" Says Co-Star [Exclusive] - IMDb",
+    "summary": "Henry Cavill’s ‘Highlander’ Scottish Accent Is Officially \"Bang On,\" Says Co-Star [Exclusive] IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 3.7 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

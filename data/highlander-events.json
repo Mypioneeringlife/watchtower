@@ -1,69 +1,5 @@
 [
   {
-    "id": "15b35f5f1acb7d1b87fb",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 76,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 29 Dec 2025 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX2hPYzloTVhzVkNaWVVMX1Vld2NPNmg2cWdCSDJ4d3dWaXBqcFFvSjJmQVllc2EtUTZpcTJ6RGdMTGM3c3BuMlhmS2hjR2U1NDNadFlOSGdtT2xVOGRkYTJ4c0lVWWFlaldVNGt4anFleDJoU05jdnFSSW1BN3hva1dtOA?oc=5",
-    "source": "Legacy",
-    "title": "Richard Martin Obituary (2025) - Melrose, FL - Phillip & Sons, The Funeral Directors, Inc. - East at Melrose - Legacy",
-    "summary": "Richard Martin Obituary (2025) - Melrose, FL - Phillip & Sons, The Funeral Directors, Inc. - East at Melrose Legacy",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "context: director",
-      "event: death (obituary)",
-      "source age: 275.5 days"
-    ],
-    "score": 76,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "7f8c5e9430fef5bff7c0",
     "entity_id": "richard_martin",
     "entity": "Richard Martin",
@@ -52658,6 +52594,53 @@
       "source age: 1901.0 days"
     ],
     "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "13809cc56099e85de49f",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 03 May 2026 07:00:00 GMT",
+    "captured": "2026-10-19T15:49:35Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM1JSc3ItejRUNjQ2ZkQ5X1BoLTNESW4yYmN2Tnc3T3BIb0hCbWRiM2hxTHkydHVreHVZTl9TNmV1dmxFZDBBOHYtLUtUQWRoX2hTQ0lQSFJXamJoRnFrTmtzc0xPeG1EUW9FLVdBSzdDZV9mVmZVOHlPRmxJSG1HT0FVZDNMdjFFYXBKczRwS3VGYWJkYThsYXN6X2h4dkh2TVZIcg?oc=5",
+    "source": "Cinemablend",
+    "title": "I Know Everybody's Excited For The New Highlander, But Can I Just Gush Over The 1986 Original, Please? - Cinemablend",
+    "summary": "I Know Everybody's Excited For The New Highlander, But Can I Just Gush Over The 1986 Original, Please? Cinemablend",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 169.4 days"
+    ],
+    "score": 70,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

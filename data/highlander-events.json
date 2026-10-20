@@ -1,663 +1,5 @@
 [
   {
-    "id": "f07e1ec5a9a7ede53d9f",
-    "entity_id": "steve_arnold",
-    "entity": "Steve Arnold",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "steve_arnold",
-        "name": "Steve Arnold",
-        "kind": "person",
-        "roles": [
-          "director of photography"
-        ],
-        "franchise_titles": [
-          "Highlander: The Source"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director of photography"
-    ],
-    "franchise_titles": [
-      "Highlander: The Source"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 08 Jun 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MMmtCekJnd1FhMThwTUhfb052UVNzQmRZUHBlRkpCbl9tMzNtVXM4Y3N0RVhRNzVoM254MjE4cWMzTVo5TFhvUGZnb3hsWjNTOXVGY2hrVEhDcVd5R2xlSEVOOTBEOEpEb0FSSk5yOFBpcTV1SDBtNlJUeTVHSG8?oc=5",
-    "source": "Legacy",
-    "title": "Steve Arnold Adams Obituary (2026) - Whitesburg, KY - Letcher Funeral Home, Inc. - Whitesburg - Legacy",
-    "summary": "Steve Arnold Adams Obituary (2026) - Whitesburg, KY - Letcher Funeral Home, Inc. - Whitesburg Legacy",
-    "evidence": [
-      "matched entity: Steve Arnold",
-      "event: death (obituary)",
-      "source age: 114.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "86464464fe1f0ab9f741",
-    "entity_id": "steve_arnold",
-    "entity": "Steve Arnold",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "steve_arnold",
-        "name": "Steve Arnold",
-        "kind": "person",
-        "roles": [
-          "director of photography"
-        ],
-        "franchise_titles": [
-          "Highlander: The Source"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director of photography"
-    ],
-    "franchise_titles": [
-      "Highlander: The Source"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 28 Apr 2023 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjI3VXozUk00cS0xUFE4aGRzeE81Vnp6U1Q4VDRIdGJhZFNRVHI3YW16dEFlVno4SWUxQWQ2bmxzbnBScFRsMjRMNjIxT0NSOXpTa1R5c0pOZ082eHRtaDdxbkE1TFM1LXVFdHdKZHFSSmgxUGFCNUJFcW0wWk5fQg?oc=5",
-    "source": "Legacy",
-    "title": "Steve Arnold Obituary (2023) - High Point, NC - Wright Funerals-Cremations - High Point - Legacy",
-    "summary": "Steve Arnold Obituary (2023) - High Point, NC - Wright Funerals-Cremations - High Point Legacy",
-    "evidence": [
-      "matched entity: Steve Arnold",
-      "event: death (obituary)",
-      "source age: 1251.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "7c25907b53146a14bab6",
-    "entity_id": "steve_arnold",
-    "entity": "Steve Arnold",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "steve_arnold",
-        "name": "Steve Arnold",
-        "kind": "person",
-        "roles": [
-          "director of photography"
-        ],
-        "franchise_titles": [
-          "Highlander: The Source"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director of photography"
-    ],
-    "franchise_titles": [
-      "Highlander: The Source"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 29 Jan 2010 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ01vMVBORE9PUmJYWjVYN0pNM0UwNTNrVVctaDlpVzk2ZHhVUXFLOGs0bXowWjVSWDg1NjVjbW00NEhaUUNRR0pCSkR3Nk9CVk9SMzh4ejJnSGRBaEk3X256Yk4wWkMxODdQQ2k2bTRBTDZOOUM0ZkFHQ3lTRzlwRg?oc=5",
-    "source": "Legacy",
-    "title": "Steve Arnold Obituary (2010) - Trinity, AL - Legacy",
-    "summary": "Steve Arnold Obituary (2010) - Trinity, AL Legacy",
-    "evidence": [
-      "matched entity: Steve Arnold",
-      "event: death (obituary)",
-      "source age: 6088.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "a4fd1b6f5ced6a5cad7f",
-    "entity_id": "stewart_copeland",
-    "entity": "Stewart Copeland",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "stewart_copeland",
-        "name": "Stewart Copeland",
-        "kind": "person",
-        "roles": [
-          "composer"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening"
-        ],
-        "score": 60,
-        "event_type": "appearance"
-      }
-    ],
-    "roles": [
-      "composer"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "appearance",
-    "source_date": "Mon, 01 Jun 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaGppSDNfNlcySW1kRm9RdkxqS2dzbU5yNlZFMjZhVTZsVmR5aUY0UU9YQnRjSldiNmIwQTJOeGVQTnhrNjZIemFjUWVIalgxVlZhU0MzMHloNTQtSGtxYTZpN1RFV2haQmU3Q3BtTEVYRHFFcElQNWhSSUk2Rl9GTk5EcV9kWDNLaC03Y040MXpqX1ZiZjQxN1gzcW41UGFMTzV2aXo5ZFZKM0Rsd2g3YjhwZ0NxLUlwRi1zUklmVEs3UkpZT29xNDJYWHUwWE5KTHk1TVdybVlwLXRhM1Zha2FwRQ?oc=5",
-    "source": "cltampa.com",
-    "title": "Interview: Ahead of Clearwater appearance, The Police’s Stewart Copeland talks jazz and making music with animal sounds - cltampa.com",
-    "summary": "Interview: Ahead of Clearwater appearance, The Police’s Stewart Copeland talks jazz and making music with animal sounds cltampa.com",
-    "evidence": [
-      "matched entity: Stewart Copeland",
-      "event: appearance (appearance)",
-      "source age: 121.5 days"
-    ],
-    "score": 60,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "1efa11495c06435a7f70",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 21 Aug 2026 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHY2lvX0lDS0MxZWNLOTRpZmo1Ykg2ZE1DZHFBeWw1RjhPM1FLSmE3ai1GenpXUW5LYW44YWpCbTZBcGVOWG1PSjVhMHpPNTliczh6VjZUWUVJS3NWMmhaM3FOTWRoNjBjSVdlQjdhcmFhUTVuUnJ4M2FOLS0?oc=5",
-    "source": "Legacy",
-    "title": "Terry Nelson Lee Obituary (2026) - Elmhurst, IL - Ahlgrim Funeral Home - Elmhurst - Legacy",
-    "summary": "Terry Nelson Lee Obituary (2026) - Elmhurst, IL - Ahlgrim Funeral Home - Elmhurst Legacy",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 40.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5a3ad93ba97a9ef0036a",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 27 Jan 2026 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblUzT3JEMy1OX29BSE9mYm82S3dRV2tyVGdmYnJlSXBPOGRpcnlzbG94bEdmeHljVXhqOVc1LTZBTmJDR192TzBLQk05WVhWVllYMUpiTTI3NFczMkJncGpJajhoMlhsQTJvdGlob0poZF9tUW5IZzI3bml3MGx5bzQ4NTBTS2Q1OU0xanVn?oc=5",
-    "source": "Legacy",
-    "title": "Terry Nelson Obituary (1931 - 2026) - Athens, GA - Marietta Daily Journal - Legacy",
-    "summary": "Terry Nelson Obituary (1931 - 2026) - Athens, GA - Marietta Daily Journal Legacy",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 246.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "3af7c0a7de79f87f248c",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 30 Dec 2020 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qYW4zRjY0OFJaQUc0eDFFZFRtck1xcS1sNzBBd1lxZEhQWU8xaWIxRldvcVFWZC1zUzhLREVBWm1nZW1hSTM5bHIwSTZVRkFLb3V2RVZoNWcwSXZjeEVsem4tVWNwNDZISkM4RWtlSQ?oc=5",
-    "source": "schniderfuneralhome.com",
-    "title": "Terry Nelson Daugherty Obituary Dec 30, 2020 - schniderfuneralhome.com",
-    "summary": "Terry Nelson Daugherty Obituary Dec 30, 2020 schniderfuneralhome.com",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 2100.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "39e110f0eb853b3b90c7",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 21 Jun 2023 06:54:36 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQkttcmhvaFlKRUhYRzF2WGZLbV9IYXJqdUQzdEdUWGxVbnpPZDFjeUxCU09hVlZSZlhObWRIY25iT1Q0UE80NnBXaVJfcE83aWZwTGctU3U0QmVHUHVLQmxja3pqWkdCSmQwa05yR1g3STREaDdMeWdCSXhsNW5XZkMtN1JkZnpjVEdEOC03RlZvUnM?oc=5",
-    "source": "Legacy",
-    "title": "Terry NELSON Obituary (1950 - 2019) - Victoria, BC - The Times Colonist - Legacy",
-    "summary": "Terry NELSON Obituary (1950 - 2019) - Victoria, BC - The Times Colonist Legacy",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 1197.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "59f7f53a14f06cf25d17",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 24 Jun 2021 21:22:07 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVUFhVllYSlF5X1E0aUM5dzZpQ2RjUHZtSFQwMDNOczZUTU45SUJEakwyR0JBMlBnUlhyUV9uLURFMU0xUHI0aUc4aXlVTDVFSlRvZzBISlJRTkJDb2R6U044QmwtRTZFV1lHblZoLWdxcmZxT3BBakY2S3hSQnVhckNR?oc=5",
-    "source": "Legacy",
-    "title": "Terry Nelson Langford Obituary (2021) - Ogden, UT - Leavitt's Mortuary & Aultorest Memorial Park - Legacy",
-    "summary": "Terry Nelson Langford Obituary (2021) - Ogden, UT - Leavitt's Mortuary & Aultorest Memorial Park Legacy",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 1923.9 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "ed22e8869db6d8488a3c",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 29 Dec 2018 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekxyQ09nVk0zdTV0RGtRX2N0bjhDUk5Sa2dfd3B5Wl9XUEppQzRWbFJyc09BcjlEVVhiSlZQV0h5TVZXTkY0WkgwaGtOdTk4bF94M3FrQVl5QU9FTGg4Q01CZjVVeDJDc0hTcEpWUHRES0ZQUEJjS1J6TDllWlBueUhTaDc1Tkk5?oc=5",
-    "source": "Legacy",
-    "title": "Terry Nelson Obituary (1944 - 2019) - San Francisco, CA - San Francisco Chronicle - Legacy",
-    "summary": "Terry Nelson Obituary (1944 - 2019) - San Francisco, CA - San Francisco Chronicle Legacy",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 2832.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "a53bf842e1e45ed75c18",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 17 Apr 2022 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR1ZkcUZKMm9VWU42RTZGVHFHbUkzZm1UeE5MQm9KUUZPSTFHbEtyaG4xMHFreU1GZjFVbGZrdEhfV25KTzZCMExrUm9UX3J6Q19UM0E5RmpUa3VKRVUzazc1dkkxYVVPLTJ0dXRtM09wdU1nRnRRaFBRY2JtWGFEbEdJa3lHbm1lS1VF?oc=5",
-    "source": "Legacy",
-    "title": "Terry Nelson Obituary (1953 - 2022) - Mc Farland, WI - Madison.com - Legacy",
-    "summary": "Terry Nelson Obituary (1953 - 2022) - Mc Farland, WI - Madison.com Legacy",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 1627.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "490958273c3d79ec625b",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 09 Sep 2021 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWFNVlRuSEFzQ3pZQktObFRVM1lNYXBkdmVnN3lUU1Z1MHdLTHd6MHB0R0RiZ1pUVkVobUxJbEdwZWtPZGt0c2FtQThEWUhCOVFLMzhraWVORGxlN1h6Q0FvOXdSMEFTSVM3Y1htblluTlBlY2hDWmtLSDNOTThqQ3YyM2VfM0xHYW9lTA?oc=5",
-    "source": "Legacy",
-    "title": "Terry Nelson Obituary (1950 - 2021) - Eau Claire, WI - The Chippewa Herald - Legacy",
-    "summary": "Terry Nelson Obituary (1950 - 2021) - Eau Claire, WI - The Chippewa Herald Legacy",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 1847.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4dc270dab478c60ae21b",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 05 Feb 2017 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdVFfZUFaMU5SbTdxd1lxV3JVNFVFVTY5ZW1raU03QjF3am5ybGVzR2pscGR2UkpKNzl1Vkx0RTc4Q19Ic3hrYktaVU1leUZPV1RDdXhvTmgxWm1NUnI5UHhVRm9sRExCWGlTUl9OeXBPbFpEQW94S3VMd2kyYkNqTFNxdTc3NGIxNzd6WTZjVUxXM0MtaGVBQi1idTI?oc=5",
-    "source": "Legacy",
-    "title": "Terry Nelson Obituary (1960 - 2017) - Gillett, WI - Green Bay Press-Gazette - Legacy",
-    "summary": "Terry Nelson Obituary (1960 - 2017) - Gillett, WI - Green Bay Press-Gazette Legacy",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 3524.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "e36badf6fa966a24d8c4",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 08 Mar 2015 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUy1MamtMZEowa1FqOWVfcDRBS2xoaU1mT2JqMVdvMDFRUmxUOFdHT2E1Wl9FZUh5R09rVWhHWWUwZkpER3lSRl9PeEFvYml3T01UR2I4SE51ZWVlNmhqN3YtVjB1d1F4QjdsbUVEYWlndDVxN0lDYXVpeGtLQmFveEw2WHVRa3JWdVlPTnlyaEM?oc=5",
-    "source": "Legacy",
-    "title": "Terry Nelson Obituary (2015) - Temperance, MI - The Blade - Legacy",
-    "summary": "Terry Nelson Obituary (2015) - Temperance, MI - The Blade Legacy",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 4224.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "e10b8363faf400126eb3",
     "entity_id": "terry_nelson",
     "entity": "Terry Nelson",
@@ -52720,5 +52062,683 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "4e15c52dd18f34a3fc3f",
+    "entity_id": "bob_weinstein",
+    "entity": "Bob Weinstein",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "bob_weinstein",
+        "name": "Bob Weinstein",
+        "kind": "person",
+        "roles": [
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 54,
+        "event_type": "interview"
+      },
+      {
+        "id": "harvey_weinstein",
+        "name": "Harvey Weinstein",
+        "kind": "person",
+        "roles": [
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 54,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "producer"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "interview",
+    "source_date": "Sun, 15 Oct 2017 07:00:00 GMT",
+    "captured": "2026-10-20T19:18:30Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWJLZkJXMnl1aFJnaXJocGVkYnpqVnN1T3dORHE3R0N1azJKdVEtRDNJRDVQMmJiek9mcEw1VlVhdDVaUUF2bFU1dnZBWWxVZkFvcVEwc01WZlFLeFpjWVR1eUs4b1k4LTM0NzdaS0JtSDZrd1o2TU5teV84ZDFJRUlINkpBRWhydzFMOHJrYVhKYi1NVTZmSF9aQ2ZueDZrUHczQnd2TVNSU2JfREhjT2JuaU5jcHJQWDMzX2E0RFYwSHhMX0NHSVJR?oc=5",
+    "source": "E! News",
+    "title": "Bob Weinstein Says ''Depraved'' Brother Harvey Weinstein Has ''No Remorse'' in Explosive New Interview - E! News",
+    "summary": "Bob Weinstein Says ''Depraved'' Brother Harvey Weinstein Has ''No Remorse'' in Explosive New Interview E! News",
+    "evidence": [
+      "matched entity: Bob Weinstein",
+      "event: interview (interview)",
+      "also matched: Harvey Weinstein (54)",
+      "source age: 3292.5 days"
+    ],
+    "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "2d27c591b6d4a5c358ea",
+    "entity_id": "donnie_yen",
+    "entity": "Donnie Yen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "donnie_yen",
+        "name": "Donnie Yen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 66,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 02 Apr 2026 21:57:08 GMT",
+    "captured": "2026-10-20T19:18:30Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yUHpLdW1DYmNOLWFVUUszR09pOU9IQ0JWbExrYUxhRkNiTmt1cUtua2F5bVFBVXN5dUdORlVfRWNWOWh0cUUwNExTNzhNbFVUSDk4dnFmTHpmMW80RXZ1Zw?oc=5",
+    "source": "IMDb",
+    "title": "John Wick | Donnie Yen directing new spin-off movie Caine, filming about to start - IMDb",
+    "summary": "John Wick | Donnie Yen directing new spin-off movie Caine, filming about to start IMDb",
+    "evidence": [
+      "matched entity: Donnie Yen",
+      "event: highlander_production (filming)",
+      "source age: 200.9 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "fd032ca7088baeaddabb",
+    "entity_id": "duane_clark",
+    "entity": "Duane Clark",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "duane_clark",
+        "name": "Duane Clark",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "The Wrath of Kali",
+          "Timeless"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "The Wrath of Kali",
+      "Timeless"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 07 Sep 2022 07:00:00 GMT",
+    "captured": "2026-10-20T19:18:30Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mVE5rVTZYVWVSX1QydkY5eUpEa2FNdzJrQ2pHOUVEWG9Ic2d0MVdPakprbDdLTHNRZmhaOVhxV3NwaFNYTWlBbTRaaGo3VzVKYzRDREVuWllJZjVLZHh3N01OM1JOaDNueFdhZEYwRXNidloxMGxnS1VkWHlNQTQ?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Duane Clark Obituary (2022) - Lebanon, TN - Sellars Funeral Home at Mt. Juliet - Legacy | Obituary",
+    "summary": "Duane Clark Obituary (2022) - Lebanon, TN - Sellars Funeral Home at Mt. Juliet Legacy | Obituary",
+    "evidence": [
+      "matched entity: Duane Clark",
+      "event: death (obituary)",
+      "source age: 1504.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "38f6809bb6bb56c94beb",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 20 Oct 2026 13:30:19 GMT",
+    "captured": "2026-10-20T19:18:30Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX043TXZzLTFXS0NRZ3FpLVU5clFFVjdlSUFIaXFsZ09XcXIwTUhVSXdOdUZUYXZtRHN4Z29TUHdBdi1hTS10R2ZJZ19NZXpJdzVWcE9qNFlnLUctX1ZVUmotRFBVa19Pc1YyUW16Y19TNnpGTWhOSm5SS0s1TmZuTDRsajNZN2RXWk4wQ1g4cXVGckFBbVh1MzBQRFJ4YWdoZ2pTdl9VZlNZbF9OZ0N4YXJyV21KbWhrUEN1NmI2blVkSV91ZUowcDg2SDBXRUV4cjhrcE1zdw?oc=5",
+    "source": "Sports Illustrated",
+    "title": "Virginia Tech vs. Clemson Positional Breakdown: Who has the edge in Death Valley? - Sports Illustrated",
+    "summary": "Virginia Tech vs. Clemson Positional Breakdown: Who has the edge in Death Valley? Sports Illustrated",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (death)",
+      "source age: 0.2 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "9ab4b3bdc6afdc5a20ac",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Tue, 20 Oct 2026 09:01:37 GMT",
+    "captured": "2026-10-20T19:18:30Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWxxQVVxN3R0RjlRTXEzemRWOTktYmQ1Rm13X05WVzk2a2FCSzgxTEFTLTN4VjZIX201b19LYnhtQ0RpX04yVC03dEx5V0VyNnJiT0RYRGJsSzFyN2Y4UElwU3J1Q29hRVpZdTF6bjdRd3BpcGNJekdBSmZuS3hLekwyTVVrYTZDcFc5Q2toaWxsek11VFdLT0twbFdHTTRCYTh3M3doNmdBa2JvS1drSjVMYW9wTWJ3QVZWZG4zNA?oc=5",
+    "source": "KFF Health News",
+    "title": "As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There - KFF Health News",
+    "summary": "As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There KFF Health News",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (health)",
+      "source age: 0.4 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "715b0321532f1ae10171",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Tue, 20 Oct 2026 18:13:00 GMT",
+    "captured": "2026-10-20T19:18:30Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVpUSHpHR0NEaHpiUjU2WlprVG01ODBXV0JEeUt2Y25SalZLZzFSQWNDclp5bGY3dnBPbDlIaVAzOGYtUmlkaV9PX2ZlWWVMV3B4NGdGXzZ6MWZNU2E5Ni1lYjN0ZTRYbjBHY0NwaFlrdXJySHowaU9iVUZmcWdwaHowOFl0N0prNXNZSmx4U3NmYTJrbUdNMlcxZHFjNUQzbzBr?oc=5",
+    "source": "The Business Journals",
+    "title": "Aurora Health Care teammates bring competitive edge, compassionate care to USA Triathlon - The Business Journals",
+    "summary": "Aurora Health Care teammates bring competitive edge, compassionate care to USA Triathlon The Business Journals",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (health)",
+      "source age: 0.0 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "49bf8708b056de2b9397",
+    "entity_id": "harvey_weinstein",
+    "entity": "Harvey Weinstein",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "harvey_weinstein",
+        "name": "Harvey Weinstein",
+        "kind": "person",
+        "roles": [
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 54,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "producer"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "interview",
+    "source_date": "Tue, 10 Mar 2026 07:00:00 GMT",
+    "captured": "2026-10-20T19:18:30Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNzZwMnJUbUJ1WThzMzM1TnpPaXhaN0JGMUVWNnNuNmxHZEVYLVExazlPVTlHRHFFRExlejRBXzZYRjlHU2tyNUpUY3M4NnBrMkx6RzR2UUxNUVcteVJZVDJ4XzF1cWl6YXdIQUtFTXVCOTY0a09oZU8zd1N1UGFnQ2hGdDlYMTYzQmlSN2MzQXhXQXVuZzZyb3FFQXpGOWF2dmZVZ0lXajJWSnZHSEF6VGRpZXF1VHhRaVNaa1VZVk80aUho?oc=5",
+    "source": "WVIR",
+    "title": "Harvey Weinstein calls prison ‘hell’ in new interview, says he was punched in the face by another inmate - WVIR",
+    "summary": "Harvey Weinstein calls prison ‘hell’ in new interview, says he was punched in the face by another inmate WVIR",
+    "evidence": [
+      "matched entity: Harvey Weinstein",
+      "event: interview (interview)",
+      "source age: 224.5 days"
+    ],
+    "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "3707e9b74f4120fb2e78",
+    "entity_id": "hugh_quarshie",
+    "entity": "Hugh Quarshie",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "hugh_quarshie",
+        "name": "Hugh Quarshie",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 52,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "new_project",
+    "source_date": "Sun, 15 Jan 2023 08:00:00 GMT",
+    "captured": "2026-10-20T19:18:30Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ3VxcU12VFoxX1piMkpCQjZMU3FJVHdoZHlSamRnUFBoaV9OTUpHekpfdWRyRlVBcEQ2QUY3LVp1elh2eVpZaXZvYno3b1JYaWFBYnMzZjF3YnNkaHQwcmZQeUR0T0lzQUFicDFiVmRlbzh2UTRQaFd6UkVBYVZyLTlSampQMXNLTFlQQ1ZzVFgyMENxcnJsOUJtMjZmdW5rWVpaMHBQSWZZTFhGT2lGZjRrOA?oc=5",
+    "source": "Entertainment Daily",
+    "title": "Vera on ITV1: Holby City fave Hugh Quarshie joins cast of Vital Signs alongside Frances Grey - Entertainment Daily",
+    "summary": "Vera on ITV1: Holby City fave Hugh Quarshie joins cast of Vital Signs alongside Frances Grey Entertainment Daily",
+    "evidence": [
+      "matched entity: Hugh Quarshie",
+      "event: new_project (joins cast)",
+      "source age: 1374.5 days"
+    ],
+    "score": 52,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "3b25ee3bc44c7363fa6d",
+    "entity_id": "james_cosmo",
+    "entity": "James Cosmo",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_cosmo",
+        "name": "James Cosmo",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 66,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 12 Mar 2024 07:00:00 GMT",
+    "captured": "2026-10-20T19:18:30Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVDU1WVFSajI4cEM2YzU0a1B3X1lnT2dQZEhqZTNVVW9GNURQVkEtTkdXMUtLbnBWTGVES0J3eFVhNVRzTl9LcUdSQXVIQWpDV1JxemhvcnJYdDNmMG9rWWhPN1FXREFqbFFmQnRXTkRhSmIxSkVPMlMwWmpMVDM3d1YtU0NIWEdBdE9MOWxWeV9DQUE?oc=5",
+    "source": "The Herald",
+    "title": "Martin Compston and James Cosmo among stars filming new Amazon drama in Glasgow - The Herald",
+    "summary": "Martin Compston and James Cosmo among stars filming new Amazon drama in Glasgow The Herald",
+    "evidence": [
+      "matched entity: James Cosmo",
+      "event: highlander_production (filming)",
+      "source age: 952.5 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d4ce914f949abc0b5251",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 19 Mar 2025 11:18:08 GMT",
+    "captured": "2026-10-20T19:18:31Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83QUVHd2xlQzFOVGdwN2FrMEtYaFplaUwyZUNjNHllQ2lUN0ZFZXhLdG5kcUYwbTZjQmN4dEtXTFpyTnFyOTh0YmVjVTFQWEFvaXY5REtvMF8zQ2c0UjdDd19STjlBdjk2anY2djl6UQ?oc=5",
+    "source": "IMDb",
+    "title": "Highlander (1986) - IMDb",
+    "summary": "Highlander (1986) IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 580.3 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "634104452dc9f15deb68",
+    "entity_id": "scott_peters",
+    "entity": "Scott Peters",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "scott_peters",
+        "name": "Scott Peters",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "Reluctant Heroes",
+          "The Immortal Cimoli"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "Reluctant Heroes",
+      "The Immortal Cimoli"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 31 Jul 2025 07:00:00 GMT",
+    "captured": "2026-10-20T19:18:31Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xT2hIS3VfZEFrbk5neVROUmZsNnVtbUNIbklVWHpMOV9qNEFQNGI5cW5RN1R5dVl3WHNJNGNXVG4yNU9SM1RZV2FMLVhna0F0Wm5FSWdrVDBFMDhia3VPN19ocnlsVjIxS3BJ?oc=5",
+    "source": "www.richardsonfuneralhome.net",
+    "title": "Obituary for Scott Peters - www.richardsonfuneralhome.net",
+    "summary": "Obituary for Scott Peters www.richardsonfuneralhome.net",
+    "evidence": [
+      "matched entity: Scott Peters",
+      "event: death (obituary)",
+      "source age: 446.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "7577c24a6d8f67f6a52f",
+    "entity_id": "terry_nelson",
+    "entity": "Terry Nelson",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "terry_nelson",
+        "name": "Terry Nelson",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "The Road Not Taken"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "The Road Not Taken"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 16 Oct 2004 07:00:00 GMT",
+    "captured": "2026-10-20T19:18:31Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkc0bW5keWJ0YXpOQTNPRHBTV0FNcWdIV3BXYXp2MGpwUGgwRnZqSkVidXlxbEV4ZklRbUd5TFdJb1k0ZVBsZDIzWU9rbE1Lb0JGbm81NTdncXRiWUJFQnZ6UVdjTHB2VHNSM0pRam9JOVMxYzhaVjYteTM2WEJxUjcxSWpnMWxnd2daNXFnVk9VdEtiOEMzcmRtb1I1QzRq?oc=5",
+    "source": "Dallas News",
+    "title": "Terry Nelson Obituary (2004) - Dallas News",
+    "summary": "Terry Nelson Obituary (2004) Dallas News",
+    "evidence": [
+      "matched entity: Terry Nelson",
+      "event: death (obituary)",
+      "source age: 8039.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "00127ca56a647da6616c",
+    "entity_id": "terry_nelson",
+    "entity": "Terry Nelson",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "terry_nelson",
+        "name": "Terry Nelson",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "The Road Not Taken"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "The Road Not Taken"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 30 Apr 2021 07:00:00 GMT",
+    "captured": "2026-10-20T19:18:31Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDLV9IeWpXeG5SWFMyVVhjbDVtX1dySDNvbTY4ek9YNDk4YTBreUJXb1ZnRmJSWDl0MXEzVlNYOWNyWUUxRC1JWWF1eVcxZ2dkM2dGZlZSWTRMV3Q1eUI1TWRuOWRQaEgyWmZ2Mkx3N00tU3BENkhJS0lmSE1FeE0?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Terry Nelson Obituary (2021) - West Union, OH - Thompson-Meeker Funeral Home - West Union - Legacy | Obituary",
+    "summary": "Terry Nelson Obituary (2021) - West Union, OH - Thompson-Meeker Funeral Home - West Union Legacy | Obituary",
+    "evidence": [
+      "matched entity: Terry Nelson",
+      "event: death (obituary)",
+      "source age: 1999.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "9c65c3098d2aad3a8a5a",
+    "entity_id": "yoshiaki_kawajiri",
+    "entity": "Yoshiaki Kawajiri",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "yoshiaki_kawajiri",
+        "name": "Yoshiaki Kawajiri",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Highlander: The Search for Vengeance"
+        ],
+        "score": 66,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Highlander: The Search for Vengeance"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 21 Aug 2024 07:00:00 GMT",
+    "captured": "2026-10-20T19:18:31Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObVBscWhramo5UVhlWFAtWG9ubUFaYWIydF9JWWNwYmtlbVVqZHZUZjJqRmFhTGxZcTZJVmVMRlpHLWVYTzVvcDBGOFVVOE5xdW5UeFFwS0t2UlR5Tmt2QzhmajdEd3pVeTU4eUEyeEhUa1NnRkhTa2VYaU53ajhqaThR?oc=5",
+    "source": "Comic Book Resources",
+    "title": "Yoshiaki Kawajiri on 30 Years of Ninja Scroll, A 3D Remake, & The Animatrix - Comic Book Resources",
+    "summary": "Yoshiaki Kawajiri on 30 Years of Ninja Scroll, A 3D Remake, & The Animatrix Comic Book Resources",
+    "evidence": [
+      "matched entity: Yoshiaki Kawajiri",
+      "event: highlander_production (remake)",
+      "source age: 790.5 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

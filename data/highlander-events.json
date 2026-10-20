@@ -1,99 +1,5 @@
 [
   {
-    "id": "e10b8363faf400126eb3",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 14 Jul 2009 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYkF6N19iYm8xVDJ1YzZURnpObmVIcUZqT3FiODlLRWI3V2RvQlpkRkRyVWNCSUg1dng0b0tWX0pkbTdEbG9yaFBWeUJEbHhqc3RldmxpaHFlVnQ1Zy1qd0lKSTg5VjVLX2JJeHR6MGNuRThqdmpURm9qMnRtWlBNMHR2aFhrUQ?oc=5",
-    "source": "Legacy",
-    "title": "Terry Nelson Obituary (1947 - 2009) - CORSICANA, TX - Star-Telegram - Legacy",
-    "summary": "Terry Nelson Obituary (1947 - 2009) - CORSICANA, TX - Star-Telegram Legacy",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 6287.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d24e078627668f681763",
-    "entity_id": "thekla_reuten",
-    "entity": "Thekla Reuten",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "thekla_reuten",
-        "name": "Thekla Reuten",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Source"
-        ],
-        "score": 52,
-        "event_type": "new_project"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Source"
-    ],
-    "event_type": "new_project",
-    "source_date": "Mon, 18 Mar 2019 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmRMMEt3NzFLS0t5YlI0OVRVNEpEVk9IT0ZveWtjVDdfekMtc2xZWmZhS01NOXZqOVRBVE1CVGNCNnZPSDRLU1dXQUhKazUwTjk3blVxbURsS195a1Nacnp4bFhZX1dMZFhWREJveTZ4N3dKTV8zVzdEOFB2RFRJMUpaMXhkZHdu?oc=5",
-    "source": "Yahoo",
-    "title": "‘Warrior Nun’: Alba Baptista To Star, Toya Turner, Tristan Ulloa, Thekla Reuten Among Six More Cast In Netflix Series - Yahoo",
-    "summary": "‘Warrior Nun’: Alba Baptista To Star, Toya Turner, Tristan Ulloa, Thekla Reuten Among Six More Cast In Netflix Series Yahoo",
-    "evidence": [
-      "matched entity: Thekla Reuten",
-      "event: new_project (cast in)",
-      "source age: 2753.5 days"
-    ],
-    "score": 52,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "15d5a7115a39d997bdfb",
     "entity_id": "tracy_granger",
     "entity": "Tracy Granger",
@@ -52737,6 +52643,131 @@
       "source age: 790.5 days"
     ],
     "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "74d126a56efb2241488d",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 20 Oct 2026 04:14:52 GMT",
+    "captured": "2026-10-20T23:19:41Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SMnZKS3hJWWxORmYtX1g4SWloYThwYXpLWlphS2Jmc0FYaDFneHdzSlFvYnJaN2JaMU1YWm5faHRpQnlOR1NpQU9PMVIydlFUMjZwUUgxR0VnVkF1R3lOWW5BZFo0MzU4?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill’s ‘Highlander’ Scottish Accent Is Officially \"Bang On,\" Says Co-Star [Exclusive] - IMDb",
+    "summary": "Henry Cavill’s ‘Highlander’ Scottish Accent Is Officially \"Bang On,\" Says Co-Star [Exclusive] IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.8 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "d29c5ba08d043ffdf502",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 02 Mar 2026 13:18:18 GMT",
+    "captured": "2026-10-20T23:19:41Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BU2FXd0dOSHB3azZQSkNHTm56SHVXUjRmd3lYdnZMME5uaVhOQkp3cHc2bEVzR0lLVXNYWWNMQko2WlZPdXBORGhvTXhDdw?oc=5",
+    "source": "IMDb",
+    "title": "New ‘Highlander’ Reboot Images Just Gave Us Our Most Intense Look Yet at Henry Cavill - IMDb",
+    "summary": "New ‘Highlander’ Reboot Images Just Gave Us Our Most Intense Look Yet at Henry Cavill IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 232.4 days"
+    ],
+    "score": 100,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

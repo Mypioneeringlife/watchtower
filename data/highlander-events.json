@@ -1,129 +1,5 @@
 [
   {
-    "id": "13f30e5fd967518dd310",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "death"
-      },
-      {
-        "id": "stan_kirsch",
-        "name": "Stan Kirsch",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Series"
-        ],
-        "score": 100,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 14 Jan 2020 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pc1dxMGdoR3ZxdWQyZlBuUzlPYjNaeVg5VHB6MGhJaTk3cHFseHlOTms3aWRRRzdnQ1JuWloyVEEwdG5nV0FqU1JiWW9VZlRGMnUtaUdXaEpYLWp3RzdQUmtDYVhKTGJvOW4zWGJxcXBOZE5hcWZpRDFZR09kTmM?oc=5",
-    "source": "thewrap.com",
-    "title": "Stan Kirsch, ‘Highlander: The Series’ Star, Dies at 51 - thewrap.com",
-    "summary": "Stan Kirsch, ‘Highlander: The Series’ Star, Dies at 51 thewrap.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: death (dies)",
-      "also matched: Stan Kirsch (100)",
-      "source age: 2451.5 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "dd2a9fbbb45955d93264",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "death"
-      },
-      {
-        "id": "stan_kirsch",
-        "name": "Stan Kirsch",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Series"
-        ],
-        "score": 100,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 14 Jan 2020 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU005WWkzM2RjUlB3UEZDTVRFaE5fRzAxME1uWWlCQmY5bDFoT3AtLW1qQnR1cVhnMl9ubVA0alFOdlVUdWJzSkhYNG5sT1NsR2JPd3FaaTkxY3d4VGxiNFlLZ0VuN2dIbVRET01iYncyY3ZQalJUN1VOQnN5MVpHVU9fal9DZ1d6S0JJYWxrV2NpeFVtaWstb0J6TQ?oc=5",
-    "source": "variety.com",
-    "title": "‘Highlander’ Actor Stan Kirsch Dies at 51 - variety.com",
-    "summary": "‘Highlander’ Actor Stan Kirsch Dies at 51 variety.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: death (dies)",
-      "also matched: Stan Kirsch (100)",
-      "source age: 2451.5 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "f07e1ec5a9a7ede53d9f",
     "entity_id": "steve_arnold",
     "entity": "Steve Arnold",
@@ -52729,6 +52605,116 @@
       "context: Highlander",
       "also matched: Highlander (70)",
       "source age: 3.7 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "a2b723cc98dc31ab9f93",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 98,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 19 Oct 2026 21:27:20 GMT",
+    "captured": "2026-10-20T07:53:09Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFl3bkZ5SGZKaUlhd3BUaEh6WGRKbktxQ2M3QVprZFJ4MV9FSlBfSVFCTkRzMUNJb1pBNnZUTWNCZjNQOGJwVTZrYVJ4RU1LUUFXUE9NMHdCR3NvUFdybzFLRWwwTzNaRHBVN1ZlRlBJMF9Lc2RtdUM0b0NSUjZxZXV2cVdidVk?oc=5",
+    "source": "AOL.com",
+    "title": "Forget Pre-Planned Stunts: 'Highlander' Fights Were Crafted on the Day of Filming - AOL.com",
+    "summary": "Forget Pre-Planned Stunts: 'Highlander' Fights Were Crafted on the Day of Filming AOL.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: highlander_production (filming)",
+      "source age: 0.4 days"
+    ],
+    "score": 98,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "443ee93785f11cf449d4",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 20 Oct 2026 01:04:36 GMT",
+    "captured": "2026-10-20T07:53:09Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jTDczcHJxNWxHZTJVSkpBamlPc0dPNUdvZG5tWVRXZ01oNklMQVZaN01KSDA4QmEydVB5WVFyMmx6Tk51c2R0bDEwN0xfSmRQUURsLVJ2bXJDSU1BaVFUTS1XTXM?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill’s ‘Highlander’ Scottish Accent Is Officially \"Bang On,\" Says Co-Star [Exclusive] - IMDb",
+    "summary": "Henry Cavill’s ‘Highlander’ Scottish Accent Is Officially \"Bang On,\" Says Co-Star [Exclusive] IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.3 days"
     ],
     "score": 74,
     "route": "Corrupted Chronicle research",

@@ -1,99 +1,5 @@
 [
   {
-    "id": "15d5a7115a39d997bdfb",
-    "entity_id": "tracy_granger",
-    "entity": "Tracy Granger",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "tracy_granger",
-        "name": "Tracy Granger",
-        "kind": "person",
-        "roles": [
-          "film editor"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "film editor"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 18 Jul 2023 05:02:07 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUHlvdndCa095OEZNU2Q5djRBYUhuWEJ3NEZOSWJsRTUwR3dhdUozSWlOLXFFUWxvY08zRmlJY1RvMGh2SXVMSzBKcGstT0I2WDdTdmxyRTFTMTJQdzhJSkNrMl9FRmlvYWpMbDMzWW1zMGx5NWYyRlZEbzJ4RVFkNVVxSUdaakcyRzZMeWl3?oc=5",
-    "source": "newspapers.com",
-    "title": "Obituary for TRACY GRANGER, 1944-2012 (Aged 68) - newspapers.com",
-    "summary": "Obituary for TRACY GRANGER, 1944-2012 (Aged 68) newspapers.com",
-    "evidence": [
-      "matched entity: Tracy Granger",
-      "event: death (obituary)",
-      "source age: 1170.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "445386ab7ed5fe416c07",
-    "entity_id": "virginia_madsen",
-    "entity": "Virginia Madsen",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "virginia_madsen",
-        "name": "Virginia Madsen",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 16 Jan 2026 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWERWZDNfRENPYXFfejkwUWlfS25jdmlMekFZZGlMRTVDX1Q2UTlnYmRGR2Y5NDRwU0NrX05qdTNsR0R1M3BibGpfUFNvYkxCZjAtbEVLT0FTT2dJdVRreFVERXhmcDFCcHJlbU5xb250ZDF3ZThjWF80aXNmVzRZSjFJUEZtUzdaMUxYa2J2QkZxYkk2RTBYbTV4b2M1QUh1MW8zNm9EeU9Ha3hjN3dZTXlaN2VhV2pGaUZQRHMyRdIBuwFBVV95cUxPT3JNMlVoVV81SHlBZGxQbkJGMWc1dTFKMXJ1LVdUY29rSTBucG1UT1RVeHAySGVhZ24xdGxFMS1CeUNDb2N5RFE0YmhKd3lFZWRxNWZIb2lWUGdIMmxaR0h6X0swNEI0QkxUcGlIMnRXaHJrUHRGTFZZdGZuQkFDYmd3LWg4WmtybGhnOTI4eHQ4d1dMZldEakwwSVpnczBuTHM4WklWcWg5MURYYVMxWEZMVE9VYWRweEFV?oc=5",
-    "source": "thenews.com.pk",
-    "title": "Virginia Madsen remembers late brother Michael Madsen six months after his death - thenews.com.pk",
-    "summary": "Virginia Madsen remembers late brother Michael Madsen six months after his death thenews.com.pk",
-    "evidence": [
-      "matched entity: Virginia Madsen",
-      "event: death (death)",
-      "source age: 257.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "b0cec3ccb2b95ba1c048",
     "entity_id": "virginia_madsen",
     "entity": "Virginia Madsen",
@@ -52768,6 +52674,121 @@
       "source age: 232.4 days"
     ],
     "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "6b0021f1dc78607d0982",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 28 Oct 2023 07:00:00 GMT",
+    "captured": "2026-10-21T07:57:00Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxMDM2MlpCVU82RUVRblNMR1lCemFiaVlBUGY1TUx0b3k4NXgyX2RheUZrWkZkRlV2ZW50ODU5c3ZEQ3EyZFh1THZJXzJXNEQ1TzV0cEtXeDJyY1IwSDZWZ2FVUEt0Q1I4aHBYRw?oc=5",
+    "source": "Giant Freakin Robot",
+    "title": "If Highlander Continues, There’s Only One Way To Do It - Giant Freakin Robot",
+    "summary": "If Highlander Continues, There’s Only One Way To Do It Giant Freakin Robot",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 1089.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "13274337d38b32b19720",
+    "entity_id": "russell_mulcahy",
+    "entity": "Russell Mulcahy",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "russell_mulcahy",
+        "name": "Russell Mulcahy",
+        "kind": "person",
+        "roles": [
+          "cast member",
+          "director"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening"
+        ],
+        "score": 75,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "cast member",
+      "director"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 22 Apr 2025 07:00:00 GMT",
+    "captured": "2026-10-21T07:57:00Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPMk9IcUxYZ1YtRGdFZUpPWm11VGNHOTJZNW9ZNmY4aWNfUURrWDZYbk03Z2JMeUVhN3dONnpKMHIwZWZyUy11aUJ4WXhfcGtsakQ2a1p0M3dEV0NiTjU3VmdaS29TdzBIZnRUa1pvV1hmNEdINzN6Y3Vyb3VRaTg5ZmlFY0ljWHVMRU5oVHNNUEVLS1VuSUtrQjM5bFc1VDlGVDF2ZGhMNGNkb0xjV3FLNUxTNm9UUWVvblVLZDVQMDJ5M3VsdWoxWmdNU2JDUjBGbThGVk1fNXlXZ0EzLUJGOFI4X2k2ZkU1MlBGN0hmSkVIT0pGam1sbXNiN2wwUGEybkZMeE9UbVFNaHYyczVJSVJpMi14Q1k1T3c?oc=5",
+    "source": "Bounding Into Comics",
+    "title": "Kaiju History: 40 Years Ago, Ozploitation Director Russell Mulcahy Made His Best Movie Not Called ‘Highlander’ Or ‘The Shadow’ - And It Stars A Giant Killer Pig - Bounding Into Comics",
+    "summary": "Kaiju History: 40 Years Ago, Ozploitation Director Russell Mulcahy Made His Best Movie Not Called ‘Highlander’ Or ‘The Shadow’ - And It Stars A Giant Killer Pig Bounding Into Comics",
+    "evidence": [
+      "matched entity: Russell Mulcahy",
+      "explicit Highlander reference",
+      "context: Highlander, director",
+      "also matched: Highlander (70)",
+      "source age: 547.0 days"
+    ],
+    "score": 75,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

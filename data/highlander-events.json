@@ -1,631 +1,5 @@
 [
   {
-    "id": "b0cec3ccb2b95ba1c048",
-    "entity_id": "virginia_madsen",
-    "entity": "Virginia Madsen",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "virginia_madsen",
-        "name": "Virginia Madsen",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 03 Jul 2025 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaE5mN29KU3E5bVB1SThVS3U3ZzZmTUdoamFKajBsV0JsS3pLMTlYRFQ1MDZMa19UTDlaOHBFVkJZeEk2WTFrN3AtdVlvcXBFQ3k0Q1ZIVG9nYmNyVVJwQmFNR0kxam80MUVUUWJ4Q3llY2RNaDIycURKaTF3aW1fSy10T3pIQmxLYkItNXhqV0x6ZW9l?oc=5",
-    "source": "variety.com",
-    "title": "Virginia Madsen Mourns Brother Michael Madsen's Death: Miss My Big Bro - variety.com",
-    "summary": "Virginia Madsen Mourns Brother Michael Madsen's Death: Miss My Big Bro variety.com",
-    "evidence": [
-      "matched entity: Virginia Madsen",
-      "event: death (death)",
-      "source age: 454.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4b5e4725337873aa1e68",
-    "entity_id": "virginia_madsen",
-    "entity": "Virginia Madsen",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "virginia_madsen",
-        "name": "Virginia Madsen",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 07 Jul 2025 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWxXVmc1STZ6T2M1MXFaOC1VdERpaGNMaDc1bTFWWDNUeURtMWVmZWE1UUVUeW5jTEdUc3Nfc1kyOFNkLXIzalFDTERtTkJrVGVJX21LTkI2anF6NkxWZUxRa1RldDV4OXhVSFFJTTZlTnkwVk9VY2JTMF9TdTc5UVNjOXdhOUUxM0dpTC01Ty12dU9WaDBRRDFEN2RoeXlyVnUxUDduRUowVnJYLTM3Sm10Q1NaMEcwcXBqZHhUanp5UWNLM2NqTjJPeUE?oc=5",
-    "source": "WCNC",
-    "title": "'I miss my big brother': Virginia Madsen opens up about brother Michael Madsen's death - WCNC",
-    "summary": "'I miss my big brother': Virginia Madsen opens up about brother Michael Madsen's death WCNC",
-    "evidence": [
-      "matched entity: Virginia Madsen",
-      "event: death (death)",
-      "source age: 450.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "33176f3b10f9a88afc68",
-    "entity_id": "virginia_madsen",
-    "entity": "Virginia Madsen",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "virginia_madsen",
-        "name": "Virginia Madsen",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening"
-        ],
-        "score": 54,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "interview",
-    "source_date": "Fri, 10 Jan 2025 08:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNTRTMWhEaDdlSDlaVXZOM3ZnQ3FOZklvRGJ0Q1Z5WVZVY245Vk4wd0puUkI2VDkzejBNQ29vSUJad0JEb2ZNV25Hc2ZnTUNBblpRaGxPRUZXY3dBaG0ya0pCSUVCSGtkSVVWNU14eFpHTnlWWTVRMU5Lc1hoT1R5SjVtMjBCc2hudVd4MGcwQzlZcFV3MTBjdEJ2cmJCMmxTbUtSTVJMTjk1SWd2UURoRUNyVFhtWnhl?oc=5",
-    "source": "assignmentx.com",
-    "title": "HOLIDAZED: Actress Virginia Madsen on new limited dramedy series- Exclusive Interview - assignmentx.com",
-    "summary": "HOLIDAZED: Actress Virginia Madsen on new limited dramedy series- Exclusive Interview assignmentx.com",
-    "evidence": [
-      "matched entity: Virginia Madsen",
-      "event: interview (interview)",
-      "source age: 628.5 days"
-    ],
-    "score": 54,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "365f30d97ba9066191e6",
-    "entity_id": "virginia_madsen",
-    "entity": "Virginia Madsen",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "virginia_madsen",
-        "name": "Virginia Madsen",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 22 Mar 2021 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDNtVVliUWhRM1dmU0t4QVFrM1AtQVUzZmZNVml3VTJPRUlCSWdGWkpDZ0k3T1ZFcXFLb3hibG5BaG5ncU56RzUwMktYQTlWRFB6UTItTERraWp3UFIwRzVCOGw2MklMMHNXSHNqTjRpeEZfT0Z3TW44ckdaM0dfMnVSRWpYeGs4Q1VRWUZiQQ?oc=5",
-    "source": "Deadline",
-    "title": "Nicola Peltz To Co-Direct & Star In Indie Drama ‘Lola James’; Virginia Madsen Also Set - Deadline",
-    "summary": "Nicola Peltz To Co-Direct & Star In Indie Drama ‘Lola James’; Virginia Madsen Also Set Deadline",
-    "evidence": [
-      "matched entity: Virginia Madsen",
-      "event: death (dead)",
-      "source age: 2018.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "7be194054ac3fda705ba",
-    "entity_id": "virginia_madsen",
-    "entity": "Virginia Madsen",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "virginia_madsen",
-        "name": "Virginia Madsen",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 03 Jul 2025 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2ppNkdSY1VEX0xjTmZTZHF5cEQ5WVBnWFVJVk92bi1ORzJXY3RIbGl3S1RFc09ZWkhjNmRqMEp5bUhTblV6TTVTb0tWNkVGS1ZJblNJQU05M2k5VXIyYzNHRFNmYnFRdHhiWmRhX0pTQWRYckU0X1VxdGFKV0pvRHpBUHAxcnd6?oc=5",
-    "source": "aol.com",
-    "title": "Actress Virginia Madsen Releases Heartbreaking Statement on Brother Michael Madsen's Death - aol.com",
-    "summary": "Actress Virginia Madsen Releases Heartbreaking Statement on Brother Michael Madsen's Death aol.com",
-    "evidence": [
-      "matched entity: Virginia Madsen",
-      "event: death (death)",
-      "source age: 454.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "488851b2bf5b930f7c90",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "other",
-    "source_date": "Wed, 02 Jul 2025 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xZWJRUWxvOVdNcjFjd3NiVUZuT3RTUUc0TVdYWER2aURRakFoTUl5RDJxNnE0MEUtdk1hekZBYXRBUExoSmRWN0Vhc0N4c2dfdTZ5MnNqT0hDRVM4UHQyajlvS3lfdVRNZU1WUlVNeDlsWmpNWHRtZ185U2gtWFU?oc=5",
-    "source": "thewrap.com",
-    "title": "‘Industry’ Star Marisa Abela Joins Henry Cavill in Amazon’s ‘Highlander’ Movie - thewrap.com",
-    "summary": "‘Industry’ Star Marisa Abela Joins Henry Cavill in Amazon’s ‘Highlander’ Movie thewrap.com",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 455.5 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "350c581068af1e91e185",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "other",
-    "source_date": "Fri, 20 Jun 2025 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHbFlFM3BmX3N3aUlkZW1CV3ZLSTNTVXh6MkVmMWhNN3V5ckVNWTEzQjdjMGtmNnJydGNtRkRCOFBjbjFxZG1yc2ZZUFUzeEpHdkJ0emZmWHF6VWhiTHVIcVRhbkloR3lvN0R1amxUOA?oc=5",
-    "source": "thewrap.com",
-    "title": "Russell Crowe Joins Henry Cavill in Amazon’s ‘Highlander’ Movie - thewrap.com",
-    "summary": "Russell Crowe Joins Henry Cavill in Amazon’s ‘Highlander’ Movie thewrap.com",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 467.5 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "3573ca6677f17d837e89",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "health"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "health",
-    "source_date": "Thu, 11 Sep 2025 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNXRlMm91NjFwY1k3WldvblNER2lDamc2a1RTU0tmR1pYS0xUcEMwcGVXRl9ob3Z2Y1Y4MVdlVHRkdlBZV3V5bE0tMHktMFl2OUlReHJlZlExeW12ZF9obnRZLUg5dHlrSTRVWlBWOEhuUktCa3YtTkR2cy00bUpndzFWMkl2emVf?oc=5",
-    "source": "thewrap.com",
-    "title": "Henry Cavill ‘Highlander’ Injury Pushes Amazon MGM Production Start to 2026 - thewrap.com",
-    "summary": "Henry Cavill ‘Highlander’ Injury Pushes Amazon MGM Production Start to 2026 thewrap.com",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander, production",
-      "event: health (injury)",
-      "also matched: Highlander (100)",
-      "source age: 384.5 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "b77bf40078b0b0aabce8",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Thu, 07 Aug 2025 07:00:00 GMT",
-    "captured": "2026-09-30T20:02:34Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fTk5iZUJGQWxaNXhmMHJZMFZ3RVNMU2VqYmJITXNSZmVqc3hrQmpxbEVCNEwtODMzeDdERE91dWhQQjR2ZGUzT2hkREV6Y1hXSFJyN0V6akRBWFFfeS1VZHVyWXd1bDhtOUFuOWlwbC1RcTZvQUtyVGdDNEI5dw?oc=5",
-    "source": "thewrap.com",
-    "title": "Dave Bautista in Talks to Play The Kurgan in Amazon’s ‘Highlander’ Movie - thewrap.com",
-    "summary": "Dave Bautista in Talks to Play The Kurgan in Amazon’s ‘Highlander’ Movie thewrap.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 419.5 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "9c462abd17e8916056e4",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 98,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Tue, 05 May 2026 07:00:00 GMT",
-    "captured": "2026-10-01T00:08:17Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObmp3Q0NJTXFuSS1oZ0lNWGV5WmI4UGlSYWhmZEdjNDZOWE52d2FIREZUWjNabHhQbHVpTkhQR2dIX2ZoaVJTRlo1cGk3UW9nTTJyZWhwU0pBUkVzYVd6dDg2N2duaEVzMFFVUHpranduVEZzVlhWMHk3YXlSVTRQeGdNZHdyTndoMGpldnJLQVpIcEZSUlR3NzZvRmRWc1JKUVFIcWh6NDI3VllLMFdiRUU1cWpKWWxZUWtkcGt0QWpBdHpyalhPSF9DQXR4ZFlmdGpneV8tdzNQOVpN?oc=5",
-    "source": "IGN Pakistan",
-    "title": "Highlander Set Photos Reveal First Look at Henry Cavill and Karen Gillan Filming 16th-Century Flashback Scenes in Scotland - IGN Pakistan",
-    "summary": "Highlander Set Photos Reveal First Look at Henry Cavill and Karen Gillan Filming 16th-Century Flashback Scenes in Scotland IGN Pakistan",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander, filming",
-      "event: highlander_production (filming)",
-      "also matched: Highlander (98)",
-      "source age: 148.7 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "75e65604b19087afbab8",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Tue, 29 Sep 2026 17:00:11 GMT",
-    "captured": "2026-10-01T00:08:17Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83UHJsQUYzRDdBOWRLOGx1c0RteTRqMFZsN2l3VnN0MGw3ajFzcDFjMURvb0NKMmtjLWtIalZKOE5pSVNUY0FJbERFRUFsbmNMb05KeTkwOUh4NWx2XzFsVXRfYU5aOXhaR1NxR0hSc180cFhl?oc=5",
-    "source": "Comic Book Resources",
-    "title": "8 Movies To Watch If You Love Highlander - Comic Book Resources",
-    "summary": "8 Movies To Watch If You Love Highlander Comic Book Resources",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 1.3 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "92b5a9987cf0660ed563",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Tue, 20 Jan 2026 11:32:55 GMT",
-    "captured": "2026-10-01T19:45:31Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90M2NMNF9QVEhCd1BxUWRSdFJ4aHVKS000QzRqZi16VE1vbE9Ia0d4TXNzbkwyNTFjbjlLajlrLW1QVzFHOVdxenFNSlRncmEteHFicW9QRVFvS2Z1c0tvdA?oc=5",
-    "source": "JoBlo",
-    "title": "What Happened to Highlander III? The Sequel That Tried to Fix the Franchise - JoBlo",
-    "summary": "What Happened to Highlander III? The Sequel That Tried to Fix the Franchise JoBlo",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 254.3 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "e2769fb180a28ab20d1f",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -52789,6 +52163,684 @@
       "source age: 547.0 days"
     ],
     "score": 75,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "0bb2b1247b9f7e3bba59",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 29 Jan 2026 08:00:00 GMT",
+    "captured": "2026-10-21T14:04:17Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdVlTck1uVFBzSFh3S1RMMFB2U1FyVnlvQWFYb04wcGgxUlpqOHphejJRMlhDalhGSDZjTHVhdXdOeHNmQmczWEpDWHZHVzR5Vi0tcFlYUEctY0ZyVUYzUkRJOHBFaFpVOUV4RndYYVZJeUVHMFJ2UlBWS0pvbmJjZUFRRktiOTdqa1ltSTh6TXJzZTZ3dmJBdGZxQm12SktHdnJsX0MzUEx0cFNsMTBMU1pOd3NxUmpmMzRTTlpRaWx3NG9Lb3NLVEQ1R3hsdmtTVVN0ZlFHNmotTU1oMWI2NkViZ2U?oc=5",
+    "source": "IGN Southeast Asia",
+    "title": "Henry Cavill Is Ready to Unsheathe His Sword in First Look at Highlander Reboot From John Wick Director Chad Stahelski - IGN Southeast Asia",
+    "summary": "Henry Cavill Is Ready to Unsheathe His Sword in First Look at Highlander Reboot From John Wick Director Chad Stahelski IGN Southeast Asia",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, director, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Highlander (100)",
+      "source age: 265.3 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ef3fc137fd16877cdb89",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 20 Jun 2025 07:00:00 GMT",
+    "captured": "2026-10-21T14:04:17Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaTdnajM3cjdpckFtSzRzdVlzOFlxM1M5cFhRYUYzZTIzMG9yZ1hrYUxsNUJERjI5QVM3ZVlJUmw3aU50UVJydmdpd3NKaFBFRUd3Q2Y5aW9pRmluMUxvdXR5RnpXNXp6VVk1Nk9lYm9mUFFFRnlFbzlzNGtzRWU1TXVBSGxPZlNZVlV3UUctS0h6Y1NNbnIwRmp4MTlGblk4?oc=5",
+    "source": "Variety",
+    "title": "Russell Crowe Joins Henry Cavill in ‘Highlander’ - Variety",
+    "summary": "Russell Crowe Joins Henry Cavill in ‘Highlander’ Variety",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 488.3 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "100a6410be7441cdb7dd",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 07 Apr 2023 07:00:00 GMT",
+    "captured": "2026-10-21T14:04:17Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnRjQmo0ZTlYbi1pODJTcm43NGZPRUxTLW5ndVBuS0NUbi02TmFzOGZCNG5rRlNUZzdlelg1bDlXUU5hSWh4UWY5S1VBdm9tSFM2SFhPajRYdXo1QWFJS0dmVy1NNlF1M3hWQVZMLWtxMVJfNFBmdG1wdDFvQU9uVjBpUFJGbk1CSTRxVW93NDhrRF9LZ3FEa28zNEJWMXg4QmVZZkl2WXF3UUVUaTdJYXdfNmZyS00?oc=5",
+    "source": "Looper",
+    "title": "Henry Cavill's Highlander Reboot Should Ignore The Movies And Look Only To The TV Series For Inspiration - Looper",
+    "summary": "Henry Cavill's Highlander Reboot Should Ignore The Movies And Look Only To The TV Series For Inspiration Looper",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 1293.3 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "426e704efe930a7d00ab",
+    "entity_id": "clancy_brown",
+    "entity": "Clancy Brown",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "The Kurgan",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 78,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "The Kurgan",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 20 Oct 2024 17:37:28 GMT",
+    "captured": "2026-10-21T14:04:17Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaHdFclpMNTRUa2w2VHpzQVJRLS1HUFpRM1hlS0hLYnhGUlBIRG5RZnN0RndQYmpPbUc2Z1B1QkM0ZmVuM3c4RVhJNlhsYjctLXVmbnBNakJRUURmdDJFdWlFTGFEY19Cc09qeGZfWXdHOFVpaTIyRzBuQ25lcDJ6X3JOb0dJd2xNa1N3WEkyaE90MjNLY1pJRE1Jd1hoT2xaazZKTnhaUWtkalVVMjE4X1dOQ2txS29oUDZDcFlBOHlkc3lhcE5kN0RqbjlrWVdmZWFLWlllVjQwWXNSYW1DQ1VGX1g1SUU4RUFOaENpVmI?oc=5",
+    "source": "Warhammer Community",
+    "title": "The Exodite Himself, Clancy Brown, Explains What it’s Like to Play the Last Scion of a Dead World - Warhammer Community",
+    "summary": "The Exodite Himself, Clancy Brown, Explains What it’s Like to Play the Last Scion of a Dead World Warhammer Community",
+    "evidence": [
+      "matched entity: Clancy Brown",
+      "event: death (dead)",
+      "source age: 730.9 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "e5594118fcac60b4dfdb",
+    "entity_id": "clancy_brown",
+    "entity": "Clancy Brown",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "The Kurgan",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 78,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "The Kurgan",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 26 Apr 2018 07:00:00 GMT",
+    "captured": "2026-10-21T14:04:17Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFhFUDhlZnNLSzF5SE1JVUt2NjFGd1VfY0dUeGJGdmltSzdCRUdIWjkwdzQwanlnM3ltMTh4azlMLWM1MnBfWE1GblpGSng0ZVBFUGdJN215MkZPTkM4M3NScjNXTTRkOHlmVEltc0ZIbDg2UllFbC1saGZoVmo1MGUzdlJUUktrQWt1Qk02NXBUUQ?oc=5",
+    "source": "A.V. Club",
+    "title": "Clancy Brown on his diverse career, from playing baddies in Starship Troopers and Shawshank Redemption to voicing Mr. Krabs - A.V. Club",
+    "summary": "Clancy Brown on his diverse career, from playing baddies in Starship Troopers and Shawshank Redemption to voicing Mr. Krabs A.V. Club",
+    "evidence": [
+      "matched entity: Clancy Brown",
+      "event: death (dies)",
+      "source age: 3100.3 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ab0d02ffe4dee399cff6",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "The Kurgan",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 72,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 21 Apr 2018 07:00:00 GMT",
+    "captured": "2026-10-21T14:04:17Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SX3daMFFCdkhUZUx0NVFKQk95ZXM3b2gyVHNWSEh2aF9CcW9zWEZkR3BqWDZ4dk9qa3NTbWhFOTY1OVlRNDgxMGJURC05UQ?oc=5",
+    "source": "Ain't It Cool News",
+    "title": "Wheels talks with the immortal Clancy Brown about HIGHLANDER, hanging w/ John Malkovich & SUPERCON! - Ain't It Cool News",
+    "summary": "Wheels talks with the immortal Clancy Brown about HIGHLANDER, hanging w/ John Malkovich & SUPERCON! Ain't It Cool News",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Immortal",
+      "also matched: Clancy Brown (72)",
+      "source age: 3105.3 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "238fa611290f5ccc542e",
+    "entity_id": "clancy_brown",
+    "entity": "Clancy Brown",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "The Kurgan",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 58,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "The Kurgan",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "new_project",
+    "source_date": "Mon, 12 Oct 2020 07:00:00 GMT",
+    "captured": "2026-10-21T14:04:17Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNEtHQVp5dWxaUDFQbWJCXzNHSkdCV1NfaWc2blNMMmdRYUgxcF9FOEkwOE55VHZudUFEcUYtVjEwMUNMTl9iUUJNdEdXcVd0Z1RiR0lTTDMzenNnaEhWMVBYTXVhME9MbDRjWVdCai1QUTRzY1ZRSW5KY1dLMW0yQ2p4S2dXcjBvaFlOdnBsS3dhMzJKS2VBOWpzTEZUcDNPUTlOWjBRQjgteC1MRFhSY2k5ZlRBYTJzdHpXS1JITQ?oc=5",
+    "source": "Kansas City Pitch",
+    "title": "Director Ryan Spindell and star Clancy Brown chat about their new film The Mortuary Collection - Kansas City Pitch",
+    "summary": "Director Ryan Spindell and star Clancy Brown chat about their new film The Mortuary Collection Kansas City Pitch",
+    "evidence": [
+      "matched entity: Clancy Brown",
+      "event: new_project (new film)",
+      "source age: 2200.3 days"
+    ],
+    "score": 58,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "b9d183ef9aaccfd1ffeb",
+    "entity_id": "clancy_brown",
+    "entity": "Clancy Brown",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "The Kurgan",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 64,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "The Kurgan",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "interview",
+    "source_date": "Wed, 02 May 2018 07:00:00 GMT",
+    "captured": "2026-10-21T14:04:17Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVFpQRjhOdC1pZWZQMEpPTXNNX0ZjUHZGOW5hQnl0N0FvNW1zYTk5MjNUOGxNZENUNzRVczZ1aVliekFyei1mangwTHczSnoxRjZDNTdkT0p6ZHpnNlFDaFdqN0pSc3pYRHVGV05OcTNzTlI3dXFVQUJCNEVKcHRVcU44aGVxcUlCcU5oV2RuVEY4WFJvVV9RVlFYY2JmRWlaXzNiQTdDdkU0TklYN2J30gG0AUFVX3lxTE9KYjdGWjk5Wi1lM01tYk40VHo5UldkRzdJNExNRTkyZ2N4TnMwZG1Lem5rWWxzeGpMdURHTDhQRWJYRmJ5N1FscXF0anFJYnlIRnlHTHkyOXFmUUlBaEkxLTZKWktsY19LeE15QWZLOGp0Q2dWZy1JdEs3cF9qVFNlci1NWVU1RjVSUDc0OWFnQWwtOVZ2Q3JwNWdySjRESnJhUVFZV2I2QW00YXk2Xy05eE4wVw?oc=5",
+    "source": "ScreenAnarchy",
+    "title": "Interview: Clancy Brown Talks SUPERCON, BUCKAROO BANZAI and '80s Nostalgia - ScreenAnarchy",
+    "summary": "Interview: Clancy Brown Talks SUPERCON, BUCKAROO BANZAI and '80s Nostalgia ScreenAnarchy",
+    "evidence": [
+      "matched entity: Clancy Brown",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 3094.3 days"
+    ],
+    "score": 64,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "94024fb20ce0cb235910",
+    "entity_id": "clancy_brown",
+    "entity": "Clancy Brown",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "The Kurgan",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 64,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "The Kurgan",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "interview",
+    "source_date": "Mon, 12 Apr 2021 07:00:00 GMT",
+    "captured": "2026-10-21T14:04:17Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTWpiaWV0N0RsUzRNUlZZc3Vpd29PN0ozUlpXYUZrQk91VVhybDFLQmowOU1xOWRSdndVSWFFY0QwaDdZZjIzVG1idU1QdERXd3ZialdnZ2UyRUpDSWF3aTRLV0JTOWJ1ZWN5V1Z3TW1FelA3VnVZQm9MV04xMEVjbnVQTkJfS3FyRWU1NHhOTERmRlIyNHV5YmpDclFlQTFJTGZGZW1LVUQtbERQUlgtZm5relVxVjZfUXZBVnV0b0QwLUdJRmQ5TWtpQ2NodW92TU5JdndvQmtoelRYWTZVZw?oc=5",
+    "source": "Looper",
+    "title": "Clancy Brown Talks New Horror Anthology Movie The Mortuary Collection - Exclusive Interview - Looper",
+    "summary": "Clancy Brown Talks New Horror Anthology Movie The Mortuary Collection - Exclusive Interview Looper",
+    "evidence": [
+      "matched entity: Clancy Brown",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 2018.3 days"
+    ],
+    "score": 64,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "51091517560b74f4bc6e",
+    "entity_id": "clancy_brown",
+    "entity": "Clancy Brown",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "The Kurgan",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 66,
+        "event_type": "appearance"
+      }
+    ],
+    "roles": [
+      "The Kurgan",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "appearance",
+    "source_date": "Fri, 24 Jul 2009 07:00:00 GMT",
+    "captured": "2026-10-21T14:04:17Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0s3OVdubC1jeWQwbmJWSWtUQlQ4d3BIc2RDZExKbmFHUjU4ZF96U0ZVX2FIZmVtLVhHQWhaZ0JibFVQclBGVFh3Rm9aUHJQckRQU2NteW5UbE1rcGdBeGIwVUx3VFJkUmptcW1oNS1DUnZyc0h3QXZld0J0ZUxyTE1iWGVrWFBlX3ZPcVVPejBwZjhWNG5TSmNndmtKbnlJa2lYSmZRQ3kzcGJHRWh1cWlyVXpFVkJJNXc?oc=5",
+    "source": "SlashFilm",
+    "title": "Comic-Con: Voices Of Clancy Brown And Paul Giamatti In The Goon; No Director Announced - SlashFilm",
+    "summary": "Comic-Con: Voices Of Clancy Brown And Paul Giamatti In The Goon; No Director Announced SlashFilm",
+    "evidence": [
+      "matched entity: Clancy Brown",
+      "event: appearance (comic-con)",
+      "source age: 6298.3 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "22f8a3c8d381f8a41ead",
+    "entity_id": "clancy_brown",
+    "entity": "Clancy Brown",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "The Kurgan",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 64,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "The Kurgan",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "interview",
+    "source_date": "Tue, 02 Mar 2021 08:00:00 GMT",
+    "captured": "2026-10-21T14:04:17Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjJ4S2oyalJpcUFZdHIyVE53NkY2SzVoQzF1cE5qTXB1eGg3cVFKaFNxOEdnVG8zWFVKdEhqNWhJbklnbnhzTkIzUXJybnBIZktqS3ZSeF9RUkRtOTJ6VW81LUVzdnBQOHdzWUNIOFM5dEJwZ2N1ZHM2Z1h5ektCSlQ1STBjVDVxM2Y5ZGRVNkZWNzg?oc=5",
+    "source": "ScreenRant",
+    "title": "Bill Fagerbakke, Carolyn Lawrence & Clancy Brown Interview: SpongeBob & Kamp Koral - ScreenRant",
+    "summary": "Bill Fagerbakke, Carolyn Lawrence & Clancy Brown Interview: SpongeBob & Kamp Koral ScreenRant",
+    "evidence": [
+      "matched entity: Clancy Brown",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 2059.3 days"
+    ],
+    "score": 64,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "e5bb64f464839e8fc7aa",
+    "entity_id": "clancy_brown",
+    "entity": "Clancy Brown",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "The Kurgan",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 64,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "The Kurgan",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "interview",
+    "source_date": "Wed, 14 Oct 2020 07:00:00 GMT",
+    "captured": "2026-10-21T14:04:17Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbWduV2FWeTB3bWxWalZJLWYwZWFiYXVISW1EVjF3Um0tcmNzaUswM2ZNc1ZMdDc2aWhROVVNOC0teko5Szg4NG1WOGxhMGNoVF9CTjllN1ZjWVhGNkhvRnRseEh0amwxOTE2ckVpUmZ0aVZRRmVaMS1ySkpqd0hUZkdLdlVxTlU?oc=5",
+    "source": "ScreenRant",
+    "title": "Ryan Spindell & Clancy Brown Interview: The Mortuary Collection - ScreenRant",
+    "summary": "Ryan Spindell & Clancy Brown Interview: The Mortuary Collection ScreenRant",
+    "evidence": [
+      "matched entity: Clancy Brown",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 2198.3 days"
+    ],
+    "score": 64,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

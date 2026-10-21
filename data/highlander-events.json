@@ -1,99 +1,5 @@
 [
   {
-    "id": "e2769fb180a28ab20d1f",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Sun, 20 Sep 2026 07:00:00 GMT",
-    "captured": "2026-10-01T19:45:31Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRWgxcTRRTEEwLU44UlBCNVRKX3FHeng1akpkcldWa1VBc1E5Z3lUUFhKcElfRzdCOWxMWGx0LW5EZHJzX244OTh2MVBWVFhlazhwTzVCNjVQMlEzc1ZJeUdlbnVCSHQ1VUU3V2NOMno0eGhVOW05SDRyQlNwbEszRUVqSURMSjZTcWc?oc=5",
-    "source": "cbr.com",
-    "title": "Highlander Returns to Comics With Its Most Faithful Adaptation Yet - cbr.com",
-    "summary": "Highlander Returns to Comics With Its Most Faithful Adaptation Yet cbr.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 11.5 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "3abed542c842648c8d82",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Sun, 20 Sep 2026 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRWgxcTRRTEEwLU44UlBCNVRKX3FHeng1akpkcldWa1VBc1E5Z3lUUFhKcElfRzdCOWxMWGx0LW5EZHJzX244OTh2MVBWVFhlazhwTzVCNjVQMlEzc1ZJeUdlbnVCSHQ1VUU3V2NOMno0eGhVOW05SDRyQlNwbEszRUVqSURMSjZTcWc?oc=5",
-    "source": "Comic Book Resources",
-    "title": "Highlander Returns to Comics With Its Most Faithful Adaptation Yet - Comic Book Resources",
-    "summary": "Highlander Returns to Comics With Its Most Faithful Adaptation Yet Comic Book Resources",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 11.6 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
     "id": "65c61c319a8d18d21e67",
     "entity_id": "billy_hartman",
     "entity": "Billy Hartman",
@@ -52841,6 +52747,117 @@
       "source age: 2198.3 days"
     ],
     "score": 64,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "6c0dfd390a601f48eabb",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 17 Oct 2026 02:00:14 GMT",
+    "captured": "2026-10-21T18:50:40Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZHo4Wk5IM0hBbWpvU3RnS2NYSHZ6LXR5UnV3T2l6MFJFWjNzWGxIV3o4bUREbWZLNWhLX1phS3REV3REODA0WW5hRnRJbXhqZk1kUEo3VEdvMVAwSFlpTHlYQU9XMmdENEZEZGlDbjlTWkpoX2JTMzY3dUhPVFVjeVVnTnZBeUxs?oc=5",
+    "source": "Comic Book Resources",
+    "title": "10 Movies To Watch If You Can't Wait for Henry Cavill's Highlander Reboot - Comic Book Resources",
+    "summary": "10 Movies To Watch If You Can't Wait for Henry Cavill's Highlander Reboot Comic Book Resources",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 4.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "5644e3a64b766ae93258",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 31 Jan 2024 08:00:00 GMT",
+    "captured": "2026-10-21T18:50:40Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnhKZlh1RGgybTFVMEp6amg1blBHOE1ZenlQRFhzMXV3bF94Nk1naVFKbU9JZFp2SXJLenJ3VFpUN182UGc0c2xwdmYtMnZ2d2d1OEdmckx5aHkxMVdJOHR5TERvQ1JNXzZoWmtIbC1TMzhVTlltZm02VTl0N2FuQ3Z5aEtJZw?oc=5",
+    "source": "ScreenRant",
+    "title": "Henry Cavill's New Director Wants To Make A Superman Reboot Movie With Him In A Fresh DC Universe - ScreenRant",
+    "summary": "Henry Cavill's New Director Wants To Make A Superman Reboot Movie With Him In A Fresh DC Universe ScreenRant",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 994.5 days"
+    ],
+    "score": 78,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

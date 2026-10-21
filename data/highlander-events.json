@@ -1,103 +1,5 @@
 [
   {
-    "id": "8de99a77ee959134bbfd",
-    "entity_id": "duane_clark",
-    "entity": "Duane Clark",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "duane_clark",
-        "name": "Duane Clark",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "The Wrath of Kali",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "The Wrath of Kali",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 10 Jan 2025 08:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcm5SeE1mUnF4clJLSDZudjRRa2Y0dFNMcHJVVU5OZ1pLNS11MWp6TGtwWi1zVmtHUXRJdUd6UEFPRFV2S3VuNUdmcVVhMF9WYjBvVmotaHgyMkpjelNfUndZNkV2REhpNEhDaHZqZGU4Rm9uYkpCaEFEZVo3Rlg3cXZGYVY2MUJpNUE?oc=5",
-    "source": "Legacy",
-    "title": "Duane Clark Obituary (2025) - Maquoketa, IA - Quad-City Times - Legacy",
-    "summary": "Duane Clark Obituary (2025) - Maquoketa, IA - Quad-City Times Legacy",
-    "evidence": [
-      "matched entity: Duane Clark",
-      "event: death (obituary)",
-      "source age: 629.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "fa73045acead01aa2d87",
-    "entity_id": "duane_clark",
-    "entity": "Duane Clark",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "duane_clark",
-        "name": "Duane Clark",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "The Wrath of Kali",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "The Wrath of Kali",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 25 Sep 2010 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMk5sa2o0MmNSN09XeWZMSXd1YnBSTmNpM2w0aUZpYXV1M2Jza0JKSE1OSm15VEVLRFZ0NGE1RThyMVEyQnBGRWduaWE1M01WVG1tamVrY0paczA4akFVTFlnYWVKbDhjd3BtelNKXzlpc2M2eDNENkg5NEJjSXZLUmhkdlhJU1dZTVRZ?oc=5",
-    "source": "Legacy",
-    "title": "Duane Clark Obituary (2010) - Indianapolis, IN - The Indianapolis Star - Legacy",
-    "summary": "Duane Clark Obituary (2010) - Indianapolis, IN - The Indianapolis Star Legacy",
-    "evidence": [
-      "matched entity: Duane Clark",
-      "event: death (obituary)",
-      "source age: 5850.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "f7af6cf4a5c0462143d7",
     "entity_id": "edge",
     "entity": "Edge",
@@ -52798,5 +52700,100 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "e0bd0afeb95ca0f7c119",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 98,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 19 Oct 2026 21:27:20 GMT",
+    "captured": "2026-10-21T23:33:48Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2dsQzdKQXd6cHBqRnpIOVIzQzV6dXhDVXIxeDVwZ09TSUNnZHJBNkFkUzQ0a0lVcU1HUjdFMHFtdHhtLVRxLVBSdlJGN0taQ1dMSXBtRHlyZ0tSTFl6LWlMa1U0LTFoTHAwaGh0dGlNVm0zaFVFZGEyOFkzNDZNaGRpUEZ4OGd4dFE?oc=5",
+    "source": "AOL.co.uk",
+    "title": "Forget Pre-Planned Stunts: 'Highlander' Fights Were Crafted on the Day of Filming - AOL.co.uk",
+    "summary": "Forget Pre-Planned Stunts: 'Highlander' Fights Were Crafted on the Day of Filming AOL.co.uk",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: highlander_production (filming)",
+      "source age: 2.1 days"
+    ],
+    "score": 98,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "eb4476f12ec9b17cd7da",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 68,
+        "event_type": "appearance"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "appearance",
+    "source_date": "Fri, 09 Oct 2026 03:36:44 GMT",
+    "captured": "2026-10-21T23:33:48Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SemR5RmlfNkJlR2ZsTm9vVUNnWlJlN2hSMEI1YU9SWkI4cHJFN3lWMEY2M3M5RlVweGQ1VFJxSmRud0lNZFJydzg0Tm1BZw?oc=5",
+    "source": "IMDb",
+    "title": "‘Enola Holmes’ Star Henry Cavill’s (43) Googlebook Launch Appearance Has Fans Asking Who Called Him Too Old - IMDb",
+    "summary": "‘Enola Holmes’ Star Henry Cavill’s (43) Googlebook Launch Appearance Has Fans Asking Who Called Him Too Old IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: appearance (appearance)",
+      "source age: 12.8 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

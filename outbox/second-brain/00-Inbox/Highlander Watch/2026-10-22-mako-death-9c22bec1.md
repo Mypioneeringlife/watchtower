@@ -1,0 +1,36 @@
+---
+title: "SeaWorld’s Mako reopens following deadly incident at Six Flags Over Georgia - Spectrum News 13"
+type: "Highlander Watch"
+status: "Inbox"
+entity: "Mako"
+event_type: "death"
+source: "Spectrum News 13"
+source_url: "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUV91UGNnT0VJSmpYdlhxUjRPb1gycTlpRFczbkVYU1R2Rm53V2hCX2dCVGc1ZTRyZnpKYUEyWUYyenV0RFNyREU4Y1prNUd4UjRjVkI0c1MwYlRuRFhQYkRSdWJlbGZhbGVWZGJDZ0haczQyN2RWb241WVBLdzRqVmRDajB3bnJ0WlpTR2xVTkt3SGdla05xeFV3M1prZDI2SW5nbzYtZ2NTbE5EOFZDeWttQ2pHTXRGU0NmOFhDclB1NnZwYW04UzdIWDY1Zw?oc=5"
+source_date: "Tue, 13 Oct 2026 07:00:00 GMT"
+relevance_score: 72
+route: "Corrupted Chronicle research"
+notify_candidate: false
+tags:
+  - highlander-watch
+  - corrupted-chronicle
+---
+
+# SeaWorld’s Mako reopens following deadly incident at Six Flags Over Georgia - Spectrum News 13
+
+## What changed
+
+SeaWorld’s Mako reopens following deadly incident at Six Flags Over Georgia Spectrum News 13
+
+## Why it surfaced
+
+- matched entity: Mako
+- event: death (dead)
+- source age: 9.5 days
+
+## Recommended handling
+
+review for Corrupted Chronicle coverage.
+
+## Source
+
+https://news.google.com/rss/articles/CBMizgFBVV95cUxPUV91UGNnT0VJSmpYdlhxUjRPb1gycTlpRFczbkVYU1R2Rm53V2hCX2dCVGc1ZTRyZnpKYUEyWUYyenV0RFNyREU4Y1prNUd4UjRjVkI0c1MwYlRuRFhQYkRSdWJlbGZhbGVWZGJDZ0haczQyN2RWb241WVBLdzRqVmRDajB3bnJ0WlpTR2xVTkt3SGdla05xeFV3M1prZDI2SW5nbzYtZ2NTbE5EOFZDeWttQ2pHTXRGU0NmOFhDclB1NnZwYW04UzdIWDY1Zw?oc=5

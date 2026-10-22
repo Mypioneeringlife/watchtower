@@ -1,1217 +1,5 @@
 [
   {
-    "id": "a6ce042fd8cfb2fc6cde",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 66,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Thu, 01 Oct 2026 17:58:38 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYXNuN0hLLXgtb0VCNWpVS0tIb2p5SUNDS2k1a21ZUmZ3S1NkTk15MDRpdDNtSDZodzNUQjhPWlVBUXpVQ0pubXZYMXZScm0zanBEbF9Ga013RzNUNVlfNXY2QlNqOEVGei00eldQbG91TnZmTERNSEF4RnY2Tm9XdHhPcFp2UUZocEVDVE55WkRYcWhkREVxdTAza190MnVHOWhEN0VfM3dMaXlBZnM5dFUzYzBhcEo0U2lJ?oc=5",
-    "source": "gonintendo.com",
-    "title": "Latest issue of EDGE magazine gets special Final Fantasy VII remake series covers - gonintendo.com",
-    "summary": "Latest issue of EDGE magazine gets special Final Fantasy VII remake series covers gonintendo.com",
-    "evidence": [
-      "matched entity: Edge",
-      "event: highlander_production (remake)",
-      "source age: 0.1 days"
-    ],
-    "score": 66,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "e21ef3196539b82e1875",
-    "entity_id": "elizabeth_baxter",
-    "entity": "Elizabeth Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "elizabeth_baxter",
-        "name": "Elizabeth Baxter",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Bless the Child",
-          "Eye For An Eye",
-          "Legacy",
-          "Reasonable Doubt",
-          "Reunion",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Bless the Child",
-      "Eye For An Eye",
-      "Legacy",
-      "Reasonable Doubt",
-      "Reunion",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 27 Apr 2024 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OeXFsZm5IbjV6bTRPak5MRm1HYzhwYkZwajVyS1dmMEdackF3anV3RnlPRFdPMDgyTGN5YmhVZUZ0MTBSa1ROSl9lVDR4QW9lWEVWTEVZaXJhS2lrNXlaUg?oc=5",
-    "source": "fitzgeraldfh.com",
-    "title": "Jane Elizabeth Baxter Obituary April 27, 2024 - fitzgeraldfh.com",
-    "summary": "Jane Elizabeth Baxter Obituary April 27, 2024 fitzgeraldfh.com",
-    "evidence": [
-      "matched entity: Elizabeth Baxter",
-      "event: death (obituary)",
-      "source age: 887.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "631f1e04714aaf987b36",
-    "entity_id": "elizabeth_baxter",
-    "entity": "Elizabeth Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "elizabeth_baxter",
-        "name": "Elizabeth Baxter",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Bless the Child",
-          "Eye For An Eye",
-          "Legacy",
-          "Reasonable Doubt",
-          "Reunion",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Bless the Child",
-      "Eye For An Eye",
-      "Legacy",
-      "Reasonable Doubt",
-      "Reunion",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 28 Apr 2025 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcEU0djZUVkxmczNsc1VReWVzanNHdHVMRGduSkszb29KLUd3ZENMbmlleU5yNGU5Wm1YdVl3TXZ6RDI2WkxBdWtvNlhxMEJZb0tmR2JQTmp1aTAyYmE3NUdFWC1aSWJ3UUxtRGpualZlMTFQTHhSSVItMWFjekNkM0dUZUZjQQ?oc=5",
-    "source": "dignitymemorial.com",
-    "title": "Elizabeth Baxter Obituary - Jackson, MS - dignitymemorial.com",
-    "summary": "Elizabeth Baxter Obituary - Jackson, MS dignitymemorial.com",
-    "evidence": [
-      "matched entity: Elizabeth Baxter",
-      "event: death (obituary)",
-      "source age: 521.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "2257a3366dbd1f2783d5",
-    "entity_id": "elizabeth_baxter",
-    "entity": "Elizabeth Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "elizabeth_baxter",
-        "name": "Elizabeth Baxter",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Bless the Child",
-          "Eye For An Eye",
-          "Legacy",
-          "Reasonable Doubt",
-          "Reunion",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Bless the Child",
-      "Eye For An Eye",
-      "Legacy",
-      "Reasonable Doubt",
-      "Reunion",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 08 Aug 2024 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyTGNvc3NBRzZ4aGZMOXAtUEJWVWtMQkJDT2ZCT3NaUFNWbUdncDdiUlNBdGJtUDl3UUZ1NmNTb3MwLW9oNFlSbTBYZ1BzLVluQ1ZWUFBpZVNaa1hoekRVVHA2bDF0QWhWb19ZY0lOZHBVSnZ5Nmt5TzFESW95dw?oc=5",
-    "source": "lowellsun.com",
-    "title": "Elizabeth Baxter Obituary - Westford, ME - lowellsun.com",
-    "summary": "Elizabeth Baxter Obituary - Westford, ME lowellsun.com",
-    "evidence": [
-      "matched entity: Elizabeth Baxter",
-      "event: death (obituary)",
-      "source age: 784.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d5ad1702d47e2c19ef15",
-    "entity_id": "elizabeth_baxter",
-    "entity": "Elizabeth Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "elizabeth_baxter",
-        "name": "Elizabeth Baxter",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Bless the Child",
-          "Eye For An Eye",
-          "Legacy",
-          "Reasonable Doubt",
-          "Reunion",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Bless the Child",
-      "Eye For An Eye",
-      "Legacy",
-      "Reasonable Doubt",
-      "Reunion",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 28 Jul 2010 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2dTX0x4OWhsaFBRMjRiT3VYRkNmR2d2WWo4ZFNmbWlMYUVBQ3dMbzNjRXhTUkN4bjd2dVFEd2hBQWt0VGVYdWZVY1VINlRxcE1hV0p6WVRCS0lkbjBtZFladk5ESVBpSVluMGdaSWY1cEk1YVA4Q0JzZmRNWVhoSFpLVW04VEYxQ2xFQkdVU3RNalZmemtZ?oc=5",
-    "source": "conner-westburyfuneralhome.com",
-    "title": "Obituary information for Frances Elizabeth Baxter - conner-westburyfuneralhome.com",
-    "summary": "Obituary information for Frances Elizabeth Baxter conner-westburyfuneralhome.com",
-    "evidence": [
-      "matched entity: Elizabeth Baxter",
-      "event: death (obituary)",
-      "source age: 5909.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5a932a500271bb851a11",
-    "entity_id": "harvey_weinstein",
-    "entity": "Harvey Weinstein",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "harvey_weinstein",
-        "name": "Harvey Weinstein",
-        "kind": "person",
-        "roles": [
-          "producer"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "producer"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 15 May 2026 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeF9yR2MteHphVWlZTE1QUFh3eGxJVkEtaEdUR2JiWDd2YTJheUVQRkhVV1VXcG1OMnJHbGUxYlFlcHduZFg1LXZDM1ZnNHdKVHhrRUNqRmg0M0J4OVROSFNjNFZvSVdiZFg0aGRaT2Zta3phUklUVU03MnFNT285ZkpxZTZEaHA1eWNfMUlnblFkSm5PV2N6MUNCendPdEJpSmZ6UGtZU2tlMzVRZVBr0gG0AUFVX3lxTE8zLWdnaTRMZTBVSUM4Zm02c0pmajJPTVE5Qms4VlhrUHMwajg4SlVfbTlnM05RNXlYbEpxU3hpeFBxamNlcldRVWFUR0h2eF8wa2pILV9wcHF6Umx6Q1NJUjViaTJva1plS2VocXVxWFRySEY3X2VwM1lQeXZjdmM2bDJjcVhCbVFwS0JITjhzaXl1SmdoV1ZuUk5fdzkwY1NNUjdGNDBUZFplNmt1eUNHY2F3MQ?oc=5",
-    "source": "ABC7 Los Angeles",
-    "title": "Judge declares a mistrial in Harvey Weinstein's rape retrial after jury says it is deadlocked - ABC7 Los Angeles",
-    "summary": "Judge declares a mistrial in Harvey Weinstein's rape retrial after jury says it is deadlocked ABC7 Los Angeles",
-    "evidence": [
-      "matched entity: Harvey Weinstein",
-      "event: death (dead)",
-      "source age: 139.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "72350aaf5b0f4fde3fb2",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 01 Oct 2026 02:28:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EWWZZWXhDVzNJVnJVZG55ZWdHbExqY18zcUVZUjlrOGJXVVlNRmN1UmdzSDA2QzZlSTB5Zm1ENDFvNDZsSkltVkhGSHlEb3YtTnMtaDd3NGdXZXlMR184?oc=5",
-    "source": "Colbert-Moran Funeral Home, Inc.",
-    "title": "Carl James Bruce Obituary Jul 7, 2017 - Colbert-Moran Funeral Home, Inc.",
-    "summary": "Carl James Bruce Obituary Jul 7, 2017 Colbert-Moran Funeral Home, Inc.",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 0.7 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "26af7d5d6f19f1ed420b",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 30 Sep 2026 19:30:19 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFdQenpVNUt4TFFROUQzMUExUGRVbGI2bVdyTTVmZ2ZwZnFhTERNY3Buc3hYbkxSZEZCYXdHNGlZWTZESmF3b0lUTDVkam8wWXFRSlN2OU9DTkM4anNUQnZrV2ExbHVFQjJUUGdWUmFTZzJaUXk3OEE2SmRPcURzWQ?oc=5",
-    "source": "Legacy",
-    "title": "James Bruce Hughes Obituary (2026) - Sale Creek, TN - Williamson & Sons Funeral Home - Legacy",
-    "summary": "James Bruce Hughes Obituary (2026) - Sale Creek, TN - Williamson & Sons Funeral Home Legacy",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 1.0 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "c9be9d106b67f2f28a0a",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 29 Sep 2026 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mcHVRYzdVSnA5anM0NXpKZUxVM052YTZuTnBpMlRxMUl0X0FXVHV3U2Fkd2ozc1hHR0N6LXFLNGlhcFZKOXVNZFNnQ2hMOEtZZEY5RjFmdkx3UlRwWC1pRWtYRXgzVktKdTIzZnptdnZaTDlDR2o1MQ?oc=5",
-    "source": "Tribute Archive",
-    "title": "James Bruce Hughes Obituary | Williamson & Sons Funeral Home | Soddy-Daisy, TN - Tribute Archive",
-    "summary": "James Bruce Hughes Obituary | Williamson & Sons Funeral Home | Soddy-Daisy, TN Tribute Archive",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 2.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "bd99de38a84e6b13a518",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 26 Mar 2026 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTh1NGVwOEZ1NllacndvVks2X2p4dERMN1V5b05Mb3F5VDMtOFN0Y3B1SnNONFpmbDBxRW4zWmtJZDVNV21STk1PdFBuUDFGeURCbHJLejgzZF9tS3FLZktmMGxBYnJ6alBiZkZVbS1PMGpyMHhMalZvZlpOOFJTTWhGRlpQMy16Mlpn?oc=5",
-    "source": "Legacy",
-    "title": "James Bruce Walraven Obituary (2026) - Calhoun, GA - Max Brannon & Sons Funeral Home - Calhoun - Legacy",
-    "summary": "James Bruce Walraven Obituary (2026) - Calhoun, GA - Max Brannon & Sons Funeral Home - Calhoun Legacy",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 189.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "b367bb3764737c826831",
-    "entity_id": "james_cosmo",
-    "entity": "James Cosmo",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_cosmo",
-        "name": "James Cosmo",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 54,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "interview",
-    "source_date": "Thu, 08 Sep 2022 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00ME1DVzNOTlNfMzktcFpUOHdtOTJEUnoyVlA1c3JJX3JRYXliOHJ3clp2UXVkZzJrVUE3TmpNY3VlRVd6VWRSdXhZd3dEM3MzWmVqNzVvWTNFQjVvTVZ2SmZrUTJuUzJDVmtSM09aMzZnVjZF?oc=5",
-    "source": "moveablefest.com",
-    "title": "TIFF 2022 Interview: James Cosmo and Klaus Härö on Getting to the Emotional Depths of \"My Sailor, My Love\" - moveablefest.com",
-    "summary": "TIFF 2022 Interview: James Cosmo and Klaus Härö on Getting to the Emotional Depths of \"My Sailor, My Love\" moveablefest.com",
-    "evidence": [
-      "matched entity: James Cosmo",
-      "event: interview (interview)",
-      "source age: 1484.6 days"
-    ],
-    "score": 54,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "05fb011e9d42e909814e",
-    "entity_id": "james_cosmo",
-    "entity": "James Cosmo",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_cosmo",
-        "name": "James Cosmo",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 52,
-        "event_type": "new_project"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "new_project",
-    "source_date": "Tue, 03 Sep 2024 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNHRERmJvQ2ZXX1FTVDZFTGpvcUJJOUJwQTJ5cVJHYnhrN1RQSkRQWWJ3eUQ2aTlHTVVSTWlFamJEQks3WUNYVkdqSFVDMWtfRk9kRF9zNWdvaTBZMWJxekhxZ3VjcXlGdFk5RVpjQU15UVcwVEpNT0o1RWlpb1pIVkxhUGVCTkt4LWxYMGVuRzRlVXlWQlNwUGxkMHZ4UXZUeVdkYmVuV1c3cG9QWk1NUW9sWTU?oc=5",
-    "source": "scotsman.com",
-    "title": "Nightsleeper: Inside Scotland's new 'real-time' BBC TV train thriller starring James Cosmo - scotsman.com",
-    "summary": "Nightsleeper: Inside Scotland's new 'real-time' BBC TV train thriller starring James Cosmo scotsman.com",
-    "evidence": [
-      "matched entity: James Cosmo",
-      "event: new_project (starring)",
-      "source age: 758.6 days"
-    ],
-    "score": 52,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "91bfff2a69a2eb1b2896",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      },
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 06 Jun 2025 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWDNUS3pOa0laLTRZR2k3WkRaZVJFM1M0cVBhYUt4d2NKbF9mUk4xdTROQVBVTkNFY190alVnSkxPQmMxNjdiWVFpWDhEbkYxQ0FpdjUzSjlvMHBsVk1kMjNXek44ZEd2MWxTNEI0Ym45ZWNZaG4xYVdydjVwUG1tSXBucw?oc=5",
-    "source": "dignitymemorial.com",
-    "title": "James Thorpe Obituary - Rockledge, FL - dignitymemorial.com",
-    "summary": "James Thorpe Obituary - Rockledge, FL dignitymemorial.com",
-    "evidence": [
-      "matched entity: Edge",
-      "event: death (obituary)",
-      "also matched: James Thorpe (72)",
-      "source age: 482.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "28bee05bfc5680201d31",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 16 Jun 2018 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS3BoZTRicVZTZzVENVRkeUlzYjVTejRUa29BV3loNFdWa25SRG5Xdi1MNkx2eWVnd3NDMkVwbWxZQ0l1dU1heEpQN3U2d3c3ekhIRzh2N1A1ZjNsN0swUUcxN1M4d3EwdzN2RURfTmYxSEQ5NnR0MzBSMG5YcWotamZFY09VM0pFXzkwNHB0bnJjUWlE?oc=5",
-    "source": "Legacy",
-    "title": "James Thorpe Obituary (1935 - 2018) - Murray, UT - The Salt Lake Tribune - Legacy",
-    "summary": "James Thorpe Obituary (1935 - 2018) - Murray, UT - The Salt Lake Tribune Legacy",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 3029.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4dc8c6e40d732716400d",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 23 Sep 2018 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObklYNTZtWjFwclZKT1BaNFVEbFJlN21rdzhQejEzQ2hJdWc0YjZCa1c0anJ5WUNOSU9haWFhTnVRM1o2NURUeXdIcHpWSE1uelNBZDFLV2N6U2FEcmhMOTdwTjdVYk1pazdxZWdVSVBGNzF2QTBJTjdqY3lTTzBfWTdn?oc=5",
-    "source": "dignitymemorial.com",
-    "title": "James Thorpe Obituary - Englewood, OH - dignitymemorial.com",
-    "summary": "James Thorpe Obituary - Englewood, OH dignitymemorial.com",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 2930.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "68ba82719f2fcc2542b7",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 01 Feb 2019 08:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMWNoLU42WHV0OUluOWtzUndkWU92VVBwX29uSGtJZVFLUnhwN1liS3RhX2xac0dDMVFfOTZqSG93Rm9Cd0JqdThYdkVUdkJscnZwblo4bnNhNVJxUXo3N2ZIQmZwVXB5WC11bVh1dS1GMDQ1NG5rMm9ocUFZTWZTenBUVQ?oc=5",
-    "source": "dignitymemorial.com",
-    "title": "James Thorpe Obituary - Seagoville, TX - dignitymemorial.com",
-    "summary": "James Thorpe Obituary - Seagoville, TX dignitymemorial.com",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 2799.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "f64473acda4f5bc252c9",
-    "entity_id": "john_c_mcginley",
-    "entity": "John C. McGinley",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "john_c_mcginley",
-        "name": "John C. McGinley",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening"
-        ],
-        "score": 52,
-        "event_type": "new_project"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "new_project",
-    "source_date": "Sun, 29 Mar 2026 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjkxd3ZSVmlvX1R6WnhtT0lmTWpKNnZ1bVhUVEtoNFNXbVZFZWlrOVRURDVMbTBzakItY3FSdk5ETHlYZnZTWVNEbkVwcExPQ2RxSGxzQ2tJa2wtS0FjNlBMT3E1aHdwSXd0Mk9BMWZZR0RCclNmQkFtUDNXejVCaEQtcHRUUlBkRkFsSzk0eEQ3MGN0WmNHUUtyYllwb3ZWWHVaNkNuRzg?oc=5",
-    "source": "tvline.com",
-    "title": "Zach Braff Talks Directing Steve Carell & John C. McGinley In Rooster Episode 4 - tvline.com",
-    "summary": "Zach Braff Talks Directing Steve Carell & John C. McGinley In Rooster Episode 4 tvline.com",
-    "evidence": [
-      "matched entity: John C. McGinley",
-      "event: new_project (directing)",
-      "source age: 186.6 days"
-    ],
-    "score": 52,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "2fef3a56d4ac44808079",
-    "entity_id": "john_c_mcginley",
-    "entity": "John C. McGinley",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "john_c_mcginley",
-        "name": "John C. McGinley",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening"
-        ],
-        "score": 66,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Tue, 11 Nov 2025 08:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HcUstZFIyUFBBdkVHMGxBRWM1N3B4VkE2SGFoc2tUM3lUNkdET3RDcXBBWXA4ejFoRndRUlRDUDVlVFNqQ1NnaWZuMlpLSmhXR3RlQ2h1MHpDOW9nRFhyaVpxNFROTk1ya1hXTEVJdi1WbGUxYnNZNE9XcXhOSWs?oc=5",
-    "source": "AOL.com",
-    "title": "John C. McGinley Says Reuniting With ‘Scrubs’ Cast for New Reboot Was ‘Like Riding a Bike’ - AOL.com",
-    "summary": "John C. McGinley Says Reuniting With ‘Scrubs’ Cast for New Reboot Was ‘Like Riding a Bike’ AOL.com",
-    "evidence": [
-      "matched entity: John C. McGinley",
-      "event: highlander_production (reboot)",
-      "source age: 324.5 days"
-    ],
-    "score": 66,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "6a7b2e58ee4aec8ed861",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 17 Jul 2024 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1hIZXJPQ0pqTkJscG1QNzdXVEwxZ1BONEhUS2FVVUdXaEd0ZE5SZHFhckQyNEYzU1ItVVNEOVBLd0xvdUhmY2JVdF9wVnE4cmlhaWFlUE55dFoxM0ZlSFBLZlpDem8xajRiemxicVFhUzRRQXpOcTJiWWpIejdWcWNaRmJxeHJwUWc?oc=5",
-    "source": "dignitymemorial.com",
-    "title": "Karen Harris Thurman Obituary - Dayton, OH - dignitymemorial.com",
-    "summary": "Karen Harris Thurman Obituary - Dayton, OH dignitymemorial.com",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 806.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "baf072e5afec82abece6",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 01 Mar 2022 08:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR1lQZlhoS2JncU9SbmRrQlBBbW1GVjk1RnI0Q2tUal9NbUNOWjVwekgySHJUb0pPOU9idmZGSjVZUHI1SXktQy1QVnBGQzZPTUV5ZEw2cE9UZmwxMmtYYXNsajBsV0s0UjJQWWpnZ3JNT2k5eGZHc1hRMTlsY2NhZ01B?oc=5",
-    "source": "dignitymemorial.com",
-    "title": "Karen Harris Obituary - Dequincy, LA - dignitymemorial.com",
-    "summary": "Karen Harris Obituary - Dequincy, LA dignitymemorial.com",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 1675.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "24e2998a3dba6211406e",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 10 May 2023 20:49:18 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiWWVZc1dUWUdSelRnVUpjMXBKcDUtNXVuTGotRzFBQjhjMGp0eEdDUHZwOFpLUW5sQzRHLUk5alI4bkhyTExrMDhPSHJxc2d3RmR1V1E2WEpkVGhiODlONTR4S0wwdEpfNG81OHBwSm53azFhbm1CZl9Rdy1xZDg?oc=5",
-    "source": "dignitymemorial.com",
-    "title": "Karen Harris Obituary - Linden, NJ - dignitymemorial.com",
-    "summary": "Karen Harris Obituary - Linden, NJ dignitymemorial.com",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 1240.0 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "9626bdf755c6fb6d3e43",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 02 Dec 2022 08:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc0hNeGktcFpoeHRrVEI1a0p1N0h1M0NqUTFUeG0xdnhCY0VMMGVYSEU3REp5NVJnWXFYQk9jY1dXTkNidElWSUtIWUE5QnlhVFdmdEEtN3VDREZrNWF2TjFSZEk3bHJSSFl1VGwxRU5LbWEtc0xxdTcwbjFBUzJ4Zw?oc=5",
-    "source": "dignitymemorial.com",
-    "title": "Karen Harris Obituary - Memphis, TN - dignitymemorial.com",
-    "summary": "Karen Harris Obituary - Memphis, TN dignitymemorial.com",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 1399.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "87b6a169795d56d52968",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 13 Jun 2017 07:00:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWHRZQk1OWmVQQ19pbGQ0VFV1R0FZNHNvSlN2TnhnX29NM05wNjUwWkxPSGx5UTRCaV9yUUd4cUJsenF5TE1hNHBxc0I4TnA1WTJGZkUxTl9CRTNQYXh1cHZJM0JMOEVuOXdZNzBSaGpsRHBuVTNfQ1BSSUx5R3VYRUF2OVQ?oc=5",
-    "source": "dignitymemorial.com",
-    "title": "Karen Harris Obituary - Wheat Ridge, CO - dignitymemorial.com",
-    "summary": "Karen Harris Obituary - Wheat Ridge, CO dignitymemorial.com",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 3397.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "2a36b4ae5e0b7d4fc2ae",
     "entity_id": "karen_harris",
     "entity": "Karen Harris",
@@ -52842,6 +51630,1519 @@
     "score": 100,
     "route": "Corrupted Chronicle research",
     "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "980e85b747744f155687",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 15 Mar 2025 00:34:52 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RSktoN3VUVFlHZXY4WlZ4S09JdVpDS0JXbzh5T1VTNnQ2UlBrbG95bm1adzlqeklJaDVDVXFUZ0p6dzFFV2J5SmZfd1Jodw?oc=5",
+    "source": "IMDb",
+    "title": "If You Think Chad Stahelski’s Highlander Reboot is a Mistake, Henry Cavill’s Warrior Speech From Immortals is All You Need to See - IMDb",
+    "summary": "If You Think Chad Stahelski’s Highlander Reboot is a Mistake, Henry Cavill’s Warrior Speech From Immortals is All You Need to See IMDb",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Highlander (100)",
+      "source age: 586.8 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "bb9991ebc56d6b33a064",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 02 Nov 2023 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcjdhLXVjUjJ6RFdlUDhsVVJkWTBmczR5MklYc2RBdkNUQ19oTzZJQy0zd1B2a2ozTTh0Y0VGSHdlNmlJNFJfRXFSQzM4ZjRWV0dVQVVaRkxLYXA5aU9odk03bGFxdTRDZi1YN1EyRS0zd3ZFWDZ4MTVYalVzY1FfWE9EY20?oc=5",
+    "source": "Collider",
+    "title": "'Highlander' Reboot Could Start Shooting \"Within a Year\" Says Chad Stahelski - Collider",
+    "summary": "'Highlander' Reboot Could Start Shooting \"Within a Year\" Says Chad Stahelski Collider",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 1085.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "95d72c186540a14f7ff0",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 01 Jul 2024 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObW5sMk14VVRBQmhWd3ZfU1lWZjZLSGFXNlhNTGRnTnN2TW9OQzRkSkVjQjdVV1hsTXBhdkdBaGFzYW1mUXFwU3B2dGl0SDJrNUJSVWFRSGJkN0hCOTNHaVdYbUJsUWJyN1RQbzRucGtNQ1hIQ0kxcDVISXpzQTFQZw?oc=5",
+    "source": "MovieWeb",
+    "title": "Henry Cavill Highlander Reboot Gets Major Update From Director Chad Stahelski - MovieWeb",
+    "summary": "Henry Cavill Highlander Reboot Gets Major Update From Director Chad Stahelski MovieWeb",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, director, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Highlander (100)",
+      "source age: 843.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "a845567da16a5df9b54c",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 23 Nov 2024 08:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9heFlMc2I1c20wZTNaVVBXbFg2S3Q0czJYWFNHVU12LXM2UlZKNVZLR1FWZXRRNzFkcXF3OFlsNXcwNkZtUkZCTUZON3NiNU1aeDhSWU5PdVgxR1BCSnlieVBZRE44QjExX0JqNk9YWUg?oc=5",
+    "source": "Gizmodo",
+    "title": "Chad Stahelski Teases Highlander ‘s Martial Arts-Heavy Reboot - Gizmodo",
+    "summary": "Chad Stahelski Teases Highlander ‘s Martial Arts-Heavy Reboot Gizmodo",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 698.4 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d212ef3b72a46a1e52b6",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 10 Nov 2023 08:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JbHNzV3JfYmZzSDBwVE1VS3FPbHBIdUNyWWpRTmVpWUF5SHU0eHpHUXNZTkpJZUUtRGRIUTFlYnRFUU1TZ29sXzg0OE9UUQ?oc=5",
+    "source": "IMDb",
+    "title": "Chad Stahelski’s ‘Highlander’ Reboot Starring Henry Cavill Aims for 2026 Release - IMDb",
+    "summary": "Chad Stahelski’s ‘Highlander’ Reboot Starring Henry Cavill Aims for 2026 Release IMDb",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Highlander (100)",
+      "source age: 1077.4 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "be9a436b4a21b546c31c",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 23 May 2021 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVZRaUFweHFKRFQxSW1vNDNGRDdmck0zeEtEZThTYTg3QTBxTnlwTjdiNjFkQzVjQnlWUU1DQ3VOR2lzbzU4VXU5MFpwSGdIY2h5N2FsRWMwUW9sSl9LcGJwRzhtbTdzTTZaZ0pjanFQOHAyYms3ams2QWVMQzh3M2RiVTdYeVd3bGtfYlZBRQ?oc=5",
+    "source": "Flickering Myth",
+    "title": "Henry Cavill and Chad Stahelski Do Highlander? I’m There! - Flickering Myth",
+    "summary": "Henry Cavill and Chad Stahelski Do Highlander? I’m There! Flickering Myth",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Henry Cavill (74)",
+      "also matched: Highlander (70)",
+      "source age: 1978.5 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "c45a2b0c95e8aa3ad089",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 30 Aug 2023 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLUtUMEQxOHhTeUZteHhVNi1UbW9zSWRGMnVvdnFSNmFhUmM2T3pXLWR4WU5qd1BZVjNsLWJ1WDlHelBSUjJPbkJ6azBDTFN6cE84V19lMWd6VjhnZmR5UTJoaElCa1l5ZzAwVnFCTERIekwwY2RmWW5uUTk1N2t3YUpsV1ItOVpWVGVrekpnQ0Z0dw?oc=5",
+    "source": "A.V. Club",
+    "title": "Chad Stahelski says Henry Cavill’s Highlander is still happening - A.V. Club",
+    "summary": "Chad Stahelski says Henry Cavill’s Highlander is still happening A.V. Club",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Henry Cavill (74)",
+      "also matched: Highlander (70)",
+      "source age: 1149.5 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "bcad3baa6cd11982feec",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 21 May 2021 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DbXlTcmduVDRUeThSczNVb3lmRS1KaXR4N0d1alFVdThaeHhtc2pxTzFqTlk3bXJzUGx4QUhGU1JvOW1VOUxEOG1LdHYwWXlRY0M2ZEhjbG40a3hBYmF3MFczeGo0WHo5amlfVE0wcl8wcXVmcHc?oc=5",
+    "source": "Collider",
+    "title": "Henry Cavill to Lead 'Highlander' Reboot from Director Chad Stahelski - Collider",
+    "summary": "Henry Cavill to Lead 'Highlander' Reboot from Director Chad Stahelski Collider",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, director, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Highlander (100)",
+      "source age: 1980.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "dd26d03893bd3371c8e2",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 02 Nov 2023 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNDJKRUlVY3dWWXRta1B2M3pBWk9BaU9rc3ZwNzhrS2UzVmIwY1VIZE90Z09NeWt1bU83c1RUNENaX0F2emExMjVqN3kyYUdkVnFpZlJsRXJ3cTkyOE9HUjA1eDFTY1NfSE55dTVuWUNLLW1kbm91U3RuRVJ5Y2RaTlV2eHVNcUdzdk5wYzNlTVA?oc=5",
+    "source": "Cinemablend",
+    "title": "Chad Stahelski Elaborates On Highlander, And How He Will 'Upgrade' It For A New Generation - Cinemablend",
+    "summary": "Chad Stahelski Elaborates On Highlander, And How He Will 'Upgrade' It For A New Generation Cinemablend",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 1085.5 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f6dcda35dfff0a2752c6",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 09 May 2025 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOODhrUlpieTc1eENoNXkwSWVrSGtXaXFWZ202VGNjQ295andvSEcwdFJfVFlmQURObjhrNjMwdTM4dEtLcFh1TEhVSVpYWXpPdFN1Qkw4SFlFZmczTXI5SjdPcnpqMGV5UmJTRWdPOEFwOWZLTlVvYXR6aGRIT3JHLVUwYUpuMHQwa1VWeDlZZk1Oc2ZmamVXTlFGVjljdw?oc=5",
+    "source": "World of Reel",
+    "title": "Chad Stahelski’s ‘Highlander’ Reboot to Shoot in September - World of Reel",
+    "summary": "Chad Stahelski’s ‘Highlander’ Reboot to Shoot in September World of Reel",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 531.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "0cc791601fc84b3731f7",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 15 May 2025 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXFNbTVtYmlJblp0blhpUW5nZ2JBam92SGlfLWxCeGNRdE0tcFpvNFM5T3V6NDVPQ01WSVhaYldaTzFzcnhVSC1yWEJBNXNGYmpvamZZMkZBbHRUUDZXQ1l1Rm5iejdQZ2p2bzlVa2ptWmdWVGM3TnBvVkRQWDhFelZ6MkdmaUIxS2NScEtUSUVpeXJyVWZ0cXJRRVJrRlBLaXFlTGpfNUxrdWt1MUVSX1JQelBMcHU2Z3BOaQ?oc=5",
+    "source": "World of Reel",
+    "title": "Lionsgate Dropped ‘Highlander’ Reboot After Chad Stahelski Demanded $180M Budget - World of Reel",
+    "summary": "Lionsgate Dropped ‘Highlander’ Reboot After Chad Stahelski Demanded $180M Budget World of Reel",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 525.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "a60e80b279551bdb834e",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 21 May 2021 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ1NJTFo3WlJhWGNyWEw0Ukg3RTg1dDA0RzNSMm43clcwcm05RkIxS3VmNnd0dHZSSlR0RXVfa3FweDljdkljU0pNaDFNa3NiX2ZQa2s2NjFhYU1mQ2VZT2N5dEdXOHhLdDZlLS1jTW5KRlhjVjJnbWhybDFjdGRyblhDVmkyUkVGYm1FVDM2VlgtZzg?oc=5",
+    "source": "A.V. Club",
+    "title": "Henry Cavill in talks to star in Chad Stahelski's Highlander reboot - A.V. Club",
+    "summary": "Henry Cavill in talks to star in Chad Stahelski's Highlander reboot A.V. Club",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Highlander (100)",
+      "source age: 1980.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "91c1c69505f3dbd9a57a",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 21 May 2021 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZzJyd3lrMFdxcVRleXZlX0dQdXkxYlowOEFVUWR3MS1fZDFfLXliQzlpLTJRQW5rYjhEM2tfbElpQ1dRLVRSaGZ4S0dQNUtYa3Npd2ZBOFFGS3pLckVvOVdYaHVYeDhqUTFlSVlTbWJtb2NMaTctZ1AwZ3J1T2l2akhGOGJfNkZtd0swOEVWV05obmRick5Kam9GUUF5aW83aGZlSg?oc=5",
+    "source": "Murphy's Multiverse",
+    "title": "Lionsgate Eyeing Henry Cavill for Chad Stahelski’s ‘Highlander’ Reboot - Murphy's Multiverse",
+    "summary": "Lionsgate Eyeing Henry Cavill for Chad Stahelski’s ‘Highlander’ Reboot Murphy's Multiverse",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Highlander (100)",
+      "source age: 1980.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ce5fbfd39efab806c965",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 24 Mar 2023 19:57:02 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2ZVRlRrSkxGS2F6c1c1SVdQc1MxT1JkQnctMzEycl9DeWV4azZ3M1pJX1pPZ3EtdkRrc21Ya0wxdzRoS20zYUdZRUpLYzJCNGVOUFhWM2p0YWFXeFdEeXlPVWRSckVCWkZhN3VGUGtqRkExYS1HNF9DczhlRUYzQklsZG16LTk2NVHSAY8BQVVfeXFMTXFaVFVtbkc0c203WlF4ZjhBbEtKU19HeEJRWjZZeU52NjJxT3V1R3REQ0ZQUkhNOWpvOUFsZ3psck9udnA4TEt5OEtYN3ozcmtxX3dWSHlkLUtfdVZ1VGRfZ3dNUlMweVFGLUZ6Szlubm5JSFNSbFF4ZUI5R1pMbTlvTndaalZTMDJSUEptdXM?oc=5",
+    "source": "JoBlo",
+    "title": "Chad Stahelski compares John Wick and his Highlander series - JoBlo",
+    "summary": "Chad Stahelski compares John Wick and his Highlander series JoBlo",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 1307.9 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "a282ddc91cb87dda41ec",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 26 Aug 2020 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SVGo5d2w4Sk5QVldjZ2Mtd0MwNW9fckR5My1rbndmSWZocHBtSlJBLXJQdzh5TTNKMGxWM3FyaU9zXzJFVklKbkZ4N0lWREt3YVRzWGxzVTQzWEVwejEwQmVrODhDWUhUbkR5N2VxUGlDa0k?oc=5",
+    "source": "MovieWeb",
+    "title": "Highlander Remake Will Hopefully Be Next for John Wick Director Chad Stahelski - MovieWeb",
+    "summary": "Highlander Remake Will Hopefully Be Next for John Wick Director Chad Stahelski MovieWeb",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, director",
+      "event: highlander_production (remake)",
+      "also matched: Highlander (100)",
+      "source age: 2248.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "36b16239f12249fc054d",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 09 Aug 2022 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0hOMjZzSk9pQVp3aS1wTkJKTUZIRWF3YUpCamt5MWNRTUZrc0UxY0lRbzJYV2puRUJhTUNHdGluNnZrUXBOLWxRVS00SENXR0ZMVUNKYVZ2NGtGcHdONnlRRFR1VGU3am14Vm9pMnVXZEp3RnlnaU1HWExqZ2Eyc2ZMWGxoUGNkbXRndGl4WFppZXM?oc=5",
+    "source": "MovieWeb",
+    "title": "Highlander Reboot is Closer Than it's Ever Been, Says Director Chad Stahelski - MovieWeb",
+    "summary": "Highlander Reboot is Closer Than it's Ever Been, Says Director Chad Stahelski MovieWeb",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, director, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 1535.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5fb96d467623f2bc1618",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 13 Jun 2017 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yRDhqNlczRGpZUEd1NGxpamU0OGtrQ0h0emNQazBDT0lMbGp6XzZ6ZUV2VnRpaVB1WFhCbnYwa0o0NU5Ga2VJRnZRVUlIWGtHRzg5cTR5MFEzcy1ETXNjNk5Kb0I4TEtBUWxISA?oc=5",
+    "source": "Collider",
+    "title": "Chad Stahelski on John Wick 2, 3 and the Highlander Reboot - Collider",
+    "summary": "Chad Stahelski on John Wick 2, 3 and the Highlander Reboot Collider",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 3418.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "1872bdc38d3bf4a9cb26",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 30 Jan 2017 08:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YdWNaeWpwbFZ6TEkyN2xpOGY4WWxBVlB4bUduQldEZGhLODhoTnlieTZfZWhqRXBGRDVkTDhOS2N4LUdJSmpERWZJZ1k5eGlhektQeUd3ejk4TkpvNVJNNEtzaFNfdm9CelUzX1B0dVExTkFxeDZSbw?oc=5",
+    "source": "Collider",
+    "title": "Highlander Remake Could Start a Trilogy, Says Director - Collider",
+    "summary": "Highlander Remake Could Start a Trilogy, Says Director Collider",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: remake",
+      "event: highlander_production (remake)",
+      "source age: 3552.4 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "48113389006db8537d7b",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 30 Sep 2025 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVNUZjFseTdudHVpOVRfX1lQdDk1V3haNW5ZLWNMUFczVjh4bzBKckhjX3YtYlpHelJ4bm5MRmJTUEtFZF9RbkFBblZ6eW9GVGExcXJUZ0syU19nNmRUUS1iWEJTMEFiZmVWeEx6MVRaa3c0RWJ5NWJUa2ltbm1LdkllTXlJUWdOYU0wRkxwVk9MS3RHS0E?oc=5",
+    "source": "Entertainment Weekly",
+    "title": "Jeremy Irons joins fellow DC alum Henry Cavill in 'Highlander' reboot - Entertainment Weekly",
+    "summary": "Jeremy Irons joins fellow DC alum Henry Cavill in 'Highlander' reboot Entertainment Weekly",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 387.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "e2b36a0b1150f4af58f7",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 29 Sep 2025 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeUw2bUVGSi02a3FESzZ5QV95MXNCR1JjZ3EzLW5FZGVSMXBaSzZnTms1Zno1R0p0S2VDd2RNLXhodG5lSDVlYUxzZHplNEdabi1yTGZlaFB4WWxwTlJTUzBPdzBBVHI2S1RCalBCVl9DTzZvQkpybEl4U3RvOUgweF9sNF9WZUVDTGxESW9oYkRqWTJvV3o4ZVVHY1VFSW1xTjlIVGdoaVVhQQ?oc=5",
+    "source": "Yahoo",
+    "title": "Henry Cavill's long-gestating Highlander reboot gets new update as WWE star joins the cast - Yahoo",
+    "summary": "Henry Cavill's long-gestating Highlander reboot gets new update as WWE star joins the cast Yahoo",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 388.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "446ca40cd945c63722b0",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 15 Aug 2025 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWnotMWhGZ3FMLUN2R1JnbTRpeTZLd3NLbmlzOGo1dnFLNjlpRUdGc2Z5dGdTZGRxcEYzVk9xT1pTNmEyOU15eUZQNzFOeVFYWUR0eHI4Z1ZJYm03clF5ZWpvRzFqaU5BQWVfcDJ3VkM4YndyeU1PR1hMZFdPZmQwZk9zZkN0Y1Y1Q0lYZkpCbC1RZ2YwNzlQamZ2anc?oc=5",
+    "source": "Yahoo",
+    "title": "Highlander Reboot Movie Release Date Estimate, News & Updates - Yahoo",
+    "summary": "Highlander Reboot Movie Release Date Estimate, News & Updates Yahoo",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot, release date)",
+      "source age: 433.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "fde3c3cd69975f8fa230",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 06 Oct 2025 07:00:00 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMWVFbFBqRkFtb1g5VXZUTkJmLUwtLWU5TXFWVExBalNGLWpmX2hmN3BSZzRWQm96WG83U1NkekdMbkpxZEkwaG5zczc2SEFjRENNR2QtZ1pEWms0cEhRaHI1U3lnWVRPaTc2NzQ1YXoydnNIaTBLQXlSMkg2MlI0UUhnQ19vYVN2c1JJa1BRUXl2SXBPN2hnUEltRjg4aUYzbzdTcWs4dEptVk1rTzRZVVVreC03UFplRmVNQWJFT1NFVW8y?oc=5",
+    "source": "IGN India",
+    "title": "Highlander Reboot: New Rumours Reveal Synopsis of Henry Cavill’s Upcoming Movie - IGN India",
+    "summary": "Highlander Reboot: New Rumours Reveal Synopsis of Henry Cavill’s Upcoming Movie IGN India",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 381.5 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d1acabba9a2aeb0dcf67",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 22 Oct 2026 18:00:19 GMT",
+    "captured": "2026-10-22T18:44:43Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zNkNNMGUxamNDQXp5aFNqVVBueWduejlLT0t5MWt1MWFaejc3dEIyNTNSeGVQYUpTcm9wenR4dnh5eHpaX3F6S052SlY1N1hpODlfbmo4T0I3RUlYRHR6cy1xQlZ3M2lRMzJtczFDaUpjeVNwejlLUQ?oc=5",
+    "source": "ScreenRant",
+    "title": "The Original Highlander Returns With Next Major Release In 3 Months - ScreenRant",
+    "summary": "The Original Highlander Returns With Next Major Release In 3 Months ScreenRant",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 0.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
     "status": "new"
   }
 ]

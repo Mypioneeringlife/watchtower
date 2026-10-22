@@ -1,52 +1,5 @@
 [
   {
-    "id": "85940dae68acc8802d52",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 30 Sep 2026 19:04:09 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2szWlEzaEFKT25lMWl0bHRueGVJMU9yTDFnTGtFOElCczJRdUhOT2xDR1o1T3JfU19pb011TF9hQjRaclJuODFreGZwanNMSlNpSVc3clVJN05oeUxCZmtmZVpsX3FlcmxvWERkV1V6MVFUSkkwQUhuQVVQZFNXRnlEclVCWVZFOGJIWWxod010QQ?oc=5",
-    "source": "Monroe Local News",
-    "title": "Obituary and funeral service: Jacob Nolan Edge, 24, of Monroe - Monroe Local News",
-    "summary": "Obituary and funeral service: Jacob Nolan Edge, 24, of Monroe Monroe Local News",
-    "evidence": [
-      "matched entity: Edge",
-      "event: death (obituary)",
-      "source age: 1.1 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
     "id": "a6ce042fd8cfb2fc6cde",
     "entity_id": "edge",
     "entity": "Edge",
@@ -52827,5 +52780,68 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "1b66524443234f7ad5e0",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 22 Oct 2026 12:59:00 GMT",
+    "captured": "2026-10-22T14:02:08Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0NIRlhSTnJncnFyZ01aRDFoX3pNcjJqXzB0NUNWQXZzY3IzTkJIWlkzM2NzeFNiUTNVNkZoSTZaOVFtS19CdTU4NUlrU3d1YlFIcHhXMmptQmNYRUhWRlQ0UG5IQW9Bd191QWtsc3pRWDhEVTk1WWtmUlNnVFNkQmNxODUwZ2JJb2x4V21rTG1JZnRPWjQwU24wNEh4Z294MW5PTVg4XzZzczMtdk5SMG9ObnE?oc=5",
+    "source": "The Scotsman",
+    "title": "Highlander: Karen Gillan gives her verdict on Henry Cavill's Scottish accent in Highlander reboot - The Scotsman",
+    "summary": "Highlander: Karen Gillan gives her verdict on Henry Cavill's Scottish accent in Highlander reboot The Scotsman",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 0.0 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
   }
 ]

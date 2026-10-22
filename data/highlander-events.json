@@ -1,146 +1,5 @@
 [
   {
-    "id": "f7af6cf4a5c0462143d7",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 56,
-        "event_type": "legal"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "legal",
-    "source_date": "Thu, 01 Oct 2026 00:11:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPb3A4QmJCMXE2bkU5LVJVSGgtRFZEdnFrUEJpSHlWVjVLYl9CN0pnZC05VjhnZVlnUkg1Q0l6c3RCRUZoMDAyX1JnaU9nYkozUk1BVk1CMEVneW0ySmhKWHZ1MGRadUZIbzJKM3RyLURMZXVNZ1Y4QnRBWEVoTnlhTWNyLTVSQ0staExSaHU1Z3FRN2drNXJfOGViYVhzWDRrUURkeFh4Tjl1X3l2b25lMk0zYTlIWE85QkNZQjhwREk4SmNTWEpJV25BWlNGbm9nUDNKZnI3c2NZOGdmUzhLYmtrbHdJeDZZVXQ1ZGVhSFM1cF9WVmk4Q1IybVZHZw?oc=5",
-    "source": "KING5.com",
-    "title": "ICE arrests near Kent elementary school, daycare put parents on edge - KING5.com",
-    "summary": "ICE arrests near Kent elementary school, daycare put parents on edge KING5.com",
-    "evidence": [
-      "matched entity: Edge",
-      "event: legal (arrest)",
-      "source age: 0.8 days"
-    ],
-    "score": 56,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "f550fcaaf89dbfbafcc0",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 68,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "health",
-    "source_date": "Wed, 30 Sep 2026 20:32:00 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUThKaWt3dmctQjhyZUFYWmZ5TVF6RHNSai1kS0E5dE5vSGs3ek9Nd1NhSGtkUEd5UzJPampCT25WWUlHdmdwUExNZ2FrcEx0TnZNREx4ekltNTRkUUNKRlZuWFVQMXNnYTdkZTRUd2kwVTljeERzX1NzQUZWZWVLTnlQWURkQllCMUlwZVA5M3pfSjhZakpNbjhtUjVIZWpPbGY5SDNn?oc=5",
-    "source": "MLive.com",
-    "title": "Detroit Lions edge defender misses practice due to back injury - MLive.com",
-    "summary": "Detroit Lions edge defender misses practice due to back injury MLive.com",
-    "evidence": [
-      "matched entity: Edge",
-      "event: health (injury)",
-      "source age: 1.0 days"
-    ],
-    "score": 68,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "b4c35585ea067c0fc234",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 54,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "interview",
-    "source_date": "Thu, 01 Oct 2026 15:14:41 GMT",
-    "captured": "2026-10-01T20:22:22Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaV92R3hUbXU3NUhYREkyRzU2ZExMbVBxbk54VlI5Z2Z2V1NES0pSc2xLT3IyWEdOeGhZQkl2VC1UanAwNndfUzFLS1EzLUYxVmFIR0twcEV2cU1qOWpMTWJ5U0psV0xWS1dRQVB6azZtTzJ2SnBQSVd5cTlhYXVxM21aNms0MzBKY1NiYnZFYlNsWGVKOFlFdi1iSEo?oc=5",
-    "source": "The Daily Hoosier",
-    "title": "Watch: IU football edge Tobi Osunsanmi on Under the Hood podcast - The Daily Hoosier",
-    "summary": "Watch: IU football edge Tobi Osunsanmi on Under the Hood podcast The Daily Hoosier",
-    "evidence": [
-      "matched entity: Edge",
-      "event: interview (podcast)",
-      "source age: 0.2 days"
-    ],
-    "score": 54,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
     "id": "85940dae68acc8802d52",
     "entity_id": "edge",
     "entity": "Edge",
@@ -52795,5 +52654,178 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "3290a8a55071dd26eebf",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 22 Oct 2026 03:53:00 GMT",
+    "captured": "2026-10-22T07:53:37Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNTlQTlZvTW5uV0tZSUpPYmJrSFJ5UExwaDU3OFZsclVWZXJGUk1YczFzWGJzckVwd3FnRXlYUlpkVHl1SWo4STFwRk8xREJZd19NYUhyLUdKR2hlR2NiVWtTNUFncXJrYkQ3ekZKZ3AtSjZlU3dIVzUtd1JZdTFYN0k1b0s5b0ZrejFNMmI5amk?oc=5",
+    "source": "Men's Journal",
+    "title": "Exclusive: Henry Cavill Promises the 'Highlander' Reboot Keeps Everything You Loved About the 1986 Original - Men's Journal",
+    "summary": "Exclusive: Henry Cavill Promises the 'Highlander' Reboot Keeps Everything You Loved About the 1986 Original Men's Journal",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 0.2 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "a101d5887bdb701ff4f1",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 22 Oct 2026 00:58:00 GMT",
+    "captured": "2026-10-22T07:53:37Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbDlrM21zMFpxeWx5LUZLaGlXalVEdVRuNV9qLW5FTlVWZ0dZdE1INWNpaWxVbTUwN0NqbGxmRnpWYnc3eHJtd2FxWUViU1NkbWtlbk14cGs4UVN2d2hCeVhHcm9VMnBPNzdPTHhRR3Z2ajA4bkRiSGRJbzVCM3RuQnQzRzJQcTdNSFROcGJQR2l0M01oc01lcWFVeUU4azZPbFc1a2ZMQTRVbkdKT0E?oc=5",
+    "source": "Yahoo",
+    "title": "Exclusive: Henry Cavill Promises the 'Highlander' Reboot Keeps Everything You Loved About the 1986 Original - Yahoo",
+    "summary": "Exclusive: Henry Cavill Promises the 'Highlander' Reboot Keeps Everything You Loved About the 1986 Original Yahoo",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 0.3 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "f4ccaad12d38103cb070",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 04 Jul 2016 07:00:00 GMT",
+    "captured": "2026-10-22T07:53:37Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02NjdFRGFnT1pjTDNpR2hFSndwT3BOc2wtZG9yTXJxN1VIeFdZajczRXpHWjhDQkJNQ2NSQmc2TG1qakE3OV9xQ3VhMnNLM19MSUM0NGx1cjlVVHA2Nk96SVI3cWFRRk54Zm05R1RNMTBodXVv?oc=5",
+    "source": "Little White Lies",
+    "title": "Why there’ll never be another action fantasy film quite like Highlander - Little White Lies",
+    "summary": "Why there’ll never be another action fantasy film quite like Highlander Little White Lies",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 3762.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

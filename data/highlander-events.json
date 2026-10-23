@@ -1,195 +1,5 @@
 [
   {
-    "id": "3e5e96904e48f0ea54ca",
-    "entity_id": "bob_weinstein",
-    "entity": "Bob Weinstein",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "bob_weinstein",
-        "name": "Bob Weinstein",
-        "kind": "person",
-        "roles": [
-          "producer"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 54,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "producer"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "interview",
-    "source_date": "Sun, 27 Sep 2015 07:00:00 GMT",
-    "captured": "2026-10-02T19:58:18Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjh3dHFZbDhSMDhHRGRtQWhRSWhfLUVrNWI1V0pOb1c4WWJydkVnUmdHNnVsSkp2QmpFa3Bab05IR2NYUjRxRXRpaFZTck15cm02STlZOUF2YUdKYjVrNW1SY0ZpRGhpaF9uNERLT19Vc3NfZnpnSS1jYjAxcWdyZWhnY1BZT3VldnJ3NlBYblk0TUdObG1R?oc=5",
-    "source": "cvindependent.com",
-    "title": "Candidate Q&A: Palm Springs Mayoral Candidate Bob Weinstein - cvindependent.com",
-    "summary": "Candidate Q&A: Palm Springs Mayoral Candidate Bob Weinstein cvindependent.com",
-    "evidence": [
-      "matched entity: Bob Weinstein",
-      "event: interview (q&a)",
-      "source age: 4023.5 days"
-    ],
-    "score": 54,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "ef3a7447e67c84796c1d",
-    "entity_id": "brian_clemens",
-    "entity": "Brian Clemens",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "brian_clemens",
-        "name": "Brian Clemens",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening",
-          "See No Evil"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening",
-      "See No Evil"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 13 Jan 2015 08:00:00 GMT",
-    "captured": "2026-10-02T19:58:18Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdlNPZVU5cmFMU0JBOTlocTJzbVlhNFdaQ3p4WVdyUm5nT1VXTmRjQjA3Uk82OG1nUldLd3U5a2ZnNzJjQk5fYzlTSWxyNkNPNzNNSUpNZmVUTnFZSkppV3RFZVNGLVVaZnQyVEtLbFdGOWQwTGx5S2hxRmZTWWhBbzFhc1cwOUVVSFZFZzFLLWMyU09yWld2Mk1ZbGNyMGlxVlpQQlRnWHRhb1VYN2w4WGtydzF0MlV2a0ctblUwd1I?oc=5",
-    "source": "independent.co.uk",
-    "title": "Brian Clemens, creator of The New Avengers and The Professionals, dies - independent.co.uk",
-    "summary": "Brian Clemens, creator of The New Avengers and The Professionals, dies independent.co.uk",
-    "evidence": [
-      "matched entity: Brian Clemens",
-      "event: death (dies)",
-      "source age: 4280.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "2fcc89e7c4a7ea520796",
-    "entity_id": "bruce_payne",
-    "entity": "Bruce Payne",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "bruce_payne",
-        "name": "Bruce Payne",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 06 Mar 2010 08:00:00 GMT",
-    "captured": "2026-10-02T19:58:18Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1dnZ5cU1XSU5kLXlheHk2OEo5QVl3VURmdW80OUJpblhpSlV5TmUwbXRZaVdRR1N6X0NsQ0xuOU11Tk9lQlZyaHFNMldUNnZKbW5vNm5ndThxMG9lM0J5UlI0czNpRXBidmJiWG5FOTAxMVZGdWRKb1ZKTzNQT2c?oc=5",
-    "source": "Legacy obituary",
-    "title": "Bruce Payne Obituary (2010) - Blackstone, VA - Joseph B. McMillian Funeral Home - Blackstone - Legacy obituary",
-    "summary": "Bruce Payne Obituary (2010) - Blackstone, VA - Joseph B. McMillian Funeral Home - Blackstone Legacy obituary",
-    "evidence": [
-      "matched entity: Bruce Payne",
-      "event: death (obituary)",
-      "source age: 6054.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "e49dccd54fefa279966e",
-    "entity_id": "bruce_payne",
-    "entity": "Bruce Payne",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "bruce_payne",
-        "name": "Bruce Payne",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 11 Jan 2009 08:00:00 GMT",
-    "captured": "2026-10-02T19:58:18Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMmFNNXFLbkpZa09sb2hhcXYxRWlJSVhKcWhOR0tndmdpMWRTODhvanlHVlV0dWVyNVZURmhoN0NaWTREcm8tZmZyQjJ0UnhxSWFJVFRlS1duVjBCQ3VTbEJibEpjOVNQT2FLUXZOVUlfbUEzQ2lEZkhFTDRqRnpnb3BLM184UQ?oc=5",
-    "source": "Legacy obituary",
-    "title": "Bruce Payne Obituary (2009) - New Orleans, LA - The Times-Picayune - Legacy obituary",
-    "summary": "Bruce Payne Obituary (2009) - New Orleans, LA - The Times-Picayune Legacy obituary",
-    "evidence": [
-      "matched entity: Bruce Payne",
-      "event: death (obituary)",
-      "source age: 6473.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "c29f0fd6013efedd0fd8",
     "entity_id": "christopher_malcolm",
     "entity": "Christopher Malcolm",
@@ -53437,6 +53247,258 @@
       "source age: 199.3 days"
     ],
     "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "fefeea8e78961d458a25",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 23 Oct 2026 16:45:29 GMT",
+    "captured": "2026-10-23T18:39:03Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUWdlY2Q5NkNvLU9QMnN0ekNJcGszb0tXRERsdlRZSjVFejZHVm9fczV0TlJJT0pxVmJGdUJ2bkt6eUc4R3NEa1Brb1BWSkNERmZ3SmxQb0l2UEo5bkRnTUxWQ2twUUxXSnN3U016UWJGamk2RWxPVEhvRmNqbVpkY3hNSVc3aHE0NjdjdGZreWk2anFuVDVnZ0lQeXNJSHFvMnlhM0Y3dw?oc=5",
+    "source": "Cinemablend",
+    "title": "The Incredible Amount Of Time Henry Cavill Trained To Be The One And Only Highlander - Cinemablend",
+    "summary": "The Incredible Amount Of Time Henry Cavill Trained To Be The One And Only Highlander Cinemablend",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.1 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "51e07abc92b831a7ec31",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 23 Mar 2026 22:50:59 GMT",
+    "captured": "2026-10-23T18:39:03Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZ2dNd2I5Zi1ZcV9fUTctZU5VZVBydmtPRERDTGNhUkJhMWFKRXI2YnJQdU1KZ2o3MHpLa3dOdWt1ejdKRkxKMGJneEUwd21Mb2k0eWNn?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill Goes Full Warrior in First Look at Chad Stahelski’s Explosive ‘Highlander’ Reboot - IMDb",
+    "summary": "Henry Cavill Goes Full Warrior in First Look at Chad Stahelski’s Explosive ‘Highlander’ Reboot IMDb",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Highlander (100)",
+      "source age: 213.8 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "98d111d548b39f965c0f",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 23 Oct 2026 16:45:29 GMT",
+    "captured": "2026-10-23T18:39:03Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZnZoNmpwcjBUbVlEeV80UW9PUTFRYWFuekNuWmF3QjdjbmthYjh2QnphYk0tNDFXQzNmTGtyTVUzYU5ya3BTQlFXWkN2MUN3djNGc3AzSUYwVXQ5LU83RnE0cDlBR2pGcHFQLVRRMnRpRDAtLV9xTzEwYXRFTHU5Z2pXSkY4RzlZLXNWOGJ5bVRxaVEzdjEzNkotLWF5eV92aHNtdQ?oc=5",
+    "source": "Yahoo",
+    "title": "The Incredible Amount Of Time Henry Cavill Trained To Be The One And Only Highlander - Yahoo",
+    "summary": "The Incredible Amount Of Time Henry Cavill Trained To Be The One And Only Highlander Yahoo",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.1 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "7691f60b2e5b2f441369",
+    "entity_id": "clancy_brown",
+    "entity": "Clancy Brown",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "The Kurgan",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "The Kurgan",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "health",
+    "source_date": "Mon, 09 Mar 2026 07:00:00 GMT",
+    "captured": "2026-10-23T18:39:03Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2l2bDU4OU12WE1rbjBLUHo4Vy1VVUw5UE5nMlNSODFrMGt5TnZEMS1aOVBXNFRpVWttcXFtRkh2WnZrRVRoWGxObEk3dGE1bDYwVTZtRzkzcFM4SXNtYlBQaWh2dERsejNQZV9hMWswc3o4SFk5QjNHTjU5b3ZPeW9BZE13OUYycDV2dA?oc=5",
+    "source": "General Hospital Tea",
+    "title": "Maurice Benard & Clancy Brown Open Up About Dark Times - General Hospital Tea",
+    "summary": "Maurice Benard & Clancy Brown Open Up About Dark Times General Hospital Tea",
+    "evidence": [
+      "matched entity: Clancy Brown",
+      "event: health (hospital)",
+      "source age: 228.5 days"
+    ],
+    "score": 74,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

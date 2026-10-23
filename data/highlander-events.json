@@ -1,52 +1,5 @@
 [
   {
-    "id": "1688691dba2e222746d3",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Fri, 25 Sep 2026 21:42:13 GMT",
-    "captured": "2026-10-02T00:06:29Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRlJfOWpBUTNxYkpQN3ZmN1NTWjJ3SnVvSTltQ0hoOGRNaGpMdmF3dXByNU1PUk5mUnBDZUtrai1HODJxOEtWaldEWTdZRzhRb183RERLVHNMR2xsQmgwbF9JTHRrY0RGVS1SVlZXU0dJdTNtdHVDOGxndTd6RXdDcndrMk1RbWFOSjEyUlpOODlPdTBxdkJiTw?oc=5",
-    "source": "scifipulse.net",
-    "title": "First Look at Highlander: The Original Screenplay Comic Adaptation - scifipulse.net",
-    "summary": "First Look at Highlander: The Original Screenplay Comic Adaptation scifipulse.net",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 6.1 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
     "id": "6ac6146be3c979bd767c",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -53411,5 +53364,52 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "5596a94753728ec51583",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 08 Oct 2026 07:00:00 GMT",
+    "captured": "2026-10-23T07:52:51Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RS2xrdHhJSldKWlkwQ2M0WWRTLWtTSjR1MmhBSWJIeFJ4WTBiZ3lHczNMblRUd1V5NTFRR0tfOHpfT1Btc213QXRERVpYRkhTTkRSMUJHS0h6UmVmZmVVMGcwRV93dTlFMTMzdHlRMA?oc=5",
+    "source": "Comic Book Resources",
+    "title": "8 Gritty Fantasy Movies That Rival Highlander - Comic Book Resources",
+    "summary": "8 Gritty Fantasy Movies That Rival Highlander Comic Book Resources",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 15.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

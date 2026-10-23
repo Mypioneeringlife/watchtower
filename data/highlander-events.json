@@ -1,99 +1,5 @@
 [
   {
-    "id": "6ac6146be3c979bd767c",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Mon, 11 Jan 2021 01:17:08 GMT",
-    "captured": "2026-10-02T00:06:29Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RUUJHLVVmTElBMFVQWkJJbVFpNFYxcXB0Y2g0V0FFN1ZCYnpZbU0wQzc0SUNmQmN6d200VDZiV3k5djBQN2pMLVVqdUNfbjRGNWhMa0tFYnJ1aHphZElOMTYteWFrS0tiT2k3QmFR?oc=5",
-    "source": "IMDb",
-    "title": "Highlander (1986) - IMDb",
-    "summary": "Highlander (1986) IMDb",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 2090.0 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "b02de43c8b67cb5532e0",
-    "entity_id": "harvey_weinstein",
-    "entity": "Harvey Weinstein",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "harvey_weinstein",
-        "name": "Harvey Weinstein",
-        "kind": "person",
-        "roles": [
-          "producer"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 56,
-        "event_type": "legal"
-      }
-    ],
-    "roles": [
-      "producer"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "legal",
-    "source_date": "Fri, 14 Feb 2025 08:00:00 GMT",
-    "captured": "2026-10-02T19:58:18Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOTlEd2dBV2VMbXlVUXExbm9IZDV6bzBOY2dYUG5lemNsWlRCdnNNNlIzeE9GS2xQLXZiRlk4bXVERFNYZUFIWDVvTVhwOHg2X21pUWx1YnpPV3RyQ1FHOGtFbC1UV1J4dWtlQkFkbzhrX2tuc3FZR20teERRZnBRZmJ0OTU5cEV4YUhobUZrR2hQVXViMWQ1OHhGMG8wZWI2U3VBazVR?oc=5",
-    "source": "apnews.com",
-    "title": "Harvey Weinstein says he was duped into guaranteeing $45M loan, sues brother and other movie execs - apnews.com",
-    "summary": "Harvey Weinstein says he was duped into guaranteeing $45M loan, sues brother and other movie execs apnews.com",
-    "evidence": [
-      "matched entity: Harvey Weinstein",
-      "event: legal (sues)",
-      "source age: 595.5 days"
-    ],
-    "score": 56,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "3e5e96904e48f0ea54ca",
     "entity_id": "bob_weinstein",
     "entity": "Bob Weinstein",
@@ -53411,5 +53317,128 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "e5b07bc5385edf566303",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 20 Oct 2026 10:47:48 GMT",
+    "captured": "2026-10-23T13:44:59Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94alYtQ0NWbU1pcW1BVW1ITi0yX2F6OGduRTlmRUhzNWxwQ2YxM3d3UU5ZLTByUjNOeGp6UnFFT3RqVUxpcFdDVkp5T3p5WHpaLWc?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill toma el relevo de Christopher Lambert como Connor MacLeod en el reboot de ‘Los inmortales’ - IMDb",
+    "summary": "Henry Cavill toma el relevo de Christopher Lambert como Connor MacLeod en el reboot de ‘Los inmortales’ IMDb",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "context: Connor MacLeod",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (78)",
+      "source age: 3.1 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "c122dcdddbf3a39a1fef",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 07 Apr 2026 07:00:00 GMT",
+    "captured": "2026-10-23T13:44:59Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTM3ZZaXRBMzVGQ1E4bDlSZXAteDR0R1VyLXUzSUlUVnZQZHd5VWVFcFpYYzVFSUo0SXh1THIyVEJPOHpyNUtUX2ZIcUgwMjNwYWdjYi0yTGxQbGFFdDNGc0lGVE4?oc=5",
+    "source": "The Hollywood News",
+    "title": "The original ‘Highlander’ is coming back to cinemas and to the home formats in 4K - The Hollywood News",
+    "summary": "The original ‘Highlander’ is coming back to cinemas and to the home formats in 4K The Hollywood News",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 199.3 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

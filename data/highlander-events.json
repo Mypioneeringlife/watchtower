@@ -1,343 +1,5 @@
 [
   {
-    "id": "1cf8c3b22c1a3e82e83e",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 17 Aug 2026 07:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQlRnOC1IMXNQQXpzc2RaRm53MHJidHJlb3RiYkJLRkhMaU0td3hGbEpoOVpmcjgxdUttalRON2tGdzI5SFF0NldwOXNWM21oYlpOeXJXYWJzV2t5YkVBUjJDWnY3OC1iaEo5UzFVbDJXV19oMDBFS2VwSEtUWlRqOQ?oc=5",
-    "source": "Legacy obituary",
-    "title": "James Thorpe Obituary (2026) - Moberly, MO - Cater Funeral Home - Legacy obituary",
-    "summary": "James Thorpe Obituary (2026) - Moberly, MO - Cater Funeral Home Legacy obituary",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 46.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d4b7bb30439a026ca203",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 16 Jun 2018 07:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS3BoZTRicVZTZzVENVRkeUlzYjVTejRUa29BV3loNFdWa25SRG5Xdi1MNkx2eWVnd3NDMkVwbWxZQ0l1dU1heEpQN3U2d3c3ekhIRzh2N1A1ZjNsN0swUUcxN1M4d3EwdzN2RURfTmYxSEQ5NnR0MzBSMG5YcWotamZFY09VM0pFXzkwNHB0bnJjUWlE?oc=5",
-    "source": "Legacy obituary",
-    "title": "James Thorpe Obituary (1935 - 2018) - Murray, UT - The Salt Lake Tribune - Legacy obituary",
-    "summary": "James Thorpe Obituary (1935 - 2018) - Murray, UT - The Salt Lake Tribune Legacy obituary",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 3030.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "3eca45835a737c31cba4",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 25 May 2010 07:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSEEwQml5WGEwNjhQNTh0T2ktN1RBZUZZNUJkaUtxNWkweDZmbEVJa2dwUC1aeTBFQnJMWmJhbWNtM09udDVlM0FEYjJSckdZV2p2Uks4NEJQZzBzTXBnSXZhTEU4dFNYb2taX0kzTFBuNm51X2M3dHJPLWdTMDV3b2dfWFdCV1ByR1RMTEM3N0hjeU0?oc=5",
-    "source": "Legacy obituary",
-    "title": "James Thorpe Obituary (2010) - Washington, DC - The Washington Post - Legacy obituary",
-    "summary": "James Thorpe Obituary (2010) - Washington, DC - The Washington Post Legacy obituary",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 5974.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "54c26938c6b9696eb2fd",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 19 Apr 2018 07:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGgyOHNJb053SUpmTDBYSmJucVczTExMOFcwVXpMRnZlN0JuV2dqa1pCVXBDcnloa3d2ZWt3MkV2TWd2UUdURkhidzRsNEZOYmRxN2lfWmhyZHZ1LW1YdW0yQm1yYkVGcDRHaGxjTzdLX190VHctY1BNMktHaEtWZXJsazN2OXhoUUpUV3RhNEo?oc=5",
-    "source": "Legacy obituary",
-    "title": "Darwin James Thorpe - Legacy obituary",
-    "summary": "Darwin James Thorpe Legacy obituary",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 3088.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "acb542a2e468f3c5554b",
-    "entity_id": "john_c_mcginley",
-    "entity": "John C. McGinley",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "john_c_mcginley",
-        "name": "John C. McGinley",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening"
-        ],
-        "score": 54,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "interview",
-    "source_date": "Thu, 21 May 2026 07:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMdWh2NzQwNmdKMkFqZERqNUR5RGdXdUZiVGtuWm9MSWkyeUpOUWN1cWpsOTdpWTlfN05XVDB5a2tkejJ3M255UEVCbkVNZWY4Q0MtNmwzdVRvRE01M2F0Q29STkdnWHdvVHltYlN2MnVIUzgyaDltX2NmaEM?oc=5",
-    "source": "awardsbuzz.com",
-    "title": "Interview: John C. McGinley Gets Candid About ‘Rooster,’ Revisiting ‘Scrubs,’ and Why Walt Mann “Is Me” - awardsbuzz.com",
-    "summary": "Interview: John C. McGinley Gets Candid About ‘Rooster,’ Revisiting ‘Scrubs,’ and Why Walt Mann “Is Me” awardsbuzz.com",
-    "evidence": [
-      "matched entity: John C. McGinley",
-      "event: interview (interview)",
-      "source age: 134.5 days"
-    ],
-    "score": 54,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "10ab117f7775ef85af4d",
-    "entity_id": "julian_richings",
-    "entity": "Julian Richings",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "julian_richings",
-        "name": "Julian Richings",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Raven"
-        ],
-        "score": 54,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Raven"
-    ],
-    "event_type": "interview",
-    "source_date": "Tue, 08 Apr 2014 07:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uN3dpcVV1TFVUc2JTOWtWZmU3dFFQcG9VMTN0NVZMUEpObHBpTUk3ZkU3RVN3aHZpS25wb2cxbS12bU92NU1zcmx2MnlNUjQxR2lXR2ZNMklUdmc0?oc=5",
-    "source": "thatshelf.com",
-    "title": "Interview: Julian Richings - thatshelf.com",
-    "summary": "Interview: Julian Richings thatshelf.com",
-    "evidence": [
-      "matched entity: Julian Richings",
-      "event: interview (interview)",
-      "source age: 4560.5 days"
-    ],
-    "score": 54,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "8e9c427c7a74dd5112ef",
     "entity_id": "karen_harris",
     "entity": "Karen Harris",
@@ -53489,5 +53151,392 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "5c14b29cdea3663b3f32",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 96,
+        "event_type": "appearance"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 92,
+        "event_type": "appearance"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "appearance",
+    "source_date": "Sat, 08 Aug 2026 07:00:00 GMT",
+    "captured": "2026-10-24T17:32:23Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZVN6OWJGV3RnNFljWXZQc3dia0NtWGJ1SVhBbEx2Y01jNnpWVmNuSUpvTXBLY2tkb1N2d0w3ZjBqQ1JxUWtPRElPNHprb0VWazJFVzFnZUE2SHJkVTM3bFZDOUtYazZJaFF0R1hCWDZENWtWWlZOS05QUjlQNzNlM2FsQXVFcmNnNE9JWXU0ZjFqQ20tY09hWXcxSUFMU01IbWxyVkpIRQ?oc=5",
+    "source": "ComicBook.com",
+    "title": "Highlander Star Christopher Lambert Collapses at Steel City Comic-Con - ComicBook.com",
+    "summary": "Highlander Star Christopher Lambert Collapses at Steel City Comic-Con ComicBook.com",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "event: appearance (comic-con)",
+      "also matched: Highlander (92)",
+      "source age: 77.4 days"
+    ],
+    "score": 96,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5c6499165c96b2828759",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "captured": "2026-10-24T17:32:23Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVjFaX3hScFBUZXB5TFoycWdFNGM1enpacG5GSHRQb1h0NjkxRHZxSjNjV1NNM1hreURZblVsUFpYZXBXNmpZa0IyYVlXRlh0MGdCeXF1SUtfbmNZUENKT2hxYUtnU0lXYW9HaU9BTXFlMk9KLWlzQXhtbGVmTmVvWUM1cjZNNmtlNl9IemZOSDdFZG5tRXRSc0lWOTk2MFhBV3V4OUR2d0hyd2fSAa8BQVVfeXFMT1lmQ1ZFNFd4V2hIR05rb1ZWNmRabW5xWnExRDdtOHJxMEREWmFZeGxMaHlxbDYzZWlSV19rc0NCLUJlMnlRZzFVZWZ4Snd5Z0ZLbXNSVXF6dUc4Tkc3cG0yeWR4NHlRbUxaM19EWC1OTWFQX2RRandDY1hiWmptT1dMVzVhWEpEX3kyVV9vTkhRenB5TlNBTV9McjczeVlyRWllU1lYUUxETHoySjd0cw?oc=5",
+    "source": "EADaily",
+    "title": "The star of \"Highlander\" lost consciousness at an event in the USA - EADaily",
+    "summary": "The star of \"Highlander\" lost consciousness at an event in the USA EADaily",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 75.4 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "46f731135eb3b9be81b5",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 100,
+        "event_type": "health"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-10-24T17:32:23Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdjNHOEZRR1NvMUxob3dleTgzZThjNTFoRlBsWUZUNzctdjR6ZG4zbUxFSVpHSExSQVNrU0VwOWdiUkI1dXFlNkVJOGI5SC1BdllWa1JCdUZ1QTdHWkgwallXZ0doUWhhYmVpSjNtNTU1dVBmdFBrZ2N1RnFUMEtUZUFMa3ZwLWk3cG52YU1uXzJIZ0ZiUFVlUVpmb2F1c0stVGdIQzJCUEFtZzQ?oc=5",
+    "source": "Geo News",
+    "title": "Christopher Lambert health update after 'Highlander' star rushed to hospital - Geo News",
+    "summary": "Christopher Lambert health update after 'Highlander' star rushed to hospital Geo News",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "event: health (hospital, health)",
+      "also matched: Highlander (100)",
+      "source age: 76.4 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "e1b1283c1c4d67807ec7",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 92,
+        "event_type": "appearance"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "appearance",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-10-24T17:32:23Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWk1fV2lWeG1QdEczazZFVTI2c3J2MklYMTBNNWVoQ2ptMkxpbnhRZEM2ck5EcnVFZWs4MmJpbkZObTBVT2tsQU53eWJtT1kxQjdSNVJrcEF1WEFmRnAybHFmZnZfdDBPQmMxQWdsZVNrbUU1MHR3SUN2NkJFZ3dud2VxekJ5SzFTTkc5bNIBkgFBVV95cUxNZUJWaTFQY3ZnM19YbzBlSmJhQm45QTRjT1R3R3ZyQWd2dUxlTk90MmQweWJOaERVYjQ2WjJOSWd0RHJQOXViRU8xbkxHN20xWWFhVVZZYWtYMDVKMnhIUUQtbU9pa0JrQ0dCQTZHUm5qY2IxTXd4cFFNQkNUQ0ItXzhBWkhjQXEzd3F4QmFUQ3Nidw?oc=5",
+    "source": "Daily Express",
+    "title": "Highlander icon collapses at comic con as medics rushed in - Daily Express",
+    "summary": "Highlander icon collapses at comic con as medics rushed in Daily Express",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: appearance (comic con)",
+      "source age: 76.4 days"
+    ],
+    "score": 92,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "c410beee492001c451a0",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 16 Feb 2026 08:00:00 GMT",
+    "captured": "2026-10-24T17:32:23Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZWZuQkhNelYzUDIwS1U5LUF4eDR3TWR4dHBhYTRubWo4QWpJaUdSZENwNDRsUTkxdjBmN20wbXd5SFZKYTRoZzd3cDluX2lSb1Z0LWNHNE1WUXJ6TWk5dzVHY1ZJdUtxcTNjMUZvZHQ1U25sN0FSSWlCU25FcWZ0bU1xZVZoY3VpcXBuR2N0aEN6cWxUTUlZVU9hZDk3aXhOczJIdzBHWEJ4R2NFZWFJTklFckphNHM4WHUzSGlsRDUwVUww?oc=5",
+    "source": "FandomWire",
+    "title": "\"I didn't do it for the action\": Henry Cavill Must Stick To Christopher Lambert's Reason For Doing Highlander - FandomWire",
+    "summary": "\"I didn't do it for the action\": Henry Cavill Must Stick To Christopher Lambert's Reason For Doing Highlander FandomWire",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Henry Cavill (74)",
+      "also matched: Highlander (70)",
+      "source age: 250.4 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "c4230e3014c5febdadc7",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sun, 18 Oct 2026 12:15:47 GMT",
+    "captured": "2026-10-24T17:32:23Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9raWFkYUR4MDJDalMydHN2YmJZaE9hNmZTcUVhWldqYnQ0ZXVleXpYQ185M2tDa1Npd0w3SUcwa0g2dXJoU3phYzdxQW1JZw?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill's New Sci-fi Streaming Series Sets Carrie Reboot Creator to Direct - IMDb",
+    "summary": "Henry Cavill's New Sci-fi Streaming Series Sets Carrie Reboot Creator to Direct IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 6.2 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

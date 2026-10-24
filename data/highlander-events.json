@@ -1,103 +1,5 @@
 [
   {
-    "id": "5d3074d5c165613cc8df",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 25 Aug 2026 12:06:28 GMT",
-    "captured": "2026-10-02T19:58:18Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGh0aFBXbHdLSHhHOXVpeHlSWkk4YUxCbEZsZmY3ZnNoeEt2TE9PaVNzbWhqQnF5eGpQZ2hkRXBMNWZCaU9DeEUwQmRiXzk2Z193WHNWbHZoVnBkYVY1bVhBRm54a1cyUzA3TWgtOGVPTk4xNExVVTdMQ0NXVXp5Q0xRSU1ZQQ?oc=5",
-    "source": "Legacy obituary",
-    "title": "James Bruce Cunningham - Legacy obituary",
-    "summary": "James Bruce Cunningham Legacy obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 38.3 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "ff73597c494ce14538d9",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 03 Jan 2026 08:00:00 GMT",
-    "captured": "2026-10-02T19:58:18Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xWmZ4cUZJQlB5alZVZm1hQmx2UDhYd3Y4eVQ3cHlhNzRsX0c4SEMtSTY5Yk9XaUM1V3pZaVcxWmVsZnZmSDF3NDQxUFQ2dDZJOXN6U1B0cEFxTlR1bkhMZA?oc=5",
-    "source": "kroeze-wolffis.com",
-    "title": "Obituary for James Bruce Hiler - kroeze-wolffis.com",
-    "summary": "Obituary for James Bruce Hiler kroeze-wolffis.com",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 272.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "9779944f1bc0f391a990",
     "entity_id": "james_bruce",
     "entity": "James Bruce",
@@ -53442,6 +53344,120 @@
       "source age: 2474.5 days"
     ],
     "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "63153cbb201dc6994c10",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 22 May 2026 12:29:00 GMT",
+    "captured": "2026-10-24T07:33:35Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhNmpEeEFyUWswTmpua3JXNHMtcVRGV19xY3ZSWV9xMEh0TlRCTy1fQzdaNmpKdjJKMWVxa0FRUDBPZFFBMlhWWVBSLWQtSEJvWXc?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill Wears a Kilt in New 'Highlander' Reboot Images - IMDb",
+    "summary": "Henry Cavill Wears a Kilt in New 'Highlander' Reboot Images IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 154.8 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "29514b43aff033191977",
+    "entity_id": "clancy_brown",
+    "entity": "Clancy Brown",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "clancy_brown",
+        "name": "Clancy Brown",
+        "kind": "person",
+        "roles": [
+          "The Kurgan",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 58,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "The Kurgan",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "new_project",
+    "source_date": "Wed, 22 Jul 2026 11:09:24 GMT",
+    "captured": "2026-10-24T07:33:35Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51VzBWb2JuVnZXeVRMa0d4dG8wekpWeFJRa3YwRjhLcXJySl8ySkhXZmZRY21UOU1RQnVUa21PX01xNHNqU3ZpVi1qVTFyTkltVVE?oc=5",
+    "source": "IMDb",
+    "title": "Vincent D’Onofrio, Kate Mara, Clancy Brown Among Five Cast in Netflix Las Vegas Drama ‘The Roman’ - IMDb",
+    "summary": "Vincent D’Onofrio, Kate Mara, Clancy Brown Among Five Cast in Netflix Las Vegas Drama ‘The Roman’ IMDb",
+    "evidence": [
+      "matched entity: Clancy Brown",
+      "event: new_project (cast in)",
+      "source age: 93.9 days"
+    ],
+    "score": 58,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

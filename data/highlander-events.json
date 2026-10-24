@@ -1,101 +1,5 @@
 [
   {
-    "id": "9779944f1bc0f391a990",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 26 Feb 2025 08:00:00 GMT",
-    "captured": "2026-10-02T19:58:18Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRmxyNnZzTFR4QXVBWHZQb05SOUR4bV94a3ZNTlRkNnRhN2pPRGxPSmo1WS03Q1dHT3N2aGpOSnZ6eUE5TElaTDFfdzdpVlFXWGlIVE5zV1hxTVVkb1VubnlTNWJXZklyQkY5ejQ4aEFSQ18yVGl2OEdJQjVQendhag?oc=5",
-    "source": "Chapman Funerals & Cremations",
-    "title": "Obituary information for James Bruce Hocking - Chapman Funerals & Cremations",
-    "summary": "Obituary information for James Bruce Hocking Chapman Funerals & Cremations",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 583.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d3fbfea88892714850aa",
-    "entity_id": "james_cosmo",
-    "entity": "James Cosmo",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_cosmo",
-        "name": "James Cosmo",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 52,
-        "event_type": "new_project"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "new_project",
-    "source_date": "Fri, 03 Mar 2023 08:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQlVOcXdrNnZlODJWdGlvblViUzZLaXdacjdadVp1cWswRjVaU3puMFIzUmhJcTU4M1NwYWVNbDlNNGhxR21FOFJadHdYc3N6RlpjNEFWMEh4RTNHbVA3aDl6c1JaU0NQUm5KQUxlZnZyUXBycDU4YnJUa0dqSHN1N3oyd2o0RmVuSm5DaTNsSTdwTzI1SVNUS09yX3ZzcmpYaWxKakR3dlZrWVBsdFdQLS1CMXdTWGc0c2JQZlFNX1BJMmMtZWZnYjlVV2dTUQ?oc=5",
-    "source": "independent.ie",
-    "title": "James Cosmo says he is a ‘rom-com actor’ following release of new film - independent.ie",
-    "summary": "James Cosmo says he is a ‘rom-com actor’ following release of new film independent.ie",
-    "evidence": [
-      "matched entity: James Cosmo",
-      "event: new_project (new film)",
-      "source age: 1309.5 days"
-    ],
-    "score": 52,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "1cf8c3b22c1a3e82e83e",
     "entity_id": "james_thorpe",
     "entity": "James Thorpe",
@@ -53458,6 +53362,130 @@
       "source age: 93.9 days"
     ],
     "score": 58,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "93ccf9263ed7fc99eeb0",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 07 Jan 2026 23:21:01 GMT",
+    "captured": "2026-10-24T12:53:23Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SLUxkNGJSZkRvc2VPR195Rm1iZUR3Q24tRDExcVB0cGlUU2J4eUdtZVRPSlV4RXV0bWxsek5aVU9BSG1iMDc1SFRkSU5zUQ?oc=5",
+    "source": "IMDb",
+    "title": "Synopsis for Chad Stahelski’s ‘Highlander’ Remake Reportedly Revealed - IMDb",
+    "summary": "Synopsis for Chad Stahelski’s ‘Highlander’ Remake Reportedly Revealed IMDb",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "event: highlander_production (remake)",
+      "also matched: Highlander (100)",
+      "source age: 289.6 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "6001e97ab58c6cddf642",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 80,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 30 Jun 2015 07:00:00 GMT",
+    "captured": "2026-10-24T12:53:23Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWRaaXBvMDIzNHlsY3p3dlFaSmZZZ1h5TGd3azg3b0tnVWprWDlBMEc5SHNIQXVNdXNGbXlSZjRidzVrOTBPQ1NWTXhvSGxDc3pvZ2NUYjd5MXpsRnJEQmQwRkYxNWVrSXVPZm1MdzNQeWJ0Z2VIWFhkb2EzdFNYTnBGY21CUVo5bXc?oc=5",
+    "source": "Dignity Memorial",
+    "title": "Christopher Lambert, Obituary - St. Louis, MO - Dignity Memorial",
+    "summary": "Christopher Lambert, Obituary - St. Louis, MO Dignity Memorial",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: death (obituary)",
+      "source age: 4134.2 days"
+    ],
+    "score": 80,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

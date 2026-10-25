@@ -1,158 +1,5 @@
 [
   {
-    "id": "8e9c427c7a74dd5112ef",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 19 Dec 2025 17:31:01 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHFpVzJjT3N1NHN0TnZTbmtLS2tvWU1iaWFRbUxGdHY0MnFBMUtfdV9TOWtjM3J1NmN5dUxEUkRkNndJZ2hGWDVhQW01X1paTmhSNzZXYjZvX2xDeDloNTJxZE5UQl9ubm5RS1U3Z0R2ZjV6S0k4VV9qckR2anRET3JPbGdHNklMUGJIQQ?oc=5",
-    "source": "Legacy obituary",
-    "title": "Karen Harris-Unsworth Obituary (2025) - Bountiful, UT - Lindquist's Bountiful Mortuary - Legacy obituary",
-    "summary": "Karen Harris-Unsworth Obituary (2025) - Bountiful, UT - Lindquist's Bountiful Mortuary Legacy obituary",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 287.1 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "678ffa0d883a4a31a094",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 19 Mar 2025 07:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb044SGd2elFJNTBneFBPeHFvemtCdGRUcFJ2cTdLWTZyQzFRMmc2Y2syOXpEM0x5MmZoMXJVX0JyY3NvWU9FUHdJN2kxQWhEd0M5bXlyUTl0SlFQYzVacnhtdjJTQXJVODRFWmhpZmJKeWpwLUlYQkVnQ00zMFB6Q3BwZUFSMGs3b1Bz?oc=5",
-    "source": "Legacy obituary",
-    "title": "Karen Harris Obituary (1947 - 2025) - Davenport, IA - Quad-City Times - Legacy obituary",
-    "summary": "Karen Harris Obituary (1947 - 2025) - Davenport, IA - Quad-City Times Legacy obituary",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 562.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "438834fda5ca16eed722",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 30 Apr 2024 07:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55TzRFTldzMkJ6QnNwcXM1RVZnY1lLaVROLVBFZjN1MG5CNGNEN3YyZWdkSTY0aWVTeHRHLWtUZmNfVVNKd29Bd0VHRGJvck45Y0cxcGJGT29nWjJ6Qk9ERw?oc=5",
-    "source": "rutherfordsource.com",
-    "title": "OBITUARY: Karen Harris - rutherfordsource.com",
-    "summary": "OBITUARY: Karen Harris rutherfordsource.com",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 885.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "58d9f3bb004598e708c7",
     "entity_id": "karen_harris",
     "entity": "Karen Harris",
@@ -53537,6 +53384,150 @@
     "score": 78,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "a078544c05e57725a149",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 66,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "interview",
+    "source_date": "Fri, 24 Oct 2014 07:00:00 GMT",
+    "captured": "2026-10-25T13:19:36Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yRWE0MXpkUmg3bDBuWG0xb2NXLW12ZFNwQTc5WC10LTUtc3lpcGN4Ym1fbGlmWFd3THhnUDh3UEp4ZTdFbWw4Mi1vc3lPVjQtRjNfUW1xb0lTT0sxSVFONkJwMUdkU3NtWlJxMA?oc=5",
+    "source": "That Shelf",
+    "title": "Interview: Chad Stahelski & David Leitch - That Shelf",
+    "summary": "Interview: Chad Stahelski & David Leitch That Shelf",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 4384.3 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "4e2f3dc59d386acc46db",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 66,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "interview",
+    "source_date": "Fri, 28 Apr 2023 07:00:00 GMT",
+    "captured": "2026-10-25T13:19:36Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX2NBVnFqZXRwNHM2c00tcXVDejFtUjE4a3ZjSDFxbkFpRUNUWHMzbjh6NVFxNFJpWFdCRnFjMWJzZ3VEVTRadGYyVFZsaE9pV1hpYVQzVVZyakFJV0hmY1dxTlBzSHhkQXRxMjIyYzRJM3lUUm5FYWh2ZDVHZ1g0Y3pXUDZxMDE1Qnh6SW5tN3RwX0trX1VsNXg3WmlFWHA4dHhv0gGoAUFVX3lxTE96dVUyZTJOMHNUVHlObk9zRUpBZkVqeEdKR3habU9tWTFqSXB6T2NJUk1ORGdxNkVoeDd3NmxxSm1rLWowcjF5ZDRuU1FHbTU2TVdzWXZqNTNRUkphTXdPVGkxbFhHbkhzcU1RaDZXSGw4YUVzWWlqMXpDWEM1amVoeXNRazVRb1l4SF9oOXBBSzM3UU9HODNwNmI5aVZTU184Wm5SNkg4Mg?oc=5",
+    "source": "JoBlo",
+    "title": "Interview: Chad Stahelski and our Final John Wick: Chapter 4 Extended Discussion - JoBlo",
+    "summary": "Interview: Chad Stahelski and our Final John Wick: Chapter 4 Extended Discussion JoBlo",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "context: interview",
+      "event: interview (interview)",
+      "source age: 1276.3 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "a32176ee9316625f8d2e",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 98,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 19 Oct 2026 21:27:20 GMT",
+    "captured": "2026-10-25T13:19:36Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2dsQzdKQXd6cHBqRnpIOVIzQzV6dXhDVXIxeDVwZ09TSUNnZHJBNkFkUzQ0a0lVcU1HUjdFMHFtdHhtLVRxLVBSdlJGN0taQ1dMSXBtRHlyZ0tSTFl6LWlMa1U0LTFoTHAwaGh0dGlNVm0zaFVFZGEyOFkzNDZNaGRpUEZ4OGd4dFE?oc=5",
+    "source": "AOL.com",
+    "title": "Forget Pre-Planned Stunts: 'Highlander' Fights Were Crafted on the Day of Filming - AOL.com",
+    "summary": "Forget Pre-Planned Stunts: 'Highlander' Fights Were Crafted on the Day of Filming AOL.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: highlander_production (filming)",
+      "source age: 5.7 days"
+    ],
+    "score": 98,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
     "status": "new"
   }
 ]

@@ -1,52 +1,5 @@
 [
   {
-    "id": "ca3b6331e187cf236798",
-    "entity_id": "larry_ferguson",
-    "entity": "Larry Ferguson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "larry_ferguson",
-        "name": "Larry Ferguson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 11 May 2018 07:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSzBnZVk4TDBOeTlyTTQ4Sk1zYVlmei1BbTJJamNFUm1jcFlyYkF0bEl6azNaQ0JoU1c1djdodTMwWndTakZxaWFkN3RWRG8xRGprbF9PeURXSlFQY2xyRzRTZEN4SGZ1dEVkUUxGNGR5UTNIaG5OOVNpbFloV2Q0NEgxblhMMXN5?oc=5",
-    "source": "Legacy obituary",
-    "title": "Larry Ferguson Obituary (1964 - 2018) - Waxahachie, TX - Star-Telegram - Legacy obituary",
-    "summary": "Larry Ferguson Obituary (1964 - 2018) - Waxahachie, TX - Star-Telegram Legacy obituary",
-    "evidence": [
-      "matched entity: Larry Ferguson",
-      "event: death (obituary)",
-      "source age: 3066.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "737ae04ccf93a1b8f202",
     "entity_id": "mako",
     "entity": "Mako",
@@ -53522,5 +53475,68 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "aa80365f4ec7d62deecd",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 24 Oct 2026 19:39:40 GMT",
+    "captured": "2026-10-25T22:45:42Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXhtTHZrZjZoQWIydnhKT19xVnN2TXZ4OVNwWXBZbGFzalgxbkgzeUs3QlRjalE1Z1FaRmZXZWZ6ckhHSlo0N1J2TE5kUGFqNWFha2RZQ1p4Q2JndVlsTTdEV3FJOGpxQ1VQU2t6TWtmNGFjaWpnYTFERGMySVluM2Fwajlqam0wX3NZdzZSSkpjdXl3Ni1Md3JGOUNHZVp5UkFEV3NuV2JPTmYyRjdqS2gwSG4weHdyNmc?oc=5",
+    "source": "ScottishNews.com",
+    "title": "Karen Gillan gives verdict on Henry Cavill’s Scottish accent in Highlander reboot - ScottishNews.com",
+    "summary": "Karen Gillan gives verdict on Henry Cavill’s Scottish accent in Highlander reboot ScottishNews.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 1.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
   }
 ]

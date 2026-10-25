@@ -1,56 +1,5 @@
 [
   {
-    "id": "58d9f3bb004598e708c7",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 06 Jun 2024 02:17:37 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEphV2NybjN4ZjlHVVhJdk5YMnQwaHRGQlBVLWk2QmZ2bEtRcHJDc2IzY29heXRqZ0lXbkVFNnVfT0J0YlpuVVkxQk9GeXpQRmI5akFIV2E5c0J3NlVUb0FOX2pQR0Rsc2VJRHJzZnRfaW9SZjJMM0Y1NlBGMGlPX1I1NW0xMC1Wb1FlZQ?oc=5",
-    "source": "The Oakland Press",
-    "title": "Karen Harris Obituary - Clarkson, MI - The Oakland Press",
-    "summary": "Karen Harris Obituary - Clarkson, MI The Oakland Press",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 848.7 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "23c190ddc448eac5ed0d",
     "entity_id": "karen_harris",
     "entity": "Karen Harris",
@@ -53529,5 +53478,53 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": true,
     "status": "new"
+  },
+  {
+    "id": "b330ecab59c833ca3bd4",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 14 Nov 2024 22:19:18 GMT",
+    "captured": "2026-10-25T17:46:39Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nSkJWYldfZjJIWnBfamxiSlJxZmgzRHJNQ1Q3Q3kzV3c4Z1Y2cVVFVEJhQTQ2VHJTcHJ6ajZ1YVhHQlNsd3RKc1dpUWdib3lscWc?oc=5",
+    "source": "IMDb",
+    "title": "Highlander - L'ultimo immortale (1986) ⭐ 7.0 | Azione, Avventura, Fantastico - IMDb",
+    "summary": "Highlander - L'ultimo immortale (1986) ⭐ 7.0 | Azione, Avventura, Fantastico IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Immortal",
+      "source age: 709.8 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

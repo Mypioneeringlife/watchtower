@@ -1,103 +1,5 @@
 [
   {
-    "id": "23c190ddc448eac5ed0d",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 21 Apr 2009 07:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSk4tWE9kdVF6VE8xVmNDMldSTE9VZmR0alotMnptV1VkRmtyODltejg2anNZdzBURUdoUHkzTFlENENWMm5WeGVsYUJIZEZBaTVYSThvc0tRU2duV3JqdEhKNG9GWW5JWWg3SkdPN0pJWWpSa1VJVW1jUkhRMmR2Z29VVVVQODQwZGd2WnE2U09rdw?oc=5",
-    "source": "Syracuse.com",
-    "title": "Karen Harris Obituary (2009) - Syracuse, NY - Syracuse.com",
-    "summary": "Karen Harris Obituary (2009) - Syracuse, NY Syracuse.com",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 6373.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "027702758386fa1540d2",
-    "entity_id": "larry_ferguson",
-    "entity": "Larry Ferguson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "larry_ferguson",
-        "name": "Larry Ferguson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 30 Sep 2026 19:08:52 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORWx5OEZYQy1WSnFnWWVOVWN6dEEwQmVxNnZETE5aRVNJS3RiOG5tY3QyRi1NRFdhRm1GSzg2NTFaZ1dUQmVZanh3bEFOYkRCTmlzVWF2QVNVcXBFV2I0bXFMMDF0aUR4eGlNWGMxdC1IX0pKMWNBXzc5QjRIWUJkTlJpYmtBMEJDTXEwcnlxdXRiVFl1aDRJMjJn?oc=5",
-    "source": "Legacy obituary",
-    "title": "Larry Ferguson Obituary (2026) - Franklin, NC - The Franklin Press - Legacy obituary",
-    "summary": "Larry Ferguson Obituary (2026) - Franklin, NC - The Franklin Press Legacy obituary",
-    "evidence": [
-      "matched entity: Larry Ferguson",
-      "event: death (obituary)",
-      "source age: 2.0 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
     "id": "ca3b6331e187cf236798",
     "entity_id": "larry_ferguson",
     "entity": "Larry Ferguson",
@@ -53523,6 +53425,100 @@
       "source age: 709.8 days"
     ],
     "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "b8369ebaf6b33470c02e",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 25 Dec 2020 18:13:04 GMT",
+    "captured": "2026-10-25T18:25:20Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LUnFTZVFNM256cGpFOHBtUlZzUU9RcWJaMW9jY0RMS0ljOW85S05ldkVwWEoxdEt6LWZpTnZJTEhmS20wNDB3MlpOWDB0NzVJbDJfbzc5dXBSb1FneGtGTXhpRWhVU0JEMmY2U1J5bw?oc=5",
+    "source": "IMDb",
+    "title": "Highlander (1986) - IMDb",
+    "summary": "Highlander (1986) IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 2130.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d28e2b9a37c772cb68dc",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 16 Apr 2025 22:15:49 GMT",
+    "captured": "2026-10-25T18:25:20Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFQjVjcGZwb2Y5NEl6ZFBKZ1VWRGxxQnRFVnI4UWtYRVgtRUV6WGdER2Zock5qalNrc1AwTEJ2TUxySl83bmVENjlhNnFSelZyTnBMeC1BOXM4cmpiMmVSSDJaVFo1RFlQejMxT1pKazJyZWc?oc=5",
+    "source": "IMDb",
+    "title": "Highlander: The Raven (1998) - IMDb",
+    "summary": "Highlander: The Raven (1998) IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 556.8 days"
+    ],
+    "score": 70,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

@@ -1,52 +1,5 @@
 [
   {
-    "id": "7a59b915b87e54730c67",
-    "entity_id": "mako",
-    "entity": "Mako",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "mako",
-        "name": "Mako",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander III: The Sorcerer"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander III: The Sorcerer"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 19 May 2026 07:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pblFZRThhTGZLdTNzTGZZQS11MnFWOTduMU1JWnQtMnZFVm5GaTBkYkNZdkstU0dpYUJWN1lqc0dpU01rdDJLVHBuc1ZzVVFMUVM2YlZsaUMta3hSdm1KeEVZR0haSUtKc2JpRzk4LTI3VGN0NjlnRkpkOHV6aUnSAZMBQVVfeXFMUGpyVG90VUpobWdDcXpqMUg1NVV6Y09iTklEMHNZOTVkLXBMY1lvQjB1OF82cUVoNHdPcEEtUnNlSHpwM3dsX1BnTnpGQ1VYZkxINzNCTTRES1BwOF83ZVdXMHJBUUUzYUlYTmR3ajRFUXlmYVZsQnB5SnFsbl9fNWllM1VsVF84eF8xZkpSTmJUQ1dZ?oc=5",
-    "source": "mysuncoast.com",
-    "title": "Retired Venice Police K-9 Mako dies - mysuncoast.com",
-    "summary": "Retired Venice Police K-9 Mako dies mysuncoast.com",
-    "evidence": [
-      "matched entity: Mako",
-      "event: death (dies)",
-      "source age: 136.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "f4dd8b96fdd3aeaae49e",
     "entity_id": "mako",
     "entity": "Mako",
@@ -53553,5 +53506,52 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "d44a4bfe3186f7d4a831",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 80,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 15 Sep 2026 05:12:25 GMT",
+    "captured": "2026-10-26T15:24:49Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QbURXeFg3Y0xzc2V2SlhhSVJ5UmMwZFoyNmZIYTY3WHhoc2pwdXhYVWtUT2kxM2I2OFZZNGtCUHRyYkdnNnFrT2M4LVZuQQ?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill’s Quest to Revive a Dead $46.6M Franchise Gets Exciting Update - IMDb",
+    "summary": "Henry Cavill’s Quest to Revive a Dead $46.6M Franchise Gets Exciting Update IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: death (dead)",
+      "source age: 41.4 days"
+    ],
+    "score": 80,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

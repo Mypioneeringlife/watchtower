@@ -1,52 +1,5 @@
 [
   {
-    "id": "737ae04ccf93a1b8f202",
-    "entity_id": "mako",
-    "entity": "Mako",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "mako",
-        "name": "Mako",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander III: The Sorcerer"
-        ],
-        "score": 68,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander III: The Sorcerer"
-    ],
-    "event_type": "health",
-    "source_date": "Wed, 12 Aug 2026 07:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVkUwakhvc1dXbmNEUEdJVmg0RjlUWUVMbnpWTE5FZGVmMHF1SmdYSW1Eb19TQTZkakJkUVhiamh0QWxBbDM5WTZpelIxTkk3aXZjMVE4dng4MjNUc3JrMmp2QUtjdUl4THh0UnFkbTN2UGVVNE95UXZOZ3BseE1lcmg2MEY4ZXBuTEplb3ZkWThHSWt20gGoAUFVX3lxTE1xZk9nZXNCZU5nMzd2bmJ2S0Y0VWJqV1FjMUxSblduSWRMUGJGSkxjTF9JZWl3NTVHTlMzN2tDYjFCQUY5QnI4MGRseTJUY0NQcjg0YlRuZlR1Umlwc09mekZOeVYxOWotT0NQUndxY3huSjh3aGZGZGEwVTFneGxsb1poLUcwSVdZbjlXVGtEQUs1MVZVeVA0YkFUajI0ZXNheUFuYUdNUg?oc=5",
-    "source": "kxii.com",
-    "title": "TMC Medical Minutes - Mako SmartRobotics for Joint Replacements - kxii.com",
-    "summary": "TMC Medical Minutes - Mako SmartRobotics for Joint Replacements kxii.com",
-    "evidence": [
-      "matched entity: Mako",
-      "event: health (medical)",
-      "source age: 51.5 days"
-    ],
-    "score": 68,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "7a59b915b87e54730c67",
     "entity_id": "mako",
     "entity": "Mako",
@@ -53537,6 +53490,68 @@
     "score": 100,
     "route": "Corrupted Chronicle research",
     "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "4a63308616380251567b",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 25 Oct 2026 23:45:56 GMT",
+    "captured": "2026-10-26T08:03:46Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGdnJOZVk0RFVudTZ3RktDdlFfNi1PRVBKM0pfZElQSEhjQ3A0VXZFVnJlSU5uWElOa2s0cXhZdHVxZ0kxdUl0Sl9yNGdWRjQwd1E?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill’s ‘Highlander’ Scottish Accent Is Officially \"Bang On,\" Says Co-Star [Exclusive] - IMDb",
+    "summary": "Henry Cavill’s ‘Highlander’ Scottish Accent Is Officially \"Bang On,\" Says Co-Star [Exclusive] IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.3 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
     "status": "new"
   }
 ]

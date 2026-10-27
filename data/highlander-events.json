@@ -1,52 +1,5 @@
 [
   {
-    "id": "334af4678f7415257383",
-    "entity_id": "peter_diamond",
-    "entity": "Peter Diamond",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_diamond",
-        "name": "Peter Diamond",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 10 Jun 2024 14:38:44 GMT",
-    "captured": "2026-10-03T18:42:14Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CMkVzcWZNeTEtN0YzSU5wZmxyRS1oWjA5SVRXOExrUUlTT1dHMWY4alV3bFRLTldTX0Z4dUprR2puNEo4RGQxdGRkUG0wWm42akpEXzVWNklkNTd6cDRNLXRhZ1ZRZHdOaWREbEpB?oc=5",
-    "source": "Chicago Tribune",
-    "title": "Peter Diamond Obituary - IL - Chicago Tribune",
-    "summary": "Peter Diamond Obituary - IL Chicago Tribune",
-    "evidence": [
-      "matched entity: Peter Diamond",
-      "event: death (obituary)",
-      "source age: 845.2 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "bd252a2430619c688e0a",
     "entity_id": "edge",
     "entity": "Edge",
@@ -53516,6 +53469,53 @@
       "matched entity: Highlander",
       "explicit Highlander reference",
       "source age: 2082.9 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "58d33b6611c087d86bdb",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 16 Jul 2021 07:00:00 GMT",
+    "captured": "2026-10-27T23:56:15Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLbFMtekctMHVZZXNLWWtXMUVveFg0QWJMdnVlUUlZTUtob0U1R3g5d0tfN1E5aXM0ZWNfSWpFRURkS2s1T1FBcG53UFB3WGVraTJlQ0ZScDhYV2ViZmtHU0RpRmh2Rzk2d2tqNjZ2MEJRVWpTc01n?oc=5",
+    "source": "Epic Dope",
+    "title": "Quick & Easy Watch Order Guide to Highlander - Epic Dope",
+    "summary": "Quick & Easy Watch Order Guide to Highlander Epic Dope",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 1929.7 days"
     ],
     "score": 70,
     "route": "Corrupted Chronicle research",

@@ -1,129 +1,5 @@
 [
   {
-    "id": "9f3883f342b6393a6eb0",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "death"
-      },
-      {
-        "id": "stan_kirsch",
-        "name": "Stan Kirsch",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Series"
-        ],
-        "score": 100,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 15 Jan 2020 08:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWFUOVF5YzdRYzVaMy1yM1FOWm1ucEZUSEp0dHJ0WU4xbnBSN2xubkNyN004dnZPck9iU21qS3Q0azhGTzIzVVZlcnNkb1Fnb0s3akJDa1JWTXN5X21heUg2Q0tldUJKNFVDMjRZNmFyRXlNdjdXSnJyajBOallFZGFTZVBRZGNqd2o4amlfVWxFWGQ0UGFOZlFGZ0EyeGZYUFdRSUdFLTE2ak1nYVHSAbMBQVVfeXFMTTlXdTBkTEQwZDREdElRMWt4SU5nMFU0YXJjcGl1YURudDZmVnhEZzZyTmszTDNvNFhxQ2lXaWhWWXYycWI2UVJtMl9SSnlRa21ZNGMyN3Jmb1RnZlBjSzFIa1JjUVM0bzVEWjdyYkJ4SjVDVFBIa2o2MWpsNjI0WEwtZkpPVGlXYlQ1cEIxWWU4cnlKaVlsZ0N4Rmo0cEdUanNMNHpVSEtVZHZ2TTJ1MjhpS1E?oc=5",
-    "source": "express.co.uk",
-    "title": "Stan Kirsch dead: Highlander and Friends star 'found dead at home by wife' aged 51 - express.co.uk",
-    "summary": "Stan Kirsch dead: Highlander and Friends star 'found dead at home by wife' aged 51 express.co.uk",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: death (dead)",
-      "also matched: Stan Kirsch (100)",
-      "source age: 2452.5 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c74db461da0dbbe7c9a1",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "death"
-      },
-      {
-        "id": "stan_kirsch",
-        "name": "Stan Kirsch",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Series"
-        ],
-        "score": 100,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 14 Jan 2020 08:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdFJXZ3hTVFJVa01lY3dGaFQzRXJkZlByalhrVzJoZjVaU2JKc2p3NnBSM2VpOE8xXzM0RFhOVGxITnNxOVZIeEtLeDg3V08wd01zREh1SnJJSFlKcVJPSzJyVnlSM0xoSi1GVkU3STBpQ2FXYXNNVC1hQm9DSUZjS1NybktRbVFCX3FNcGw1N2FvZ3NBMlNLeDRmaTR6dXEzWjZ6bG5B?oc=5",
-    "source": "Monsters and Critics",
-    "title": "Stan Kirsch death: Highlander actor dies by suicide at 51 - Monsters and Critics",
-    "summary": "Stan Kirsch death: Highlander actor dies by suicide at 51 Monsters and Critics",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: death (dies, death)",
-      "also matched: Stan Kirsch (100)",
-      "source age: 2453.5 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "bbe2f735cbebe056b2c0",
     "entity_id": "steve_arnold",
     "entity": "Steve Arnold",
@@ -53535,5 +53411,129 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "ac6f596d085267608be9",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 27 Oct 2023 07:00:00 GMT",
+    "captured": "2026-10-27T08:18:13Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTaDFMdjd6VDB0T0phOFdGdmZsTUNfb1c3ZE9UZVlkVmk1TTBkLXllUUtLTVNsMjdNa2lUajROTE5PMmlTLVdRVl9KbGRyTlZoNi1SaFdMOTBTU2NmenRnQ0o1bmoySWdWNUFMczItNm91b1Zra09DMFhRZ3ZIdw?oc=5",
+    "source": "Collider",
+    "title": "Chad Stahelski's 'Highlander' Reboot Gets an Encouraging Update - Collider",
+    "summary": "Chad Stahelski's 'Highlander' Reboot Gets an Encouraging Update Collider",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 1096.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "0f66d0e057803dbca9a0",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 76,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Tue, 08 Sep 2026 07:00:00 GMT",
+    "captured": "2026-10-27T08:18:13Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUWxqSXJKam5Vcllsa2ViU2V6cU5JMzREek1HOFhyQ1hpUmNWX0VlMDJ4eWw3bVpXR195MTA1UUludWRRVjc5MFBJNzI2cW1hNXRLZ3poQ0J0TDcxb2dCd3k2ODNNcFVrcnl5dmdrLVBsNnU5dURMV1pBUExHTkFVTWZRdWZBdGU2cnJjYmJsN0MxVVMwMGZWaWhhOXlNajQ?oc=5",
+    "source": "Head Topics",
+    "title": "Action Star Christopher Lambert Hospitalized at Steel City Con After Collapsing Due to Low Blood Sugar - Head Topics",
+    "summary": "Action Star Christopher Lambert Hospitalized at Steel City Con After Collapsing Due to Low Blood Sugar Head Topics",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: health (hospital)",
+      "source age: 49.1 days"
+    ],
+    "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

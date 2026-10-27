@@ -3,14 +3,14 @@
   "entities": {
     "highlander_franchise": {
       "name": "Highlander",
-      "unique_events": 1292,
+      "unique_events": 1293,
       "qualifying_events": 108,
       "error_count": 7,
-      "last_successful_poll": "2026-10-26T20:30:18Z",
+      "last_successful_poll": "2026-10-27T00:01:45Z",
       "last_qualifying_event": "2026-10-25T22:45:42Z",
       "baseline_items": 455,
       "initialized": true,
-      "items_checked_last_poll": 200,
+      "items_checked_last_poll": 106,
       "last_error": null
     },
     "christopher_lambert": {
@@ -18,11 +18,11 @@
       "unique_events": 158,
       "qualifying_events": 100,
       "error_count": 5,
-      "last_successful_poll": "2026-10-26T20:30:18Z",
+      "last_successful_poll": "2026-10-27T00:01:45Z",
       "last_qualifying_event": "2026-10-23T13:44:59Z",
       "baseline_items": 66,
       "initialized": true,
-      "items_checked_last_poll": 149,
+      "items_checked_last_poll": 95,
       "last_error": null
     },
     "adrian_paul": {
@@ -30,7 +30,7 @@
       "unique_events": 21,
       "qualifying_events": 0,
       "error_count": 5,
-      "last_successful_poll": "2026-10-26T20:30:18Z",
+      "last_successful_poll": "2026-10-27T00:01:45Z",
       "last_qualifying_event": null,
       "baseline_items": 17,
       "initialized": true,
@@ -42,7 +42,7 @@
       "unique_events": 34,
       "qualifying_events": 0,
       "error_count": 5,
-      "last_successful_poll": "2026-10-26T20:30:18Z",
+      "last_successful_poll": "2026-10-27T00:01:45Z",
       "last_qualifying_event": null,
       "baseline_items": 7,
       "initialized": true,
@@ -54,11 +54,11 @@
       "unique_events": 0,
       "qualifying_events": 0,
       "error_count": 5,
-      "last_successful_poll": "2026-10-26T20:30:18Z",
+      "last_successful_poll": "2026-10-27T00:01:45Z",
       "last_qualifying_event": null,
       "baseline_items": 0,
       "initialized": true,
-      "items_checked_last_poll": 30,
+      "items_checked_last_poll": 18,
       "last_error": null
     },
     "peter_wingfield": {
@@ -66,7 +66,7 @@
       "unique_events": 4,
       "qualifying_events": 0,
       "error_count": 5,
-      "last_successful_poll": "2026-10-26T20:30:18Z",
+      "last_successful_poll": "2026-10-27T00:01:45Z",
       "last_qualifying_event": null,
       "baseline_items": 0,
       "initialized": true,
@@ -78,11 +78,11 @@
       "unique_events": 3,
       "qualifying_events": 0,
       "error_count": 5,
-      "last_successful_poll": "2026-10-26T20:30:18Z",
+      "last_successful_poll": "2026-10-27T00:01:45Z",
       "last_qualifying_event": null,
       "baseline_items": 1,
       "initialized": true,
-      "items_checked_last_poll": 29,
+      "items_checked_last_poll": 27,
       "last_error": null
     },
     "alexandra_vandernoot": {
@@ -102,11 +102,11 @@
       "unique_events": 6,
       "qualifying_events": 3,
       "error_count": 5,
-      "last_successful_poll": "2026-10-26T20:30:18Z",
+      "last_successful_poll": "2026-10-27T00:01:45Z",
       "last_qualifying_event": "2026-10-06T19:46:08Z",
       "baseline_items": 4,
       "initialized": true,
-      "items_checked_last_poll": 53,
+      "items_checked_last_poll": 30,
       "last_error": null
     },
     "russell_mulcahy": {
@@ -114,7 +114,7 @@
       "unique_events": 13,
       "qualifying_events": 0,
       "error_count": 5,
-      "last_successful_poll": "2026-10-26T20:30:18Z",
+      "last_successful_poll": "2026-10-27T00:01:45Z",
       "last_qualifying_event": null,
       "baseline_items": 3,
       "initialized": true,
@@ -123,14 +123,14 @@
     },
     "henry_cavill": {
       "name": "Henry Cavill",
-      "unique_events": 650,
-      "qualifying_events": 101,
+      "unique_events": 651,
+      "qualifying_events": 102,
       "error_count": 5,
-      "last_successful_poll": "2026-10-26T20:30:18Z",
-      "last_qualifying_event": "2026-10-26T20:30:18Z",
+      "last_successful_poll": "2026-10-27T00:01:45Z",
+      "last_qualifying_event": "2026-10-27T00:01:45Z",
       "baseline_items": 240,
       "initialized": true,
-      "items_checked_last_poll": 200,
+      "items_checked_last_poll": 147,
       "last_error": null
     },
     "chad_stahelski": {
@@ -138,11 +138,11 @@
       "unique_events": 147,
       "qualifying_events": 2,
       "error_count": 5,
-      "last_successful_poll": "2026-10-26T20:30:18Z",
+      "last_successful_poll": "2026-10-27T00:01:45Z",
       "last_qualifying_event": "2026-09-25T23:28:08Z",
       "baseline_items": 62,
       "initialized": true,
-      "items_checked_last_poll": 200,
+      "items_checked_last_poll": 166,
       "last_error": null
     },
     "alan_north": {
@@ -1815,16 +1815,16 @@
     }
   },
   "bootstrap_generation": 2,
-  "last_run": "2026-10-26T20:30:18Z",
+  "last_run": "2026-10-27T00:01:45Z",
   "last_summary": {
-    "items_checked": 7524,
-    "unique_items_discovered": 7288,
+    "items_checked": 883,
+    "unique_items_discovered": 785,
     "baseline_items": 0,
-    "new_events": 26,
-    "qualifying_events": 8,
+    "new_events": 1,
+    "qualifying_events": 1,
     "notification_candidates": 0,
-    "notes_written": 8,
-    "historical_suppressed": 15,
+    "notes_written": 1,
+    "historical_suppressed": 0,
     "errors": 0,
     "pruned_bootstrap_notes": 0
   }

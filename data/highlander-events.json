@@ -1,67 +1,5 @@
 [
   {
-    "id": "e81fa4a8208c13db3a30",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "death"
-      },
-      {
-        "id": "stan_kirsch",
-        "name": "Stan Kirsch",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Series"
-        ],
-        "score": 100,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 14 Jan 2020 08:00:00 GMT",
-    "captured": "2026-10-02T19:58:19Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54X2l3c3RCUWpNSFF0d0ZlUkhRcDRtQUs3MS1NaTJHRnVGd1BncXhmVHA4cVlYcDRZY3JmYjVrOVVBYlFzaTVNX2pzSmVJQVFEb200N2VuSmNXUWVGbGlRY3NTQWh4dXdkbV9SQmZlb1FRcDNLRFE?oc=5",
-    "source": "comicbook.com",
-    "title": "Highlander Star Stan Kirsch Dies at 51 - comicbook.com",
-    "summary": "Highlander Star Stan Kirsch Dies at 51 comicbook.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: death (dies)",
-      "also matched: Stan Kirsch (100)",
-      "source age: 2453.5 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "9f3883f342b6393a6eb0",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -53535,5 +53473,67 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "5fdc8354b49f93805a78",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 26 Oct 2026 20:13:01 GMT",
+    "captured": "2026-10-27T00:01:45Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVV4dEVRd0wwa01Dd3k0X2ZLRUV3d1hITk03T0NVWTIxRENNS284SDB6RVlGbk5paFk4RlIwSlE3RU5zOGtpTmZIX1ZLazBCSDh5WnQ0X3U5cVNvX3RBbU4tSk5PcHZXY1dHWmdOWTFCN1I2eWpzTXdFWXpkRjFVUnFjT1ItM3RrZk4tTVhvTjQzTjhPbEYteTRZdlRHalplNHVFUG13?oc=5",
+    "source": "Yahoo",
+    "title": "Henry Cavill Got Shredded for 'Highlander' Using One Highly Unusual and Dangerous Training Tool - Yahoo",
+    "summary": "Henry Cavill Got Shredded for 'Highlander' Using One Highly Unusual and Dangerous Training Tool Yahoo",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.2 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

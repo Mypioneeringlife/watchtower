@@ -1,70 +1,5 @@
 [
   {
-    "id": "bd252a2430619c688e0a",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      },
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 05 Mar 2018 22:46:02 GMT",
-    "captured": "2026-10-03T18:42:14Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50ekZWQno4YU9SYmRodVB1WlRWTHYtTEU1aWF4Wko4bk5id0VrNHhhQXU0TkNKdlhfdkxtRkJJZGRuMERFVHczSGFzNjc3NWJ6RHZzbHVNS0pnel9nYk9DdjJQZTFONXJzMjFLcF9EWmVzNXhoT2N4aHB3YkV2X3M?oc=5",
-    "source": "Dignity Memorial",
-    "title": "Ray Austin Obituary - Rockledge, FL - Dignity Memorial",
-    "summary": "Ray Austin Obituary - Rockledge, FL Dignity Memorial",
-    "evidence": [
-      "matched entity: Edge",
-      "event: death (obituary)",
-      "also matched: Ray Austin (72)",
-      "source age: 3133.8 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "ba9e571aefc49d61bf62",
     "entity_id": "richard_martin",
     "entity": "Richard Martin",
@@ -53521,5 +53456,53 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "54081ec62024bb79f605",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 28 Oct 2026 16:30:11 GMT",
+    "captured": "2026-10-28T19:47:51Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRkdIZ0pLY2hMcVdkU2tRNnJQVXZSc3I2SWJUUHo4VElVNnY1S3pITThvcFBnQmp0bnFhc1p3cndqS3lTLXo5ek4zRmZjM0c4OHhkQ0gwNnNhTTlTam1zdnRMbG1DbG1ISnoxaWtRLWV6M0hxUHBRZDZGNTkzX1pUUTlwem4xZw?oc=5",
+    "source": "Comic Book Resources",
+    "title": "Henry Cavill's Upcoming 80s Movie Reboot Is Already Better Than Peak Game of Thrones In Every Way - Comic Book Resources",
+    "summary": "Henry Cavill's Upcoming 80s Movie Reboot Is Already Better Than Peak Game of Thrones In Every Way Comic Book Resources",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 0.1 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

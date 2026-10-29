@@ -1,152 +1,5 @@
 [
   {
-    "id": "62526527a02639c9efee",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 08 Feb 2026 08:00:00 GMT",
-    "captured": "2026-10-04T18:39:35Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTzJfMEFsOHFqQVVFLTBGbFgteU11QkE0Y3ZUNTYyc1VHa21VekZOd0VnQkJmRUdFUlhqZW1OS3dRbmxrZkNleHF3N0lGQURzOVRha3p5eUZDUkdGVS1wcHpzckhvSmJ5YmtabUNKVFNZRjJ6U1lmNjBmb2k1RE9vVmk3OHE3eVM1b2F0ZXdFcXI?oc=5",
-    "source": "obits.mlive.com",
-    "title": "James Bruce Weir Obituary (1925 - 2026) - Durand, MI - MLive.com - obits.mlive.com",
-    "summary": "James Bruce Weir Obituary (1925 - 2026) - Durand, MI - MLive.com obits.mlive.com",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 238.4 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "23ff762ce5f27d8c8c5f",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 21 May 2026 07:00:00 GMT",
-    "captured": "2026-10-04T18:39:35Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UUWlIZExtTFNvalhoSldFSDF6WlVJcW4xdnBoZ3R3bUF6dVBTV2l4VGJwMTNGUzBsVzVOQ2x1YW1HNjM5YmJZRTdyallyREFIZFdVaXBrQ2ZjLUVpd1R6eWlreldPQ3V5UHB1dFpWWVBrUQ?oc=5",
-    "source": "avoyellestoday.com",
-    "title": "Obituary for James Bruce Gaspard - avoyellestoday.com",
-    "summary": "Obituary for James Bruce Gaspard avoyellestoday.com",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 136.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5415f02bb31ba4f47932",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 10 Oct 2025 21:30:24 GMT",
-    "captured": "2026-10-04T18:39:35Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BNnRMc0JDYXJ5cWtJekFFQm5mOWN4cGJoejBWY0pmM05vSW1pbE11SHBSd2RaLUxxYWltTVZZNHloUUdRMnpuMVhMRW91aHFfNDdCdVprOGtzenQ1TGxlMWhvN3VtNkdsdVdGMQ?oc=5",
-    "source": "preddyfuneralhomes.com",
-    "title": "James Bruce Vanskike Obituary Jul 5, 2024 - preddyfuneralhomes.com",
-    "summary": "James Bruce Vanskike Obituary Jul 5, 2024 preddyfuneralhomes.com",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 358.9 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "19fadbb3726a62326f57",
     "entity_id": "james_bruce",
     "entity": "James Bruce",
@@ -53322,6 +53175,195 @@
       "source age: 870.4 days"
     ],
     "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "636482d2ae8d0a22b33f",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 22 Nov 2016 08:00:00 GMT",
+    "captured": "2026-10-29T00:17:56Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTVJiQVhLeTloR0V1TVhoVld6by0zVlk3TG5rallEaHVfa1NBUDRmUGlEZUNsS2hZYmlBM3VrSVJrMHJyWkw0WWNiOVE4Z1NvckRjODhJc3VpVENyd1lwWk9XYzU5eGtkdUlfRlV4dFVUQzd4SkQ2bV9vN2x5dVpXZlBqMWJJZHBuXzFIUXJIejUzWG9DMjdxSlpGTGhWcncxRjlLQkc4NG5EU2xiaFYwOWZpdGpfb3dMbEhoOQ?oc=5",
+    "source": "The Hollywood Reporter",
+    "title": "‘John Wick’ Director Chad Stahelski Tackling ‘Highlander’ Reboot (Exclusive) - The Hollywood Reporter",
+    "summary": "‘John Wick’ Director Chad Stahelski Tackling ‘Highlander’ Reboot (Exclusive) The Hollywood Reporter",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, director, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 3627.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f47a7caab5383169525d",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 22 Nov 2016 08:00:00 GMT",
+    "captured": "2026-10-29T00:17:56Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kREtzdzRBbVY5eTR5SlBDc3FBYnNzZ2tBX1hKWFNYSFd0Y0NFdGZhOTdLRTlLajNiZUJUVlk5WnhYVXNoTHR5ek9zaXBJTG1YdlVFUV9adF9kRFNSVGRjaU16bHRwajFDODNKaE1Xd1JvMkZIRGw3Uw?oc=5",
+    "source": "Collider",
+    "title": "Highlander Movie Reboot to Be Directed by Chad Stahelski - Collider",
+    "summary": "Highlander Movie Reboot to Be Directed by Chad Stahelski Collider",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 3627.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "0c0b6b43e42b849190ae",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Tue, 22 Nov 2016 08:00:00 GMT",
+    "captured": "2026-10-29T00:17:56Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLWJVemF2WDZhWTVpRzQ1eFFxbHdTekZHY1BjaHdjQmY5ekNaQ0ZXS0hxa3hSQXlKMkE0ekhlanJMd2hxZ2k0T2hfRFFyRmVMUkJEdU5oM2hlOTFWaVotSkpBX004Z0VZUzJYRjFCV0xqLVhBaDctQUxLM1lqZ055Xw?oc=5",
+    "source": "SlashFilm",
+    "title": "'Highlander' Reboot Scoops Up 'John Wick' Director Chad Stahelski - SlashFilm",
+    "summary": "'Highlander' Reboot Scoops Up 'John Wick' Director Chad Stahelski SlashFilm",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, director, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 3627.7 days"
+    ],
+    "score": 100,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

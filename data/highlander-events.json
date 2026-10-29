@@ -1,54 +1,5 @@
 [
   {
-    "id": "5d49048ec3cdc5a4a6a2",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 06 Aug 2021 07:00:00 GMT",
-    "captured": "2026-10-04T18:39:35Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBON09xSG5jc25jVmlNeS1NUnc1UFg1YTNhZEJvTTVLTjg1NnJpQnJEUVF0NjFSRWxJYnd2d0VPTzZyNEF3S0ZBZjBEV3hKbVFqbC15b0hZdVV2SmMzRGRFd1lTSTJiZw?oc=5",
-    "source": "newcomercasper.com",
-    "title": "James Bruce Jackson Obituary Aug 6, 2021 - newcomercasper.com",
-    "summary": "James Bruce Jackson Obituary Aug 6, 2021 newcomercasper.com",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 1885.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "4900f5e7d8e572598e87",
     "entity_id": "james_cosmo",
     "entity": "James Cosmo",
@@ -53389,6 +53340,54 @@
       "event: highlander_production (reboot, filming)",
       "also matched: Highlander (100)",
       "source age: 137.0 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "6dc071613092878ccc24",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "health",
+    "source_date": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "captured": "2026-10-29T19:47:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGJxMGRrN1E4RzgyaHM1cUFnS29oX2pLbjktUFgzTkZrdktoYkVrdWtYemxNR2NBaUt5TEQxLUN1b1UxbS1hWVhJTlBYVTMyRDBteGhmdzRrTnpyLXd5WDF6ZGpyOEJjdEpOTzJNRjBEbjdhVFRCOU9KTHBzY2hlSkVldm9lMDdsOVJ0bU90UExRb3RnYVlJNVpfWk42MllySkJF?oc=5",
+    "source": "Inner East Review",
+    "title": "Highlander star 'rushed to hospital' after collapsing - Inner East Review",
+    "summary": "Highlander star 'rushed to hospital' after collapsing Inner East Review",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: health (hospital)",
+      "source age: 80.5 days"
     ],
     "score": 100,
     "route": "Corrupted Chronicle research",

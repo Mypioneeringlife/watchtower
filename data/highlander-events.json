@@ -1,103 +1,5 @@
 [
   {
-    "id": "19fadbb3726a62326f57",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 18 Apr 2022 07:00:00 GMT",
-    "captured": "2026-10-04T18:39:35Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83WFJWeDJMSmo0UjF5ZXVYWkx2T2FKcEdjcTdWQVo4eXppOFJJXzc2TXFINFFHQ1hMQWJrVjVqWDNFUWJBbUtScDJhdllIUVBaZnJ2OGFsZE0taGkxVXZuTmczMGE3REpSMXowMUFn?oc=5",
-    "source": "galbreaithpickard.com",
-    "title": "James Bruce King Obituary Apr 18, 2022 - galbreaithpickard.com",
-    "summary": "James Bruce King Obituary Apr 18, 2022 galbreaithpickard.com",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 1630.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "f52fe27c898df4e6aa53",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 23 Aug 2023 07:00:00 GMT",
-    "captured": "2026-10-04T18:39:35Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrbnR0dmZVMDg1SkdySi1TWDRZM0NVQnJ5SnJjUTBmWndBNjl3UXpaYzZ6VUVWekRIdjBkcVBDLUpBZHlOMndDb0RTblJudG9Vc3ExWWU5QjhuOFZDejZDLVFR?oc=5",
-    "source": "E. Alvin Small Funeral Home | Colonial Heights, VA",
-    "title": "Cynthia \"Cindy\" James Bruce Obituary Aug 23, 2023 - E. Alvin Small Funeral Home | Colonial Heights, VA",
-    "summary": "Cynthia \"Cindy\" James Bruce Obituary Aug 23, 2023 E. Alvin Small Funeral Home | Colonial Heights, VA",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 1138.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "5d49048ec3cdc5a4a6a2",
     "entity_id": "james_bruce",
     "entity": "James Bruce",
@@ -53362,6 +53264,131 @@
       "event: highlander_production (reboot)",
       "also matched: Highlander (100)",
       "source age: 3627.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ef479e9e9950efc282e2",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 18 Oct 2026 12:00:45 GMT",
+    "captured": "2026-10-29T08:49:45Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByU2Y5b1RFTU43UXNJcksxZmJyWWRkZ2VyMC0zRUszQ09Td0ZlMUlLUGJGOFNOSFI5dER0YzlNMzJvQ0s4RUthSlJaNm90dw?oc=5",
+    "source": "IMDb",
+    "title": "WWE Star Drew McIntyre Officially Reveals Henry Cavill's Shocking New Skill in 'Highlander' [Exclusive] - IMDb",
+    "summary": "WWE Star Drew McIntyre Officially Reveals Henry Cavill's Shocking New Skill in 'Highlander' [Exclusive] IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 10.9 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "182d3a9d6458c78d8bda",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sun, 14 Jun 2026 08:35:50 GMT",
+    "captured": "2026-10-29T08:49:45Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45UEwycnMwd0dvazJaTlFxR1E5QVhOWmU2NXdzZExkWjh0MzlyNWt1cGRxU3BtYk5vQ2swWUp4NS13ZUcyS2tnNlduLUZYeXhGZ25mZEhjQU5laWxMVzlWRGhB?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill's New Highlander Reboot Gets Exciting Filming Update From Russell Crowe - IMDb",
+    "summary": "Henry Cavill's New Highlander Reboot Gets Exciting Filming Update From Russell Crowe IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot, filming",
+      "event: highlander_production (reboot, filming)",
+      "also matched: Highlander (100)",
+      "source age: 137.0 days"
     ],
     "score": 100,
     "route": "Corrupted Chronicle research",

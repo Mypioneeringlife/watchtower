@@ -1,52 +1,5 @@
 [
   {
-    "id": "653ef6890c6abe907f82",
-    "entity_id": "don_douglas",
-    "entity": "Don Douglas",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "don_douglas",
-        "name": "Don Douglas",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 30 Sep 2026 20:46:00 GMT",
-    "captured": "2026-10-05T22:02:04Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckU4RFFNMlhwSzRNQnpsQnJzX1RTSTN0UU0wSl9KUFJRWUtQdTFGcTBQYXV3NW82R2pfcFZlSF93MzZCZWtpc1F5dlpnRVUzOU1id2kwelpZVU4xUGtlX3JiUFJsWjNHNGZtX2w1ZHBZUFZ4Nl9HODVTV1BxN2tneVBVMkdNLTRFQWktcHJpaW1DOEZhM1VQLURQTnI4UkNfVWV3LS1JcE5wNnhNbi1mUkVmaldwZGhQdzRvc0xfaWNwSjJBUVAxM3JqNDh6SDF2RWcwcXFWdw?oc=5",
-    "source": "The Oklahoman",
-    "title": "Don Douglas, engineer who helped revive the Oklahoma River, dies at 90 - The Oklahoman",
-    "summary": "Don Douglas, engineer who helped revive the Oklahoma River, dies at 90 The Oklahoman",
-    "evidence": [
-      "matched entity: Don Douglas",
-      "event: death (dies)",
-      "source age: 5.1 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
     "id": "e16df898ed062fa26673",
     "entity_id": "edge",
     "entity": "Edge",
@@ -53285,6 +53238,68 @@
       "source age: 1868.9 days"
     ],
     "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "45837376aecf0e8582bc",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 14 Nov 2023 08:00:00 GMT",
+    "captured": "2026-10-30T23:59:46Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wcHFTb2xrZjZpb2RsaEZaYmJybkdDdXdMaXdzaEdReTR5X1hqNWZwcXcxcE1ZRENuYm1KYS1kQmxac1IyMDZXZEVJWmdWSWN0cWtqc1l2Z1Y5Y3gzTlJySWlIUHJVNnF0VmE2THBQRW81SkdrSlQ0cTQyNkNrSU0?oc=5",
+    "source": "Giant Freakin Robot",
+    "title": "Henry Cavill Highlander Release Makes Fans Furious - Giant Freakin Robot",
+    "summary": "Henry Cavill Highlander Release Makes Fans Furious Giant Freakin Robot",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 1081.7 days"
+    ],
+    "score": 74,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

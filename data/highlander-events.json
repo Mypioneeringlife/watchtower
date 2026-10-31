@@ -1,107 +1,5 @@
 [
   {
-    "id": "9385ee027757db530e6c",
-    "entity_id": "raoul_trujillo",
-    "entity": "Raoul Trujillo",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "raoul_trujillo",
-        "name": "Raoul Trujillo",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander III: The Sorcerer"
-        ],
-        "score": 52,
-        "event_type": "new_project"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander III: The Sorcerer"
-    ],
-    "event_type": "new_project",
-    "source_date": "Fri, 20 Oct 2017 07:00:00 GMT",
-    "captured": "2026-10-05T22:02:05Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd041bGg5Z2tjeDlhdHp2ZHQ5VElBa1lxVkp6bWVVSm5GT1RRVUczXzJRUl9SUWxhRVZRSUR0d1ZQQ0M3aFBGVWJtZTY3NjZ1T1hSdnhqbTJhTHJwdmVxZm5fOUtmRlJzekNMNF9wV1RsbjhraG9PSEFiUGdCY0gtNHFMNTVVZUhiYUM2cTJJdVkyQdIBlwFBVV95cUxPYzVISGRZNjZJUlkyc2wtVHN6R1N6YTI2WVR2S0JSS0JHeTJTMUxrMHgzY0U3TVNLZ1NRZUM2X09uNXVmT1o4NVVuWWZnNnQwVDlVcjliVnVDLWlGU0RwdE5TMGV2MTVQSFp0X0dkTTZyMUg0djRnWlM4d1VtejdYRWNCUEZYYVJSZnZrbXJJZEdXVEEzUmpV?oc=5",
-    "source": "tvseriesfinale.com",
-    "title": "Sons of Anarchy: Raoul Trujillo Cast in FX’s Mayans MC Pilot - tvseriesfinale.com",
-    "summary": "Sons of Anarchy: Raoul Trujillo Cast in FX’s Mayans MC Pilot tvseriesfinale.com",
-    "evidence": [
-      "matched entity: Raoul Trujillo",
-      "event: new_project (cast in)",
-      "source age: 3272.6 days"
-    ],
-    "score": 52,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "1a29bc69684f8563d3b9",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 12 Aug 2026 07:00:00 GMT",
-    "captured": "2026-10-05T22:02:05Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWC10ZTRxOV9RZXRYWW1GOW1BZHpVRllMQjc1T1IwSlZXVThrbXVfNmR1bXg4aVh0MkpLNmswUFFESS1WLWRWZW9FNDd2UkNkejl2Q2NDRFZKXzBEZm1RdU9TdWNWeEE4U0ptTnI2UGxJN3JUTjNQak51VnVkcmdkNWFB?oc=5",
-    "source": "Legacy obituary",
-    "title": "Gerald Ray Austin Obituary (2026) - Red Bluff, CA - Blair’s Direct Cremation & Burial Services - Red Bluff - Legacy obituary",
-    "summary": "Gerald Ray Austin Obituary (2026) - Red Bluff, CA - Blair’s Direct Cremation & Burial Services - Red Bluff Legacy obituary",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 54.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "7b3650354de4eed6365f",
     "entity_id": "ray_austin",
     "entity": "Ray Austin",
@@ -53379,6 +53277,115 @@
       "source age: 159.8 days"
     ],
     "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "65387f796a06ee76279e",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 26 Oct 2026 15:10:39 GMT",
+    "captured": "2026-10-31T23:37:19Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuVl9YSGhFeEdfUTFpMzFGVzZDWkZsMGZETHVfUFR2YVFPWERnQlk2Z3N0ZFMxckRvWjIwbDg4M2p4S2RxS2pubXlXcjNoZ0RJTXc?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill’s ‘Highlander’ Scottish Accent Is Officially \"Bang On,\" Says Co-Star [Exclusive] - IMDb",
+    "summary": "Henry Cavill’s ‘Highlander’ Scottish Accent Is Officially \"Bang On,\" Says Co-Star [Exclusive] IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 5.4 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "f5b2c7a473409e63bc25",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 04 Mar 2026 19:03:14 GMT",
+    "captured": "2026-10-31T23:37:19Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWNDR0EzNTdSUHZlTmJnelpVNmllMkJHWGE0aGh2dXdRbW1heFlEZFpIdjh6VHF6Mm1iRkVLdVRsQ3NRcFFScDZWWm5NSHlHdGEwRjZpeHA0NFF4Z1BTcGRQREVIaVRod0xueGNraG1OMktiOFI4dmRlT0QxMkN1RU1EYXdIaFlMRUpOdjNmMVluUFJYVVg3RmVZSUNTQXVUNURnVnhUb21kcy1fT0ROZw?oc=5",
+    "source": "Comics Bulletin",
+    "title": "First Look: The Original ‘Highlander’ Screenplay Has Been Adapted into a Graphic Novel - Comics Bulletin",
+    "summary": "First Look: The Original ‘Highlander’ Screenplay Has Been Adapted into a Graphic Novel Comics Bulletin",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 241.2 days"
+    ],
+    "score": 70,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

@@ -1,52 +1,5 @@
 [
   {
-    "id": "e16df898ed062fa26673",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 56,
-        "event_type": "legal"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "legal",
-    "source_date": "Mon, 05 Oct 2026 19:21:45 GMT",
-    "captured": "2026-10-05T22:02:04Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa2ZZRmc0RzNRakw0ZkZTWjVFU1MzS09yalBrM0htaE15Y0JRQ1RYR1kyajBQOHY3RnFINEVKMjZKdE1iWHhDSnVUNjdET2xiMzliVmtqWldIamhpU0c3LWtYcUhwbVFDNHlpVUdNSzFRN2lXMHJzOUVqZHVTSThFTnBmYlhNVWNDclh2Nzh0eVQyUV9DZzB2cjVyUW5HRFRCeXQ4SE11bXpJZjZDM0gwVURvTEFoSUVJRGlYNGJhbFI4dm5VUWtwVw?oc=5",
-    "source": "Blazer's Edge",
-    "title": "Former Blazers Coach Sees No Issues with Lillard, Morant Together - Blazer's Edge",
-    "summary": "Former Blazers Coach Sees No Issues with Lillard, Morant Together Blazer's Edge",
-    "evidence": [
-      "matched entity: Edge",
-      "event: legal (sues)",
-      "source age: 0.1 days"
-    ],
-    "score": 56,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
     "id": "c5b23c8b982cd54e5f6f",
     "entity_id": "edge",
     "entity": "Edge",
@@ -53303,5 +53256,67 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "ff3af98c95f8169140f6",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 31 Oct 2026 00:44:24 GMT",
+    "captured": "2026-10-31T08:46:04Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0bWVMOVMzT05YcUZmR3k2ZFZUSHJvQWotR1lPRjh1TXpNV1RCbmNDVmZTSlU2MmlVekhHbFVwUWJQSmw1eXJLcUJGVTliLTRrMHc?oc=5",
+    "source": "IMDb",
+    "title": "Henry Cavill’s ‘Highlander’ Scottish Accent Is Officially \"Bang On,\" Says Co-Star [Exclusive] - IMDb",
+    "summary": "Henry Cavill’s ‘Highlander’ Scottish Accent Is Officially \"Bang On,\" Says Co-Star [Exclusive] IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.3 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

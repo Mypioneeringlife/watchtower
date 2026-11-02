@@ -1,146 +1,5 @@
 [
   {
-    "id": "5d6b403ecd76ac6f294e",
-    "entity_id": "steve_arnold",
-    "entity": "Steve Arnold",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "steve_arnold",
-        "name": "Steve Arnold",
-        "kind": "person",
-        "roles": [
-          "director of photography"
-        ],
-        "franchise_titles": [
-          "Highlander: The Source"
-        ],
-        "score": 54,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "director of photography"
-    ],
-    "franchise_titles": [
-      "Highlander: The Source"
-    ],
-    "event_type": "interview",
-    "source_date": "Fri, 09 Sep 2022 07:00:00 GMT",
-    "captured": "2026-10-05T22:02:05Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZ2hfQVV3SVR1QmhvdV9kYmdVaTU1REdVU2daZ1BCR2hHanJmT0M1QzlvNXd5cVM0azFmbGZTd2lCVFB3SVVPRFdDZC1vekt6WUZxZ3RPYUdkUG44ZnViLThlMFFDNmtwTWdVOEkwa1N5M3Zwem53OGlVYkpBMi1TdUNZcWNPT2xZRnFQd3hJNEw0UWRHM0RlQ2JNelY4MmVtbUluS1F3V3RkdjM5S0puOFI5SnBYUjNPMjEwWk51R0xnOEFBMFNiRjBrclVTS08yblM1N1VZQl85OC1Pa05FbTJUczNNUnROY1lPaDJ2Zw?oc=5",
-    "source": "cantonrep.com",
-    "title": "Warren Harding football coach Steve Arnold reflects on rivalry with Massillon - cantonrep.com",
-    "summary": "Warren Harding football coach Steve Arnold reflects on rivalry with Massillon cantonrep.com",
-    "evidence": [
-      "matched entity: Steve Arnold",
-      "event: interview (reflects on)",
-      "source age: 1487.6 days"
-    ],
-    "score": 54,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4ca6e93103d57cd2854e",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 03 Oct 2025 07:00:00 GMT",
-    "captured": "2026-10-05T22:02:05Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qYV9sajhTbk82M2VqSllFdzA1MkZRUS1URm1KM0U5S3p1bTB0aFVsQlJnOXo4dXhrZW1nRFAxa08xQnlkZVhjNFlQSWUzYTB2b1BrVnlaOXFYTW5mNUY3aGxxbmRJZVMydVNZ?oc=5",
-    "source": "yoderculpfuneralhome.com",
-    "title": "Terry Nelson Gantt Obituary Oct 3, 2025 - yoderculpfuneralhome.com",
-    "summary": "Terry Nelson Gantt Obituary Oct 3, 2025 yoderculpfuneralhome.com",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 367.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4d5da057e8f9e61475b3",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 03 Apr 2021 07:00:00 GMT",
-    "captured": "2026-10-05T22:02:05Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrc3V3UzhDeDRjYk9FUzVZZVZYejJyZXIwWEUxS3JWWExpTmxNWF9UbXVtc1RqVGM5ME1fTGMwSVlKcTh1aUFKdUJxV242WGgzMVYya2xaRzh6Sl9kMlJmMHRfWjU1V3JKZUhQQW9B?oc=5",
-    "source": "Johnson Funeral Service",
-    "title": "Terry Nelson Obituary Apr 3, 2021 - Johnson Funeral Service",
-    "summary": "Terry Nelson Obituary Apr 3, 2021 Johnson Funeral Service",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 2011.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "2c71ac99136b54a2343f",
     "entity_id": "terry_nelson",
     "entity": "Terry Nelson",
@@ -53305,6 +53164,191 @@
       "source age: 391.7 days"
     ],
     "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "9ad79834f96942fc6880",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Sat, 22 May 2021 07:00:00 GMT",
+    "captured": "2026-11-02T22:51:52Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFhJLVROQUY5dzlJTnVxbGpsMEhwNmNWMjljV1pDek56R0JqMk9KS0dPanRwZF9GNDRwek40bHRmMlpmT1VLUENWczljVk1sLU56ZC1pYUhJYV9LekM5XzNsS212dVZqMHI0VUtxMWxTejhMcGRsVlNCZW52WVZ6SG41UFJqcXdUTndZTGVhRV9USHNwdEdybDYwUGlZSGhIZlQ1OVVXMXRwcTlMR2c?oc=5",
+    "source": "IGN Southeast Asia",
+    "title": "Henry Cavill to Star in Highlander Remake, John Wick's Chad Stahelski Directing - IGN Southeast Asia",
+    "summary": "Henry Cavill to Star in Highlander Remake, John Wick's Chad Stahelski Directing IGN Southeast Asia",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "event: highlander_production (remake)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Highlander (100)",
+      "source age: 1990.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5810022c19342f40e73e",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 02 Nov 2026 11:47:01 GMT",
+    "captured": "2026-11-02T22:51:52Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTUpuY1VyX1hNRFdBcmFJWHJiX1ZqNkpFUnluVTRkcUpucGRFNHVWYXo2SVlfdmdXNW9CaEdxNmE1cUhLSlRERjhrMU9RcmhrbXNqUUNrQlVkell4Z0lVSlhscGZMZjJ0NW5mNUF1b1o1R0g3M0ZCenFpU3I4aVJrU05hejI2ZGtjd1lfQmYyMzhsb3ZCREg0?oc=5",
+    "source": "Fortress of Solitude",
+    "title": "Highlander II Turns 35: The 0% Rotten Tomatoes Sequel That Got a Director’s Cut Where the Aliens Never Happened - Fortress of Solitude",
+    "summary": "Highlander II Turns 35: The 0% Rotten Tomatoes Sequel That Got a Director’s Cut Where the Aliens Never Happened Fortress of Solitude",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 0.5 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "8c855caf06a65dcdf0e0",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "appearance"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "appearance",
+    "source_date": "Sat, 03 Oct 2026 07:00:00 GMT",
+    "captured": "2026-11-02T22:51:52Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYjdQa2lIVjN0cy1YQ3ljejdORnR6LUZvVk5kUzVweFNKUGlZV0R5dkFydl9Oa2lvd1pUeWNsWnVSeThrUjdNOTNKNDFhTDBnNmJsMGtKaUp4UDJpMWlQdnFjRm5xcTBaMlJXaUJHQkhLODZOcmI4UWRsVE0xNld4MlVaRHp1czBONFgxMEQyV1NiZV9scmpUNXMtb01GajZKYUwxZHczczNaWVNaLW9EYzVja29lNlFKWGNlRkFnS2VBTVVfaHgtYkpFSTNhWWNJcDFodjNqckhwaE9QWHc?oc=5",
+    "source": "Reuters Connect",
+    "title": "Licensable video: Christopher Lambert attends Comic-Con Málaga - Reuters Connect",
+    "summary": "Licensable video: Christopher Lambert attends Comic-Con Málaga Reuters Connect",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: appearance (comic-con)",
+      "source age: 30.7 days"
+    ],
+    "score": 68,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

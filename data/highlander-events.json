@@ -1,144 +1,5 @@
 [
   {
-    "id": "f7d19a8aef824855285c",
-    "entity_id": "christopher_lambert",
-    "entity": "Christopher Lambert",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_lambert",
-        "name": "Christopher Lambert",
-        "kind": "person",
-        "roles": [
-          "Connor MacLeod",
-          "actor",
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II",
-          "Highlander II: The Quickening",
-          "Highlander III",
-          "Highlander III: The Sorcerer",
-          "Highlander: Endgame"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "Connor MacLeod",
-      "actor",
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander",
-      "Highlander II",
-      "Highlander II: The Quickening",
-      "Highlander III",
-      "Highlander III: The Sorcerer",
-      "Highlander: Endgame"
-    ],
-    "event_type": "other",
-    "source_date": "Sat, 04 Apr 2026 07:00:00 GMT",
-    "captured": "2026-10-06T19:46:08Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWklTNFdxby1pN1lJRWR3NEFCNWV4a3lOX1MyY2IzSUtBa3EwMlJRTTZ5Z2pCSjNhZnJSQndnMmlSQTZYR0U1QWpUSzZhbHdXOTNCWkNaX3dNLUw0MWZKbXdJel8yN3BMdnBzYnV6YVRDVmpWUGNOVXBQSGZMVGlFQV9YNVk3YnRQNEhhQkRQQndBUQ?oc=5",
-    "source": "Fortress of Solitude",
-    "title": "40 Years Later, Christopher Lambert's Highlander Stands Out As An Amazing Concept But Terrible Movie - Fortress of Solitude",
-    "summary": "40 Years Later, Christopher Lambert's Highlander Stands Out As An Amazing Concept But Terrible Movie Fortress of Solitude",
-    "evidence": [
-      "matched entity: Christopher Lambert",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 185.5 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "b59c16bcfbd100728d95",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Thu, 16 Apr 2026 07:00:00 GMT",
-    "captured": "2026-10-06T19:46:08Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEJYeWZabFJWZU5wX2IxRW9ieEF2M09ON2lyemh5eGo0WWtrLWE5akI5N3NVV1RmNkdjYzF2RWZsUlJ4Q1Q0bTM4M0laMUFOTURBdnlJeDlkZmY5OHhoWVJOV1haeTBrbXZiWGlfdmxhNGVNTDN1NFV1aW45cnpEa05MM0xpbjhpYjgxOWFfU3k5c1VuZGRhSGxzQU5HY3ZJWUhwQk5ZSWZ4ZUVhd1NnQzFHRkRDUXpiWXc?oc=5",
-    "source": "Shortlist",
-    "title": "First look at Henry Cavill in the new Highlander reboot has been revealed - Shortlist",
-    "summary": "First look at Henry Cavill in the new Highlander reboot has been revealed Shortlist",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander, reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Highlander (100)",
-      "source age: 173.5 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "f8a5b81585a1ae608c5d",
     "entity_id": "henry_cavill",
     "entity": "Henry Cavill",
@@ -53133,6 +52994,100 @@
       "source age: 2179.1 days"
     ],
     "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5cc4a9b7a07f4da0e31c",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 64,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "legal",
+    "source_date": "Tue, 03 Nov 2026 12:18:46 GMT",
+    "captured": "2026-11-03T20:35:45Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcFJzcGw4NXl5LUdkLWd4Wk9kYVJGOUdqOTdaZW9GT1BwWVZDZElRSi1SZmRjVVcxRGFBWlYtWGtmMjByNE9yUHZKUmZOV0k0bDB2LWZuN05MTk9Nc1V3VkpsVDljQ092QmdLaVlGNkMyLXRlaUVnNGltVzc4emtLakFnVzNnQ1JKVTZfREhRcFNuQ1VhWmt3MVU2S0Q2MmFQSHRGRDk5Y2VDSjE5MDBHZGVwaXlmaEM3bjh6d0x4M3dWNmJWdEdqVmY3UFowTU91cGlDbGFrQXpCVm5PMEVaUWpvaw?oc=5",
+    "source": "IGN",
+    "title": "Mike Flanagan Issues Warhammer 40,000 Update - IGN",
+    "summary": "Mike Flanagan Issues Warhammer 40,000 Update IGN Mike Flanagan thinks 'Warhammer is a fascinating world' but can't tell us anything else about the upcoming Warhammer 40,000 project because 'Henry Cavill would be furious' Yahoo Henry Cavill's Amazon Action Sci-Fi Series Based on $7B Franchise Gets Update 4 Years Later MovieWeb Henry Cavill’s Warhammer 40K Series Just Got a Cryptic Update From Mike Flanagan Polygon.com Henry Cavill's Warhammer 40K TV show has a \"very cool and unexpected\" premise, according to Mike Flanagan GamesRadar+ Mike Flanagan thinks 'Warhammer is a fascinating world' but can't tell us anything else about the upcoming Warhammer 40,000 project because 'Henry Cavill would be furious' PC Gamer Henry Cavill's Live-Action Space Opera Series Delay Explained by Mike Flanagan Comic Book Resources Mike Flanagan Teases a “Very Cool and Unexpected” Way Into Henry Cavill’s WARHAMMER 40,000 Series GeekTyrant",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: legal (sues)",
+      "source age: 0.3 days"
+    ],
+    "score": 64,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "51504bc60ee525439089",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 76,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "health",
+    "source_date": "Tue, 19 Nov 2019 08:00:00 GMT",
+    "captured": "2026-11-03T20:35:45Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM1JWQi1wM2drdlZYbTB2RWZqNkxCdEpRZENtVjZEaGpiUTFfM0dGNFd4WVJJbFpNRnA5dElfRTFoSnhDR3VqbElwYTVUUEx4OTZ2alFEdDZ5OER1MFBXY3JQcUJNc0phcFVaSEtvcFg2bEN1VHZScENzQ0N1WWZKTmRiSkNzQzZodzBPQw?oc=5",
+    "source": "Men's Health",
+    "title": "Good Afternoon, Henry Cavill Is British - Men's Health",
+    "summary": "Good Afternoon, Henry Cavill Is British Men's Health",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: health (health)",
+      "source age: 2541.5 days"
+    ],
+    "score": 76,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

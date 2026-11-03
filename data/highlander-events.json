@@ -1,282 +1,5 @@
 [
   {
-    "id": "f8a5b81585a1ae608c5d",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 78,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Tue, 06 Oct 2026 14:00:11 GMT",
-    "captured": "2026-10-06T19:46:08Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUkQyMHB3Yk5PXzRNMXBxMnpyM2NaZkh6aUE3ZnZfWlFZb0dtZXF3ZjRCbzJKNDQxV3BkRnRQQUhKVGJkWmZ1eDBWN2hVeTV3ODVSQy14WGRpYWRNLTB5SW1hYTZaZ1d6TE12SjFpdjl5MDJvTmdxVUZuV0VXVWk1NjZXMHphWG5MeThF?oc=5",
-    "source": "Comic Book Resources",
-    "title": "Henry Cavill's New 80s Sci-Fi Movie Reboot Is Mandatory Viewing for Transformers Fans - Comic Book Resources",
-    "summary": "Henry Cavill's New 80s Sci-Fi Movie Reboot Is Mandatory Viewing for Transformers Fans Comic Book Resources",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "source age: 0.2 days"
-    ],
-    "score": 78,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "041560c43c1a2612596f",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Mon, 18 Aug 2025 07:00:00 GMT",
-    "captured": "2026-10-06T19:46:08Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NU1ZFSmFXWFN1emtJb3hzSmE2ZXFBQ0V6TDNnNlFVUHo4N3pfYkJydHpOT3NoR2R6VXFyVUZ0VGg1akEyMWVXUXlLd2d5Nml6ZmQxeks1QmxMakVvVHlBOEFVc281LVhZYURyenItSEFyLXNJVldkRjJR?oc=5",
-    "source": "Looper",
-    "title": "Henry Cavill's Highlander Reboot: Every Confirmed Detail So Far - Looper",
-    "summary": "Henry Cavill's Highlander Reboot: Every Confirmed Detail So Far Looper",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander, reboot",
-      "event: highlander_production (reboot)",
-      "also matched: Highlander (100)",
-      "source age: 414.5 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "244240f6a3f39f75fd7b",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Wed, 15 Nov 2023 08:00:00 GMT",
-    "captured": "2026-10-06T19:46:08Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Jd2wxWE1feEdvZ0liUndkbnJ0NGZabUZPTU92M0N4ZUJNZ2FiWTd5blU0UTA2bkZQX3FYalZVSVFqaEJfbkVlZUM4VHJ2VmxJbWMwVlhST3k0bHZJNjFtZ2tmVHBzU0cwMk93djI1Y2xTM29XVlJibg?oc=5",
-    "source": "Looper",
-    "title": "Highlander Reboot Cast, Director, And More Details - Looper",
-    "summary": "Highlander Reboot Cast, Director, And More Details Looper",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "source age: 1056.5 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "b83cdfe2f8fc73f9aff4",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Wed, 04 Mar 2026 08:00:00 GMT",
-    "captured": "2026-10-06T19:46:08Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6bXA3dXZ0SkRhbWZiY0ZJdVJpQzRwMHhLWGdYVWN4YV91Ynk3bDg3aHp1WlBlWDd3RVR1a1VWMWMzb2UwcGE5ZW5iQjNIMmpvWGZOTlZFZw?oc=5",
-    "source": "Comics Beat",
-    "title": "HIGHLANDER’s original screenplay is becoming a graphic novel - Comics Beat",
-    "summary": "HIGHLANDER’s original screenplay is becoming a graphic novel Comics Beat",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 216.5 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "3e42875eacb86f41db73",
-    "entity_id": "gregory_widen",
-    "entity": "Gregory Widen",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "gregory_widen",
-        "name": "Gregory Widen",
-        "kind": "person",
-        "roles": [
-          "creator",
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander: The Raven",
-          "Highlander: The Series",
-          "Highlander: The Source"
-        ],
-        "score": 73,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "creator",
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Highlander",
-      "Highlander: The Raven",
-      "Highlander: The Series",
-      "Highlander: The Source"
-    ],
-    "event_type": "other",
-    "source_date": "Thu, 24 Sep 2026 11:26:40 GMT",
-    "captured": "2026-10-06T19:46:08Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQzNZYUJvNi1iTThGdmU4Nm1heUl3V1VjeWZBZUNaRHdfMTN3ajJzMXhjYm1nS2RsbXdGMnlZZFFmb0NydjZoYnd3ZUpXNXdxVzFKTTNmOHA4aXlkbmhoTllTTm9xNXJyV2ZId0ZUYXROQzhDd0N0YUY1RHlmT0hjV3BmSGdSSWJ1eVQ3YTRJb2s1OEtzeFZid1dSZ3FJTkpBVmo2M2x4bm9lOUZVOUZfUHQ5NEpEMjdId1VVSG41ZENNdw?oc=5",
-    "source": "Softonic",
-    "title": "Highlander: The Original Screenplay arrives in 2026: Titan adapts Gregory Widen’s first script - Softonic",
-    "summary": "Highlander: The Original Screenplay arrives in 2026: Titan adapts Gregory Widen’s first script Softonic",
-    "evidence": [
-      "matched entity: Gregory Widen",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 12.3 days"
-    ],
-    "score": 73,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
     "id": "2caf34cd0ef85899beee",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -53088,6 +52811,267 @@
       "source age: 2541.5 days"
     ],
     "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "8ef354fc5b57b42bb5b2",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Tue, 03 Nov 2026 15:40:56 GMT",
+    "captured": "2026-11-03T21:00:41Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSHBUcW4tTFpNRVlQUU0xcjNESVBQZXNfT25sZ1pQUGJBVVlTYzg1enJGeU54YURrOHF0aktHSVBXbTQ5VU04RHFEOXBZOHU0TUc3aG5VVTVYOWZBR1VWRVd6TDlLZk10bVp5ZG9sbC04cTRRSGh4MUpQcGJVSmY5cjhGRTJoQUJ6MUxjSzRHYw?oc=5",
+    "source": "WLWT",
+    "title": "Bengals place rookie edge rusher Howell on IR after undergoing wrist surgery - WLWT",
+    "summary": "Bengals place rookie edge rusher Howell on IR after undergoing wrist surgery WLWT",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (surgery)",
+      "source age: 0.2 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "ce1a75f28b348fa69965",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 03 Nov 2026 18:17:16 GMT",
+    "captured": "2026-11-03T21:00:41Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUHFtcEpySTkwckdJWm01cWhfanh4WV95c3BWdmhQRmdPcjc2Qkl4V0N2bE5wQXN1dkhrUG9JZDRhRGFMVHoxQ01Kam90SURFQjRwVVB4Zko4OENDUmZ0SzliQVExZEh1SUh1ZWFHSVVlLXVmVjY1OWZuRmxWdW1FQ0NDWXIzRlJaRVBGNlpQR21LbW0wS29yY1dHZlAtUjVJT3lQLTdydC1udTFIZXVXbllybzNSZ2g5Yk81NjBSMzNQamI1cFprU2pQYnlsOW9oWjJ3ZXdn?oc=5",
+    "source": "News12 | New Jersey",
+    "title": "River Edge Oradell Rally Around Firefighters Family After Wifes Sudden Death - News12 | New Jersey",
+    "summary": "River Edge Oradell Rally Around Firefighters Family After Wifes Sudden Death News12 | New Jersey",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (death)",
+      "source age: 0.1 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "04a4be2ddb3e122fde94",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 20 Oct 2018 07:00:00 GMT",
+    "captured": "2026-11-03T21:00:41Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcGQyY3gwbmdiSTk0YUFsdTNmc2JsWXNqTUZ5S3ZISEc2N3pKVTNuaktya0hHaXhjXzRrVmZpSlpKb2xfcE44bHd1VHJqNG5hRW9GTXdpbkpaWnh3QnEwRjYtaWM1NmQyVE52bmlIR3JCVnA3SFRWMWI3eEdxaU5vZUJ0NnY2QQ?oc=5",
+    "source": "Windsor Chapel",
+    "title": "Obituary of James Bruce Gordon | Central Chapel - Windsor Chapel",
+    "summary": "Obituary of James Bruce Gordon | Central Chapel Windsor Chapel",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 2936.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "37f536d2ec3a6c214f17",
+    "entity_id": "ray_austin",
+    "entity": "Ray Austin",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "ray_austin",
+        "name": "Ray Austin",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Deadly Medicine",
+          "Eyewitness",
+          "For Evil's Sake",
+          "Revenge Is Sweet",
+          "Saving Grace"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Deadly Medicine",
+      "Eyewitness",
+      "For Evil's Sake",
+      "Revenge Is Sweet",
+      "Saving Grace"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 01 Mar 2024 16:12:18 GMT",
+    "captured": "2026-11-03T21:00:41Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV19Xdld6ZHJNcEdMNnBOQUZhdGFReWRaX2NjRmItd0NvLTNrMUVWdkUzcElfeExLNi1qXzAzc2tyZ3V4SE9UN3hQZmUtNFhJUi12RTlsU2hJSGpDdWV5bDc2N3UwdTVvSE5ad3BwZU96VTZGaEtvMjBlcXNWYnc4X3ZxaDhncGc?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Ray Austin Obituary (2024) - Tucson, AZ - Arizona Daily Star - Legacy | Obituary",
+    "summary": "Ray Austin Obituary (2024) - Tucson, AZ - Arizona Daily Star Legacy | Obituary",
+    "evidence": [
+      "matched entity: Ray Austin",
+      "event: death (obituary)",
+      "source age: 977.2 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "33b547ed898e00bd3866",
+    "entity_id": "richard_martin",
+    "entity": "Richard Martin",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "richard_martin",
+        "name": "Richard Martin",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Armageddon",
+          "Black Tower",
+          "Diplomatic Immunity",
+          "Duende",
+          "Justice",
+          "The Stone of Scone",
+          "The Valkyrie",
+          "To Be",
+          "Two of Hearts"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Armageddon",
+      "Black Tower",
+      "Diplomatic Immunity",
+      "Duende",
+      "Justice",
+      "The Stone of Scone",
+      "The Valkyrie",
+      "To Be",
+      "Two of Hearts"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 08 Aug 2024 11:42:38 GMT",
+    "captured": "2026-11-03T21:00:41Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12ZWFVU0tXWk54a0dpbnZwRXJibnZLcExCcFMydUxTWkVoOXZ0eVpteFFFVl9qZWtzV2Rna01GcDRjR1Juam5YME5LemxTUHVsYTE1RW45Sm9CaE80alR3cXdlUWo4WFluYlE?oc=5",
+    "source": "newcomerrochester.com",
+    "title": "Richard Martin Boyce Obituary Jan 14, 2020 - newcomerrochester.com",
+    "summary": "Richard Martin Boyce Obituary Jan 14, 2020 newcomerrochester.com",
+    "evidence": [
+      "matched entity: Richard Martin",
+      "event: death (obituary)",
+      "source age: 817.4 days"
+    ],
+    "score": 72,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

@@ -1,52 +1,5 @@
 [
   {
-    "id": "fc61165edf8204b2e692",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Sat, 01 Jan 2000 08:00:00 GMT",
-    "captured": "2026-10-06T19:46:08Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FYXJnVV8tUE1lV0JEaHEzVE5OZldSWnkwbFRiU1IxNFA2eFl3d3pidURad2FYdHJEajhSclIxWVVlNjR1TkFvQ2szZnFqajMtcjQ1UGNLUUl2WldranA4S2FtMVZzc200RVdnMklMQQ?oc=5",
-    "source": "Empire",
-    "title": "Highlander Review - Empire",
-    "summary": "Highlander Review Empire",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 9775.5 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "6b87f79373dd7abfeb0e",
     "entity_id": "alan_swayze",
     "entity": "Alan Swayze",
@@ -53082,6 +53035,68 @@
     "score": 100,
     "route": "Corrupted Chronicle research",
     "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "532366b9c1c9708a5645",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 04 Nov 2026 16:36:24 GMT",
+    "captured": "2026-11-04T20:54:06Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SX1VyTUdsY0pha0tFMDVPWUFfNGRVX2FfeDltRmZ5YVNFQTFRdWozY2JjS2lUbDBsUE5scDZRQlJrQ0t6VXctVEFNbF9JODIycGRHdjJrS21DTkx0cTN2VjdGTUMxal90RUNSREpKTk5QMzREYUNqWXJ2ajUzZw?oc=5",
+    "source": "ScreenRant",
+    "title": "Highlander Confirms Second New Release Coming Ahead Of Henry Cavill Era - ScreenRant",
+    "summary": "Highlander Confirms Second New Release Coming Ahead Of Henry Cavill Era ScreenRant",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.2 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
     "status": "new"
   }
 ]

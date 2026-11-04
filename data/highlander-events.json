@@ -1,60 +1,5 @@
 [
   {
-    "id": "4b54894bc73664afe1a3",
-    "entity_id": "peter_wingfield",
-    "entity": "Peter Wingfield",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_wingfield",
-        "name": "Peter Wingfield",
-        "kind": "person",
-        "roles": [
-          "Methos",
-          "actor",
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame",
-          "Highlander: The Series",
-          "Highlander: The Source"
-        ],
-        "score": 78,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "Methos",
-      "actor",
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame",
-      "Highlander: The Series",
-      "Highlander: The Source"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 19 Oct 2023 07:00:00 GMT",
-    "captured": "2026-10-06T19:46:08Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTTYxenV1SEQyRkdaOVY5VkZUd1lrX2swaXV0OWFuQU9Bb2U1LUZZZzZUUUc1c1hNTzFWQmFUa18zLS1kV1p0Mm1LMlVSOEJaMnpSSEFLOHdZdWRNbVdYY2liRzdLWjhaNks1Mk4zVmt5RHczWm02eC1wbWhXQkdPNnVvQXVuVWhRS2RoUjFMbWJxVVU?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Peter Wingfield Obituary (2023) - The Star - Legacy | Obituary",
-    "summary": "Peter Wingfield Obituary (2023) - The Star Legacy | Obituary",
-    "evidence": [
-      "matched entity: Peter Wingfield",
-      "event: death (obituary)",
-      "source age: 1083.5 days"
-    ],
-    "score": 78,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "fc61165edf8204b2e692",
     "entity_id": "highlander_franchise",
     "entity": "Highlander",
@@ -53074,6 +53019,69 @@
     "score": 64,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "e286d336f8ea2a80a420",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 21 Oct 2026 07:00:00 GMT",
+    "captured": "2026-11-04T09:44:56Z",
+    "urgency": "high",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFJsTXNjTW5zQU9vMTlmSEVwV1c5VkdQRHBnYmI1Q1N2QUFKQkdsNjFDXzNoRHNiSUVBclQtWlhzS0EtRzh5TmZuXzA2VWM2d3BTd202SjBtN3hBMEE3YUxyTnFTYVp6UlhGQWdHX2RwMEN3QTQxczZ1R0FWeVBLNXZKcDlYR1FvRmxEancxUXZYdw?oc=5",
+    "source": "AOL.com",
+    "title": "Exclusive: Henry Cavill Promises the 'Highlander' Reboot Keeps Everything You Loved About the 1986 Original - AOL.com",
+    "summary": "Exclusive: Henry Cavill Promises the 'Highlander' Reboot Keeps Everything You Loved About the 1986 Original AOL.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 14.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
     "status": "new"
   }
 ]

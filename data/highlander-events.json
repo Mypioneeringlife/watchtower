@@ -1,52 +1,5 @@
 [
   {
-    "id": "2caf34cd0ef85899beee",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Sat, 13 Aug 2022 07:00:00 GMT",
-    "captured": "2026-10-06T19:46:08Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQTM4Mno5d3RQb0RwMlpxTXN2bUtlc0lhb0FkUzZYR29uYzdiRHRUUDRYZ0ZXUEJZbzhNODJGMHJNZlY4REdjYU8yRUt0OFlGSThuRUNOVWd3YU1wTjdoUGxINFlBRHMzbHUydHpvRUFDa2puVVRBLXdWRFVFbldTY2JR?oc=5",
-    "source": "Bounding Into Comics",
-    "title": "Highlander – What Every Sequel Did Wrong - Bounding Into Comics",
-    "summary": "Highlander – What Every Sequel Did Wrong Bounding Into Comics",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 1515.5 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "4b54894bc73664afe1a3",
     "entity_id": "peter_wingfield",
     "entity": "Peter Wingfield",
@@ -53075,5 +53028,52 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "02b4937e8b681ca100e6",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 64,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "legal",
+    "source_date": "Tue, 03 Nov 2026 11:21:22 GMT",
+    "captured": "2026-11-04T00:50:40Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qTGN3U1RBcnV1cEx1aTlSVlRBLVlPb3FnZVJUZnNMSXJROG1yVVhDWEJrWE1KenFMZWdEM0xoLTRfMTBKWEpnME43dnBMVEJPeHVnODlIVVplcnFXM0doR25HaS1YMzlTREdYYnlQYmMyRHZkOGNrTng4elM?oc=5",
+    "source": "MovieWeb",
+    "title": "Henry Cavill's Amazon Action Sci-Fi Series Based on $7B Franchise Gets Update 4 Years Later - MovieWeb",
+    "summary": "Henry Cavill's Amazon Action Sci-Fi Series Based on $7B Franchise Gets Update 4 Years Later MovieWeb Mike Flanagan Issues Warhammer 40,000 Update IGN Henry Cavill’s Warhammer 40K Series Just Got a Cryptic Update From Mike Flanagan Polygon.com Mike Flanagan thinks 'Warhammer is a fascinating world' but can't tell us anything else about the upcoming Warhammer 40,000 project because 'Henry Cavill would be furious' Yahoo Henry Cavill's Warhammer 40K TV show has a \"very cool and unexpected\" premise, according to Mike Flanagan GamesRadar+ Henry Cavill's Live-Action Space Opera Series Delay Explained by Mike Flanagan Comic Book Resources Mike Flanagan thinks 'Warhammer is a fascinating world' but can't tell us anything else about the upcoming Warhammer 40,000 project because 'Henry Cavill would be furious' PC Gamer Mike Flanagan Teases ‘Unexpected’ Way Into Henry Cavill’s Warhammer 40,000 Series Cosmic Book News Henry Cavill & Mike Flanagan's Sci-Fi Prime Video Series Warhammer Hits Major Milestone ScreenRant",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: legal (sues)",
+      "source age: 0.6 days"
+    ],
+    "score": 64,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

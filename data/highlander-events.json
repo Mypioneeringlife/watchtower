@@ -1,58 +1,5 @@
 [
   {
-    "id": "6b87f79373dd7abfeb0e",
-    "entity_id": "alan_swayze",
-    "entity": "Alan Swayze",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "alan_swayze",
-        "name": "Alan Swayze",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Take Back the Night",
-          "The Innocent",
-          "Through a Glass, Darkly",
-          "Vendetta"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Take Back the Night",
-      "The Innocent",
-      "Through a Glass, Darkly",
-      "Vendetta"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 10 May 2022 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPem9SVWpHNjh4eTNzLVFOVTZ5SnpHSUlNUExscG9wSlFBY2lWeFlvbmxGMjU0WW5wSko4cklYN2ZENWpuZ0FiR1RobEllOG03TDRrXzRpbUtXUkFQSUptOGgtRjZJTDB0ellYMEZLUlhwTUlPeVM5QnpycWtwbnBqcmdqbVA3MUxzbDFuRQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Alan Swayze Obituary (2022) - Marietta, GA - Marietta Daily Journal - Legacy | Obituary",
-    "summary": "Alan Swayze Obituary (2022) - Marietta, GA - Marietta Daily Journal Legacy | Obituary",
-    "evidence": [
-      "matched entity: Alan Swayze",
-      "event: death (obituary)",
-      "source age: 1610.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "0ca883573fe93c604fd1",
     "entity_id": "aubrey_solomon",
     "entity": "Aubrey Solomon",
@@ -53098,5 +53045,81 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "f62a0baa49760fc10492",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-11-05T21:10:59Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXR6dUlzU1JzSHhqVjRpTWpTLXVDM1NFZFdsa09OSEJPaG5yYVp2LWdIdXg1bU5yeGYwdjhCMElCTllQdUo2ZTBUMTh3UXdST01UMmVfQ21TRU91SFoxU0E4NjY4bXdTV1hBaWt0VnJyMG5OR1JZVUdtQmJiMlBucWlsZHdPbklsSmMxMGFBcWRqZzg4MFFPQUZWdkxuekc1ckRJSVpSck11RDVVSGhvSDU0UE54TENWTTFDc24yc9IBxAFBVV95cUxPbF93ZU5oWUlKZTR0T3A0YkN1LU9Wb2xyd3NmUnV0Q2FsMFZFVF9hRzM4dnRWVDRfWFJ4azBMRXVsd2FEOS04NkpKcUszcWhIMDE3MFFhMUlFT2pFZG5ENjFMb0E2MFRFVmdnTjdpMnRoMkF1V3lNd3FJRVZaQ2ltNUl3QjZ4MlZfUDMwZ3o4U0YyWUpMcXB1M2VfaWRJMWpsb1oyWVV0cnpMbFhJYkVvM1F0UEhicEM5ZnJwdzE5NGxHQVVw?oc=5",
+    "source": "ComingSoon.net",
+    "title": "Highlander Star Christopher Lambert, 69, Misses Comeback After Collapse - ComingSoon.net",
+    "summary": "Highlander Star Christopher Lambert, 69, Misses Comeback After Collapse ComingSoon.net",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 88.6 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

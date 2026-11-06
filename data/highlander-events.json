@@ -1,99 +1,5 @@
 [
   {
-    "id": "0ca883573fe93c604fd1",
-    "entity_id": "aubrey_solomon",
-    "entity": "Aubrey Solomon",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "aubrey_solomon",
-        "name": "Aubrey Solomon",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Revenge of the Sword"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Revenge of the Sword"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 26 Jan 2026 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTkJhcUFVVjM3Q21FamptTFlOMWwxbkdIQ3VCRFdnazJDTHZFM3JUSVd3X1R2S1FfOWxEUFR5VEptRjRqZDA0Vm5RV0t1ZldidHEwYzRyTm42akVJU0l3cDJFVU50cnhnR0hTZExsZFp5Zk9uX2FHZUNwQWt1UDMzQ0NqMA?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Aubrey Solomon Obituary (2026) - Palm City, FL - Forest Hills Memorial Park & Palm City Chapel - Legacy | Obituary",
-    "summary": "Aubrey Solomon Obituary (2026) - Palm City, FL - Forest Hills Memorial Park & Palm City Chapel Legacy | Obituary",
-    "evidence": [
-      "matched entity: Aubrey Solomon",
-      "event: death (obituary)",
-      "source age: 253.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "686af7f883273b79015b",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Mon, 15 Oct 2018 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aNUFsaEZkbEN2U3Z1RTZmS3g3YVBsQUhxOWdheWUwWWo5WlJXcm4wSVNHMFQ2RERXeElfdmhacTZmRGR4cW9MUkp0SW9VWGlfMldSbmV3eEkyenQ5ZDBHWTJCZlhFbmdwV1F1WXBNZ19WYkdG?oc=5",
-    "source": "Looper",
-    "title": "Where The Cast Of Highlander Is Now - Looper",
-    "summary": "Where The Cast Of Highlander Is Now Looper",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 2913.6 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "21cf4e2857ce7d51aef9",
     "entity_id": "bruce_payne",
     "entity": "Bruce Payne",
@@ -53121,5 +53027,122 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "ca6247ba176a720c6c78",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 80,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 06 Nov 2026 06:20:55 GMT",
+    "captured": "2026-11-06T09:45:19Z",
+    "urgency": "normal",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcktNV1FJNm0wMDA3UlBITExjOWJHRUlyZTN5ZWZLZ2Ezek1WamhMY3REc1ZCNDh3M0FtWDlEakxIUHd3ZFctbWJyUjFfSW1kOHlDOHk5S0RQd0lkMkNJS01MbmVwUTVrcVZOdldGY0dZRnZmYjJxQUFYS2YwTmN1am83SWF1djB6SS1tQTQzcDNBQzZwbU9xX2llc2RZYTIzZTVnbWRmNEhpWFZ0VVMyUk9yUzQ?oc=5",
+    "source": "MEAWW News",
+    "title": "Zack Snyder pays tribute to daughter Autumn with Henry Cavill photo 9 years after her death - MEAWW News",
+    "summary": "Zack Snyder pays tribute to daughter Autumn with Henry Cavill photo 9 years after her death MEAWW News",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: death (death)",
+      "source age: 0.1 days"
+    ],
+    "score": 80,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
+    "status": "new"
+  },
+  {
+    "id": "4b7d653e87189aaf4859",
+    "entity_id": "gregory_widen",
+    "entity": "Gregory Widen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "gregory_widen",
+        "name": "Gregory Widen",
+        "kind": "person",
+        "roles": [
+          "creator",
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander: The Raven",
+          "Highlander: The Series",
+          "Highlander: The Source"
+        ],
+        "score": 73,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "creator",
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander: The Raven",
+      "Highlander: The Series",
+      "Highlander: The Source"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 24 Oct 2026 07:00:00 GMT",
+    "captured": "2026-11-06T09:45:19Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSnVjNTRiOUlETVdzbWVYck5JYm9fYUlBNG1IZDZpcE9tNVNBRVNfNWs1UjZla0JxZkpmMTBsNGdaV0FuSVdDMjEzQXlKX3o3ZFExWV93S3lTbUg0SDBBZ1poQlJibmpsRFc5MzJwQXl3bXpwMjltcDNGMUlub3h0UWtma0xrUjZiczBYcllhbEhjLWItVXJUR0EtU3NDT1J6Y0VncTlDMXd3UQ?oc=5",
+    "source": "Foro3D",
+    "title": "Highlander returns with Gregory Widen's original screenplay in comic form - Foro3D",
+    "summary": "Highlander returns with Gregory Widen's original screenplay in comic form Foro3D",
+    "evidence": [
+      "matched entity: Gregory Widen",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 13.1 days"
+    ],
+    "score": 73,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

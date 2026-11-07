@@ -1,115 +1,5 @@
 [
   {
-    "id": "3091b4db36213e179d4f",
-    "entity_id": "charles_wilkinson",
-    "entity": "Charles Wilkinson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "charles_wilkinson",
-        "name": "Charles Wilkinson",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Brothers in Arms",
-          "Courage",
-          "Double Jeopardy",
-          "Obsession",
-          "Shadows"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Brothers in Arms",
-      "Courage",
-      "Double Jeopardy",
-      "Obsession",
-      "Shadows"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 11 Jan 2023 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUlsVWhZU3NKcE5ScG53T0V5dG9jWG1VYUxfZEV2cEJocDRIZmZZT21lVTNKRVVnNG04M1lQak5IQTFXbWMzc1pETU5yaFlRQWZSQm0zcWw2RHFra0dqV1E3ZHpVVDJTLXBOOGVmUHRMRlg0NDY1Tnc1M0w1anYtNzdveVFnYzFNYnIyZUpIYXZDeTJUWHdIQkd3?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Charles Wilkinson Obituary (1934 - 2023) - Memphis, TN - The Daily Memphian - Legacy | Obituary",
-    "summary": "Charles Wilkinson Obituary (1934 - 2023) - Memphis, TN - The Daily Memphian Legacy | Obituary",
-    "evidence": [
-      "matched entity: Charles Wilkinson",
-      "event: death (obituary)",
-      "source age: 1364.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "560fc49cd149ee3df5fe",
-    "entity_id": "charles_wilkinson",
-    "entity": "Charles Wilkinson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "charles_wilkinson",
-        "name": "Charles Wilkinson",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Brothers in Arms",
-          "Courage",
-          "Double Jeopardy",
-          "Obsession",
-          "Shadows"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Brothers in Arms",
-      "Courage",
-      "Double Jeopardy",
-      "Obsession",
-      "Shadows"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 27 Jun 2021 14:36:19 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS0RDQ0NYMmVHYTdrT3NKbnoxbFRCa01KV2o1OWJUaUxIdVI4NnZjSERhSFFwUkNjNlRXT0dwc2pWQ3p2OHFYaC1kUTdYemUyM2YtLUw4NHUtbHRfUlU5WTQyakhOd3NDLUV4Rng1VF93c0RhMVprRVRPaWZXM09wbllCTk81ZF8tUV94RWl6M1JRb2hfUEE?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "CHARLES WILKINSON Obituary (1952 - 2019) - Swampscott, MA - Boston Globe - Legacy | Obituary",
-    "summary": "CHARLES WILKINSON Obituary (1952 - 2019) - Swampscott, MA - Boston Globe Legacy | Obituary",
-    "evidence": [
-      "matched entity: Charles Wilkinson",
-      "event: death (obituary)",
-      "source age: 1927.2 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "365939d0cd5f06f7b330",
     "entity_id": "charles_wilkinson",
     "entity": "Charles Wilkinson",
@@ -53151,6 +53041,100 @@
     "score": 70,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "107560052956a89b08a4",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 07 Nov 2026 18:11:54 GMT",
+    "captured": "2026-11-07T18:59:42Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hZldiSUNINzE5MmFRQ19wN1FXOVVWQVJ4ekNnV2plNlkwWTZLTEUwWVdZQ1B5cmF0dGRMNGJUeHRmTllYRG0xeVR2N0dvVE04SnhXc3hUUWNQU0VuZEFoNGlod0ZoOHFoNThJbmtZWmQ?oc=5",
+    "source": "Comic Book Resources",
+    "title": "40 Years Later, Sean Connery's Best Highlander Line Is Still the Greatest 5 Words in Fantasy - Comic Book Resources",
+    "summary": "40 Years Later, Sean Connery's Best Highlander Line Is Still the Greatest 5 Words in Fantasy Comic Book Resources",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 0.0 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "e52a49d5c4efffcbec5e",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 76,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "health",
+    "source_date": "Fri, 06 Nov 2026 12:08:08 GMT",
+    "captured": "2026-11-07T18:59:42Z",
+    "urgency": "normal",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQem50ODlIdkF1NVdzS19nLVphcENydzB6WmxzR1ZLYnlzblZHU19mN3ZiZFRxZFhrQjNjaTY3MTVLSzczUC16anIzcHBTbUZ3MmNFMGRxM2VVbnE4amZua1hkM0JtZGpVMnFDYjdiU3RPczI5MEJoRVBzSjFxSC1ZMEdueG1PVS10dzh4WVZPQVFUTUNoanl2M0lNY0gxZDhEVGc?oc=5",
+    "source": "Softonic",
+    "title": "Henry Cavill’s Mustache Protocol launches this month for men’s health - Softonic",
+    "summary": "Henry Cavill’s Mustache Protocol launches this month for men’s health Softonic",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: health (health)",
+      "source age: 1.3 days"
+    ],
+    "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": true,
     "status": "new"
   }
 ]

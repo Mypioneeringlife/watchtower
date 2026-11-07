@@ -1,115 +1,5 @@
 [
   {
-    "id": "7423fec7995d1adfe584",
-    "entity_id": "charles_wilkinson",
-    "entity": "Charles Wilkinson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "charles_wilkinson",
-        "name": "Charles Wilkinson",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Brothers in Arms",
-          "Courage",
-          "Double Jeopardy",
-          "Obsession",
-          "Shadows"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Brothers in Arms",
-      "Courage",
-      "Double Jeopardy",
-      "Obsession",
-      "Shadows"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 28 Sep 2021 01:08:43 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRzdXcUFHcDE5TDlWVXE1RHRXbEczdC10czdLWVZZRU9yNWgzRFpieGd0WkhzYVVaRFJqMlltQm5ENGlGTWlSUVZ5eUtfeUYwbW5hRDV0ay1sUnhNTXJ0WTRab3ZrSjY1d3NhWXI5VmthbWtXb280QzMwVEZUZjU1cUY5NUo1cWU5eTc1SVc0dHNJcHV6Rmc?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Charles Wilkinson Obituary (1929 - 2019) - Bakersfield, CA - Bakersfield Californian - Legacy | Obituary",
-    "summary": "Charles Wilkinson Obituary (1929 - 2019) - Bakersfield, CA - Bakersfield Californian Legacy | Obituary",
-    "evidence": [
-      "matched entity: Charles Wilkinson",
-      "event: death (obituary)",
-      "source age: 1834.8 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "ed92359717aefc1e200a",
-    "entity_id": "charles_wilkinson",
-    "entity": "Charles Wilkinson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "charles_wilkinson",
-        "name": "Charles Wilkinson",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Brothers in Arms",
-          "Courage",
-          "Double Jeopardy",
-          "Obsession",
-          "Shadows"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Brothers in Arms",
-      "Courage",
-      "Double Jeopardy",
-      "Obsession",
-      "Shadows"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 26 Sep 2025 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSG5iZzdqQzdqWXFBV2ZXTnhnT3FCQVRsUzNVRjJkcUZac0hHU3NYZ2hGNHUybGp6V1dHR0JNYktFeHZaNkcyZjkwcjcwd0k2c3ZSYUNWQkI0YjJfYlctOWJCd0pCTmlOcXNTeGFacjktZVJIODJ2U2N3MTFHQzlMMFA2cFEzZjQ1M0dqc3MwOE1wdU9vQklN?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Charles Wilkinson Obituary (2025) - Coalport, PA - Gant Daily - Legacy | Obituary",
-    "summary": "Charles Wilkinson Obituary (2025) - Coalport, PA - Gant Daily Legacy | Obituary",
-    "evidence": [
-      "matched entity: Charles Wilkinson",
-      "event: death (obituary)",
-      "source age: 375.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "3091b4db36213e179d4f",
     "entity_id": "charles_wilkinson",
     "entity": "Charles Wilkinson",
@@ -53153,5 +53043,114 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "124b4d002069f7928a99",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 06 Nov 2026 21:51:26 GMT",
+    "captured": "2026-11-07T00:15:01Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yX1MzT1lkU0N4ZUt6Snl4UHV1cGZtalZYZlVKeDdxU0wxZzgtOU9EcU1PLWhmT0Uwb0FmWFFZcEJyY0RoMkZ0VU4zdkdXcFFjRHBuSXd6Zk9rUUpzU2hja0Etenk0Wmc?oc=5",
+    "source": "IMDb",
+    "title": "Highlander Confirms Second New Release Coming Ahead Of Henry Cavill Era - IMDb",
+    "summary": "Highlander Confirms Second New Release Coming Ahead Of Henry Cavill Era IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 0.1 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "1de90d49166d93e28b30",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 06 Nov 2026 21:27:55 GMT",
+    "captured": "2026-11-07T00:15:01Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBR293X1kyazNkRHdRSzJjYlZEazExejdMZkJjT1JVQ0FhbVl0SEc5VERfRzlnTW5CQ1dtZDh5akJEcWdqMVNkVDR5aGJQNHZfSE5nSmZOdkRRSmdPbHVVejcybTJVQW0xTTUyM0dJaFJsZ9IBd0FVX3lxTE5xT0VJMmUweWFYVklnTXg3NHVIeXhHLW1hWnFuVU96VjFVMG9oUUw1THNrZE5SYkdnMkFVeEp4bjhZVlYzY0UxcG9ReFJaVkIxRGF1R0VseDNvZTVkY19seERoZFQwMTBqVTlfN1pGdlRUQ29QUGhn?oc=5",
+    "source": "JoBlo",
+    "title": "Highlander gets a four-issue comic book adaptation of the original screenplay - JoBlo",
+    "summary": "Highlander gets a four-issue comic book adaptation of the original screenplay JoBlo",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 0.1 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

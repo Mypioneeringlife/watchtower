@@ -1,60 +1,5 @@
 [
   {
-    "id": "4490410f30b74ab2f8bc",
-    "entity_id": "charles_wilkinson",
-    "entity": "Charles Wilkinson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "charles_wilkinson",
-        "name": "Charles Wilkinson",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Brothers in Arms",
-          "Courage",
-          "Double Jeopardy",
-          "Obsession",
-          "Shadows"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Brothers in Arms",
-      "Courage",
-      "Double Jeopardy",
-      "Obsession",
-      "Shadows"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 09 Mar 2007 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1JqV1JQTFVGRlZxT25lRWxWLTJKZl9XMWRDUjFvS0ZvVWlJa05ELTEydXlWdklEaGFXN3dpbHFDMF81am1lOUZHMnlramR2REVCOWF2WE1XTDdOX0JmM1ZJeGlDMm5xS0lnbnJ0akpaSWlYYnNMdGpMY0RMSkVyeVRrakVCMXdtY2xtYWJwM3hNUQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Charles Wilkinson Obituary (1916-2007) - Roanoke, VA - Roanoke Times - Legacy | Obituary",
-    "summary": "Charles Wilkinson Obituary (1916-2007) - Roanoke, VA - Roanoke Times Legacy | Obituary",
-    "evidence": [
-      "matched entity: Charles Wilkinson",
-      "event: death (obituary)",
-      "source age: 7151.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "e144edd7a6a5bdd5b17e",
     "entity_id": "charles_wilkinson",
     "entity": "Charles Wilkinson",
@@ -53074,5 +53019,52 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "1affd5630b4bebbfab63",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 07 Nov 2026 19:43:52 GMT",
+    "captured": "2026-11-07T23:51:52Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdzZTenkzTlEwLTlWZHJZX2N1YUlCU2t4aTRmRUpzVlVUQVV3SFlGa1FhTzMwREFFY3JoNXliMTdGTjV5ZkJkSHJSbFh2Wi1FSnBpa0RYVGhfcUtBU0tOMEF4RUxrV0hsYmxvNkg3UXRYdnp2Q3hjZDRObS1sbGNhZ0pqcXRHYm82clRyU3AyRnk0SFEtZEdRbE5QclVocGZ2T1ltRnA3SWEzMU1rOWVhNDFxcVg1bG92N3JmNF9UYzM2M090d2s4ZW16U2RJWXZwbFNB?oc=5",
+    "source": "action-flix.com",
+    "title": "THERE CAN BE ONLY ONE… COMIC- HIGHLANDER: The Original Screenplay #1 Is Coming to Slice Up Your Pull List!!! - action-flix.com",
+    "summary": "THERE CAN BE ONLY ONE… COMIC- HIGHLANDER: The Original Screenplay #1 Is Coming to Slice Up Your Pull List!!! action-flix.com",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 0.2 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

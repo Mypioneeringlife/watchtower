@@ -1,445 +1,5 @@
 [
   {
-    "id": "365939d0cd5f06f7b330",
-    "entity_id": "charles_wilkinson",
-    "entity": "Charles Wilkinson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "charles_wilkinson",
-        "name": "Charles Wilkinson",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Brothers in Arms",
-          "Courage",
-          "Double Jeopardy",
-          "Obsession",
-          "Shadows"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Brothers in Arms",
-      "Courage",
-      "Double Jeopardy",
-      "Obsession",
-      "Shadows"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 04 Jun 2023 14:23:31 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSkJfcDV0NlBwSE94aUpOOWFNZ1lvTVRoWHNwV3oxc1pGczdTbUtYaEQ4ckloZWQzX25IWm05ZWFmTU5XVEhuU3h5T0lXNFRZN2VrVmd1ZWpkMmZNVFh3b2QwV1ZNMmU5MUZEMkNGNGJUcmVFekR6VHMyTmRRajJrRkZ5MGo?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Harry Charles Wilkinson Obituary (2023) - Thomson, IL - Law Jones Cremation and Funeral Care - Thomson - Legacy | Obituary",
-    "summary": "Harry Charles Wilkinson Obituary (2023) - Thomson, IL - Law Jones Cremation and Funeral Care - Thomson Legacy | Obituary",
-    "evidence": [
-      "matched entity: Charles Wilkinson",
-      "event: death (obituary)",
-      "source age: 1220.2 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "77efb3c347236d6996ca",
-    "entity_id": "charles_wilkinson",
-    "entity": "Charles Wilkinson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "charles_wilkinson",
-        "name": "Charles Wilkinson",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Brothers in Arms",
-          "Courage",
-          "Double Jeopardy",
-          "Obsession",
-          "Shadows"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Brothers in Arms",
-      "Courage",
-      "Double Jeopardy",
-      "Obsession",
-      "Shadows"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 20 Sep 2019 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUpzU0FXdUUxd21FRUd0cHBmSW1xS1JfME5jRThtWWsyRTJKaVVwTklyU25Wc09aV0lXZ0ZsejRpaWh4bFZaQzVUazY3U3MyT3k2Y1dQZWVFVkZZeWxhREdNcF84V1JrNHFuTFNIbDVpbDJPcUd0dEdpR0Y1eWlsLTRLM1hxU1FZUGc?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Charles Wilkinson Obituary (2019) - Idabel, OK - Legacy | Obituary",
-    "summary": "Charles Wilkinson Obituary (2019) - Idabel, OK Legacy | Obituary",
-    "evidence": [
-      "matched entity: Charles Wilkinson",
-      "event: death (obituary)",
-      "source age: 2573.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "b633e5cf4f1d03191184",
-    "entity_id": "charles_wilkinson",
-    "entity": "Charles Wilkinson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "charles_wilkinson",
-        "name": "Charles Wilkinson",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Brothers in Arms",
-          "Courage",
-          "Double Jeopardy",
-          "Obsession",
-          "Shadows"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Brothers in Arms",
-      "Courage",
-      "Double Jeopardy",
-      "Obsession",
-      "Shadows"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 02 Feb 2011 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalN5bmd1MGtZdjBoM2Qya0c5cXUzcjRQVnRiSEt2WGE3QnRGUU8wZkk0eklDbDhpNDQtZGJOVm5VQm5kX1JhVjBPU2JVVzcyM2R1SVVyQ21vNExpTExPRFRYQ1BWVmJVWjNYY2kwTGE4Y1pPUjN0cllZc3ZaVHZrNnZxWHZ6eEo3XzgweEgyYUtFaXM?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "CHARLES WILKINSON Obituary (2011) - Philadelphia, PA - The Philadelphia Inquirer - Legacy | Obituary",
-    "summary": "CHARLES WILKINSON Obituary (2011) - Philadelphia, PA - The Philadelphia Inquirer Legacy | Obituary",
-    "evidence": [
-      "matched entity: Charles Wilkinson",
-      "event: death (obituary)",
-      "source age: 5725.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "f11e452f9fee0efc4154",
-    "entity_id": "charles_wilkinson",
-    "entity": "Charles Wilkinson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "charles_wilkinson",
-        "name": "Charles Wilkinson",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Brothers in Arms",
-          "Courage",
-          "Double Jeopardy",
-          "Obsession",
-          "Shadows"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Brothers in Arms",
-      "Courage",
-      "Double Jeopardy",
-      "Obsession",
-      "Shadows"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 02 Mar 2016 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSjBoWFVpYVZwNm93dEJDZGNCeDZzY0JXb19aZ2xzNXRIV1ljSjNpZEZmWm5YZy1CcVN5dF9rSVlGWVdZa2ZUZDMwNHM0bEZHQTI4VmJvbkFzSlRGUk5yT3FyeGV3NVltYUtta0dGWFI2XzI5TkgzZDQtUkR5RmY0Q3YzNTh6TkNyUnc?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Charles Wilkinson Obituary (2016) - Columbia, MS - Hathorn Funeral Home - Columbia - Legacy | Obituary",
-    "summary": "Charles Wilkinson Obituary (2016) - Columbia, MS - Hathorn Funeral Home - Columbia Legacy | Obituary",
-    "evidence": [
-      "matched entity: Charles Wilkinson",
-      "event: death (obituary)",
-      "source age: 3870.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "aee93899193ed976d07d",
-    "entity_id": "charles_wilkinson",
-    "entity": "Charles Wilkinson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "charles_wilkinson",
-        "name": "Charles Wilkinson",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Brothers in Arms",
-          "Courage",
-          "Double Jeopardy",
-          "Obsession",
-          "Shadows"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Brothers in Arms",
-      "Courage",
-      "Double Jeopardy",
-      "Obsession",
-      "Shadows"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 04 Jul 2010 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdEZGYzJZUkRyODBMSU85MEtBR0NkSGVqUXZrbU1xVG1sdjlzVUk1RlBkX3hFdUE0N2UxbGp5TjktcGdrcmdRMFRjbVlNaHNEd21Ga29oNTVteHZIQWwxZ1pmM3pNcnZyOW04ZDdnNy1CM1lFQ1NJLUhyalFUYnRLaDJWY2luSktqanBiakViTQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "CHARLES WILKINSON Obituary (2010) - San Bernardino, CA - San Bernardino County Sun - Legacy | Obituary",
-    "summary": "CHARLES WILKINSON Obituary (2010) - San Bernardino, CA - San Bernardino County Sun Legacy | Obituary",
-    "evidence": [
-      "matched entity: Charles Wilkinson",
-      "event: death (obituary)",
-      "source age: 5938.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0403114a1dc93906fde8",
-    "entity_id": "charles_wilkinson",
-    "entity": "Charles Wilkinson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "charles_wilkinson",
-        "name": "Charles Wilkinson",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Brothers in Arms",
-          "Courage",
-          "Double Jeopardy",
-          "Obsession",
-          "Shadows"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Brothers in Arms",
-      "Courage",
-      "Double Jeopardy",
-      "Obsession",
-      "Shadows"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 27 Jan 2011 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbkRzTm54MW83VTVpUFh4NlpSc0tqZ3NjbE9KWFRqMHR3aEYxY0tsR0R2RGJEQVk2cUNtZlBSdVF6SmJSX0laWTR4RnUzbjNYWnpla05qTFdVRzF3UkdhUXRGZ01fVWJEanhtZ3ZfbE1aU3RfQ0RUZFRiYUhaR2NXX2Zfb0hKaGU4SGIwYkFiQTl0YjJHZWxYNFFJbDNxYzlJWHQtdWFRdG16enhkbk5hVHI2U1FpUQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Charles Wilkinson Obituary (2011) - Turtle Creek, PA - Pittsburgh Tribune Review - Legacy | Obituary",
-    "summary": "Charles Wilkinson Obituary (2011) - Turtle Creek, PA - Pittsburgh Tribune Review Legacy | Obituary",
-    "evidence": [
-      "matched entity: Charles Wilkinson",
-      "event: death (obituary)",
-      "source age: 5731.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "a0502845545319cc3dd9",
-    "entity_id": "charles_wilkinson",
-    "entity": "Charles Wilkinson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "charles_wilkinson",
-        "name": "Charles Wilkinson",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Brothers in Arms",
-          "Courage",
-          "Double Jeopardy",
-          "Obsession",
-          "Shadows"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Brothers in Arms",
-      "Courage",
-      "Double Jeopardy",
-      "Obsession",
-      "Shadows"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 20 Sep 2008 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdkJMSXprZzlWVjFnTXR2WU1tY3JMVzRDWmtDNVRWR0dlVVJxNDI0c1ppUHFNaTJvSHh6cWtfZFJkallRU2d1ckdKQmlDZkVRaTJwdXZLVU5xNEpVMXFGOEtmcUlEZ25McDkwdTRnRE5lUVhoUHdQSGlYeV9ZLTNaVmdNeHdUZUs3WDBGU1o1WWFPTHFIeTVUNw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Charles Wilkinson Obituary (2008) - Delta, AL - The Anniston Star - Legacy | Obituary",
-    "summary": "Charles Wilkinson Obituary (2008) - Delta, AL - The Anniston Star Legacy | Obituary",
-    "evidence": [
-      "matched entity: Charles Wilkinson",
-      "event: death (obituary)",
-      "source age: 6590.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "cb1b29c1bc4088cd289b",
-    "entity_id": "charles_wilkinson",
-    "entity": "Charles Wilkinson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "charles_wilkinson",
-        "name": "Charles Wilkinson",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Brothers in Arms",
-          "Courage",
-          "Double Jeopardy",
-          "Obsession",
-          "Shadows"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Brothers in Arms",
-      "Courage",
-      "Double Jeopardy",
-      "Obsession",
-      "Shadows"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 24 Nov 2002 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWk9SUjd6aUY4bGw1b3lBNDJQTm5KTnZZcUF6YWk5SlBpRGhwUDRHVkwxamVORFpTcjBDeE9veE92ODhIV214eFpjR1ozTzNHdUZPSHVxUVUzNFF3T096b09LeGZURW1RUjJMaE0weUwwbVVpQThBYVIzSzFFSmJWZTM5VHJySUxfUVpUa19pY2tDcXY2U0JkNFBR?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Charles Wilkinson Obituary (2002) - West Palm Beach, FL - The Palm Beach Post - Legacy | Obituary",
-    "summary": "Charles Wilkinson Obituary (2002) - West Palm Beach, FL - The Palm Beach Post Legacy | Obituary",
-    "evidence": [
-      "matched entity: Charles Wilkinson",
-      "event: death (obituary)",
-      "source age: 8717.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "4490410f30b74ab2f8bc",
     "entity_id": "charles_wilkinson",
     "entity": "Charles Wilkinson",
@@ -53136,5 +52696,383 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": true,
     "status": "new"
+  },
+  {
+    "id": "85a4fca1fd37df914028",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 07 Nov 2026 14:37:31 GMT",
+    "captured": "2026-11-07T19:26:53Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnZmYnFRXzhyNlMwYmM0SGVmNndlekFTTDdwdGhvcW5BY0VqaERtczV5c3EyeExIdHQzTlVJdXA1dkJWZl9CWUtBMWxSelN5WmI0WVoxc0ZUaXp3UFVSWEJrZ2dPMUYzWUxrdklBeFY3RFhtX0xNVjRtTy0wWV9mZHlUY3hxYTREZko1RW5rVGRjQjJzZTNfR2R0MllGZ1JBcGFTUTB2Wi03eGNINlVIX3V1QkVyWnNMaU9ocDlieXVyRVJaVkE?oc=5",
+    "source": "Sports Illustrated",
+    "title": "Three Edge Rushers the Bengals Could Target Before the NFL Trade Deadline - Sports Illustrated",
+    "summary": "Three Edge Rushers the Bengals Could Target Before the NFL Trade Deadline Sports Illustrated",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (dead)",
+      "source age: 0.2 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "0641257bbe65ca885d17",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sat, 07 Nov 2026 17:31:55 GMT",
+    "captured": "2026-11-07T19:26:53Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHYzbUxBSWxMc1FmY1BkZDFuU1dseWtXZkp4eVhiUlRDdVo3X2lRbDJBQ0tTQ1BJaHFCTVhZQ3UwMFdFT0dRZFhKQ0w5QmQwUEhSakhTUHppOThHdlZBQ05SZVlmNEhJZHVrVXQyckRIbFRtc00ya1E2V2IzTFlNbmt5aXR6NTBaU19Tbmlpc2Y?oc=5",
+    "source": "Yahoo Sports",
+    "title": "Langden Kitchen injury update: Mizzou football EDGE helped off field - Yahoo Sports",
+    "summary": "Langden Kitchen injury update: Mizzou football EDGE helped off field Yahoo Sports",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.1 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "1612534164fd1553246f",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sat, 07 Nov 2026 16:56:10 GMT",
+    "captured": "2026-11-07T19:26:53Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUHM1dlpHVXFBUWx6aDlxV3pla1BTdTVsenF5RXJ4MEVLVFBQYmNkV2hEQk5DY0NXaC1mODZsSVF4LWZYZ2dDYXJtZExEaWtSeU5oQmtkVk93R1ZCbnlxTmZGWDJ3X3dXd0txT3FyRU1oVTlHNm1OaE56NFE4T3lWR2hHU2l5UQ?oc=5",
+    "source": "Yahoo Sports",
+    "title": "Colin Simmons injury update: Edge game-time decision; other Texas football players cleared - Yahoo Sports",
+    "summary": "Colin Simmons injury update: Edge game-time decision; other Texas football players cleared Yahoo Sports",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.1 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "766e31a29000631ceb27",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sat, 07 Nov 2026 19:24:57 GMT",
+    "captured": "2026-11-07T19:26:53Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVTM0bGRIZ1JXSUZkNkdEV0QybVpKMlNpM0hHNE9PS21xU21XYkVOaXRDeUF3bU9ma1h5VDZPeHZWZzlhZHlqdWxQZ1lHekJqNnBiQmZnMzNpaUJGNWNXZVdyNGJyTUlxVzFuMTdEZHQ3QXo3c194aWkydXRzZmJ2OEg2WHdSSWxEQ2pBOFhiUElCOEc3bXpsa0NvT1pFakhmTHZQRk5FT0JGVVBkdGk4SGdfYTdLWU1vam01SzNjMjdLWmJra0E?oc=5",
+    "source": "Detroit Free Press",
+    "title": "Lions EDGE Aidan Hutchinson reacts to Jack Campbell injury - Detroit Free Press",
+    "summary": "Lions EDGE Aidan Hutchinson reacts to Jack Campbell injury Detroit Free Press",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.0 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "b9b3c5c5169438569ae5",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "legal",
+    "source_date": "Fri, 06 Nov 2026 23:47:35 GMT",
+    "captured": "2026-11-07T19:26:53Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTROMjdDTDM4RzY4V09WLUlXX0hQdEFBTUk0eTF6a0pRRk1yWDAtSWdORl8wTUZRdHdRNUdRUEZxNG84WUNJUi1RYnc5S1N2eEJYNU9ya0o3azNLMThoRzBkOTEwTGlYLW55Ti1ZSkRvQzk5VVdLbVc4eUV1LUstLWpGRTRIVmdzWmRuWTNESUtKd2N4eXc?oc=5",
+    "source": "WXLV",
+    "title": "Burlington police arrest reckless driver after Ford Edge flees - WXLV",
+    "summary": "Burlington police arrest reckless driver after Ford Edge flees WXLV",
+    "evidence": [
+      "matched entity: Edge",
+      "event: legal (arrest)",
+      "source age: 0.8 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "82d7442c8e1a4758adc2",
+    "entity_id": "harvey_weinstein",
+    "entity": "Harvey Weinstein",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "harvey_weinstein",
+        "name": "Harvey Weinstein",
+        "kind": "person",
+        "roles": [
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 54,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "producer"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "interview",
+    "source_date": "Sat, 07 Nov 2026 18:12:56 GMT",
+    "captured": "2026-11-07T19:26:53Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRzJSakJlNzJnWTBMRlQzdjFBS0NET0c2ekYwWXNONUhLVFhOUUNST0YzQ2ZfazBKVlJ6b1R6Yy1Wb09YMnNRNEhrUFlHUFZqVWlHZmM1dWlhbDhSdlpKVFpQYmFVOEtWbURCbllWTVpZS1E2WWZVRjBfZEhZamN6bHpGTE5xWUFxRFZoRWdsVTRCa05DbEd6VWc1azlCb1d5bmd4bFd5X2N4Qzk5YUxhN2FLVEE2Zm11MW9sNFdBUV85VExYcm9V0gHMAUFVX3lxTE1UVWhtcEpSdERxSE5jMTVvOTdQN1lhN0F5RUM2MlVwME5PSzNqakJ1UE1VbGR4dWFZNFdOeF9qVG8tTmk1WnBCZmJKOTIzUFNybVJhQmd5NUM2WkM1OC1DZjJQckFVTDR1c0ZJbEw2U0lKM01zcGVXNVFlcnQ2cmdFRkx6N2RVbGVaZDlSZjd6b0hfZEdGZkJrT19ubzFxTEV0ZlFWT0RSa0toZmlyMW5UY0s2dHBpZFhUZ3NUdVRBT0xkT1M3RjhzVlVOTg?oc=5",
+    "source": "uInterview",
+    "title": "Harvey Weinstein Accuses Ari Emanuel From Prison Of Buying Bulk Copies Of His Memoir To Juice Sales - uInterview",
+    "summary": "Harvey Weinstein Accuses Ari Emanuel From Prison Of Buying Bulk Copies Of His Memoir To Juice Sales uInterview",
+    "evidence": [
+      "matched entity: Harvey Weinstein",
+      "event: interview (interview)",
+      "source age: 0.1 days"
+    ],
+    "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "f7498d8400f1c4d2e23d",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 09 Nov 2018 08:00:00 GMT",
+    "captured": "2026-11-07T19:26:53Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUWVFRa2JXTTlnOWR4cXNZM1UzRXpOZnlSU3F5WHJmc0NXLUdnQnJGX05WS0ZfZzhnOXNZQU9lQzhidVN3VVdCSEhwYzNNZFAtZ0RXSlJHZjlrb3BjRVVBNGtZaEtFeW1wbjFV?oc=5",
+    "source": "Newcomer Kentuckiana",
+    "title": "James Bruce Lawson Obituary Nov 9, 2018 - Newcomer Kentuckiana",
+    "summary": "James Bruce Lawson Obituary Nov 9, 2018 Newcomer Kentuckiana",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 2920.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "36ccec52948e0d6b2a2c",
+    "entity_id": "larry_ferguson",
+    "entity": "Larry Ferguson",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "larry_ferguson",
+        "name": "Larry Ferguson",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 09 Jul 2022 02:37:16 GMT",
+    "captured": "2026-11-07T19:26:53Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeks1T0M4X2JBVWV2YkJZVFEyZnNuNnNpLUswaTN0ODBnNGlTVW9CM1NDODhrUzJaY3dEVWxmblRLd3F3aEJMZHZzNVdWRnlBNlg3QnE1cmVvVE5wblYyWXVEZlFxbkREZm54NmktYjMtdXRZZXFrUDJjWUNQLXdnYUtVSQ?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Larry Ferguson Obituary (2022) - Mechanicsville, MD - Briscoe-Tonic Funeral Home - Mechanicsville - Legacy | Obituary",
+    "summary": "Larry Ferguson Obituary (2022) - Mechanicsville, MD - Briscoe-Tonic Funeral Home - Mechanicsville Legacy | Obituary",
+    "evidence": [
+      "matched entity: Larry Ferguson",
+      "event: death (obituary)",
+      "source age: 1582.7 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

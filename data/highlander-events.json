@@ -1,248 +1,5 @@
 [
   {
-    "id": "e144edd7a6a5bdd5b17e",
-    "entity_id": "charles_wilkinson",
-    "entity": "Charles Wilkinson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "charles_wilkinson",
-        "name": "Charles Wilkinson",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Brothers in Arms",
-          "Courage",
-          "Double Jeopardy",
-          "Obsession",
-          "Shadows"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Brothers in Arms",
-      "Courage",
-      "Double Jeopardy",
-      "Obsession",
-      "Shadows"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 22 Nov 2002 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0NQdGVMY3ZSVFZYeUk0elYwbHVBV3lyZU1fSWhhZnVEOTlISDh5cEdUR3c3OWdQVDduWWNjM2lPOW9GdmF5U21USWhpSWN2M3FVVVl0Q0VWSlJrSWJ5Y0lZSUYyWFI5eUpQSTI4cHNpZnc3YlB3eWlJUFdWQUhtYjY3TUxERWZwR3BoTWcwQ2ZETU8xY3ZxTw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Charles Wilkinson Obituary (2002) - Winston-Salem, NC - Winston-Salem Journal - Legacy | Obituary",
-    "summary": "Charles Wilkinson Obituary (2002) - Winston-Salem, NC - Winston-Salem Journal Legacy | Obituary",
-    "evidence": [
-      "matched entity: Charles Wilkinson",
-      "event: death (obituary)",
-      "source age: 8719.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "9acd9eb110797b97dadd",
-    "entity_id": "christopher_malcolm",
-    "entity": "Christopher Malcolm",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_malcolm",
-        "name": "Christopher Malcolm",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 24 Aug 2026 18:06:49 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTlBreFM2T0ZrYVBtSk1oUE00b1hEN2hrLUNOOHRsRlAxYjFfaGJpTU9pTGN0ZjR1R0dwY1FodzRzN2ZzbE9iMjNJelJYOVpGMHcySEN0eG45LXZfTlJweWpnMEEzejZKQnBSWVNjUjFaRHBXa0J0WC1XTThzRmQ1TTJuRUQ4RmJjRUs4?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Christopher Malcolm Pecharka - Legacy | Obituary",
-    "summary": "Christopher Malcolm Pecharka Legacy | Obituary",
-    "evidence": [
-      "matched entity: Christopher Malcolm",
-      "event: death (obituary)",
-      "source age: 43.1 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "be72e1bf8b3b5fffc520",
-    "entity_id": "christopher_malcolm",
-    "entity": "Christopher Malcolm",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_malcolm",
-        "name": "Christopher Malcolm",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 19 Feb 2014 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fc2xzSFphT1Nwc0RsMmNrZWtSRUtYYjNaYm91YlJfV1FsTkk1NVdqWEN4Xzh5a0VoaWhmOHg2ejhMR2NXUDlraW91R3d5UGwyc196aFFycEJ5RTYtcWFmUF9zUDQxS2lObjZMYmVoWEtTeXBP?oc=5",
-    "source": "www.empireonline.com",
-    "title": "Christopher Malcolm Dies - www.empireonline.com",
-    "summary": "Christopher Malcolm Dies www.empireonline.com",
-    "evidence": [
-      "matched entity: Christopher Malcolm",
-      "event: death (dies)",
-      "source age: 4612.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "206e6e7c602379aad92b",
-    "entity_id": "christopher_malcolm",
-    "entity": "Christopher Malcolm",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_malcolm",
-        "name": "Christopher Malcolm",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 07 Sep 2017 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQVEybmIxOHRWajZqTkV1QUNYNER4Z0I2RmlUY1FCYVM3d0h2TGs4RndXRUU1MFZkWXRaRWo4OGIxOHZ1M0FMVXB5VGhyVHY2elQya2ZoZDBmZ0ltR21fS3dvSWV3a0VMSVNGRENRQVB0bExCSm5NNWxEQUY4eGpNQlROUG5ydEc1LUhwWWdlYmRfTjJKVnkzVGpOTmlnYndrV3R2UGlpTm5XMnIydkE?oc=5",
-    "source": "www.attitude.co.uk",
-    "title": "‘Absolutely Fabulous’ actor Christopher Malcolm dies, aged 67 - www.attitude.co.uk",
-    "summary": "‘Absolutely Fabulous’ actor Christopher Malcolm dies, aged 67 www.attitude.co.uk",
-    "evidence": [
-      "matched entity: Christopher Malcolm",
-      "event: death (dies)",
-      "source age: 3316.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4afb4ba272c6813da749",
-    "entity_id": "christopher_malcolm",
-    "entity": "Christopher Malcolm",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_malcolm",
-        "name": "Christopher Malcolm",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 56,
-        "event_type": "legal"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "legal",
-    "source_date": "Sun, 03 Sep 2017 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLXZ1WlhmQ0FhanoteFdFcWJ4WTNwT190UlJod3dITFJoc1RYOVFnMUZYNmdRWmNtamF5Snk3RjZjM2RRS1d5UTRLVmlVb0dtb3hXc1RoU2dUeEtld3JzUWx2dThLQi1MR1FYcHg2V2dMcWNxS0NqRC1hcldwdW1CUGJsakI3UFdESzUtUmt5S3c0Y1g1ZkRpN05BTF9FWGdhRnVlUjdVckFiQQ?oc=5",
-    "source": "Jamaica Information Service (JIS)",
-    "title": "JIS_Issues & Answers_Dr. Christopher Malcolm & Trevor Fearon_Sunday September 3, 2017 - Jamaica Information Service (JIS)",
-    "summary": "JIS_Issues & Answers_Dr. Christopher Malcolm & Trevor Fearon_Sunday September 3, 2017 Jamaica Information Service (JIS)",
-    "evidence": [
-      "matched entity: Christopher Malcolm",
-      "event: legal (sues)",
-      "source age: 3320.6 days"
-    ],
-    "score": 56,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "a55362290cbf66de659b",
     "entity_id": "christopher_malcolm",
     "entity": "Christopher Malcolm",
@@ -53063,6 +52820,257 @@
       "source age: 0.2 days"
     ],
     "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "dac551a8839cee50f951",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 54,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "interview",
+    "source_date": "Sun, 08 Nov 2026 18:00:10 GMT",
+    "captured": "2026-11-08T19:42:59Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHUyRjF3a2JNeHl0WDNWcE9kY0NtU0FQZ2w2dEdyMktGeURiVnBhUkhuUHBteTdYVVhSUkxHWVVJQ0lCS19pRzZUN0h4WkxMdl9wZzFIalg4UUZaMWtJTGZXeFFvdHNYUTR5S25xbV9xZ2k5RnJ6V3VPZFlDcHM4S2hLbHEtNk1wWGtn?oc=5",
+    "source": "Yahoo Sports",
+    "title": "Kevin Durant reflects on his time in Phoenix after Suns edge out Rockets in thriller - Yahoo Sports",
+    "summary": "Kevin Durant reflects on his time in Phoenix after Suns edge out Rockets in thriller Yahoo Sports",
+    "evidence": [
+      "matched entity: Edge",
+      "event: interview (reflects on)",
+      "source age: 0.1 days"
+    ],
+    "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "f0fbac4a62be326e9144",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 08 Nov 2026 19:00:20 GMT",
+    "captured": "2026-11-08T19:42:59Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN3lvaHZpOFhneGtKUjh0c2xLWjdfV2Z1eEt0ZUZzSFk5aDdVTVQwMV9RUGtzX0pqdFItUF9iOUpFdldpd0pqVzJIbXROT292RmYwWHFJSm1ZcWY3VVdfMnF3UE1NMXJjdHJ5QXNwRElxV1FsTmxobm1XYy15Y1E2VFZHa2p5aU1sYXpFSDl4YVl4MFBKcUZ2ZUJHOXljT0JsMmpOZVV2cnluSWw2NnVkaFZhLWZjYU5XVEhMM0RNRXZycjdzX1ZqQ3BZM04wUE5PWGJQWg?oc=5",
+    "source": "Massively Overpowered",
+    "title": "For Science: Studies suggest expert competitive gamers have an edge in real world decision-making speed - Massively Overpowered",
+    "summary": "For Science: Studies suggest expert competitive gamers have an edge in real world decision-making speed Massively Overpowered",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (dies)",
+      "source age: 0.0 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "1439c4c6fdcc2a4db3c7",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Sun, 08 Nov 2026 06:38:52 GMT",
+    "captured": "2026-11-08T19:42:59Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNck9iYVhQMGxDaXZpUExjUjBqUDVZUkh0cklqT1lpajJvZ2dSRlRFNFRZNFcxcUFNUjkzbzBCU3FlV2RBYjZBTUMwMVFxZ1lncVduRmpsMVhHRlE5enE3aWF1YzkzTTVNZ09Yb3hzTVhPTFZVT2dpYnJjVFViZkFaU1FERWViT0ZtM3JB?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Shirley Edge Obituary (1933 - 2026) - Monona, WI - Madison.com - Legacy | Obituary",
+    "summary": "Shirley Edge Obituary (1933 - 2026) - Monona, WI - Madison.com Legacy | Obituary",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (obituary)",
+      "source age: 0.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "79a711171b547e9c43fe",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sat, 07 Nov 2026 19:16:00 GMT",
+    "captured": "2026-11-08T19:42:59Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONG90bVFoMzNWOTN1UE92MEJqamdzLU42UDl1TGZVMXpaNmY2ZTFUdHJER0F1czNEelM2aE80LVplbm1BYlZ3cEpLMHJtRHNWc3JlQW01eS1hTnNhQTB4ZXg1QmRJeXdiUS0zRncxX2wyZWl6UVJtaEl6Q0hQNG1NLWZRd0JBOEdtQ1ItUThNamlPbE03YkJCZHo1c0xiMmFkVC1aN0cyV2dKSTdUXzBGUGRqZmVwaUdCZkxGNW53dzdacGdKWTMtUDlCbVd3azhHWHNpeFlMZV9DeklnVGlLdGVQOXBzRWFMU3ZBUw?oc=5",
+    "source": "Columbia Daily Tribune",
+    "title": "Langden Kitchen injury update: Mizzou football EDGE helped off field - Columbia Daily Tribune",
+    "summary": "Langden Kitchen injury update: Mizzou football EDGE helped off field Columbia Daily Tribune",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 1.0 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "e8339132c7d40b3c18ff",
+    "entity_id": "richard_martin",
+    "entity": "Richard Martin",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "richard_martin",
+        "name": "Richard Martin",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Armageddon",
+          "Black Tower",
+          "Diplomatic Immunity",
+          "Duende",
+          "Justice",
+          "The Stone of Scone",
+          "The Valkyrie",
+          "To Be",
+          "Two of Hearts"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Armageddon",
+      "Black Tower",
+      "Diplomatic Immunity",
+      "Duende",
+      "Justice",
+      "The Stone of Scone",
+      "The Valkyrie",
+      "To Be",
+      "Two of Hearts"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 02 Nov 2026 08:00:00 GMT",
+    "captured": "2026-11-08T19:42:59Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRDJ6aXZmUU9SdGdMQUJYYnVHWEthNkhOZ2txNU1JZ2xSZDFvalVuckh2Y2NoemkwanBxQ3VhTTM0R3JKcmV2dE5SUXRTTFpNSTA4LWdhQXJNeHhIazJuTkx3NkpWWjhSc3F3RUVGVXZzakl5Z2lNQ0tQTkpma0FncEd6TktGYm1m?oc=5",
+    "source": "Dignity Memorial",
+    "title": "Richard Martin Obituary - New Orleans, LA - Dignity Memorial",
+    "summary": "Richard Martin Obituary - New Orleans, LA Dignity Memorial",
+    "evidence": [
+      "matched entity: Richard Martin",
+      "event: death (obituary)",
+      "source age: 6.5 days"
+    ],
+    "score": 72,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"

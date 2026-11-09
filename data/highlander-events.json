@@ -1,874 +1,5 @@
 [
   {
-    "id": "a55362290cbf66de659b",
-    "entity_id": "christopher_malcolm",
-    "entity": "Christopher Malcolm",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_malcolm",
-        "name": "Christopher Malcolm",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 18 Feb 2014 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTktsMzBJYlRFUlU0TU5IZXY3RmRzU1pxTlZWMkFIMlRFVHgxUFlTOUVIREpEWTNMVDY4N3BLdG42amFuY0NYLXpiREZmWWpxLVJ3SUZkMklnaDV1ZjF5T2FxSjl0VGRiTnZFblJSMEFxVDhqaF9sMWRtYlVWYnJ3Qzc0ZlJHRUtZY3NJTzlXS094d9IBlwFBVV95cUxORVV2SHAwV0lEeE9GMWpneE1EZ3VWRnBiYkhwZWhpLUlKeXB4cnJaTjZmWG1LTDloR2RzbExMX1FiaWk2UlBHVEVLd3E5TnRfRTF5WjdLcFN6T09pbkJjeENDbXlFeTU0VjFxSUpZTWFXdWtZc2h3UTB4a3kxdnN1QkNPS1BKeWdXWEJ2NTFUVlpPcDdZaUZz?oc=5",
-    "source": "The Mirror",
-    "title": "Absolutely Fabulous actor Christopher Malcolm dies aged 67 - The Mirror",
-    "summary": "Absolutely Fabulous actor Christopher Malcolm dies aged 67 The Mirror",
-    "evidence": [
-      "matched entity: Christopher Malcolm",
-      "event: death (dies)",
-      "source age: 4613.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "72c45901de3af41e3956",
-    "entity_id": "dan_gordon",
-    "entity": "Dan Gordon",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "dan_gordon",
-        "name": "Dan Gordon",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Innocent Man",
-          "The Gathering"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Innocent Man",
-      "The Gathering"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 04 Jun 2023 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tLUplSVlCTnZRamw1dVE1dzJlcGF1VVQ4c0tVV2VRRUNIRVlFeW1ZNzFTNENvTjB3c2pDLXA5VEVoRk81VkpKVVladWZmUXdKYnF6ZmlpRnViZVNoMHUtQWVzMWd0YnM3bUV3cDZYOWh1cFVVdmdwT0tzcUVycGs?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Dan Gordon Mooring Obituary (2023) - Goldsboro, NC - Seymour Funeral Home and Cremation Service - Goldsboro - Legacy | Obituary",
-    "summary": "Dan Gordon Mooring Obituary (2023) - Goldsboro, NC - Seymour Funeral Home and Cremation Service - Goldsboro Legacy | Obituary",
-    "evidence": [
-      "matched entity: Dan Gordon",
-      "event: death (obituary)",
-      "source age: 1220.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "a4addc006a073b7426f1",
-    "entity_id": "david_tynan",
-    "entity": "David Tynan",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "david_tynan",
-        "name": "David Tynan",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Archangel",
-          "Avatar",
-          "Comes a Horseman",
-          "Counterfeit, Part 1",
-          "Counterfeit, Part 2",
-          "Deliverance",
-          "Double Eagle",
-          "Double Jeopardy",
-          "Eyewitness",
-          "Finale, Part 1",
-          "Finale, Part 2",
-          "Homeland",
-          "Judgment Day",
-          "Line of Fire",
-          "Manhunt",
-          "Not To Be",
-          "One Minute to Midnight",
-          "Patient Number 7",
-          "Prodigal Son",
-          "Prophecy",
-          "Shadows",
-          "Something Wicked",
-          "Song of the Executioner",
-          "Testimony",
-          "The Messenger",
-          "The Ransom of Richard Redstone",
-          "The Return of Amanda",
-          "The Sea Witch",
-          "The Wrath of Kali",
-          "To Be",
-          "Turnabout",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Archangel",
-      "Avatar",
-      "Comes a Horseman",
-      "Counterfeit, Part 1",
-      "Counterfeit, Part 2",
-      "Deliverance",
-      "Double Eagle",
-      "Double Jeopardy",
-      "Eyewitness",
-      "Finale, Part 1",
-      "Finale, Part 2",
-      "Homeland",
-      "Judgment Day",
-      "Line of Fire",
-      "Manhunt",
-      "Not To Be",
-      "One Minute to Midnight",
-      "Patient Number 7",
-      "Prodigal Son",
-      "Prophecy",
-      "Shadows",
-      "Something Wicked",
-      "Song of the Executioner",
-      "Testimony",
-      "The Messenger",
-      "The Ransom of Richard Redstone",
-      "The Return of Amanda",
-      "The Sea Witch",
-      "The Wrath of Kali",
-      "To Be",
-      "Turnabout",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 30 Sep 2009 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU1JIM0pRcWNYWE9ldS1uYUxfZDRLOTdDVU9RUWxrR1l0WXVTNVJsYThSWGZlV0pBSG0yMWhUOGpBRjdkcnY4WkdnQzE1SGlHQjE0Nk9LM1JjcFh0NVJXeXpETnViMXNka3hMejYtbThNR2FLYlRfU3c0cXprbGVRUjJwSUx5Zw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "David Tynan Obituary (2009) - Omaha, NE - Omaha World-Herald - Legacy | Obituary",
-    "summary": "David Tynan Obituary (2009) - Omaha, NE - Omaha World-Herald Legacy | Obituary",
-    "evidence": [
-      "matched entity: David Tynan",
-      "event: death (obituary)",
-      "source age: 6215.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0c4dcb6e1da5ebfad581",
-    "entity_id": "dennis_baxter",
-    "entity": "Dennis Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "dennis_baxter",
-        "name": "Dennis Baxter",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Reunion"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Reunion"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 30 Dec 2025 04:47:59 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQVh2SndtY2htWkJlRUhrSzUyeHd4Y1lkbW5CN21iV2E4WjhnclQxTk1VQkt1b2RuRzFrYjRoamtMamU5Z3k5UDB0eFB2dnpXTnRJTVNIUHNTZFd6VVoyOGQxaXZRcGp3U253bGZETWs2dWpNcWpSVS15WkdPRlNhQVpR?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Dennis Baxter Obituary (2025) - Lucedale, MS - Moments Funeral Home - Lucedale - Legacy | Obituary",
-    "summary": "Dennis Baxter Obituary (2025) - Lucedale, MS - Moments Funeral Home - Lucedale Legacy | Obituary",
-    "evidence": [
-      "matched entity: Dennis Baxter",
-      "event: death (obituary)",
-      "source age: 280.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "959d14b0260fb94da1e0",
-    "entity_id": "dennis_baxter",
-    "entity": "Dennis Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "dennis_baxter",
-        "name": "Dennis Baxter",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Reunion"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Reunion"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 16 Jul 2025 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLTJja0tmel9Qa3hmZHlSRHFoSm5yeEQ4enNTTEdNUnpOSExoODlaYXo4eHp2ZGx6VmRrRHI0ZVJSS0ZGNWRoRG5yLXlkOTNrcXNlS2swaVBuaTFGSEkxWGQ1MUlSY0wwTmVrMW5xMnV3c0RZYldpVUJocEw1dE1CX0hTQmM3VzZqQ1RFRVltQlNVb2hUd293?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "DENNIS BAXTER Obituary (1962 - 2025) - Salina, UT - Richfield Reaper - Legacy | Obituary",
-    "summary": "DENNIS BAXTER Obituary (1962 - 2025) - Salina, UT - Richfield Reaper Legacy | Obituary",
-    "evidence": [
-      "matched entity: Dennis Baxter",
-      "event: death (obituary)",
-      "source age: 447.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d8f38656e1e5f9e601b4",
-    "entity_id": "dennis_baxter",
-    "entity": "Dennis Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "dennis_baxter",
-        "name": "Dennis Baxter",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Reunion"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Reunion"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 07 Sep 2019 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmJUQzZZUFZGTndmMlljQzRUR0VWejNodHdCREo1WHJOOGxLN1FUQy0zZFMwTHNmd0dnWi1PWFJtdldzN3JPUHRaMzlPeUllZlhIYkJ3WEpidjV0YlFYLUl5b09RbUxDQmJWRFBrS2lkQjh6elpDQ1V0UWp2QnlTVjNyWmE?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Dennis Baxter Obituary (2019) - Houston, TX - Rasberry Family Funeral Home - Houston - Legacy | Obituary",
-    "summary": "Dennis Baxter Obituary (2019) - Houston, TX - Rasberry Family Funeral Home - Houston Legacy | Obituary",
-    "evidence": [
-      "matched entity: Dennis Baxter",
-      "event: death (obituary)",
-      "source age: 2586.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "711f2c6b8142f243b6a1",
-    "entity_id": "dennis_baxter",
-    "entity": "Dennis Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "dennis_baxter",
-        "name": "Dennis Baxter",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Reunion"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Reunion"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 03 Jul 2019 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORWFuYWUtR2Mwb0hZTGxtdUNmeE5OUUFBRE15ZW1SOTg1dnFDb2p3MHFaSzRLazdXTXJyTE1KQThrSUp0TjktZThwd1lwVXQ0Q0JNR0t1YzFpWEVaMXhTaG4xRnlvWHlfbFN0Y1JfWDFiYmw1R2VnYkNNS2FmSUhRb1FDSVNLai0xZGNZXw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Dennis Baxter Obituary (2019) - Nottingham, Nottinghamshire - Mansfield & Ashfield Chad - Legacy | Obituary",
-    "summary": "Dennis Baxter Obituary (2019) - Nottingham, Nottinghamshire - Mansfield & Ashfield Chad Legacy | Obituary",
-    "evidence": [
-      "matched entity: Dennis Baxter",
-      "event: death (obituary)",
-      "source age: 2652.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "cdc040ec9e1d34b4b62b",
-    "entity_id": "dennis_baxter",
-    "entity": "Dennis Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "dennis_baxter",
-        "name": "Dennis Baxter",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Reunion"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Reunion"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 31 Mar 2017 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ0Fmcmp5WFU2MktyWlhEcTNZZkpVNG1JaWQ2TVd6ZUtRTUxHb2ZpQUgtZU8zTVhNdXBHS1RjV3lTa1h2c1hHRjBIWFVUTUliMEwzOEMtT0hqN21ZZjFrbnV4LXZPWnRTc0oyMERpVFVGNTVJcVo3dHIxVzh3NE4wTlRiQWtYMDQ3dFZ2VHdEZG5vMk1VN1FlS2FR?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Dennis Baxter Obituary (2017) - Express and Star - Legacy | Obituary",
-    "summary": "Dennis Baxter Obituary (2017) - Express and Star Legacy | Obituary",
-    "evidence": [
-      "matched entity: Dennis Baxter",
-      "event: death (obituary)",
-      "source age: 3476.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "546e1ee5b6a234e315dc",
-    "entity_id": "dennis_baxter",
-    "entity": "Dennis Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "dennis_baxter",
-        "name": "Dennis Baxter",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Reunion"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Reunion"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 08 Apr 2016 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjJPLXFBUG9kd0g2RUt5QUdHeVQ5bHQyMjRFZUxJamV5alJlWTdMVnRMWTk4MVVqNmlLWWNpeE9Qd3F6RUo2cUxETjdOclVLLThNQU5hSk9NUXFxLVI3MXUxbzR5NnBZdEdCMFBGNHBoajJ6NHJTWWJmR0h6RkdrT2tFZzU5SEpxN1hYdmRoWmJoZXdIaWVzMWhn?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Dennis Baxter Obituary (2016) - Express and Star - Legacy | Obituary",
-    "summary": "Dennis Baxter Obituary (2016) - Express and Star Legacy | Obituary",
-    "evidence": [
-      "matched entity: Dennis Baxter",
-      "event: death (obituary)",
-      "source age: 3833.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d43c34e28b2b5898d6f2",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 01 May 2007 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRm1WdFVTQm9wZ0Y5YTRjZC1NdERSQVZYS01yYTdxN2lYNTJ2Rjh3eUpaUFE4UjFEVmRKOW9iY3RFSkgtYW5lNUdOZk05RVhreFpYZ0l4UUpXUjFJeENQc05vcFVYX3MyLXc3ZlM5S0dzSWRlSHkzcGQ5MUxuc1ZITC1yTzAxVGJPT1dKc2pNaGdoZmJaWkZn?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Ronald Baxter Obituary (2007) - PHENIX CITY, AL - Columbus Ledger-Enquirer - Legacy | Obituary",
-    "summary": "Ronald Baxter Obituary (2007) - PHENIX CITY, AL - Columbus Ledger-Enquirer Legacy | Obituary",
-    "evidence": [
-      "matched entity: Edge",
-      "event: death (obituary)",
-      "source age: 7098.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4505217f69ce07ee6b72",
-    "entity_id": "dennis_berry",
-    "entity": "Dennis Berry",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "dennis_berry",
-        "name": "Dennis Berry",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Archangel",
-          "Avatar",
-          "Counterfeit, Part 2",
-          "Deadly Exposure",
-          "Deliverance",
-          "Eye For An Eye",
-          "Eye of the Beholder",
-          "Finale, Part 2",
-          "Highlander: The Raven",
-          "Indiscretions",
-          "Legacy",
-          "Methos",
-          "Not To Be",
-          "Nowhere to Run",
-          "One Minute to Midnight",
-          "Patient Number 7",
-          "Pharaoh's Daughter",
-          "Prophecy",
-          "Reasonable Doubt",
-          "Run For Your Life",
-          "Sins of the Father",
-          "Something Wicked",
-          "Testimony",
-          "The Colonel",
-          "The Innocent",
-          "The Lamb",
-          "The Return of Amanda",
-          "The Revolutionary",
-          "The Samurai",
-          "The Vampire",
-          "Through a Glass, Darkly",
-          "Till Death",
-          "Unusual Suspects"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Archangel",
-      "Avatar",
-      "Counterfeit, Part 2",
-      "Deadly Exposure",
-      "Deliverance",
-      "Eye For An Eye",
-      "Eye of the Beholder",
-      "Finale, Part 2",
-      "Highlander: The Raven",
-      "Indiscretions",
-      "Legacy",
-      "Methos",
-      "Not To Be",
-      "Nowhere to Run",
-      "One Minute to Midnight",
-      "Patient Number 7",
-      "Pharaoh's Daughter",
-      "Prophecy",
-      "Reasonable Doubt",
-      "Run For Your Life",
-      "Sins of the Father",
-      "Something Wicked",
-      "Testimony",
-      "The Colonel",
-      "The Innocent",
-      "The Lamb",
-      "The Return of Amanda",
-      "The Revolutionary",
-      "The Samurai",
-      "The Vampire",
-      "Through a Glass, Darkly",
-      "Till Death",
-      "Unusual Suspects"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 24 Sep 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdW1PcnNkRTI3NmxkUzYtZ1h2NlA1Vi1MYzVyVFJIS2p0SWdRYjFEQjN3MERPM3I0c3ZZRF81Qmpoc2pKcXFETDVYZW9HY3p1X1l4Tl94c2ZBTmpMdC1IVXhwbnRsTFpkVng3cVl2eFFCUlgyTUs1X2FJby1NZlpQeUZ4YnFUbThzZ2d2SlMyWQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Dennis Berry Obituary (1956 - 2026) - Sterling, CO - The Star-Herald - Legacy | Obituary",
-    "summary": "Dennis Berry Obituary (1956 - 2026) - Sterling, CO - The Star-Herald Legacy | Obituary",
-    "evidence": [
-      "matched entity: Dennis Berry",
-      "event: death (obituary)",
-      "source age: 12.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "3589f0d78d6edfc49433",
-    "entity_id": "dennis_berry",
-    "entity": "Dennis Berry",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "dennis_berry",
-        "name": "Dennis Berry",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Archangel",
-          "Avatar",
-          "Counterfeit, Part 2",
-          "Deadly Exposure",
-          "Deliverance",
-          "Eye For An Eye",
-          "Eye of the Beholder",
-          "Finale, Part 2",
-          "Highlander: The Raven",
-          "Indiscretions",
-          "Legacy",
-          "Methos",
-          "Not To Be",
-          "Nowhere to Run",
-          "One Minute to Midnight",
-          "Patient Number 7",
-          "Pharaoh's Daughter",
-          "Prophecy",
-          "Reasonable Doubt",
-          "Run For Your Life",
-          "Sins of the Father",
-          "Something Wicked",
-          "Testimony",
-          "The Colonel",
-          "The Innocent",
-          "The Lamb",
-          "The Return of Amanda",
-          "The Revolutionary",
-          "The Samurai",
-          "The Vampire",
-          "Through a Glass, Darkly",
-          "Till Death",
-          "Unusual Suspects"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Archangel",
-      "Avatar",
-      "Counterfeit, Part 2",
-      "Deadly Exposure",
-      "Deliverance",
-      "Eye For An Eye",
-      "Eye of the Beholder",
-      "Finale, Part 2",
-      "Highlander: The Raven",
-      "Indiscretions",
-      "Legacy",
-      "Methos",
-      "Not To Be",
-      "Nowhere to Run",
-      "One Minute to Midnight",
-      "Patient Number 7",
-      "Pharaoh's Daughter",
-      "Prophecy",
-      "Reasonable Doubt",
-      "Run For Your Life",
-      "Sins of the Father",
-      "Something Wicked",
-      "Testimony",
-      "The Colonel",
-      "The Innocent",
-      "The Lamb",
-      "The Return of Amanda",
-      "The Revolutionary",
-      "The Samurai",
-      "The Vampire",
-      "Through a Glass, Darkly",
-      "Till Death",
-      "Unusual Suspects"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 29 Sep 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaDNEZFA4aXVRa1lYUFFrNUJnTGRPUnhmbUZFNzkxUl9RZjRqR3NQOUx4aWZOcDZzU0kydEcxOUM1Q0RXdHZCa1gxSzBpNXUyM2kzN1JLUm93aGFHV201MndYYTFjVXVSNkwzaXVlakFsTGxxM0k4Rld6NG9pcHhIWEhXZw?oc=5",
-    "source": "Dignity Memorial",
-    "title": "Dennis Berry Obituary - Mansfield, OH - Dignity Memorial",
-    "summary": "Dennis Berry Obituary - Mansfield, OH Dignity Memorial",
-    "evidence": [
-      "matched entity: Dennis Berry",
-      "event: death (obituary)",
-      "source age: 7.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "4f074c580bbd2126b18b",
-    "entity_id": "dennis_berry",
-    "entity": "Dennis Berry",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "dennis_berry",
-        "name": "Dennis Berry",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Archangel",
-          "Avatar",
-          "Counterfeit, Part 2",
-          "Deadly Exposure",
-          "Deliverance",
-          "Eye For An Eye",
-          "Eye of the Beholder",
-          "Finale, Part 2",
-          "Highlander: The Raven",
-          "Indiscretions",
-          "Legacy",
-          "Methos",
-          "Not To Be",
-          "Nowhere to Run",
-          "One Minute to Midnight",
-          "Patient Number 7",
-          "Pharaoh's Daughter",
-          "Prophecy",
-          "Reasonable Doubt",
-          "Run For Your Life",
-          "Sins of the Father",
-          "Something Wicked",
-          "Testimony",
-          "The Colonel",
-          "The Innocent",
-          "The Lamb",
-          "The Return of Amanda",
-          "The Revolutionary",
-          "The Samurai",
-          "The Vampire",
-          "Through a Glass, Darkly",
-          "Till Death",
-          "Unusual Suspects"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Archangel",
-      "Avatar",
-      "Counterfeit, Part 2",
-      "Deadly Exposure",
-      "Deliverance",
-      "Eye For An Eye",
-      "Eye of the Beholder",
-      "Finale, Part 2",
-      "Highlander: The Raven",
-      "Indiscretions",
-      "Legacy",
-      "Methos",
-      "Not To Be",
-      "Nowhere to Run",
-      "One Minute to Midnight",
-      "Patient Number 7",
-      "Pharaoh's Daughter",
-      "Prophecy",
-      "Reasonable Doubt",
-      "Run For Your Life",
-      "Sins of the Father",
-      "Something Wicked",
-      "Testimony",
-      "The Colonel",
-      "The Innocent",
-      "The Lamb",
-      "The Return of Amanda",
-      "The Revolutionary",
-      "The Samurai",
-      "The Vampire",
-      "Through a Glass, Darkly",
-      "Till Death",
-      "Unusual Suspects"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 08 Oct 2022 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JZC05OHFSWkNjUHBRajJNRFp2ajNkenFvdzBZb1JiWGl1MURkeUN0SDZ4T0lMbXNEcWdWdGN6RDM3T3JaeTRSbzdHd0dSOG9mSHktdEEtSXlKV3dqR3FTQXg2cU9ydnY5anc?oc=5",
-    "source": "peasleefuneralhome.com",
-    "title": "Dennis Berry Obituary Oct 8, 2022 - peasleefuneralhome.com",
-    "summary": "Dennis Berry Obituary Oct 8, 2022 peasleefuneralhome.com",
-    "evidence": [
-      "matched entity: Dennis Berry",
-      "event: death (obituary)",
-      "source age: 1459.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "42f417d87bf08f7c2c74",
     "entity_id": "dennis_berry",
     "entity": "Dennis Berry",
@@ -53074,5 +52205,630 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "dc2a145ae2fb21d807c5",
+    "entity_id": "alan_north",
+    "entity": "Alan North",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "alan_north",
+        "name": "Alan North",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 06 Apr 2016 07:00:00 GMT",
+    "captured": "2026-11-09T23:47:18Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYU85N0dhdXlvZTJ5VWVoc1J1Qkdmc29VRURXNm5oaFViOHUxX2NvVUd4QmdVZ1dSNXZzTndBNHZMeGZPOFlNUzMzQ1RZSGFmc29UTWFxNi1SN1liTkloZVBZMi1TdU5FQjhXU1dEVmJYcW5HSlNzRG5RQlg1SXlLZ1FibDVFYmdWbEtWOQ?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Alan NORTH - Legacy | Obituary",
+    "summary": "Alan NORTH Legacy | Obituary",
+    "evidence": [
+      "matched entity: Alan North",
+      "event: death (obituary)",
+      "source age: 3869.7 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "b37ba6e839c8267f4d74",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 09 Nov 2026 11:30:00 GMT",
+    "captured": "2026-11-09T23:47:19Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxONHkwcGpLZko2Wm5VaVlFenZ2cFpkVGk1cGlmcEtLNFlvVG9XS1FvV2lyaV84bm1lVnFYODFCSS1oalFoTGNkTUQteGpPTGZBUnBmajlBRGl0WWZDQ0p3LXphYkF0TTRYZURxeGhpczNvYVBNU1d3UWRULWlPNlRtWlZhVjY0UWVUYmFUeGlzVl9NcVU0c0RZeVZDYkFLNWJ4NThJQnRmUmhxVWtlMXZXa2NnUUNBQVBXbFJVN0pNbFdUa3VHU01NNUpRdHRfYkhNNDV5NVRtc0hPUXc2ZTNHQktWcWVrQmxqZ1k1SjdQbTFQNnJ3WDQ3WF9MeFY2RDZ1b3U2ZUhMY3JuQ08ydzNhN05IbzBIa3k4dkNxT3U5WDNaYVdiS0ZLNA?oc=5",
+    "source": "Tom's Hardware",
+    "title": "LG WOLED TVs suffer from 'edge rot' pixel death — pixels go dark around the edges, similar to a mold pattern; nearly all WOLED test units show clear signs of degradation - Tom's Hardware",
+    "summary": "LG WOLED TVs suffer from 'edge rot' pixel death — pixels go dark around the edges, similar to a mold pattern; nearly all WOLED test units show clear signs of degradation Tom's Hardware",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (death)",
+      "source age: 0.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "0cb68377abd81b602bc0",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 09 Nov 2026 11:15:00 GMT",
+    "captured": "2026-11-09T23:47:19Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRm5oMjVDd1pMeV8yRVZkbmlvcjg5SElzQlJXd21oY09GNWRQdk9lVVFlTnNDT3YzLVNieFRxMkJKNHd5YkNIVXl6em9oSU1UcFJ1UGJrOFF6aDUtNDk2VWhRR3M3aXRUbkl6STQzQUZ5a0NzcmRvcmZQUjJHTTJ4Z2NySTNFQzdFanBPdQ?oc=5",
+    "source": "TechSpot",
+    "title": "Older WOLED TVs suffer from \"edge rot\" as test finds dead pixels in 14 of 16 sets - TechSpot",
+    "summary": "Older WOLED TVs suffer from \"edge rot\" as test finds dead pixels in 14 of 16 sets TechSpot",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (dead)",
+      "source age: 0.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "de0645031ffb28d234db",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Mon, 09 Nov 2026 15:19:00 GMT",
+    "captured": "2026-11-09T23:47:19Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQLVFrTG5NcXMwUjBGYWJEVW45RV9YN0Z3dHhZanNLSUF6NXUxb0huWGNXWG9aRV9CbWpYQnQtWjl5ajJodXhNTmhCQ0R2WXJZOWtZT2F1WEhpYkRacXQ2RW5CQm5UTWdEb3lNNHhCRWl6cjhIN1FkZzZ6czBjTlNfUkRtekY2Z0hEWS1EeGd1OVNvVm8xS2Q1MXVHQXpYdXZDX21pS3R3LUpuV0k4UUdNY3R3NVBzU1JZNXpOZVRRRG9tQVlpVDg5LW5ENkZub1ZSY0FUTzM2b0w5X3JvX0lXeERhc1Nud1UtTXVlVkhjcEZFVDdwblNLZUl4bHNnN3d4ZXBWbzlkYS0?oc=5",
+    "source": "WBIR",
+    "title": "Reports: Tennessee EDGE Tyree Weathersby will be out for rest of 2026 season due to injury - WBIR",
+    "summary": "Reports: Tennessee EDGE Tyree Weathersby will be out for rest of 2026 season due to injury WBIR",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.4 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "6ee1f6379c35da174b70",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Mon, 09 Nov 2026 21:31:27 GMT",
+    "captured": "2026-11-09T23:47:19Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYXpONEFTUzc3cC1MYkdBSzhMMkw4cklJdHZoOVBpaU9zZUVqU3lQekRaenBKcDE3akNYNmZVbnpnclBDdnc0RkxOTU5NVGwwX2l4M01oS3kwcENWWGVKUXAwczU0YlFYY2gxSnAtWHRJNVZqWG9DUzctNmJuYWh0aXRhMmJGalFqQ29Qa3hkRGcyaEFXREtobjFEVm5LUy1MY1A2SQ?oc=5",
+    "source": "Kingsport Times News",
+    "title": "Vols edge rusher Weathersby to miss rest of season with knee injury - Kingsport Times News",
+    "summary": "Vols edge rusher Weathersby to miss rest of season with knee injury Kingsport Times News",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.1 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "c0ec70079d6d4c3b075c",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Mon, 09 Nov 2026 19:41:46 GMT",
+    "captured": "2026-11-09T23:47:19Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQjBTRVNxU2JIVFlESERySWU1T2tTM0xnZ2hfdnZmRlFkOENoRmpXcDVGMnpoeHNPRXlXbm1FWHlBYXpzNjZzMzFoRVpKR1BMX2JZZzduMUZhS3FxV0YwdkVBSVMyMmV5YkVzYUQ4UHNlRkhLQnNlSjdGNzBNMnRTMlVYaDJOclJfZ0c2WkdvSU01Sld4MnhJVXQ4VlRXenRLVXZyV2kxTlhLYVczNm5xZzNvdzlkN2JaZDBxRFhYMm5RLVZJQUgxdFlqSW0zdzJ5Nnc?oc=5",
+    "source": "Sports Illustrated",
+    "title": "Tennessee's Options at EDGE Following Tyree Weathersby's Season-Ending Injury - Sports Illustrated",
+    "summary": "Tennessee's Options at EDGE Following Tyree Weathersby's Season-Ending Injury Sports Illustrated",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.2 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "8ad779935be84c7ffe8b",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Mon, 09 Nov 2026 15:33:49 GMT",
+    "captured": "2026-11-09T23:47:19Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeU52Q2h1YUNMV2tZSGUxTjNoMmVBc2FRcmVBdFNjVHppd3lMRnpoUGVoWnQ1Um1QdFotaG1KTWo2T25kQzVRSjVqSjhucEo2Yl9aRWVVWTh3X2dZRHN1V2VtNTVRNDJVUFpFYUdvTUNELXFLNURodWtIU1RJVE1tQWFfOA?oc=5",
+    "source": "Yahoo Sports",
+    "title": "Rams EDGE Myles Garrett’s huge injury return is a Los Angeles first since Aaron Donald - Yahoo Sports",
+    "summary": "Rams EDGE Myles Garrett’s huge injury return is a Los Angeles first since Aaron Donald Yahoo Sports",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.3 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "3358b80c359c9d4efebd",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Mon, 09 Nov 2026 21:00:00 GMT",
+    "captured": "2026-11-09T23:47:19Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVF3LTVCY2JNTzQ2RXZSRU1Tby1MaWo4SktYVXpoNG9EUjVWT210S3pyVm15R0xuT2ZUZmlGUnJ0YnNrR0lVV29DVzlvNi1pTHpmZ2VzM3ZqRU55NGVSQThaQ09YZlZ6QkJoOXY5dXJsc2lKY2U2YmFZcXBmWGwxcVV4MC0xelFPdkJhN25QNTVrekZueWJNNFNQZ1E?oc=5",
+    "source": "Touchdown Alabama",
+    "title": "Alabama star edge rusher healthier after BYE - Touchdown Alabama",
+    "summary": "Alabama star edge rusher healthier after BYE Touchdown Alabama",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (health)",
+      "source age: 0.1 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "096ecb40666854fc297c",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 09 Nov 2026 23:34:47 GMT",
+    "captured": "2026-11-09T23:47:19Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbUpJV3ZiandOWWg4dzBXclBjUGNZQ0tSbXpXVXNJcURVemVINUFaSU9ZWWpIRUdSRnM1NkJPcGdjOFpaSENZdGRvZXR2RW5lRWV5Mm9BUmhBLVR1akRHNXJPTzhRbEtJcVZKTVA1U0NvWGR1ZVo0R0RuOGVzcTlvU1dza01JdDB2eXVNSEZJdTJUc0l1RE5XN3NuSEZOU0ZOSEQxeHRXd1Nma3BEdkE4Yk11TnV6RHZuT0pwcFdHbjNwV0g4LTgwVUpSQQ?oc=5",
+    "source": "Steelers Depot",
+    "title": "Rich Eisen Thinks Bengals 'Can Chunk Play You To Death,' Giving Them AFC Playoff 'Edge' Over Steelers - Steelers Depot",
+    "summary": "Rich Eisen Thinks Bengals 'Can Chunk Play You To Death,' Giving Them AFC Playoff 'Edge' Over Steelers Steelers Depot",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (death)",
+      "source age: 0.0 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "cacf18f15cf4174791b3",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 60,
+        "event_type": "appearance"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "appearance",
+    "source_date": "Mon, 09 Nov 2026 13:02:03 GMT",
+    "captured": "2026-11-09T23:47:19Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdnpsdXFPX1JmSFRmdEpXMTd6LWpIRzNObGNIWlZraWtKS1l3ZjVpb1JLNUVMY0F5cmowYnNsSVNpazRET1BKM3RYTFhuR1ZSLXN6bVZVY0FEOWxkam9YUEVobmhCWVVaRlpMZE5RS1Q0Y1FDcUMxVUFHWXBfWGFVZGFOa0NJTkd5UG5qaHpERnNoallLRElBellSTVkxS25MVjFka0ZZTUZEQURkd1VkMm9n?oc=5",
+    "source": "The FPS Review",
+    "title": "Older LG WOLED Panels Have Been Spotted Experiencing “Edge Rot” Condition - The FPS Review",
+    "summary": "Older LG WOLED Panels Have Been Spotted Experiencing “Edge Rot” Condition The FPS Review",
+    "evidence": [
+      "matched entity: Edge",
+      "event: appearance (panel)",
+      "source age: 0.4 days"
+    ],
+    "score": 60,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "5cc6c7f11ce6f475988b",
+    "entity_id": "james_thorpe",
+    "entity": "James Thorpe",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_thorpe",
+        "name": "James Thorpe",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Deadly Exposure",
+          "Diplomatic Immunity",
+          "Indiscretions",
+          "Money No Object",
+          "Sins of the Father",
+          "The Modern Prometheus",
+          "The Valkyrie",
+          "Two of Hearts"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Deadly Exposure",
+      "Diplomatic Immunity",
+      "Indiscretions",
+      "Money No Object",
+      "Sins of the Father",
+      "The Modern Prometheus",
+      "The Valkyrie",
+      "Two of Hearts"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 25 May 2010 07:00:00 GMT",
+    "captured": "2026-11-09T23:47:19Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSEEwQml5WGEwNjhQNTh0T2ktN1RBZUZZNUJkaUtxNWkweDZmbEVJa2dwUC1aeTBFQnJMWmJhbWNtM09udDVlM0FEYjJSckdZV2p2Uks4NEJQZzBzTXBnSXZhTEU4dFNYb2taX0kzTFBuNm51X2M3dHJPLWdTMDV3b2dfWFdCV1ByR1RMTEM3N0hjeU0?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "James Thorpe Obituary (2010) - Washington, DC - The Washington Post - Legacy | Obituary",
+    "summary": "James Thorpe Obituary (2010) - Washington, DC - The Washington Post Legacy | Obituary",
+    "evidence": [
+      "matched entity: James Thorpe",
+      "event: death (obituary)",
+      "source age: 6012.7 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "12d4236e1aa3153075e6",
+    "entity_id": "larry_ferguson",
+    "entity": "Larry Ferguson",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "larry_ferguson",
+        "name": "Larry Ferguson",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 05 Jun 2024 09:23:02 GMT",
+    "captured": "2026-11-09T23:47:19Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83aGd5dlpEVXo4R2pONHhVbWxUWG9PWUFEMGVwQVZGbHZlZ1dUUzJEZzNLVFBrcjdlSkt0a0NwNERxZmpLQ05JOXpLWWZ0NlZxXzJNazM1ODdNUzBoSkh4Q2FaRTJyWnFrbGNLLWF1czFTZw?oc=5",
+    "source": "Daily Breeze",
+    "title": "Larry Ferguson Obituary - Lomita, CA (1939-2018) - Daily Breeze",
+    "summary": "Larry Ferguson Obituary - Lomita, CA (1939-2018) Daily Breeze",
+    "evidence": [
+      "matched entity: Larry Ferguson",
+      "event: death (obituary)",
+      "source age: 887.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "22979c7dc8115f0ec06c",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "health",
+    "source_date": "Fri, 16 Jan 2026 08:00:00 GMT",
+    "captured": "2026-11-09T23:47:19Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZDVHMWhidWc1Tkt1ZzQwc0x5UmJxdm5nM0h4MnpHSmptMEQydUoyRFVyYnE0TlVVWFNoZlZlVVpDVDlJbU1USGJES2xjajhWYzFOWlFrX3Jtb3dIM0s4bW5QYlc3cFlZazRWWXNuVHNRYWlsdUlXQXlVR1dSTUVwMW1EYmNVMlhmR3BtQjZQMmxWOW9UZDlBRGxILWFVT1dxQlhDWEJiWXprTGtYczFOempB?oc=5",
+    "source": "Spectrum News",
+    "title": "Oscar-nominee Virginia Madsen's new film spotlights health care for veterans - Spectrum News",
+    "summary": "Oscar-nominee Virginia Madsen's new film spotlights health care for veterans Spectrum News",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: health (health)",
+      "source age: 297.7 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

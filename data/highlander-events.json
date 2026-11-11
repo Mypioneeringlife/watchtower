@@ -1,103 +1,5 @@
 [
   {
-    "id": "004df09c2f9a7e14c495",
-    "entity_id": "duane_clark",
-    "entity": "Duane Clark",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "duane_clark",
-        "name": "Duane Clark",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "The Wrath of Kali",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "The Wrath of Kali",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 25 Sep 2010 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMk5sa2o0MmNSN09XeWZMSXd1YnBSTmNpM2w0aUZpYXV1M2Jza0JKSE1OSm15VEVLRFZ0NGE1RThyMVEyQnBGRWduaWE1M01WVG1tamVrY0paczA4akFVTFlnYWVKbDhjd3BtelNKXzlpc2M2eDNENkg5NEJjSXZLUmhkdlhJU1dZTVRZ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Duane Clark Obituary (2010) - Indianapolis, IN - The Indianapolis Star - Legacy | Obituary",
-    "summary": "Duane Clark Obituary (2010) - Indianapolis, IN - The Indianapolis Star Legacy | Obituary",
-    "evidence": [
-      "matched entity: Duane Clark",
-      "event: death (obituary)",
-      "source age: 5855.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "93c831a5fc8cdc6f356c",
-    "entity_id": "duane_clark",
-    "entity": "Duane Clark",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "duane_clark",
-        "name": "Duane Clark",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "The Wrath of Kali",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "The Wrath of Kali",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 27 Apr 2007 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNFk5bXBORTIyelZYbXVfaGlsQzRHNkNvMWJMLUhZMGo0MnI1cXpmTXlmTUVqRm9ZdFlyaDlrN184eTJENjZMT1Axdkpnc0dwbzNadEswQ2EwWmhhS3lTQjhuVnhmN1lLc3JJWjZKU094anp3ajZValBteDk1UUdKSUtsTnhaaFBVOW1LVnVR?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Duane Clark Obituary (2007) - San Gabriel, CA - San Gabriel Valley Tribune - Legacy | Obituary",
-    "summary": "Duane Clark Obituary (2007) - San Gabriel, CA - San Gabriel Valley Tribune Legacy | Obituary",
-    "evidence": [
-      "matched entity: Duane Clark",
-      "event: death (obituary)",
-      "source age: 7102.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "a91029bb4dfe3c389199",
     "entity_id": "elizabeth_baxter",
     "entity": "Elizabeth Baxter",
@@ -52546,6 +52448,115 @@
       "source age: 0.2 days"
     ],
     "score": 60,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "9d3d71f81511d4f9c27a",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Mon, 29 Sep 2025 07:00:00 GMT",
+    "captured": "2026-11-11T21:30:23Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0IzZ25SWmxkMWkzaUQyTWRwS2RlWmpOZzR4aElxUnlKOHdjUHZWYkFRU2ZiQlhKNjl1UExqbi1BbUd6X3NMcHVXdWx6N3JDUW1TcVhHRElFWW5hMHVNd2lMVjZYMmV3YmpBdVRjbjRESEhadzZXd3RLcmxNWTVKdVBLT3JtdjhMSDdIZGFRUFYyVF9zNWh6bXE4QktkTTNTbElmcDdyVGw?oc=5",
+    "source": "KS95 94.5",
+    "title": "In brief: WWE superstar Drew McIntyre joins Henry Cavill in film ‘Highlander’ and more - KS95 94.5",
+    "summary": "In brief: WWE superstar Drew McIntyre joins Henry Cavill in film ‘Highlander’ and more KS95 94.5",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 408.6 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "67eb6e0497363485b5a2",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 11 Nov 2026 14:32:44 GMT",
+    "captured": "2026-11-11T21:30:23Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZVNUTkx0WGF2aVAwYzIzV1diWTViZnpyRE81MEtUcUp2aDJ1dmExUjJyR0szX1hzanVhZURwWlByd25OQXBULUEtcVN1b0pGRkJfRkFyOGlzSGRRYlpqWGtCQzJfYVdFdENRSFVmS0x3aDhxalU0Y3hRX01sV0Ita1V4XzkzWEowN1l5VWlyNlAtZm8?oc=5",
+    "source": "South Leeds Life",
+    "title": "Special screening with Highlander director at Royal Armouries - South Leeds Life",
+    "summary": "Special screening with Highlander director at Royal Armouries South Leeds Life",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 0.3 days"
+    ],
+    "score": 70,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"

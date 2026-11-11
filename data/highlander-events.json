@@ -1,1472 +1,5 @@
 [
   {
-    "id": "a91029bb4dfe3c389199",
-    "entity_id": "elizabeth_baxter",
-    "entity": "Elizabeth Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "elizabeth_baxter",
-        "name": "Elizabeth Baxter",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Bless the Child",
-          "Eye For An Eye",
-          "Legacy",
-          "Reasonable Doubt",
-          "Reunion",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Bless the Child",
-      "Eye For An Eye",
-      "Legacy",
-      "Reasonable Doubt",
-      "Reunion",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 18 Feb 2025 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EbkpodTlhX1dhNk1tV3VmLVdsNmJkSzhFNW9zUTRhc3d0WjVzMVdReXA2dkNTdnNIYVlLM2FaeEZEUFpwMVExZzZTRWRhMER0LURJQkFFUk14UUptRjUtUlJfS2U?oc=5",
-    "source": "www.rose-neath.com",
-    "title": "Elizabeth Baxter Obituary February 18, 2025 - www.rose-neath.com",
-    "summary": "Elizabeth Baxter Obituary February 18, 2025 www.rose-neath.com",
-    "evidence": [
-      "matched entity: Elizabeth Baxter",
-      "event: death (obituary)",
-      "source age: 595.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5abe3ad62d7cc5e10868",
-    "entity_id": "elizabeth_baxter",
-    "entity": "Elizabeth Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "elizabeth_baxter",
-        "name": "Elizabeth Baxter",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Bless the Child",
-          "Eye For An Eye",
-          "Legacy",
-          "Reasonable Doubt",
-          "Reunion",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Bless the Child",
-      "Eye For An Eye",
-      "Legacy",
-      "Reasonable Doubt",
-      "Reunion",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 07 Dec 2025 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHFlVlM4cDV6YjhBYVVNRldRc3dpU3IzZzh4bkpFREN4YzdpOGh2WGJ3MmdvRlR2dDkwS1U4ZERtNlRLdzFETnVTbG1MYW8zRkFKWkRvRWROUUQ4RnFQN21BeHlrdUpjUGpGSWVnUWxMQnpvUDhYQUk1X1c3RWNIa0lHU3Jsc1Rm?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Brenda Elizabeth Baxter Soto Obituary (2025) - Holly Hill, SC - Avinger Funeral Home - Holly Hill - Legacy | Obituary",
-    "summary": "Brenda Elizabeth Baxter Soto Obituary (2025) - Holly Hill, SC - Avinger Funeral Home - Holly Hill Legacy | Obituary",
-    "evidence": [
-      "matched entity: Elizabeth Baxter",
-      "event: death (obituary)",
-      "source age: 303.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "b87be1e5d95444007688",
-    "entity_id": "elizabeth_baxter",
-    "entity": "Elizabeth Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "elizabeth_baxter",
-        "name": "Elizabeth Baxter",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Bless the Child",
-          "Eye For An Eye",
-          "Legacy",
-          "Reasonable Doubt",
-          "Reunion",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Bless the Child",
-      "Eye For An Eye",
-      "Legacy",
-      "Reasonable Doubt",
-      "Reunion",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 16 Jan 2026 15:35:06 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdDh5UXNfTW13UEF1cnNXd1hqVTNqdDZISlRoenJMMTJKSnNuWTNoRFVrTkJlUFoxSUwxZHpBMzN3QzRwSXhLdGR5cmFKblo2dDQzUHpWZlRWM29tV3kxRW1DZXAzS1Q5NFpLX1hZN3JCdUNpdERPQ2I1X2RjNW10eA?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Sarah Elizabeth Baxter Obituary (2026) - Marianna, FL - James & Sikes Funeral Homes - Maddox Chapel - Legacy | Obituary",
-    "summary": "Sarah Elizabeth Baxter Obituary (2026) - Marianna, FL - James & Sikes Funeral Homes - Maddox Chapel Legacy | Obituary",
-    "evidence": [
-      "matched entity: Elizabeth Baxter",
-      "event: death (obituary)",
-      "source age: 263.2 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "29d139a49af5b91694df",
-    "entity_id": "elizabeth_baxter",
-    "entity": "Elizabeth Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "elizabeth_baxter",
-        "name": "Elizabeth Baxter",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Bless the Child",
-          "Eye For An Eye",
-          "Legacy",
-          "Reasonable Doubt",
-          "Reunion",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Bless the Child",
-      "Eye For An Eye",
-      "Legacy",
-      "Reasonable Doubt",
-      "Reunion",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 13 Feb 2021 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU2F0d1JmYk5BT1ZxeG81V1NyVWZzdWJlbk1fNmd0cU1IcHdJanhqZnBuYXY2ZnF5ajU1TlZ4eHRFYlFqbGNXenBJVVBlY3RuOXFpMmVYNkc3VXJRTG1vcW5zSWJwbGI4RWw4bzU5N2pud3VUcUJ0WmNPSzVtekEteDhsdU1rTExwNldUNmRRM0laQ2s?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Elizabeth Baxter Obituary (1947 - 2021) - Everett, WA - The Herald (Everett) - Legacy | Obituary",
-    "summary": "Elizabeth Baxter Obituary (1947 - 2021) - Everett, WA - The Herald (Everett) Legacy | Obituary",
-    "evidence": [
-      "matched entity: Elizabeth Baxter",
-      "event: death (obituary)",
-      "source age: 2061.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "faaef59c08fb26c3f0c5",
-    "entity_id": "elizabeth_baxter",
-    "entity": "Elizabeth Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "elizabeth_baxter",
-        "name": "Elizabeth Baxter",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Bless the Child",
-          "Eye For An Eye",
-          "Legacy",
-          "Reasonable Doubt",
-          "Reunion",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Bless the Child",
-      "Eye For An Eye",
-      "Legacy",
-      "Reasonable Doubt",
-      "Reunion",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 08 Jul 2020 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTmt3R3g0YnVpX1FxT2U4cUhJaXpIWFhKTW5NdGYyMTkxaHFESDRmV0owVkJjaGdERkMtWkFqcUhMZHExZkZKQXVtYnM1WE1LZFlPMGNBWUE2c0RSb0JNT1k1cGhlRlNwenlrTDFwNlBHd3FEb0xNM1NfMFotcWdKa1o0T0M0TEt6WnpfMVhKTQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Elizabeth Baxter Obituary (2020) - Los Angeles, CA - Los Angeles Times - Legacy | Obituary",
-    "summary": "Elizabeth Baxter Obituary (2020) - Los Angeles, CA - Los Angeles Times Legacy | Obituary",
-    "evidence": [
-      "matched entity: Elizabeth Baxter",
-      "event: death (obituary)",
-      "source age: 2281.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "9960c9a48c3e0a1cd3a3",
-    "entity_id": "elizabeth_baxter",
-    "entity": "Elizabeth Baxter",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "elizabeth_baxter",
-        "name": "Elizabeth Baxter",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Bless the Child",
-          "Eye For An Eye",
-          "Legacy",
-          "Reasonable Doubt",
-          "Reunion",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Bless the Child",
-      "Eye For An Eye",
-      "Legacy",
-      "Reasonable Doubt",
-      "Reunion",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 05 Oct 2021 08:03:30 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcW1YSV90dVZ1WUwtVDBTNkZNRi1VeEVKSVJ5S01FSVFhV0ZIZUw3NjFXZVBkS1czWXZ0UUsxblBNRUVpbDZpbUItcmdJcnpHVjhUamV5Vkc3WEdLcVFPejVOUGVQVmdDLTJRY244bjZrNTIwZ2N6REw1czMxbm4wUnYxLURKMk1HM1Y1M19RdUJ1YVplTVM0cFp0dw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "ELIZABETH BAXTER Obituary (1944 - 2013) - BULLHEAD CITY, AZ - Mohave Daily News Online - Legacy | Obituary",
-    "summary": "ELIZABETH BAXTER Obituary (1944 - 2013) - BULLHEAD CITY, AZ - Mohave Daily News Online Legacy | Obituary",
-    "evidence": [
-      "matched entity: Elizabeth Baxter",
-      "event: death (obituary)",
-      "source age: 1827.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c1ca334384c4855b0518",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 01 Oct 2026 15:37:19 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mOGh1Rjd6dnh5Tm9tajM0dlhZQ3BxQ3FDbzhYTnJ2SE5tOXl5bEZwUmFvZ2ZNWk11dUdFak5VNkVGUjBwejFOZ2dRWUJKVHRaZnYxMVlGU3V1YWh0QzJfaG0wZmtSOUZRbTN4QTJ3RjhkbS1uWEJ2dw?oc=5",
-    "source": "Tribute Archive",
-    "title": "James Bruce Kruger Obituary | Bratley-Nelson Funeral Homes & Crematory | Hayward, WI - Tribute Archive",
-    "summary": "James Bruce Kruger Obituary | Bratley-Nelson Funeral Homes & Crematory | Hayward, WI Tribute Archive",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 5.2 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "29b25d526dd3d1612f81",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 29 Sep 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFdQenpVNUt4TFFROUQzMUExUGRVbGI2bVdyTTVmZ2ZwZnFhTERNY3Buc3hYbkxSZEZCYXdHNGlZWTZESmF3b0lUTDVkam8wWXFRSlN2OU9DTkM4anNUQnZrV2ExbHVFQjJUUGdWUmFTZzJaUXk3OEE2SmRPcURzWQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce Hughes Obituary (2026) - Sale Creek, TN - Williamson & Sons Funeral Home - Legacy | Obituary",
-    "summary": "James Bruce Hughes Obituary (2026) - Sale Creek, TN - Williamson & Sons Funeral Home Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 7.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "b25b3a274509c5c7b501",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 27 Mar 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTZ2hOcXhvMEFhQTdMazJuZHlqbjNmS1FCengwVE4zaHRxZnFFUlMtX3Q3MldlUkQwenBYM3Rmd3FqOUJLRzRmY0xMTjc5M1JnY0I2TVV4OUtXcEtvdEZCOEt6N2JvWEkya0M2eWxSY3NmQktuLXNKWkpDQ09MNU0?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce Allen Obituary (2026) - Salt Lake City, UT - Kramer Family Funeral & Cremation Center - Salt Lake City - Legacy | Obituary",
-    "summary": "James Bruce Allen Obituary (2026) - Salt Lake City, UT - Kramer Family Funeral & Cremation Center - Salt Lake City Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 193.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "e5749f4cf9a8e61c1c77",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 11 Jul 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaXRjYzBOTHpXeFUyRGxJa2xxUXliak8xVy1YQzgtYnl0X3ZRY19DTndnOEFBNmdYVWh2R0NDNnBRMHNXaUN3UVZtSWNGbnBSWHp1YlhoVlp2bkp6cFh4bGZQU2diWktIdUh3SGszRHhyd1dyb0NWXzVmN1gxbk5BM1hvd3o0cHFtOFRmdTFHak8xQTFRSzhB?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce Obituary (2026) - Santa Fe, NM - Santa Fe New Mexican - Legacy | Obituary",
-    "summary": "James Bruce Obituary (2026) - Santa Fe, NM - Santa Fe New Mexican Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 87.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "f096b0bdf2508c9d6660",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 14 Apr 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUnJCREI3R3FrVjUzb3JDVUU3SVFqcmg2SnFuOEsxa3ZfVUtaczlCUURQWlhqM1NYRENSNVo3VDl0RXpNSFd0X1BCbkxMT21UZHJ3WjVxSGpWSXpsM1JkaTgtQ3NWdExWMVlQeGp2LUF1amZxaEdzZzAzNlZ6QkRZNG5B?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "DR. JAMES BRUCE BURNETT Obituary (2026) - Haddonfield, NJ - Hinski-Tomlinson Funeral Home - Legacy | Obituary",
-    "summary": "DR. JAMES BRUCE BURNETT Obituary (2026) - Haddonfield, NJ - Hinski-Tomlinson Funeral Home Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 175.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "ab241773adb650fd2505",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 08 Sep 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MSTBzX2MzREJVNnlQM0VpVzFsdkNNS0lpRzFuN3hfSUt3M2Y4dU5BNlNHTFg2MThoLWFGVjU4c1IxNGQ0Z0RCblZoZ0gzVVRYRFpvY3dtaGJJSjk1OWZaSlVqTjM3VGx5NVhXYlF5UkxkUURybWxHMkFzZlZkQQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce \"Jim\" Hunt Obituary (2026) - Sandy, UT - Premier Funeral Services - Salt Lake City - Legacy | Obituary",
-    "summary": "James Bruce \"Jim\" Hunt Obituary (2026) - Sandy, UT - Premier Funeral Services - Salt Lake City Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 28.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "ce88a106b2cd3b0f69c0",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 14 May 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEdkeW9FdWZueDRKS2xYYUppMWlneU94Z29YUTB5MWZZekRia0xIdy0tSE0xQTF2Q2RWZlNIdmV6R005NkFzdjRPc2ZWLWM4RFFoQjhkZU16OVZpOHM2QlZZRURlZW5yakdpMWhWdzg5dE9VbURvcFU5Q0ZGemRBVWZzYw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce Crawford Sr Obituary (2026) - Bowling Green, FL - Robarts Family Funeral Home - Wauchula - Legacy | Obituary",
-    "summary": "James Bruce Crawford Sr Obituary (2026) - Bowling Green, FL - Robarts Family Funeral Home - Wauchula Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 145.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "6726f931ad7842918a90",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 25 Jul 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQVVFwVW9zdHo3MEdKd3pzcjMxYndPZWd4ZFFwd0FnbGVDb1lrdEg5UVprTWRCQlNMMmZVdldPckJOQmlXbE1oc3E2XzV1NHNzTGdCTTg0djRSSjdtWjZUMjlibjRGR1Nwbk1wWWdOY25Hc20zYTVnT0I5UnpfZw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce Huff Obituary (2026) - Brewster, OH - Spidell Funeral Homes, Inc. - Brewster - Legacy | Obituary",
-    "summary": "James Bruce Huff Obituary (2026) - Brewster, OH - Spidell Funeral Homes, Inc. - Brewster Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 73.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4a25c25308fa3dfa442e",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 30 Apr 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdXRCZW1STFJsZGloaG51X3Q3NDNEbkdVaTFJRk5pdmVER1BndFZZbnVmeWx3TV9XRGk4XzhOZUxjNUZUWWRETF9XUHZaRW1zNHVwaFlDYU8wa2tYbVduQVh3TkJhQnRURGNwTldmUHBuNDQyTTgtMzZ2X3FRYTZ6NA?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce \"Jim\" Wiltse Obituary (2026) - Woodway, TX - Waco Memorial Funeral Home, Cemetery & Cremations - Legacy | Obituary",
-    "summary": "James Bruce \"Jim\" Wiltse Obituary (2026) - Woodway, TX - Waco Memorial Funeral Home, Cemetery & Cremations Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 159.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "00cf561972142956b76d",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 29 Aug 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDJJNjZ3UWV2RHpOUWFHWmZfTEt0djhVNmUxaENLZWhuS1RwZ1BxeUs5LUZkMzc0dGswbDZzbDN6MFVNeFRZOHY2TGZuaGk4MEYwLS1PSGFHWE9yNXBqTDhtcjhUSXg0OE5rZEw3OGppSHpqRnRLSXBCMVJiY2tWeUtWUEJTelRHN3BteGh0dDVxR3lI?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "JAMES BRUCE Obituary (2026) - Nepean, ON - The Globe and Mail - Legacy | Obituary",
-    "summary": "JAMES BRUCE Obituary (2026) - Nepean, ON - The Globe and Mail Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 38.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "6609bfecadc549af1951",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 22 May 2026 02:45:40 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wWWNDcml6TzdEaWF6YTF6LURzb2x4aWJhbTZHaGZ1U1p0QTRQMHZrUXhqTXFlUkx1R0xIQ3NjSWotVGtpVjhCeFIxRjdCRTFCeVEwSWtBRlZjaXEyZGQxNFFhaG0wNW4wdXcwXzhHYXNNOGZON3FmR1dwWVRjRHM?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce Smith Obituary (2026) - Avawam, KY - Engle-Bowling Funeral Home - Hazard - Legacy | Obituary",
-    "summary": "James Bruce Smith Obituary (2026) - Avawam, KY - Engle-Bowling Funeral Home - Hazard Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 137.7 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d71bbee36a4d9f4bc387",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 23 Mar 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tb0U5SWdMekVYWlJDR1hJLUNDZk5TUnhDOG5hUlZBRVN1YmcwWUZXRjlZc0hYYWZzRXpyNVdUa2pVNmFiV1ZGQXZDNnhCazJNZi1JR0NfUjRLdjVibDZkY1MyWkZ2TUhlLWw4bVdoOTFhXzlib0pTTjhTajFrT3c?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce Obituary (2026) - Union, IA - Boeke Funeral Home - Hubbard - Legacy | Obituary",
-    "summary": "James Bruce Obituary (2026) - Union, IA - Boeke Funeral Home - Hubbard Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 197.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d327ff073fad416a88f5",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 13 Feb 2026 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbjNvbmh4ZHZsNkpYTTcwQTBONEFkenJvaGthMjlSWU9lNGo2dFUzQmRKSUVXS0NtR01Pb0xkazN1U0N6SlBHRGk5SjllMGtFX01jNU5CcFk1RFJnRmQ4TEN3MVdwSzg3emxiNEZiYkFGMFowYmF6YTBqWUhsQ2ZYb00xektCS19FUk9GX1NFekRoUQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce Obituary (1939 - 2026) - Memphis, TN - The Daily Memphian - Legacy | Obituary",
-    "summary": "James Bruce Obituary (1939 - 2026) - Memphis, TN - The Daily Memphian Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 235.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "60ce98e35373d448353e",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 27 Mar 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WREhIWDVWTzhYcmx0ZWJWbDNIcXRXM1lqRVFmRVFWTUpFWGdkN1phWC1lYU5qN0Q0TnI4ajBLakZ6Zmo0TVpWbEFYUmM3X3BHdGQ2VTlJSTdKSFZJQVc4NnRYWXhJVVF1T1NWYVNTUHJyQ2FSTGR3MjN5Sk9vOUk?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce Mason Obituary (2026) - Rancho Cucamonga, CA - Rose Mortuaries & Cremation - Rancho Mirage - Legacy | Obituary",
-    "summary": "James Bruce Mason Obituary (2026) - Rancho Cucamonga, CA - Rose Mortuaries & Cremation - Rancho Mirage Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 193.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "7e5a75aae23eb9927f83",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 26 Mar 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTh1NGVwOEZ1NllacndvVks2X2p4dERMN1V5b05Mb3F5VDMtOFN0Y3B1SnNONFpmbDBxRW4zWmtJZDVNV21STk1PdFBuUDFGeURCbHJLejgzZF9tS3FLZktmMGxBYnJ6alBiZkZVbS1PMGpyMHhMalZvZlpOOFJTTWhGRlpQMy16Mlpn?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce Walraven Obituary (2026) - Calhoun, GA - Max Brannon & Sons Funeral Home - Calhoun - Legacy | Obituary",
-    "summary": "James Bruce Walraven Obituary (2026) - Calhoun, GA - Max Brannon & Sons Funeral Home - Calhoun Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 194.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "8ae899df06f956af43d9",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 14 Nov 2025 01:01:57 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VWpWaFJlazFoRzh6c3o3NEJjSW8yWDY0bldYbHFLWS1GNHFCSTlDaThRMWswXzZheFpfSmRqbTV1OUpFWXd1X2N2czZ6ZndlT0ZIazlMOE5wQnZiaGFuUGVVZ09wWFE1QVNBb1N5MGdPcjNVdG9vQU9tdVI1Yjg?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce \"Jim\" Reedy Jr. Obituary (2025) - Chesapeake, VA - Cremation Society of Virginia Chesapeake Office - Legacy | Obituary",
-    "summary": "James Bruce \"Jim\" Reedy Jr. Obituary (2025) - Chesapeake, VA - Cremation Society of Virginia Chesapeake Office Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 326.8 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "b324a34b43e62e0e62a0",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 31 Mar 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcGVUampYd2x4Rng0cXlxMk93bHhEeW9lWmYtUDE5WXRKNjJmXzNNcG5EamUwYzBKVkZ3QXhiVmtwYTdjS1Z1d0o3TjdUUFdaeFVCelFYbjRuTERDNXBjZTFpUk16QUhubGZZRUIzc1Q0eERDMEZfZWswdzhPQU1UY3gyLTVFWjg?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "LtCol James Bruce Vanairsdale Obituary (2026) - -, FL - Craig Funeral Home - Legacy | Obituary",
-    "summary": "LtCol James Bruce Vanairsdale Obituary (2026) - -, FL - Craig Funeral Home Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 189.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0b2bb12b1e0b2f600f15",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 21 Nov 2025 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdjk0eW11Z2ZXcENBMkpiQm9KOTk3SGJkaER3QUg1cEQ4dmQ3MzBPbjNJQXBWbEJzcXpIQ0JqWDgzQWhyOUpEdkZEWUJMVGpMLUVyWDEyMkR1QWQ5MGZXVWwtWVplRDM2UkJBNExCSHg4TFJrVEZCSXZ0QXpGdWtHMQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce Sallee Obituary (2025) - Reno, NV - Mountain View Mortuary - Reno - Legacy | Obituary",
-    "summary": "James Bruce Sallee Obituary (2025) - Reno, NV - Mountain View Mortuary - Reno Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 319.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4b679cc71530f8096598",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 21 Nov 2025 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VZTN4YjJqMlN3aU9QbDY4X0Z1UTFIX1BIaldXcEN3WFdLQ0RCOTBDMExXTC0xR1I0aXhobmo0LVhOSVVGSWdleWFwaEk4ZVhjWERkLURqWm9ETXBnRGQ4bjU5ZlJkeHNnUGN3VUQyUzV4b0xmX2YxX1o5WTNrTW8?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce Elser Obituary (2025) - Douglasville, GA - Jones-Wynn Funeral Home and Crematory - Villa Rica Chapel - Legacy | Obituary",
-    "summary": "James Bruce Elser Obituary (2025) - Douglasville, GA - Jones-Wynn Funeral Home and Crematory - Villa Rica Chapel Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 319.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "e235511f313611a3e54f",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 12 Nov 2025 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYUtjakl2X0FZRXVEQmd5S0NRQzRxMDMxQU5pRjcxTG1BNkVCUTRZSjl0dE5pcHVWV2hzNVNleVp4LXNoYWE0LWpuSG8wNXdieUdDREZWRmJlS2d3aVZ6M1ZEY1JRSWV5LVJZa0xLX3RvN0VmQk1kbG1ZWDlOWnVOOXNMbw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce Cantrell Obituary (2025) - Mount Holly, NC - Woodlawn Funeral Home - Mount Holly - Legacy | Obituary",
-    "summary": "James Bruce Cantrell Obituary (2025) - Mount Holly, NC - Woodlawn Funeral Home - Mount Holly Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 328.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "f93867e607314b36dd00",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 24 Jul 2025 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONDNPTmhlVjVseFM0dVVRaG95Ym55ZkV1Q3h1MHN6WUpaMzJuQkEwOEVra3loN0huUHoybGh1b0tQcERSR1ZnR3k4OTI4NXpaSkQ1TC1LS04xM3JHdVdrMW82NWtydnRkazJJWDBmNm1EZFhYUUFPZ3N2SnNacWRVaVFtZw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce Shepherd Obituary (2025) - Greensboro, NC - Triad Cremation & Funeral Service - Greensboro - Legacy | Obituary",
-    "summary": "James Bruce Shepherd Obituary (2025) - Greensboro, NC - Triad Cremation & Funeral Service - Greensboro Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 439.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "893499a1202ca3eb01f7",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 17 Oct 2025 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OU3pYNDRoSjgwenZWaTE1a0s3OXFvdWZBUkFHeUlybmxBbElraHA4T3JWOUZ3SERYbnpFaHE0NWxIVEotOExfTmQ2M2o1SmVHaDQ5V3RzTldOeVZTRHJQUjQ5RGsxdmFBNGtiRWUxZ1RKRlhKMi04dmxfMkFJdw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Bruce Gray Obituary (2025) - Morgantown, WV - Smith Funeral & Cremation Care - Legacy | Obituary",
-    "summary": "James Bruce Gray Obituary (2025) - Morgantown, WV - Smith Funeral & Cremation Care Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 354.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "a8a7d4ad16364bdd2142",
-    "entity_id": "james_cosmo",
-    "entity": "James Cosmo",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_cosmo",
-        "name": "James Cosmo",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 52,
-        "event_type": "new_project"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "new_project",
-    "source_date": "Fri, 03 Mar 2023 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWtLODZCdTVsTHVmMTFlcjBqMWxuZ01IMDVtUnZaMXg5MUVQWkNYTXBmaXZSZkZJdnVfV2FGQS02Z3Z6Vml6Sm1mdERCN1Bpd2F4ODZHR0tLM3d1ajRDM0RORXU5a0J4YlBsVjZ5YmMyQzU2X2ZZaU9qRHVBa0FhNXNNTmlmeEJsSExWS0RNajZkX210ZjVIX25hd0J6RThiMDNPZnY0SXRKY3pqRUZQODNXaklpanc?oc=5",
-    "source": "The Wiltshire Gazette and Herald",
-    "title": "James Cosmo says he is a ‘rom-com actor’ following release of new film - The Wiltshire Gazette and Herald",
-    "summary": "James Cosmo says he is a ‘rom-com actor’ following release of new film The Wiltshire Gazette and Herald",
-    "evidence": [
-      "matched entity: James Cosmo",
-      "event: new_project (new film)",
-      "source age: 1313.5 days"
-    ],
-    "score": 52,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "89684f367936792e5d9a",
     "entity_id": "james_thorpe",
     "entity": "James Thorpe",
@@ -52557,6 +51090,1391 @@
       "source age: 0.3 days"
     ],
     "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "4035baebb8b09a48c1b5",
+    "entity_id": "charles_wilkinson",
+    "entity": "Charles Wilkinson",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "charles_wilkinson",
+        "name": "Charles Wilkinson",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Brothers in Arms",
+          "Courage",
+          "Double Jeopardy",
+          "Obsession",
+          "Shadows"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Brothers in Arms",
+      "Courage",
+      "Double Jeopardy",
+      "Obsession",
+      "Shadows"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 24 May 2012 07:00:00 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbFpfZmNvTHdoOVNNQU1hMm1XYkhLaDFlRDBxWUtId2JSc1BuSjhZRm5jQWJJNDAtZHozM0FzbnMtTDJCa2FuZEdIZkZvSWdTQ29uVmxaZzBxSlFScUZBRWlhMGNZTklzYWtmWlJEQnFSeG5yakVpTTM3NUdkTlJ3WEdUQndWX0lxaHI4RW5PM1JnVGd4eF9Vbkln?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Charles WILKINSON Obituary (2012) - Lafayette, LA - Tampa Bay Times - Legacy | Obituary",
+    "summary": "Charles WILKINSON Obituary (2012) - Lafayette, LA - Tampa Bay Times Legacy | Obituary",
+    "evidence": [
+      "matched entity: Charles Wilkinson",
+      "event: death (obituary)",
+      "source age: 5284.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5578ef464705444ac14d",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Wed, 11 Nov 2026 21:31:00 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQkxvSjVOT2x6WExmc0MyWmNEanJnVXFUQ0p5cF8zb2IyWlBUcEZtX1NOdVlJYUVoZk50TnEzSEtJSkRuNGt4djNtYXFIb2pfUW5uSXNDa09TTlpmblhTZ0kzNVZuMWw2SFlqR3haam1pUFVRU0tJbFJXYWFYbjhTVFZhbTAzRU9iRkZVckhvTXJSM3NkUGNab3FJRmVQanZ0Y1hHUWthSHBkMV9zT1VXNVFyUk9QMHM?oc=5",
+    "source": "MLive.com",
+    "title": "Jared Goff dealing with chest injury, Lions get edge rusher back at practice - MLive.com",
+    "summary": "Jared Goff dealing with chest injury, Lions get edge rusher back at practice MLive.com",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.0 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "19f1f5a43d2c2682229d",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 54,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "interview",
+    "source_date": "Wed, 11 Nov 2026 09:05:42 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN2l0LUM3eGJvT0YwMEhFVXNaRDJ6S2M0Uk5VZFkzeEhTZG5BeV9ZMGFwd3JUWGppaDJaeEpXRXVoeldLd1h1bWZSRWNYSW40TFN4Y0FVRXI4U1lNdC1zYm1xZy1Oalg1QkVlRFZqQy1BS1F0RnNyQjhOalctTkdMYVpoZk9hOG02enlGbUh3?oc=5",
+    "source": "AI Magazine",
+    "title": "The AI Interview: Chris Bergey, EVP of Edge AI at Arm - AI Magazine",
+    "summary": "The AI Interview: Chris Bergey, EVP of Edge AI at Arm AI Magazine",
+    "evidence": [
+      "matched entity: Edge",
+      "event: interview (interview)",
+      "source age: 0.5 days"
+    ],
+    "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "9bca5e6a1d0f0276f90d",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Wed, 11 Nov 2026 19:24:00 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkhaNWlsQ19MZWlHNEo1bjZkSGpIUFNfWU9DRjhNRjRWNjY5MmlpeWhZRDgtOVNYVnRMS0pIVVdMSkRSNnl2OFpqUllCZ1IxQ25PRE83SzUzSmM2VF9GeFNSQ0hueU1OV3VPV3hfSVFaWDVMOGhCMzU5TmFoZ2hqQmlJOVE4MDZxS21nb1RHdjJpSDEzWFoxc0NPMUhiZlNSQkVOa05B?oc=5",
+    "source": "Men's Health",
+    "title": "The New Fitbit Edge Adds GPS and a Screen. Is It Worth the Extra $80 Over the Fitbit Air? - Men's Health",
+    "summary": "The New Fitbit Edge Adds GPS and a Screen. Is It Worth the Extra $80 Over the Fitbit Air? Men's Health",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (health)",
+      "source age: 0.1 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "de152b15496b84bcaddc",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 11 Nov 2026 12:03:04 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNzZsN0QyaDlwOHBLUGIwbUZSZzZUNHZpaG9iXzNMVlhRbi1jTFRrVUZaMUI5SENJSkp1aEVPTi0wR1NMNnZyT3JpNXYyTFVFblhaWUFBa3hMaVBpekpBUGNQM01xYmkwMUR2TC1UaEVMdkhEbHRnMDk4SFNNRTR4Zy1uS2NxRVc5eUNXWGZWZDR0QQ?oc=5",
+    "source": "Briefs Finance",
+    "title": "Arcelik Says It Has Edge Over Chinese Rivals as EU Readies Tougher Import Rules - Briefs Finance",
+    "summary": "Arcelik Says It Has Edge Over Chinese Rivals as EU Readies Tougher Import Rules Briefs Finance",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (dies)",
+      "source age: 0.4 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "e442123b5395aa042405",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 11 Nov 2026 14:59:06 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UZFZWOUNPSWhFeThRREQtbjZfRlJvcmJsR2FuTGR1TUVVZVZsc1hzVGtSMW9pQ0xXMFRtakR3TE96OE1xeXliLVlrc0gzTWpDYkRqY2xfTWNnRUJZY09pODEzcXpnZEJCX1ZqNkFR?oc=5",
+    "source": "The Razor's Edge",
+    "title": "Album Review: Iron Savior – Deathbringer - The Razor's Edge",
+    "summary": "Album Review: Iron Savior – Deathbringer The Razor's Edge",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (death)",
+      "source age: 0.3 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "0f3fd4d36b9c32e3b17a",
+    "entity_id": "john_c_mcginley",
+    "entity": "John C. McGinley",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "john_c_mcginley",
+        "name": "John C. McGinley",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 54,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "interview",
+    "source_date": "Fri, 17 Aug 2018 07:00:00 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0p0cHdaSGZxdnlLQldrcDNfWWJyV2wwNlN3Zi1GXzktYlEtMm5MaFQ0VENwZ3pRNTFFUGs0dXNMd1MxZFR3amx6QVptVE1XakY2YTNKVFVYMmU4S01meXA2Yy1sdVhVLUd5emJ1N1VoenJwNVU4TElOZTBNZFByaWdEOXFlOEpqTlVCUjlibUxBenNUc3dfWXA4cWFpc1hXdzNjWWExS2JveFhGY2dBZmJOSmlsQmM0a0dUZnNPVUd0UHQ4?oc=5",
+    "source": "Smashing Interviews Magazine",
+    "title": "John C. McGinley Interview: \"Scrubs\" Star Discusses \"Benched\" and \"Stan Against Evil\" - Smashing Interviews Magazine",
+    "summary": "John C. McGinley Interview: \"Scrubs\" Star Discusses \"Benched\" and \"Stan Against Evil\" Smashing Interviews Magazine",
+    "evidence": [
+      "matched entity: John C. McGinley",
+      "event: interview (interview)",
+      "source age: 3008.6 days"
+    ],
+    "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5e3ca9afb53826f84420",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      },
+      {
+        "id": "lisa_howard",
+        "name": "Lisa Howard",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 03 Jan 2003 08:00:00 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXpqWGRjcWZZLUJnUkZwT1ZxdXhEVzhxS3htTVplT2Z0RG5iRU9rZlBOVXNPNmYzM2hkRUhXbVdhTExDQS0wVUJnQ1dWV21jeGZsSjIwQnNpN19oZWR6WUlleExLQzVmc0lNZTBwdG9PZHdCQUc4a1RTX1JjanhoR2tEa0h1c1hTMm12aQ?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Lisa Howard Obituary (2003) - Lakeland, FL - The Ledger - Legacy | Obituary",
+    "summary": "Lisa Howard Obituary (2003) - Lakeland, FL - The Ledger Legacy | Obituary",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (obituary)",
+      "also matched: Lisa Howard (72)",
+      "source age: 8713.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "5581e75ec812275d899e",
+    "entity_id": "mako",
+    "entity": "Mako",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "mako",
+        "name": "Mako",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander III: The Sorcerer"
+        ],
+        "score": 66,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander III: The Sorcerer"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 11 Nov 2026 03:58:05 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBSUVdrdlJkcHRJLW0zcXVrcURqMTZlcUdEMUZTb2JTd1NIN2dqQmlGUDZybmxGS3owN0J4YWU1MkRBQQ?oc=5",
+    "source": "YouTube",
+    "title": "Ocarina of Time Remake 60FPS 1440P FSR4 Quality at Lake Hylia/Zora Fountain using Mako 3.3.2rc.2 - YouTube",
+    "summary": "Ocarina of Time Remake 60FPS 1440P FSR4 Quality at Lake Hylia/Zora Fountain using Mako 3.3.2rc.2 YouTube",
+    "evidence": [
+      "matched entity: Mako",
+      "event: highlander_production (remake)",
+      "source age: 0.8 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "c0ba0c3c0b62b212ebcc",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Tue, 10 Nov 2026 22:31:00 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnJ6NWY3LUM1SU9iU3Y4MWhKSFVmMHRvejJFeDVhVHZuUW5yTmZGMW16NUR3WjU1Ynk1cTA0MUVyWjdraHh1TnU1SjRUemFtVGlkdHBiclptazFYSFIwQ19INzAyeWw0WVFKcmlnSG4zbTZ4ejdQVWwtQUxIYXlnTTRDaVVwX3U1N0dyOU1fTC1RZFFhLTU2S9IBrAFBVV95cUxPb2YxZzdza3JvNU4wTHpGcmJnNDZWX2tWT1pDZXhfR0MwWFBfd1lCcE5RQWpGeDRvMFFOZU1sTnZnTU9YM2luNDc1RGVJM3JhRU1Jeng1aVNxNlRwQ3BpNHVHeVljMkx3NndiYXN3S1J1YlVocElFeHFCRmZ1STFJdW5YalRnMU56bG5ERWNDRFRqVUVrYzJXd2VEVmg4VER6UlVmM09mVXh6QUdi?oc=5",
+    "source": "Alaska's News Source",
+    "title": "Son of famed Hollywood stars charged in fatal Anchorage hit-and-run - Alaska's News Source",
+    "summary": "Son of famed Hollywood stars charged in fatal Anchorage hit-and-run Alaska's News Source Antonio Sabato Jr and Virginia Madsen's son arrested in fatal hit-and-run Fox News Virginia Madsen, Antonio Sabàto Jr.'s son arrested in Alaska in connection with fatal hit-and-run ABC News - Breaking News, Latest News and Videos Antonio Sabàto Jr. and Virginia Madsen’s son arrested in connection with a fatal hit-and-run in Alaska NBC News Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run KATU Son of Virginia Madsen, Antonio Sabàto Jr. arrested after fatal hit-and-run KTLA Virginia Madsen and Antonio Sabàto Jr.'s Son Arrested in Fatal Hit-and-Run TMZ Antonio Sabáto Jr., Virginia Madsen’s Son Jack Sabáto Arrested in Connection to Fatal Hit-and-Run Yahoo Antonio Sabáto Jr. and Virginia Madsen’s Son Jack Arrested in Fatal Alaska Hit-and-Run People.com Oscar-nominated actress’s 32-year-old son arrested over fatal hit-and-run in Alaska Page Six",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest, charged)",
+      "source age: 1.0 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "c517a6080e71dfa4dca6",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 19:04:37 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVhVZ0VkcmhJanF5dTBHRm52S1Badmcwd3ZiQklrQTFFeWxCdk5aRHJmYUlIcVo3QVN3SWlBMmhvWXRmdThpM0JzMDloaHFiLVhvbklmRVlTWm9DS2MzeW5nRmVtczNQY2JkS01zQ1pydmphdlQ5YmM4OUlySmZGSUdRQ2hYQ1BjN0pTOXFQZkJnRVRfM0EyZnZ6cXhKZjdOVk15VmVFTS1WbFdQQW8wQVBBa0RKUjg5ajdNYmtGcHZwM2hycnc?oc=5",
+    "source": "National News Desk",
+    "title": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run - National News Desk",
+    "summary": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run National News Desk",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 0.1 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "0bc8de9967ea39b125c2",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 19:07:10 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaEVUWXc1ZzNBYmFMTHJCN2xyeG9iT1pvVktlN1ZYelgtVEV2bTBkeWgxZjVSVFFnM1l3QlZwSk5OZlp1UW14eTF2WGEtM0RQQVpPazhnTVE4eU55dldKOGhQWkZpR2MwLThqRzhMVGhuZWd4dFVzeTcxOEdPSWR6dkRqSjZYX0IzaTZsT3NSeGltOU9lY0REUzd2S3R3U29yOVFNSU5PcWN3dnExd1paSnNNdmZZQjVvQVU4WUNmOA?oc=5",
+    "source": "NBC Montana",
+    "title": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run - NBC Montana",
+    "summary": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run NBC Montana",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 0.1 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "31ac7b2058924f028996",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 14:48:08 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZUZ3MTNyUDhaWDVoX1dIeXJEMHp3d2lkQnpHdzBXbEVkbUhHZmIxOG1OT3l2OUtPUWs2Vk4zV3hDSWN5TVZ6c296eFFsZ09sdGxCd2xGVnl3d1ZQZDBiQXBjTEVXRnllUGRlQWFGM1NRckQyTUZIaUdBN1FEMkhLSEVnVi1GYm9kMzljc0ZiR3pvc1ZScVBieQ?oc=5",
+    "source": "New York Daily News",
+    "title": "Virginia Madsen and Antonio Sabàto Jr.’s son arrested in fatal Alaska hit-and-run - New York Daily News",
+    "summary": "Virginia Madsen and Antonio Sabàto Jr.’s son arrested in fatal Alaska hit-and-run New York Daily News",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 0.3 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "0d40f9d669ab15a029de",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 14:39:00 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVUZVeVlNSkxtYzM1N0dKQzlqWWJXdTgySUZ3V3BQcmJyM0dpNFNHVXpPY1JLU0x0SkQ2eEp1b0FyZzA0ektlSVYyX25zNlk5a240WHh4RHloRWJsSFd1OS1rU01LbjlqQzJqMHYtWEM0TUtSdzdRM2VZeURCQ19Jc0VCeUhCcnBzcnJlY1BFNnlneVhUUktDbGdmYzU?oc=5",
+    "source": "E! News",
+    "title": "Antonio Sabáto Jr., Virginia Madsen’s Son Jack Sabáto Arrested in Connection to Fatal Hit-and-Run - E! News",
+    "summary": "Antonio Sabáto Jr., Virginia Madsen’s Son Jack Sabáto Arrested in Connection to Fatal Hit-and-Run E! News",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 0.3 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "8c06b6989b7d00546f86",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 15:37:57 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZkh4MVVrU1FRSDBTSktiUHJFT0FCSTJjRmdoMjdVeUQyZTMyY0xkQWxHbEg1SUo1UUREWTRhaEVOblZIVWVmcGFqMVdhdmRvMGRaVFV1Tzl5ZWxGTEs0RVNmODB3VE9YUzlCakd3b3R1TTFKZkhjMG83bVhHY0FPNzVST3diRVN3VmlzUzA4Z3pxbU4xQTVRREVPN0VSRjBMdld5WnBOMTFlMmZQSnFISVBwc05KLWo3bXc?oc=5",
+    "source": "Washington Times",
+    "title": "Son of actors Virginia Madsen and Antonio Sabato Jr. charged in fatal Anchorage hit-and-run - Washington Times",
+    "summary": "Son of actors Virginia Madsen and Antonio Sabato Jr. charged in fatal Anchorage hit-and-run Washington Times",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (charged)",
+      "source age: 0.3 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "f330e9d9d7a802a24898",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 11 Nov 2026 14:43:09 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ2tMeTk3RGs0cGc2elRtQzVfWXVLU2g0Ym8yTW5tU09ETTRrbzZMYkdQV20tUUU2aUktQnpYV3RXNGV6cnhlSnNVVFpiX1A3RGJ1VnE2Y2NLYUlaanJRTDkzcWhIVnhURm9qbm9HLWg3UGsxRjhLQlRFRklXNmxjZ0FsV3UzT1hhSEVkUGhET1VUZnNfSUI0cktrY2tUUlU5T0FMV0VQLW01S0JORTdURGhfQ2VXZW1MUFBQcWZn?oc=5",
+    "source": "The Daily Beast",
+    "title": "Son of Hollywood Stars Antonio Sabàto Jr. and Virginia Madsen Arrested in Deadly Hit-and-Run - The Daily Beast",
+    "summary": "Son of Hollywood Stars Antonio Sabàto Jr. and Virginia Madsen Arrested in Deadly Hit-and-Run The Daily Beast",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: death (dead)",
+      "source age: 0.3 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "cd63d7070798cce1bb1c",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 17:45:39 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLS10MHZ6R0dpTWxEYS1jUVVscEdXMl9BN0t6cGFtaHFFUENKLXB0RUVuWFE4QjRELV9kSlFDcGtOU01RY2dFbXRmaEpqeHBOT1VGMXZYdUpoLVAzYmYzSEFrNVZFeGxRQzI0OU9TLVlvYk1HOUJRMWVYWTFlM1ktY0dXVk50cDNvM3JnYm1LUlV5WUpi?oc=5",
+    "source": "Complex",
+    "title": "Antonio Sabato Jr. and Virginia Madsen's Son Arrested in Fatal Alaska Hit-and-Run - Complex",
+    "summary": "Antonio Sabato Jr. and Virginia Madsen's Son Arrested in Fatal Alaska Hit-and-Run Complex",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 0.2 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "05a1fb4cb6ad32ba1058",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 20:53:54 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX1dOU2d2d1VUQ1A1ZGpQdjVnR19LNWh3Q2Z6bUNSeVJxeTJ2OXBKcUdsclZMeXdPbkVzeW5jNEEzSndGdjZmYmtRdlZBUGpXc1lMai1EM1dxNDVjZmZESXBXRTcxa21Pd2N5UElOdkd0ekRWNHlWcGtaY0xOZTFSZElQaw?oc=5",
+    "source": "Oxygen Official Site",
+    "title": "Antonio Sabàto Jr. & Virginia Madsen’s Son Jack Arrested for Fatal Hit and Run - Oxygen Official Site",
+    "summary": "Antonio Sabàto Jr. & Virginia Madsen’s Son Jack Arrested for Fatal Hit and Run Oxygen Official Site",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 0.0 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "ba98f74466514ac4e6c7",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 04:11:00 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbHJFZWxTRWlCMldfYktPY3VwVnR1bFFTWmc5SUtudkNWVVhKaUtOMWp5eFlKdlUzTkt6cjZFSjNWak42b3FQTVM0QUhwTXMyaXZudmxLQy1YQ3dhOTM5R3o2RElCUzd2YW5SQXJBc3ZwT1g5b1dUZktKMVNldmVQQlBFY3J5YkxrQUdaaGVJSjFjdVJlRFN5WjBKQjE4akRMYkNPeTRpQ2VYbENIQnF4N055V2U3QdIBygFBVV95cUxNaUFKY0J3QWNDRkRRMUJFNVJYbWYxb21ORVVrZlhTOXlkbXhRcDMybDZEdUMtdkNHNmo3TlVuVzhHVFBNVXN4ZnFEOHJyR20zc2gzbEh0LWJTeDJuQjhHVDBmb3QwdDlySFpqaDhaREVMUnFCUkRqRDFCQm45TkJ6aU5Jd00xNW1pMmpKdTlkVFc2dEh5UUVzZGZmaENGci1wd3ItSHBkUEJwZFJ5VG1PY2xaTnJMVW5MalJRSlAyWXp6VU5OTU02WVFB?oc=5",
+    "source": "WTOC",
+    "title": "Police arrest son of actors Antonio Sabàto Jr., Virginia Madsen in fatal hit-and-run - WTOC",
+    "summary": "Police arrest son of actors Antonio Sabàto Jr., Virginia Madsen in fatal hit-and-run WTOC",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 0.7 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "d14dd16a5bcfea4ee6bd",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 17:59:21 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WUHlaVHBubEVOZlNhZTNVdlVuV2pTeExSdDB2WlNaN0JlQzZ5Q3gwNEFWaF9qMjlzWkJFam1xalVoWDFrejNicFFNa0tUSk9TcE5oZWxn?oc=5",
+    "source": "Fox News",
+    "title": "Antonio Sabato Jr and Virginia Madsen's son arrested in fatal hit-and-run - Fox News",
+    "summary": "Antonio Sabato Jr and Virginia Madsen's son arrested in fatal hit-and-run Fox News",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 0.2 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "ac80bba019311de40678",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 19:16:58 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYV9ad3lud0xmeUwycERvM1doLS1UX3JFWTAwZ0g4TmJYVlZWYnJuVEtoTXBiZW9fT2d2T1JLWmJTUVVOQTZ4OXczSjhmMDBvM1p0M0R2cEZ3TjBRTGRXS2NscTZ4U0JvUGxvUndzUFJnV1NDaXM0X2w4bHVJM0dtei1UNWx6bXY0QTkxbTM4Qmw1S1FXV2ZSSXZLVC1JdWpLVDBrU0JqMjcxTlMxeGFIaWFOY2VMOER1d0VxNA?oc=5",
+    "source": "WMSN",
+    "title": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run - WMSN",
+    "summary": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run WMSN",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 0.1 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "1f6f60e7fd2e70539429",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 08:48:38 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUZ5QURRRnluTE9EUmhKLWZEVWZRMjJ6VG5HZzhYcjlGbDg1ME9YNlJIdUo1aDJxdGtwV0RtTk00TWhLYmlIMWVXRFZENW5aRGQwVnZGSFJRMFJ6RFdlN3JuVHNkNExzM1d2QjN0RWtzT3c1RW5JWk5jMFpQUl8tV3lvR2p3UEI3UHFSck0tc1czR0cyX2F4M0hqTFNNUzR6dDlRN2xFMmhmd3lQMGRHazJB?oc=5",
+    "source": "Us Weekly",
+    "title": "Virginia Madsen and Antonio Sabato Jr.’s Son Jack Sabato, 32, Arrested Over Fatal Hit-and-Run - Us Weekly",
+    "summary": "Virginia Madsen and Antonio Sabato Jr.’s Son Jack Sabato, 32, Arrested Over Fatal Hit-and-Run Us Weekly",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 0.5 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "bfd514775d21badedf22",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 04:37:00 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdTlnWUQ3SXlWaS1UYnlkcWpySlhmLU1BVWEtOXVVUTk2RGFRQ2xlXzFiSTJVLVpiSktPc1c1cWpRRms5UWJlY2ZDZWcxaWM1X3ZOM2hfdGV5U05UdHlQNy1MNFA0SmxSZEZscjM0ZkJvZWZGa1pGcHo2b2d4dlR0cnczeWM0cXlkcGduU013d2ZVY2c?oc=5",
+    "source": "Parade Magazine",
+    "title": "Virginia Madsen & Antonio Sabàto’s Son Arrested in Fatal Hit-and-Run - Parade Magazine",
+    "summary": "Virginia Madsen & Antonio Sabàto’s Son Arrested in Fatal Hit-and-Run Parade Magazine",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 0.7 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "690d7863dff874593c67",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 54,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "interview",
+    "source_date": "Tue, 15 Aug 2017 10:16:59 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WMVpSTktjaFYtS2M1MWdqV1FzU2RLNktydXpHLW9KRm16ZEJVVFJQQlFRanR6OHFJT1VON2EtbDBGeEJrdnVZQUtBaF8yVnNpekg4ZENIcHFvNzJWX3EwRw?oc=5",
+    "source": "ABILITY Magazine",
+    "title": "Virginia Madsen and Elaine Madsen Interview - ABILITY Magazine",
+    "summary": "Virginia Madsen and Elaine Madsen Interview ABILITY Magazine",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: interview (interview)",
+      "source age: 3375.5 days"
+    ],
+    "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f06f91f3ab007e752418",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 11 Nov 2026 03:40:00 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXg0SG54OUFRME5ObVBvVTFET0x6SUxXOXoyQUlpYm5NM1BRd0hLMS1aM0k5a0FmNTdyT24zVXIzc2Z1YTVjTkxoRzU1cW1JN0dubVFRSUw2Qmt1NHNpby1SMTNMMnVSU29UaTExLV9oZnJvaXY4ejA1UUdKNUNUWVRkN3NiZmZyZHdEYkpaaU9vR09pUGhUcXJlTG9NVFlUNDNsa014dTBremNZYUFDU1Fqc9IBuAFBVV95cUxNY3BDX19jbHJtb2FxNUZnX1RrQUQzVF82dFpST0h3a3NNaUhQVFpOYUVOYm8yNzZVcnJ6UnVvcFNNYUZCWTJ2VG1zMEt5Vm4wSjlzN3BydHZvVUxxcE9PcnJRWmtETmtWYUc2NWNUOXBvdHN5dUlMMjNrYi1heVV5QUJUT1MyTzJ0RnFxTmRyc2RCTEY0dFdZMlNyUmpScHhaOVAxR0FVUkdLYUdtWVNHTWsyRnBfUGsw?oc=5",
+    "source": "Daily Mail",
+    "title": "Virginia Madsen and Antonio Sabato Jr's son arrested in connection with deadly hit-and-run crash in Alaska - Daily Mail",
+    "summary": "Virginia Madsen and Antonio Sabato Jr's son arrested in connection with deadly hit-and-run crash in Alaska Daily Mail",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: death (dead)",
+      "source age: 0.8 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "843f73ea830b39daae9b",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 11 Nov 2026 07:14:00 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN3dRVkNBX3hlXzJrMl9HMWFtb0FOTnJHRjVmMmhtSzNtOUl1VjRtTUdCLU9EZTRyaEdIUktGX2c4Wk1tNEZzU2IxOGlwbzctemlxS2VrQmNSSFBweHFUc0thYnYwNHVBeU0yejFlNHhDVjZpaU1mTkZRN0M2TDN6T1ZHY9IBiAFBVV95cUxQZ2Iya2RrY0ZLQlc0WDVENTIyYW4zRGF5MHRrcm52Ui03RXdTekpVZTJhOFZMcjFSdWdsR0dGLTE2Z2VGMnp4Ym94d2pSVW5nRkxzNDlsRVNwZnA2eVJiMTBpVnRqTnZxZWxTdm9UN2NPLVkyM2pTTkZ6eTZ2RWxhdHE4UnBpNjhR?oc=5",
+    "source": "The Mirror US",
+    "title": "Virginia Madsen's son remains in custody as he faces charges for deadly hit-and-run crash - The Mirror US",
+    "summary": "Virginia Madsen's son remains in custody as he faces charges for deadly hit-and-run crash The Mirror US",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: death (dead)",
+      "source age: 0.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "21f0cc195a016d68d318",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 16:59:43 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXB4LTdDOE5oc2FfcGZMUDAzYlNZNFZZWHpSdjJjUlI4WmRzRDA4ZlhiVm1jcllrV09wVFFVY3l5MU5iY2dJYmFjcDc3Ui1uOFFCbzBIMW9SY2lqN2hGMHVEWHdndjhNODUwTTBsdmxOQXRSOVVsS1M2TjRFb0g4RlRKTlNocFU4R2hiS3pWUjI0am5UNzFUVTVqNzZxamUxMlhxa0pXTUM0UQ?oc=5",
+    "source": "TMZ",
+    "title": "Virginia Madsen, Antonio Sabàto Jr.'s Son Removed From DoorDash After Fatal Hit-and-Run Arrest - TMZ",
+    "summary": "Virginia Madsen, Antonio Sabàto Jr.'s Son Removed From DoorDash After Fatal Hit-and-Run Arrest TMZ",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 0.2 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "61ddeba687aa58e9fe1b",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 18:05:19 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjJNVnJaakNxVTFaQ3hSdVZTQnBTb2V2dG5SMzkxcVNmRkU2S3k5c1VVUFU4TnJvWkZsQ0ctNkg2Sm92aEhSZG1XWWZNcHpMREFnd2U2TS1Xd2d2eWc4cFRzcE1GWllvcXVfM1hCS2xRb0k3ZHFYeEJScllZM2VNelQxZnJLNVdVcUFwRzRwdnRmenZlSnZ6ZFRKTVdJZGhPZDFaSU1GOE9OVmwxWXpSYnVNVXfSAboBQVVfeXFMTm4wSUl1YVJfaFZ4Mk9paU16NWFsZFdLbGVXUVlPRUg3WDRFZWFwRXRBTTZ2Y0FPbUhaRTlRUnJ0MG1DejdmSnRRZjZLa0wwMFNBdTdTV0NzSFJpcTRnY25xRV84ZG1rMjZsOU1kelVRSFVtODNWM05VeTh2VnpDQlY0RGd1Yl92eW9HNDZzSXJJVzJuMlJyYi1EdDlKcnFkMVk4ZDBMd2gya2lCT3czSXhyNXJqUzNmbVhR?oc=5",
+    "source": "Daily Mail",
+    "title": "Virginia Madsen and Antonio Sabato Jr's son Jack seen in court after alleged fatal hit-and-run crash... as actor father breaks silence - Daily Mail",
+    "summary": "Virginia Madsen and Antonio Sabato Jr's son Jack seen in court after alleged fatal hit-and-run crash... as actor father breaks silence Daily Mail",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (court)",
+      "source age: 0.2 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "e80ee455629d5b5b7b9b",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 04:17:28 GMT",
+    "captured": "2026-11-11T21:58:49Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZTE5aVktVnliVzJhYWQwUEIwVlNzeVliTktnR2lwT0F5OG1NUDBBTGR0TlB2cWw4cXA4YjdoYlV5aWllTDJnOGpXamRNN0lVMXBnRmdGNkw3dnF4RnQxUmNzUEQ3TGxRcU1LaE5PZndDalRybG5sQ1hpRlJVZGNZcXlZM0M2TWFGNW9V?oc=5",
+    "source": "cedarnews.net",
+    "title": "Police arrest son of actors Antonio Sabàto Jr., Virginia Madsen in fatal hit-and-run - cedarnews.net",
+    "summary": "Police arrest son of actors Antonio Sabàto Jr., Virginia Madsen in fatal hit-and-run cedarnews.net",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 0.7 days"
+    ],
+    "score": 56,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"

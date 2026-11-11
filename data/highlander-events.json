@@ -1,54 +1,5 @@
 [
   {
-    "id": "9d555176b4fcf7540999",
-    "entity_id": "duane_clark",
-    "entity": "Duane Clark",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "duane_clark",
-        "name": "Duane Clark",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "The Wrath of Kali",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "The Wrath of Kali",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 02 Jul 2024 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:45Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sS25PTUg5UlZEc0xzbElTMjhESjZYVFNGeVBzRW9pUm9PUkdDUHl4NzJVTEpCNFloY3dQT1dwNnY2blhlR2lEUk16RlItVXYwTVU3MlEzak9CVF9RZndCZWtsckxKY2xxTUFrRUZMbzJodTUyZ0JrVkt1dFF3UQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Duane Clark Fant Obituary (2024) - Atlanta, GA - Fischer Funeral Care & Cremation Services - Legacy | Obituary",
-    "summary": "Duane Clark Fant Obituary (2024) - Atlanta, GA - Fischer Funeral Care & Cremation Services Legacy | Obituary",
-    "evidence": [
-      "matched entity: Duane Clark",
-      "event: death (obituary)",
-      "source age: 826.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "004df09c2f9a7e14c495",
     "entity_id": "duane_clark",
     "entity": "Duane Clark",
@@ -52551,5 +52502,52 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "c6b8bec6c70a7b2dac1f",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 60,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "new_project",
+    "source_date": "Wed, 11 Nov 2026 05:49:29 GMT",
+    "captured": "2026-11-11T09:47:22Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcl9QenU1ako3Z1k3Z01yNS1rSnp2N3hyem1SdElCSzZHLWJJeGVtX2RzNjhWZ2FjU3ZJbE82eXhZZFhvYUNsSGh1UEN4MXAtZmVIZERZZGc5SzdIbXctUUItU01VU25SaWZhczNzWXhHTVJrRTVqY0FtTlFIdlJzZHY1NEZkSVpQTms5bjV0WmRJN3o2X0dFVk80TEhvdzhhOV9mTXBYTm5YclpPS0NCd1k1emk?oc=5",
+    "source": "Nacionale",
+    "title": "Is Henry Cavill coming back as Superman? No deal or studio plan announced, only insider reports - Nacionale",
+    "summary": "Is Henry Cavill coming back as Superman? No deal or studio plan announced, only insider reports Nacionale",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: new_project (announced)",
+      "source age: 0.2 days"
+    ],
+    "score": 60,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

@@ -1,127 +1,5 @@
 [
   {
-    "id": "8144357eb1fd18ff5927",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 09 Apr 2017 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRHNFR3AzczVJVFUxNXNZREttbDVUZUxPa1ZKVkxjdFJCb0t1azFyck9RaE5ndFFHVnhDRjZ5YzlMM2FzWlRHc1Nsb3E2LUx2MnVKd0pydUhOazZYeG1CdC14aEFxVUtHTHR0SWRDWU4tY2ZMQ09QZ00wNjd3cTE3Mzh6X0J2Q25qZWlJ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Thorpe Obituary (2017) - St. Louis, MO - St. Louis Post-Dispatch - Legacy | Obituary",
-    "summary": "James Thorpe Obituary (2017) - St. Louis, MO - St. Louis Post-Dispatch Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 3467.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "878398dab07a2c35f41a",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 15 Feb 2015 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObXZwR3Fnb0QxM05aQVRlVDFyc2M5NHVEVGhuUTdtQ1UzcHRodWMtWUhmbVRMckJ6YWY1b0F2c3Q0VXVTaFpIVlNGQkM4OEF3cDJsazF0V3JCb3FkZlR1djFiU010eGw4MTFfMzJoOTBuOGV1OXBvRlZiZERVSlhNTUtzdXFnNllVZ1NqckFTVFp6QQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Thorpe Obituary (1929 - 2015) - Seattle, WA - The Seattle Times - Legacy | Obituary",
-    "summary": "James Thorpe Obituary (1929 - 2015) - Seattle, WA - The Seattle Times Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 4251.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "6da24cc3f5ff16f988f6",
     "entity_id": "james_thorpe",
     "entity": "James Thorpe",
@@ -52462,6 +52340,101 @@
       "source age: 5.7 days"
     ],
     "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "cfbab27041fded6f1ddd",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 60,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "new_project",
+    "source_date": "Thu, 12 Nov 2026 12:55:20 GMT",
+    "captured": "2026-11-12T21:33:17Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTJrb1pVYWhBNURoM0YtS0R3UFRhVlYxcFlPVDNYQWFHN0N0NTJqN1d6NHRmV0RWMDY1akVlM0hZN2JUUWJjdDZCUkVIWGpIUWx4aVJVd1BYck5fZ2xuZ2VLVi1zdDJZSE1wNV93WW1CVzlDN0hfOC0xZVZaRnhVQ1pHc3JIZ3ZuX1dRY2MwVHZIcWg4WjFtY1VXN0NsRFhQYnc?oc=5",
+    "source": "Root-Nation.com",
+    "title": "Google Reveals Mustache Protocol Starring Henry Cavill - Root-Nation.com",
+    "summary": "Google Reveals Mustache Protocol Starring Henry Cavill Root-Nation.com",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: new_project (starring)",
+      "source age: 0.4 days"
+    ],
+    "score": 60,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "7d5a5c0dc1d890a098c8",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 12 Nov 2026 13:50:23 GMT",
+    "captured": "2026-11-12T21:33:17Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcl90ZWJQbWJhWGcwTVptajZZNjRFZ0NFSl9pT3l5ZmxBZkVBVlNzSzcxVTZOdmk2cG5sZWVJa3RZTEN5Z1gxMHlnZzE4cmd0X0tmZUpIUEo5aFR6M1NXaVlXdy1veE5TTnVubkpud0pnMnQ1UC1ReG5wZFpGVlI4d3RTcmRVYVRWdENKMTN0OURhY1ZIOU8xQjhiVnhLRlk?oc=5",
+    "source": "Hungary Today",
+    "title": "Henry Cavill’s Budapest Mystery Solved: Actor Filming Spy Comedy in Hungary - Hungary Today",
+    "summary": "Henry Cavill’s Budapest Mystery Solved: Actor Filming Spy Comedy in Hungary Hungary Today",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: filming",
+      "event: highlander_production (filming)",
+      "source age: 0.3 days"
+    ],
+    "score": 78,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"

@@ -1,127 +1,5 @@
 [
   {
-    "id": "89684f367936792e5d9a",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 17 Aug 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQlRnOC1IMXNQQXpzc2RaRm53MHJidHJlb3RiYkJLRkhMaU0td3hGbEpoOVpmcjgxdUttalRON2tGdzI5SFF0NldwOXNWM21oYlpOeXJXYWJzV2t5YkVBUjJDWnY3OC1iaEo5UzFVbDJXV19oMDBFS2VwSEtUWlRqOQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Thorpe Obituary (2026) - Moberly, MO - Cater Funeral Home - Legacy | Obituary",
-    "summary": "James Thorpe Obituary (2026) - Moberly, MO - Cater Funeral Home Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 50.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "dd9a196a6b23a7f91924",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 07 Jan 2026 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOUVrYjBZejZXblNQYTZGMk1kVFJoRTkyMDVXYkdEN2F0MVlqRWI4MTVwZHdfV0lzZm1pZWx5ZWFYdzlBTncycDZHOHc2UnNtU0NnYl9oVjAyU3JiNmZ4NW5zSFFvS2ZJeXhGZXlrWENiamZqZHNxb0NNX2tzaHNUYUJ0azE2NVQzU3EzNk9DdXJkU2lIb3VjWA?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Thorpe Obituary (1953 - 2026) - Baltimore, MD - The Courier Express - Legacy | Obituary",
-    "summary": "James Thorpe Obituary (1953 - 2026) - Baltimore, MD - The Courier Express Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 272.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "8144357eb1fd18ff5927",
     "entity_id": "james_thorpe",
     "entity": "James Thorpe",
@@ -52475,6 +52353,115 @@
       "source age: 0.7 days"
     ],
     "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "16e5111a142946a54fa6",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 16 Jan 2024 08:00:00 GMT",
+    "captured": "2026-11-12T10:09:57Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjFVdWRLTHk2dlQwbEtfWnB6Q1RmeE5jdFctQ0ZlQ2VTb1g0N0JnUFhEUElWcjdfcVNtb2JESDNuWWVvTW10dWEzYVgyUEl2ZXkzUlZRNWhMYXJqS2VxZG1VT3pEMnlVZ1dGN3FndzdYTTlWRXUyLUZ1bmktNmpQN2wydkg5cktvSC1BdjMzQzc1VEhlZXJVSWVQUWhGV214QUtqTS1EWFRrVFlRb1RMdnliWDR2c2d3SUx3VlJXc1BjUDVLN0J5bg?oc=5",
+    "source": "The Playlist",
+    "title": "Chad Stahelski Confirms 'Highlander' Is Next & Signs New Deal To Oversee Entire 'John Wick' Franchise - The Playlist",
+    "summary": "Chad Stahelski Confirms 'Highlander' Is Next & Signs New Deal To Oversee Entire 'John Wick' Franchise The Playlist",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 1031.1 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "313313e2a489e31f9b1d",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 06 Nov 2026 18:20:25 GMT",
+    "captured": "2026-11-12T10:09:57Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVMDEyRjI4alBHZk1KR3FrcmZWbm9pY3V2MHJpV05QOWw2U2s0R2pKWGh3NlU1bmJwRDVDNTFCVk03aDNmNVBvX0lqS0FocF8xWU9taGRwZkNXZmxRaEtod3BrSUp2Q0JCX3J3MUdxTmhDV29w?oc=5",
+    "source": "ScreenRant",
+    "title": "40 Years Later, The Original Highlander Finally Returns In Epic First Look - ScreenRant",
+    "summary": "40 Years Later, The Original Highlander Finally Returns In Epic First Look ScreenRant",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 5.7 days"
+    ],
+    "score": 70,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"

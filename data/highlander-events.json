@@ -1,56 +1,5 @@
 [
   {
-    "id": "cf30780d7691cebb9077",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 12 May 2024 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM1NxN1N3bmE3V2VPWk9JUjMwNVJEWmpQdUt4bHFxbUNlZTktVXlOX3RTQjZ4c1BBQllsVWVTTWJ5VDRDMEVBVFdGQkZiaWw5X3Nyc3J0WjAxX3lldlNOZkc3em0wbHF0LWRSbGRtVGFFMDVLQVE4UXM5U1d1U0tfaXd5WUdENlY4dnpxakpR?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Karen HARRIS Obituary (2024) - Spokane, WA - Spokesman-Review - Legacy | Obituary",
-    "summary": "Karen HARRIS Obituary (2024) - Spokane, WA - Spokesman-Review Legacy | Obituary",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 877.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "a0d89ca13ca47ad385d6",
     "entity_id": "karen_harris",
     "entity": "Karen Harris",
@@ -52253,6 +52202,53 @@
       "source age: 1.2 days"
     ],
     "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "81bf7e9cd872c2039c3d",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 06 Nov 2026 21:52:38 GMT",
+    "captured": "2026-11-13T09:54:20Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tQ09MV1ZDV2FyUkQzaDJZQXluVHF1NDJ4WE5TaHJFM3YtS0F1WEI5MmgtMWpfWVMtSThmVHNHeUpha3VTZnRkSmUyVDFGaGNRT01JdXo3SjFEejNBX0ZZZU1FS2lWRFU?oc=5",
+    "source": "IMDb",
+    "title": "40 Years Later, The Original Highlander Finally Returns In Epic First Look - IMDb",
+    "summary": "40 Years Later, The Original Highlander Finally Returns In Epic First Look IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 6.5 days"
+    ],
+    "score": 70,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"

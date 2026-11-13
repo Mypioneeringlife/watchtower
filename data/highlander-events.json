@@ -1,56 +1,5 @@
 [
   {
-    "id": "a0d89ca13ca47ad385d6",
-    "entity_id": "karen_harris",
-    "entity": "Karen Harris",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "karen_harris",
-        "name": "Karen Harris",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Rite of Passage",
-          "The Cross of St. Antoine",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Rite of Passage",
-      "The Cross of St. Antoine",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 10 May 2025 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2owOU84c01RbzhuMmFxeGlBWW1ua3pGNjhTQkZUblZ4ZkZpaFlxODJTcnJOMXdZeHBUQm5nWVJ3TXdacm5mQ28wWlR4WmQyVldwa2VJdUR2ZW1ZU0NiazhqellmNzgzckpINUpUcUpiNklDczhUN3h1LVdOdXN4eEFseWNsVUhVbF9CUU1KQ0VIdFdQQ3c?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Karen Harris Obituary (2025) - Crystal River, FL - Citrus County Chronicle - Legacy | Obituary",
-    "summary": "Karen Harris Obituary (2025) - Crystal River, FL - Citrus County Chronicle Legacy | Obituary",
-    "evidence": [
-      "matched entity: Karen Harris",
-      "event: death (obituary)",
-      "source age: 514.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "533d148b6e787ba28c04",
     "entity_id": "karen_harris",
     "entity": "Karen Harris",
@@ -52252,5 +52201,82 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "f1a23c9839718b60d1f6",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 27 Oct 2023 07:00:00 GMT",
+    "captured": "2026-11-13T20:57:35Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc0ZvQi1iQ3J6OHN4YXRxZVlpZFlaZ2h5cWxfWFRtWVhZZks3YllMUnRvdXJyNWpxV1VMVHBRcXNfc1k3dTJtd2dYd2VvUlhvQ3dTRmJuZXdXckFyNGZ2cWZCVUhJWmxxR1JqMUpoS1YxYmUydXdTTnpnOW95dnhvQnpqUk5nYzVSWTBXRm9KVVlseHJ4R2phUmhFSHFFZ0RHblZZNmctNFRjQ0llOHpBbXA2SERNYV9ZTUZFc2N5Tk1LY2l1QmNn0gHHAUFVX3lxTE5zRm9CLWJDcno4c3hhdHFlWWlkWVpnaHlxbF9YVG1ZWFlmSzdiWUxSdG91cnI1anFXVUxUcFFxc19zWTd1Mm13Z1h3ZW9SWG9Dd1NGYm5ld1dyQXI0ZnZxZkJVSElabHFHUmoxSmhLVjFiZTJ1d1NOemc5b3l2eG9CempSTmdjNVJZMFdGb0pVWWx4cnhHamFSaEVIcUVnREduVlk2Zy00VGNDSWU4ekFtcDZIRE1hX1lNRkVzY3lOTUtjaXVCY2c?oc=5",
+    "source": "Punch Drunk Critics",
+    "title": "Chad Stahelski’s Big-Budget ‘Highlander’ Reboot With Henry Cavill Moves Forward At Lionsgate - Punch Drunk Critics",
+    "summary": "Chad Stahelski’s Big-Budget ‘Highlander’ Reboot With Henry Cavill Moves Forward At Lionsgate Punch Drunk Critics",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Henry Cavill (100)",
+      "also matched: Highlander (100)",
+      "source age: 1113.6 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

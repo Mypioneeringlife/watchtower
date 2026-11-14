@@ -1,381 +1,5 @@
 [
   {
-    "id": "2a0296fdb46e6c372dfb",
-    "entity_id": "larry_ferguson",
-    "entity": "Larry Ferguson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "larry_ferguson",
-        "name": "Larry Ferguson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 11 Sep 2023 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1lhdV90Q3BuQTV2WXc3amhzSE03aGUyeVF3Y2tPbXZOZW1OdXRNbjJzQ1FTWWpkemVoRmtRMExqelFTQ0Z2R1V5VVJyMm1RZzJobWI5YWYwRHBOa2tkamFvb2Eza1BkUHlybEhUWlVLYlRuQTF3dW9mVUZDS3haZmpFczBtQ1VCOHE3SFlTY29Odw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Larry Ferguson Obituary (1950 - 2023) - Browns Summit, NC - Greensboro News & Record - Legacy | Obituary",
-    "summary": "Larry Ferguson Obituary (1950 - 2023) - Browns Summit, NC - Greensboro News & Record Legacy | Obituary",
-    "evidence": [
-      "matched entity: Larry Ferguson",
-      "event: death (obituary)",
-      "source age: 1121.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "3a502caaa785d1e8a7d5",
-    "entity_id": "larry_ferguson",
-    "entity": "Larry Ferguson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "larry_ferguson",
-        "name": "Larry Ferguson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 23 May 2008 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZqUzdmandydXZHWW9HMjNicUhVdUR5bjdGbGdkRUFOc0lVeXdsZXBZZldsMTdNSmx0LS1aeWxSczNpR1U2R3pLV3Uxd1Z3X2lYdmJoVGhnTjVaeEluWmk2aldreXUwaFBBbHpFakhHQTA4Z1puQXdZWS02aGpQaEV5RVVudlhnRXEycHVncmlpQjRDRUZQdTV6b1k?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Larry Ferguson Obituary (2008) - Ormond Beach, FL - Daytona Beach News-Journal - Legacy | Obituary",
-    "summary": "Larry Ferguson Obituary (2008) - Ormond Beach, FL - Daytona Beach News-Journal Legacy | Obituary",
-    "evidence": [
-      "matched entity: Larry Ferguson",
-      "event: death (obituary)",
-      "source age: 6710.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "579d2a8aaebae3e25f48",
-    "entity_id": "lisa_howard",
-    "entity": "Lisa Howard",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "lisa_howard",
-        "name": "Lisa Howard",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Series"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Series"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 16 Jul 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT1ZEaFlaSkFnU0VCUXE5U0dlQU5uWWpienhjZzdkd2NuckowY3JmeWt5b1lfQ2NheXFqWWIwVDcxSElPYlJEV2thdERYX2FqdDhRQTcxWFhlZXVmaUhkNnNDbmJRU1ZjSlUyMmJGQ09Nb2N4ZFFZS2paWThJcmdpM3VXMWNORGhyTnQ3Y183M3RuN0xQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Lisa Howard Thompson Obituary (1965 - 2026) - Andrews, SC - Kingstree News - Legacy | Obituary",
-    "summary": "Lisa Howard Thompson Obituary (1965 - 2026) - Andrews, SC - Kingstree News Legacy | Obituary",
-    "evidence": [
-      "matched entity: Lisa Howard",
-      "event: death (obituary)",
-      "source age: 82.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0c25b5e251e2dbe4d9aa",
-    "entity_id": "lisa_howard",
-    "entity": "Lisa Howard",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "lisa_howard",
-        "name": "Lisa Howard",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Series"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Series"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 28 Mar 2025 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBteEVla3ZIQmtBOFlxbDJucG9OZTZIaUlhb0pqQlRERHV2aGNzQUZYbzlUanVXUVBWNFBaVUkyNDRScVZ4ODcyeDc2NEFUWDhGdlYta1JQWGpyTXk2bE52NHRpTGhvZ0dWVnd0SWtTcWxOMXpoNjJLTl9Teld6Q1E?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Lisa Howard Obituary (2025) - Memphis, TN - Memorial Park Funeral Home & Cemetery - Memphis - Legacy | Obituary",
-    "summary": "Lisa Howard Obituary (2025) - Memphis, TN - Memorial Park Funeral Home & Cemetery - Memphis Legacy | Obituary",
-    "evidence": [
-      "matched entity: Lisa Howard",
-      "event: death (obituary)",
-      "source age: 557.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "bb5da5f180d5b0d6da94",
-    "entity_id": "lisa_howard",
-    "entity": "Lisa Howard",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "lisa_howard",
-        "name": "Lisa Howard",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Series"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Series"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 01 Jun 2006 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZEtnN09KdEpEbzU1d19fNzlxRnl0UnlzN3U5SU85cXg5aHFCNDhyQUtlbjVYakpXc192bHNrV1BfQlZhb3pBVUN2MlVkMndmQ0RPOXkwYkxKYlhpNjhvNFotNnV5TTkwb0s3T3FXdnkzSW9BRGxZSTFpb0tITUJIR0tzUTdMbmhXWFJvQjNNX0dSQQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Lisa Howard-Doyle Obituary (2006) - Los Angeles, CA - Los Angeles Times - Legacy | Obituary",
-    "summary": "Lisa Howard-Doyle Obituary (2006) - Los Angeles, CA - Los Angeles Times Legacy | Obituary",
-    "evidence": [
-      "matched entity: Lisa Howard",
-      "event: death (obituary)",
-      "source age: 7432.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "a4760740561eb619f233",
-    "entity_id": "mako",
-    "entity": "Mako",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "mako",
-        "name": "Mako",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander III: The Sorcerer"
-        ],
-        "score": 60,
-        "event_type": "appearance"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander III: The Sorcerer"
-    ],
-    "event_type": "appearance",
-    "source_date": "Tue, 06 Oct 2026 02:49:21 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lYXpFYjh5bkFEeTFoNlJJVlB1VTBqcWNUYWVqU0JURDVnZU5rdEllWE9nWnVtLTU4eGp5MnE4SklieTl1bmZTNXVDRzZkY3pveHFQLTlCdmZRNWpZ?oc=5",
-    "source": "YouTube",
-    "title": "【Love it!】Asian Games Gold Medalist Mako Fukube & Toma Ikuta Make Their First Appearance! Challen... - YouTube",
-    "summary": "【Love it!】Asian Games Gold Medalist Mako Fukube & Toma Ikuta Make Their First Appearance! Challen... YouTube",
-    "evidence": [
-      "matched entity: Mako",
-      "event: appearance (appearance)",
-      "source age: 0.7 days"
-    ],
-    "score": 60,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "5368b33a0cd36250d39e",
-    "entity_id": "mario_van_peebles",
-    "entity": "Mario Van Peebles",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "mario_van_peebles",
-        "name": "Mario Van Peebles",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander III: The Sorcerer"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander III: The Sorcerer"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 22 Sep 2021 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMG9pYXpfTHl0RFRyQmtyc1lvTnRvU1NON3JSS2xlR1hFZG9odkdKUnk2ejl3X0U2MFMtZjBSemYyNEFod3k0UnZBbXUwMFBNNDFrT1piUmhUc0paRXBBUFdwQkVYYjlpcGlRZ2Z6SklCVjFrVi1tNV9GdDBUNGQ1OXA4QV93N0NhMXF2d2lpdUc?oc=5",
-    "source": "Deadline",
-    "title": "ALI, Mario Van Peebles, 2001, (c) Columbia/courtesy Everett Collection - Deadline",
-    "summary": "ALI, Mario Van Peebles, 2001, (c) Columbia/courtesy Everett Collection Deadline",
-    "evidence": [
-      "matched entity: Mario Van Peebles",
-      "event: death (dead)",
-      "source age: 1840.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "66e739a6e9f1d8d591b5",
-    "entity_id": "michael_jayston",
-    "entity": "Michael Jayston",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "michael_jayston",
-        "name": "Michael Jayston",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander III: The Sorcerer"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander III: The Sorcerer"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 05 Feb 2024 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3VBb3k5M29oMzc3YmxYMFJXT080NGpub05NdXNla2JSRGM1a0t1RlBqeWFDSlhmajhuM29UdUpLcHcxU25KN3FjNnRSTHk2YkhRVHh5Nnc0Y1BNMXl2czFDWWsxT3F1X2YyV0NibjFHSVVkYjByb09BbjljQ3llb0xkS0ktdkxNUU5MWtIBkgFBVV95cUxOTGlaeXhveUNYZjVUVWVPMmI2T2ZOWnNlYUR2WmVkODd6b1lkcHRIb0VHc0JYMFpLa3k4SWcwbk5WUFhScDJCcnNweFJZcWtlbW1qWENtRklGWi15SW5SM205T2lGaUNQZ0NwZWhxd3BCb3BvNk9aMTVGT3BXbG9WTGVPSjE5dmlZbUZCTTZMT2U4dw?oc=5",
-    "source": "Daily Mirror",
-    "title": "Only Fools and Horses and Emmerdale star Michael Jayston dies after a 'short illness' - Daily Mirror",
-    "summary": "Only Fools and Horses and Emmerdale star Michael Jayston dies after a 'short illness' Daily Mirror",
-    "evidence": [
-      "matched entity: Michael Jayston",
-      "event: death (dies)",
-      "source age: 974.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "55aa3f08f8e3a22016ea",
     "entity_id": "michael_o_mahony",
     "entity": "Michael O'Mahony",
@@ -52271,6 +51895,392 @@
       "matched entity: Virginia Madsen",
       "event: legal (arrest)",
       "source age: 1.0 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "19256e3ffd3dc90b5ce2",
+    "entity_id": "damon_dash",
+    "entity": "Damon Dash",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "damon_dash",
+        "name": "Damon Dash",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "legal",
+    "source_date": "Thu, 01 May 2025 07:00:00 GMT",
+    "captured": "2026-11-14T19:56:53Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZGZHR3g4c0FqRzZFVXNkcUZFZERVSmFVQ0xzR3V2bWRCcmRGMUtna2x6bWVmcVZTc2xtMTBUbFZqMkhzQ1Rwdm55UV9OWFZEbGM0M3g5LXBQNW1jc1hGRWhQZ1o3dDQzalI4NmVkcXFkSXhoQVpPc2pONC1ZdVYwYjNBVVB6WWh1czlpM0NubE5xdUNBc3c4X05B?oc=5",
+    "source": "VIBE.com",
+    "title": "Damon Dash Could Go To Prison If He Doesn’t Comply With Court Orders, Warns Judge - VIBE.com",
+    "summary": "Damon Dash Could Go To Prison If He Doesn’t Comply With Court Orders, Warns Judge VIBE.com",
+    "evidence": [
+      "matched entity: Damon Dash",
+      "event: legal (court)",
+      "source age: 562.5 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ad16c2a310d11129c155",
+    "entity_id": "donnie_yen",
+    "entity": "Donnie Yen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "donnie_yen",
+        "name": "Donnie Yen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 54,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "interview",
+    "source_date": "Thu, 15 Dec 2016 08:00:00 GMT",
+    "captured": "2026-11-14T19:56:53Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92aUNPWW9zbDl6MlJPWDAwSkNrSVdKZkdHYmt4NFRWWEVDOFNsVmNsRDk3NV9aaVdra25Fcng0N1dCQUtGbmNGa3ctUWtMM3lOSWRReGQ5aU5VOG5vNTBldFJhRVNCcktuVEp0cEpSZGlPQQ?oc=5",
+    "source": "ScreenRant",
+    "title": "Rogue One: A Star Wars Story - Donnie Yen Interview - ScreenRant",
+    "summary": "Rogue One: A Star Wars Story - Donnie Yen Interview ScreenRant",
+    "evidence": [
+      "matched entity: Donnie Yen",
+      "event: interview (interview)",
+      "source age: 3621.5 days"
+    ],
+    "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "68f84b0232818f3cf2ec",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Fri, 13 Nov 2026 15:17:05 GMT",
+    "captured": "2026-11-14T19:56:53Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM1BZcHlSYjVKT0dFcmMtR0RDMHpPdUpVdlNDZFNMbTR4VnFNVUJ4OHI0ZmU1R1VNQVg5Tk9kTWlxMllrN3lGMHpXOTcxbkdEcVJncFl4Q3VPZDdrYk1ieUxTUG9JY1JlSEVvLWZIZ1NnckxCOHE2SVpvRzlfUmFYejdPa2ZxY1Q0WWUyQXVEZW4wSF9ZSlhRczRaSQ?oc=5",
+    "source": "HealthLeaders Media",
+    "title": "The Winning Edge for Making Workforce Supply Meet Patient Demand - HealthLeaders Media",
+    "summary": "The Winning Edge for Making Workforce Supply Meet Patient Demand HealthLeaders Media",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (health)",
+      "source age: 1.2 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "d2c201899c188006f534",
+    "entity_id": "larry_ferguson",
+    "entity": "Larry Ferguson",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "larry_ferguson",
+        "name": "Larry Ferguson",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 15 Feb 2023 16:07:58 GMT",
+    "captured": "2026-11-14T19:56:53Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVZDVjF6ZlpRMmRxbWg1elpnclR6Um1QRWFjOTExWTI1akNaaWZ1ZGVDT3lpWXdSb0ZvbUhqUFdlajFMRTB4V0ctXzhTMXZPN1UwekhJbDQxSjdBZHBMRkl6V1BtWW8yYmJBMUdaeTZibXVncks0M0NtVGlseG9mdElsQ1E5VHBaNXp5Z2hHc0ZfODNXUHpGMA?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "LARRY FERGUSON Obituary (1936 - 2013) - Mohave Valley, AZ - Mohave Daily News Online - Legacy | Obituary",
+    "summary": "LARRY FERGUSON Obituary (1936 - 2013) - Mohave Valley, AZ - Mohave Daily News Online Legacy | Obituary",
+    "evidence": [
+      "matched entity: Larry Ferguson",
+      "event: death (obituary)",
+      "source age: 1368.2 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "28a9a7280558e92ed3c0",
+    "entity_id": "lisa_howard",
+    "entity": "Lisa Howard",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "lisa_howard",
+        "name": "Lisa Howard",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series"
+        ],
+        "score": 54,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: The Series"
+    ],
+    "event_type": "interview",
+    "source_date": "Sat, 14 Nov 2026 17:35:38 GMT",
+    "captured": "2026-11-14T19:56:53Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0NiM0FiUFpKX184aldTUjlJbEJja3Y5SWVMZlh6TmV0dTZYR2Mzam1iVGlxVWx3Zl85dF93THcyM3V6enhFN0hRdmtYMHdaazY2bUFTM1JHNzBweFQzdHBCOFhYNThlQTVuYnJPZFJ5Qm83c19QakVISVNITE5mX3ZNbHFkVkxQb1VNWEZWTlVVWnZlZ21pd0lLWWhGNENLeGNyMXMwRjdlU0E?oc=5",
+    "source": "BroadwayWorld",
+    "title": "Interview: Lisa Howard Likes Making THE SOUND OF MUSIC - BroadwayWorld",
+    "summary": "Interview: Lisa Howard Likes Making THE SOUND OF MUSIC BroadwayWorld",
+    "evidence": [
+      "matched entity: Lisa Howard",
+      "event: interview (interview)",
+      "source age: 0.1 days"
+    ],
+    "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "fa163d8255193f21eadf",
+    "entity_id": "peter_ellis",
+    "entity": "Peter Ellis",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "peter_ellis",
+        "name": "Peter Ellis",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Dramatic License",
+          "Manhunt",
+          "Studies in Light",
+          "The Fighter",
+          "Unholy Alliance, Part 1",
+          "Unholy Alliance, Part 2"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Dramatic License",
+      "Manhunt",
+      "Studies in Light",
+      "The Fighter",
+      "Unholy Alliance, Part 1",
+      "Unholy Alliance, Part 2"
+    ],
+    "event_type": "legal",
+    "source_date": "Thu, 25 Jul 2019 07:00:00 GMT",
+    "captured": "2026-11-14T19:56:53Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHBkaWg1WG54RlVuRG1XbWwyUWEwX2I4Ql9rMXUxSnZfYnlDYmxxR3VJemlLTmJ4Zlp2MVMtRFpSUHp2WjNEdkFaV29FZ1M4Qk1jd2NFT1FmdnUyS0FOd0pjNDc3b1VHbC1nSHlONlBXRUhicDFtU2VUTVRBdTViODVUVmNWcWxGN0VYWG12MWYzLTF5bWJ6OWR2VXc5YkIxOUhGQjdFSG1Gd1U?oc=5",
+    "source": "RNZ",
+    "title": "Peter Ellis takes fight to clear name to Supreme Court - RNZ",
+    "summary": "Peter Ellis takes fight to clear name to Supreme Court RNZ",
+    "evidence": [
+      "matched entity: Peter Ellis",
+      "event: legal (court)",
+      "source age: 2669.5 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "8dade97d281b57e7b377",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 18:50:58 GMT",
+    "captured": "2026-11-14T19:56:53Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGlXTzktQTBNUkhCLVVJTjhvTTU4WFkyeFJOOG9MNUt1aVk4MUV5dnJ0RnQ1amxRTWdEWGxrSXZyejNQaVlFaWFscExMeXBNUzRiZW5ZZ3Z6U0JiSFFMVS1FbEdRUW1oOUpFWGswWThkcy1veVZnV0kyZWE5TWQ4X1loY2JKVjFnaWpkYS10b3RiLVRZRHpTbTJERGFiVFdKR2tXRWNPZkZfQk1JR2xNUmcxUUc?oc=5",
+    "source": "NBC News",
+    "title": "Antonio Sabàto Jr. and Virginia Madsen’s son arrested in connection with a fatal hit-and-run in Alaska - NBC News",
+    "summary": "Antonio Sabàto Jr. and Virginia Madsen’s son arrested in connection with a fatal hit-and-run in Alaska NBC News",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 3.0 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "fd271bee39f60bb9fbfe",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 16:41:08 GMT",
+    "captured": "2026-11-14T19:56:53Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcFFNQWtCUC1acmFlVWU2QUtXa0JKM1dJUzRqdVJlZk9MaGZTdFJleDZaMThwNlNjUVI4bVQ4QWRyM2RfdHVIbTA2VXRUeWhBNVFBeHZMc01iUGRvdFA1blFLUlVfSkVyLXNQbWhQMjNfSjNybjc4bkJHQ0R5UEt6cmZYRm9lcm1xbXpQdmpCeGYza3JySUlZTThGSlBwNElTTUwzRFFn?oc=5",
+    "source": "Fox News",
+    "title": "Antonio Sabato Jr and Virginia Madsen's son arrested in fatal hit-and-run - Fox News",
+    "summary": "Antonio Sabato Jr and Virginia Madsen's son arrested in fatal hit-and-run Fox News",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 3.1 days"
     ],
     "score": 56,
     "route": "Corrupted Chronicle research",

@@ -1,109 +1,5 @@
 [
   {
-    "id": "55aa3f08f8e3a22016ea",
-    "entity_id": "michael_o_mahony",
-    "entity": "Michael O'Mahony",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "michael_o_mahony",
-        "name": "Michael O'Mahony",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Chivalry",
-          "Dramatic License",
-          "Justice",
-          "Methuselah's Gift",
-          "The Stone of Scone",
-          "Till Death"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Chivalry",
-      "Dramatic License",
-      "Justice",
-      "Methuselah's Gift",
-      "The Stone of Scone",
-      "Till Death"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 17 Oct 2021 00:38:26 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbnFfbGg4eklBd21XZzhFMkl6WVoyaXF6SnhubHJFbDEwWHVMRkVwS0h0QXVnZFZVMkZqTnVtWVNKOEp0Yld4MzNZNkZzT1JzbEZiSENCY3FBV1k4TmV2YktNTzhLc1lieHVBLUFnbDlKU3Q1Tll2enpkSjZtX21FSUdIY1ZEa2FuZnhTUU5rdjB1dUJweFE?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Michael O'Mahony Obituary (2005) - Quincy, MA - Boston Globe - Legacy | Obituary",
-    "summary": "Michael O'Mahony Obituary (2005) - Quincy, MA - Boston Globe Legacy | Obituary",
-    "evidence": [
-      "matched entity: Michael O'Mahony",
-      "event: death (obituary)",
-      "source age: 1815.8 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "40e3a22c4261ccb6570b",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 10 Oct 2021 13:40:20 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWjFpVm5aS2h4TE1UenlEWGVsMVhGTkhpNGNjY0NBd1QzdDkyenV3Z2tXZXMyUER6S0Z6TjNsREhnZk1SOFBEUl9ZRVR0UHJ4cGhNVEVoZktsbVJqdWlwX0RQWXNlbmd4djNkRlhiUkxrYWdtVU9oN1ZKczV2Z0xUNUJFT19qSy02dEc0MzJldVJSNUJYdGotbVFOY243NEE?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Carol O'Mahony Obituary (2011) - Quincy, MA - The Patriot Ledger - Legacy | Obituary",
-    "summary": "Carol O'Mahony Obituary (2011) - Quincy, MA - The Patriot Ledger Legacy | Obituary",
-    "evidence": [
-      "matched entity: Edge",
-      "event: death (obituary)",
-      "source age: 1822.3 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "55be4aa6d6f1130f72d7",
     "entity_id": "patricia_gage",
     "entity": "Patricia Gage",
@@ -52283,6 +52179,117 @@
       "source age: 3.1 days"
     ],
     "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "0e306bd7f81b21d00f79",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 18 Jan 2019 08:00:00 GMT",
+    "captured": "2026-11-15T09:48:51Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oWjJqbWU3UG1rVFdVTV9pelZEdlktSVlCenZWeFNCZXhOTG1XVDdremNhbWh4clJsZHQ3dUFMY0lmSzY3eV9VY0ZNdG5ONGpRaHJGT1R4MEZYVW1iUkFrOVMzRlp6akQtUFcwcFhuSjFSajA4NG1GTWlucmVCQQ?oc=5",
+    "source": "Bleeding Cool News",
+    "title": "Chad Stahelski Gives Pretty Promising 'Highlander' Reboot Update; TV vs Film - Bleeding Cool News",
+    "summary": "Chad Stahelski Gives Pretty Promising 'Highlander' Reboot Update; TV vs Film Bleeding Cool News",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 2858.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "c36c4b557c577a9f1185",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 15 Nov 2026 00:43:13 GMT",
+    "captured": "2026-11-15T09:48:51Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXlyZDFPeGxpVXZjdG9iRExaaVRlLUZ6RjhlSmloQnpubmVISjA4Uzd1QUNKYTVpWXdOTmZVRXF6a2FxUTVndmIzM1ZIY2owckttVWpLVFNKUjBWX2ZGZUpPSDR6NFpoMmFYazY5QUZhQmRLNWtYa2lZT1o0OW5HRTVXZVFrZGhWTTBMbmVhMGtqMFZ4d1BpeUdiVmE4RVp0dkE?oc=5",
+    "source": "TVGuide.co.uk",
+    "title": "Highlander II: The Quickening (1991) - TVGuide.co.uk",
+    "summary": "Highlander II: The Quickening (1991) TVGuide.co.uk",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Quickening",
+      "source age: 0.4 days"
+    ],
+    "score": 74,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"

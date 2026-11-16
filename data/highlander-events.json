@@ -1,62 +1,5 @@
 [
   {
-    "id": "374922bb50fbb58d203e",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 25 Oct 2013 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV0M1VGVuOUUyYkxHSG52LUNYSG51dnE4dmszZjljN3NSR2JhQVlUVzJrVXBBblBuUmVWY0hpWFBXcW1GNGZQbVIzQy1iZWI3dHNfN3VvV3dxTmY2Z3NuMURaZW9CNlFyeDktZlVPS0RBZXIzeERlSGp5cVpCNnJheHl5Y3FOb3YtXzBMSjBrMS11LV9ldEJJcmU3VUhtNFpIem53a2c4QXFpVHdYOVE?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Peter Ellis Obituary (2013) - Murrysville, PA - Pittsburgh Tribune Review - Legacy | Obituary",
-    "summary": "Peter Ellis Obituary (2013) - Murrysville, PA - Pittsburgh Tribune Review Legacy | Obituary",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (obituary)",
-      "source age: 4729.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "82bbec63c8295980c6ff",
     "entity_id": "peter_ellis",
     "entity": "Peter Ellis",
@@ -52299,5 +52242,81 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "f6d16feeeb73ed921c0d",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 29 Jan 2026 08:00:00 GMT",
+    "captured": "2026-11-16T00:16:29Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeUtncGlOdndjbjB1WUFwUmx4ZGZNTEk4cTFJRmpUN1hNTms5TG83RHM5S2h4WXVUeXJvaTVTcGFPTkgtT3BSNzJ1amZMbGp5N0x4RG50WEE1N0IzRHZiRHVjV0VEaXlPdy11M0FsMFUtT0F1ZkRfeFJveEV4cU5acFEwMWtDR0x6MHExNXZkT2M?oc=5",
+    "source": "Maxblizz",
+    "title": "First Look at Henry Cavill in Chad Stahelski’s Highlander Revealed - Maxblizz",
+    "summary": "First Look at Henry Cavill in Chad Stahelski’s Highlander Revealed Maxblizz",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Henry Cavill (74)",
+      "also matched: Highlander (70)",
+      "source age: 290.7 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

@@ -1,119 +1,5 @@
 [
   {
-    "id": "61fe5106db5569e7251f",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 09 Apr 2015 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUZmbUVIRmp5V2RHLXN2WXVYQzlmcGFCbXhQRGl6REIwTGdMRG0zbWYySnQ0Z1oyYnlkakc1ZzFKU1ZSd2hleTU0SVB2djRBVHR1WXVrZm9WZHRZM0NOdVdVbV93Q3UzaDZkbWtsMWU1dVBQWXotRnowS0NzN25pM3Rqckw2aGVFMTNvR1Utdw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Peter Ellis Obituary (2015) - Isle of Man, Isle of Man - Isle of Man Today - Legacy | Obituary",
-    "summary": "Peter Ellis Obituary (2015) - Isle of Man, Isle of Man - Isle of Man Today Legacy | Obituary",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (obituary)",
-      "source age: 4198.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "92a3f9c4b57d16ee9efd",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 31 Aug 2023 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnVyNDFuZ0puZi15ZWc5WmFGOTdqVEVaV3dCQXc5REl6ai1ubkluWmRxT3NaRnF4Z3h0dHdtSklLNVpnLTlHcWMtTm1qazJBRnVwdkpSbXhpbC1QSk9aSnQ3QXRJWlR1U2ZQN3lvYUVFc1JjbWJZQUZrUkJwSXhnaGNVZm8xaFhnVnA3Ql9B?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Peter Ellis Gordy - Legacy | Obituary",
-    "summary": "Peter Ellis Gordy Legacy | Obituary",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (obituary)",
-      "source age: 1132.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "7f12b7e36360c5a9b808",
     "entity_id": "peter_ellis",
     "entity": "Peter Ellis",
@@ -52307,6 +52193,104 @@
       "source age: 451.7 days"
     ],
     "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "21f713b51ad19db7cfc1",
+    "entity_id": "duane_clark",
+    "entity": "Duane Clark",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "duane_clark",
+        "name": "Duane Clark",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "The Wrath of Kali",
+          "Timeless"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "The Wrath of Kali",
+      "Timeless"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 09 Feb 2019 08:00:00 GMT",
+    "captured": "2026-11-16T23:45:21Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYd3JvZUVaeTZIV19ZMXFOa2FScDVwWjJUQXRqQXA5YkVZSUY1UUNJc1p5SUlhMkY0c29RSmFvVjdsSWtBOFh2MTgwZzJ2X09FNEVMOXlFWUZDNGs?oc=5",
+    "source": "sturmfh.com",
+    "title": "Victor Duane Clark Obituary Feb 9, 2019 - sturmfh.com",
+    "summary": "Victor Duane Clark Obituary Feb 9, 2019 sturmfh.com",
+    "evidence": [
+      "matched entity: Duane Clark",
+      "event: death (obituary)",
+      "source age: 2837.7 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "a91146cf64661e836361",
+    "entity_id": "sean_connery",
+    "entity": "Sean Connery",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "sean_connery",
+        "name": "Sean Connery",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II: The Quickening"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 31 Oct 2020 07:00:00 GMT",
+    "captured": "2026-11-16T23:45:22Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONl83eUMtUlRhSkhzXzB6RWhLTkVBQ3pSdGZtVzVsN2RqdU9pbm9IQUNHTW55a1pYNExua3I0bFloaFh1cXkwZVhqd05GTnl1dTBJTDQ0cGx4RzJwbE90bWVPRTJTckRrUzVoalJOSURPXzF5bU56X0Q3Y2lwclZoY0p5djM1QVcxRDdKMENiY0xTRVlPWmROMHZ6dw?oc=5",
+    "source": "AP News",
+    "title": "Sean Connery, the ‘original’ James Bond, dies at 90 - AP News",
+    "summary": "Sean Connery, the ‘original’ James Bond, dies at 90 AP News",
+    "evidence": [
+      "matched entity: Sean Connery",
+      "event: death (dies)",
+      "source age: 2207.7 days"
+    ],
+    "score": 72,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

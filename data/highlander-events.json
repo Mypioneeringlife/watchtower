@@ -1,62 +1,5 @@
 [
   {
-    "id": "82bbec63c8295980c6ff",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 07 Dec 2008 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHg0MDNpVVJLS3A4dnZXcmNYM0FJQ1lkNnR5ZzF4ajBoeWgzQ3NXWHhrMm9JbzR5V295UEFRbXV3T3IwaFZybEsyMEFIdXZaR0ZFSm5zM1ZpSmlhV083X0tRNUdMbV8tOXEyNHBUX3FQQ3gtNXZDRDM2NGl2V005R3ZCb2NyMzVFWU1n?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Peter Ellis Obituary (2008) - Hopedale, MA - Worcester Telegram & Gazette - Legacy | Obituary",
-    "summary": "Peter Ellis Obituary (2008) - Hopedale, MA - Worcester Telegram & Gazette Legacy | Obituary",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (obituary)",
-      "source age: 6512.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "61fe5106db5569e7251f",
     "entity_id": "peter_ellis",
     "entity": "Peter Ellis",
@@ -52315,6 +52258,55 @@
       "source age: 290.7 days"
     ],
     "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "6371d81ff3f2f7bd32b2",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 22 Aug 2025 07:00:00 GMT",
+    "captured": "2026-11-16T23:28:36Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZGpUSlRDSy1MNExkb3R5WXB5N1hXUHJFeGpvZlVveXFTRG95VnVLNGNTTXVELU5KNWN5UzJySFVXTkl4R2l5djVmem5uSHlOMFIzdjBVQ2E2UjBDSGJDSE5GR3VUczdIWnNPaEZza2lIaVlmYWVlVl9MczRnWVRiNkw4d21sUkJMRDNHRHFNUXdyeHE0c2pDaEJFQ2hMNkUwYlc0dzNyd2dnNXYtNVE?oc=5",
+    "source": "Inverness Courier",
+    "title": "Inverness Hollywood star Karen Gillan set for star-studded big screen remake of ‘Highlander’ - Inverness Courier",
+    "summary": "Inverness Hollywood star Karen Gillan set for star-studded big screen remake of ‘Highlander’ Inverness Courier",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: remake",
+      "event: highlander_production (remake)",
+      "source age: 451.7 days"
+    ],
+    "score": 100,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

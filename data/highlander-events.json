@@ -1,286 +1,5 @@
 [
   {
-    "id": "7f12b7e36360c5a9b808",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 15 Mar 2014 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWpYcndBYUNncVdVSVZSY1NpTVRURXFnbTdseFFOWGN1U2tNU2QyYko4NnZWbHkyclVQU2txUjMwSEp3RTdSX3NEZFp5R1RpWEU1WThXbmpKRkdLaGF0YlZUWFhjNXhndHVVWlZPNXozN0JPaWlkWERvWFFKbHE4U01JUzNoLW4yQUctVk9IajVPWEVCdWQ5N0lB?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Peter Ellis Obituary (2014) - Shropshire Star - Legacy | Obituary",
-    "summary": "Peter Ellis Obituary (2014) - Shropshire Star Legacy | Obituary",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (obituary)",
-      "source age: 4588.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "11d8961801edd812caf3",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 03 Sep 2019 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3IyR2FITC1UT0k0TEVicFVpMVE0Y0dUWVFDR2NENjhrV2U3cFV4Wmwwa0tDdk82MzZzVmZ6V0xScVY5SFotb0h2U1drMTgzWjhVR2x3Wi02T2t3RmNEODhTU3l1UktLX2hRbmxUanBIWFY1Rmw0dktrd3hyZ0FXb3Ytb1RYal9SS3lxMUIzN1Y3eS1wUER2dDVIUEJiaFh5bTNBMjlQYU5rcm51clIwV0Qzd1N0enJDR3VFMA?oc=5",
-    "source": "NZ Herald",
-    "title": "Peter Ellis, man at centre of Chch creche sex case, dies - NZ Herald",
-    "summary": "Peter Ellis, man at centre of Chch creche sex case, dies NZ Herald",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: death (dies)",
-      "source age: 2590.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0bc461230f9a73c41bbb",
-    "entity_id": "peter_ellis",
-    "entity": "Peter Ellis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "peter_ellis",
-        "name": "Peter Ellis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Dramatic License",
-          "Manhunt",
-          "Studies in Light",
-          "The Fighter",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 56,
-        "event_type": "legal"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Dramatic License",
-      "Manhunt",
-      "Studies in Light",
-      "The Fighter",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "legal",
-    "source_date": "Thu, 25 Jul 2019 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWjVhYldJNWpTdnhpNDVLbkhCc051cmFyVjdjWU9Bc1RldFZPYXNDcDFud2t4Qm5aLVEyMDhuZm0zNGRiSHdDZFF5aUhzdUtNYnhUSjI4YVdKcV9fSzk1WGZFS0JRNWQ4MTZ0eGNkMTlGU2JNZkJUd3hnV1kwMXZKQkl2Nkk1NEtRaXZ6c1V5VW0yZkhQWV9LcThzR1BUb00?oc=5",
-    "source": "Newstalk ZB",
-    "title": "Peter Ellis takes fight to clear name to Supreme Court - Newstalk ZB",
-    "summary": "Peter Ellis takes fight to clear name to Supreme Court Newstalk ZB",
-    "evidence": [
-      "matched entity: Peter Ellis",
-      "event: legal (court)",
-      "source age: 2630.6 days"
-    ],
-    "score": 56,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c0a1f88b810f988b4c29",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 24 Mar 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wSWY0QUxMblliUlhkbTZlQXZpa0xPeWViWENWR0wzM0NfX2I3azYwN0U5UEdqZXR0a1hNbkVCRmhQVW5xQUFUMnFmRHZiNlYxZlpmLXBxcGMwaEk5alNhSUFB?oc=5",
-    "source": "www.rose-neath.com",
-    "title": "Wendell Ray Austin Obituary March 24, 2026 - www.rose-neath.com",
-    "summary": "Wendell Ray Austin Obituary March 24, 2026 www.rose-neath.com",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 196.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "949985a17a03e3b91a40",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 08 Jun 2026 15:25:48 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd0VMczJGQnNRS1VaTDZDWXA1R1gzU0xnbWFTRXFwV1FSaWJYaUFmN0l4Yk1DMHRTX2tzRGtKR0RDMUQ5dFlsMVJQUGZwZXktS0g3MWc4Yk9fYnR4V2RIZGt5TktCQXRHVWE5V0Q5d0MyVzF6d1RKMjNWcXdhMi1fN0sydw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Charles Ray Austin Obituary (2026) - Idabel, OK - Nunley's Funeral Home - Idabel - Legacy | Obituary",
-    "summary": "Charles Ray Austin Obituary (2026) - Idabel, OK - Nunley's Funeral Home - Idabel Legacy | Obituary",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 120.2 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "58f398cefc5281d26174",
     "entity_id": "ray_austin",
     "entity": "Ray Austin",
@@ -52294,5 +52013,258 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "2987a7abd851691b4b01",
+    "entity_id": "bruce_payne",
+    "entity": "Bruce Payne",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "bruce_payne",
+        "name": "Bruce Payne",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 20 Feb 2025 08:00:00 GMT",
+    "captured": "2026-11-17T22:53:22Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTE1mTzJQTVJzVU0tX0E4Z3lHa09yTVE2VVVMdTRTa09Gd3J6ZDV4WFpIdG9IN0pacThKem1JYktmTVE3c2lnU25oekwwdkF6aEoyV2k5NEpTemtXNUd6YS1oQXJ6aFdTOWI5Z1R0UmEwTlJjdkJoeDhucTFUbzE2SkM1VDBXemtESGJKbDlZMjNmMEJ3Q285T3N2a1JJdw?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Bruce Payne Obituary (2025) - Paulton, Bristol - Tindle West Country - Legacy | Obituary",
+    "summary": "Bruce Payne Obituary (2025) - Paulton, Bristol - Tindle West Country Legacy | Obituary",
+    "evidence": [
+      "matched entity: Bruce Payne",
+      "event: death (obituary)",
+      "source age: 635.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "94c5bec8e31420ade9dc",
+    "entity_id": "michael_jayston",
+    "entity": "Michael Jayston",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "michael_jayston",
+        "name": "Michael Jayston",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander III: The Sorcerer"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander III: The Sorcerer"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 05 Feb 2024 08:00:00 GMT",
+    "captured": "2026-11-17T22:53:22Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2U29xUkV1WDlxQ0lVcWljLXJKSjVzR0FtZ3JhZ0dwUjFNM01FU1RZRnZXdnpQZ3g1cnlTZVVEd1NmRnA0dWZjbjlSMUxmd1M1X0hlaXlwVEFnaDVLaUdGR29wejU0VUhTTng0ZGJPTlRLOTlMWFdkZUpOMTc?oc=5",
+    "source": "Yahoo News UK",
+    "title": "Only Fools And Horses actor Michael Jayston dies aged 88 - Yahoo News UK",
+    "summary": "Only Fools And Horses actor Michael Jayston dies aged 88 Yahoo News UK",
+    "evidence": [
+      "matched entity: Michael Jayston",
+      "event: death (dies)",
+      "source age: 1016.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ceef167bb76242ca8cc0",
+    "entity_id": "richard_martin",
+    "entity": "Richard Martin",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "richard_martin",
+        "name": "Richard Martin",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Armageddon",
+          "Black Tower",
+          "Diplomatic Immunity",
+          "Duende",
+          "Justice",
+          "The Stone of Scone",
+          "The Valkyrie",
+          "To Be",
+          "Two of Hearts"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Armageddon",
+      "Black Tower",
+      "Diplomatic Immunity",
+      "Duende",
+      "Justice",
+      "The Stone of Scone",
+      "The Valkyrie",
+      "To Be",
+      "Two of Hearts"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 09 Nov 2026 08:00:00 GMT",
+    "captured": "2026-11-17T22:53:23Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kVWtRdjVzc1pkY1F6V3JISVB6dVhlT3M3ZWlGdHJOWUVNeWhQLUpuMmw1aHk5c1V4QndnT2Q4YnRHUEdBQnRqMXhMZW9uckJPZ19oRk5OUjJjbHROX1NranU5NlJSSnR4RTFB?oc=5",
+    "source": "Hullinger Mortuary",
+    "title": "Richard Martin Mieure Obituary Nov 9, 2026 - Hullinger Mortuary",
+    "summary": "Richard Martin Mieure Obituary Nov 9, 2026 Hullinger Mortuary",
+    "evidence": [
+      "matched entity: Richard Martin",
+      "event: death (obituary)",
+      "source age: 8.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "a897c9d9515b2229320d",
+    "entity_id": "scott_mcneil",
+    "entity": "Scott McNeil",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "scott_mcneil",
+        "name": "Scott McNeil",
+        "kind": "person",
+        "roles": [
+          "voice actor"
+        ],
+        "franchise_titles": [
+          "Highlander: The Search for Vengeance"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "voice actor"
+    ],
+    "franchise_titles": [
+      "Highlander: The Search for Vengeance"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 17 May 2012 07:00:00 GMT",
+    "captured": "2026-11-17T22:53:23Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQkx0bmFKSldSLUxSNzBKaXBOQ2dWRWZxbzhTb1ppU19WVGdEVVZqVkgwd05NbTZYb0d6emhGQ2xZbXdDUThpSUxPcjFia1BYWUxIM0pfRGJ1Y3ZoMHZicjQ2QkdSMVdIRUZqaHYxaXpleDY5cVpzSU9rZnFxQ1N4S2d5YXRhOTNGS0o2Y0U0bnM4ZjZtdEE?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Scott Mcneil Obituary (2012) - Milton Keynes Citizen - Legacy | Obituary",
+    "summary": "Scott Mcneil Obituary (2012) - Milton Keynes Citizen Legacy | Obituary",
+    "evidence": [
+      "matched entity: Scott McNeil",
+      "event: death (obituary)",
+      "source age: 5297.7 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ca325dce66aab7904e3e",
+    "entity_id": "sean_connery",
+    "entity": "Sean Connery",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "sean_connery",
+        "name": "Sean Connery",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II: The Quickening"
+        ],
+        "score": 66,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 16 Nov 2026 21:02:43 GMT",
+    "captured": "2026-11-17T22:53:23Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTkU5SUpxQzRrRUlMR25GMW9KLUF5WkV1VGNFV2ZpTHpEYWFQcWFmLVlLYnNTeURlS25ZdlVONTNrY053OXFpSU11WGVOUzV2aVpnQ2JLY1NYSmJmOWpHRHZPVVQ0SmhNXy1KQ0kyQnJkbGxzYllPanVabUxVcDZOSlljZjVMS3haWU5YaFNqZkdMS1VqT0UtMXQ5VjF2S1ZNZWE5UzNBZ3BiVmRfOVE?oc=5",
+    "source": "WWD",
+    "title": "From the Archive: James Bonds Actors Through the Decades - WWD",
+    "summary": "From the Archive: James Bonds Actors Through the Decades WWD How old was every James Bond actor when they played 007? Entertainment Weekly George Lazenby, Oldest Living James Bond Actor, Shares His Advice for New 007 Robert Pattinson People.com All James Bond actors ranked from worst to first as new 007 is revealed USA Today James Bond: How Old Every 007 Actor Was In Their First And Last Movies SlashFilm Actors Who Have Played James Bond: Sean Connery To Daniel Craig Yahoo News UK A new James Bond has always been a chance to reinvent the series ABC News & Headlines – Australian Broadcasting Corporation Denis Villeneuve Reveals His Biggest James Bond Inspiration For Robert Pattinson Reboot ScreenRant Robert Pattinson is named the seventh James Bond, taking over from Daniel Craig WKBN.com",
+    "evidence": [
+      "matched entity: Sean Connery",
+      "event: highlander_production (reboot, casting)",
+      "source age: 1.1 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

@@ -1,60 +1,5 @@
 [
   {
-    "id": "e6a70af56949a6c879b7",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 25 Mar 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYnBHbWlDTVI3Q01nam45TVlaS2hpT1hjN2g5LW1IbUljQVc4anJfZmZJdjRyRnVqZ3hwSWh5RC1qMVRkcjF1NGJ4OFVTa1VrM0d4SHR2aVdTWUVKM2d2WjI4RjBzZW44QXpUOGFSWFEzMTFpTG96SkhqajU2eXg2SA?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Ray Austin Jr. Obituary (2026) - Cedar Hill, TX - Sacred Funeral Home - Legacy | Obituary",
-    "summary": "James Ray Austin Jr. Obituary (2026) - Cedar Hill, TX - Sacred Funeral Home Legacy | Obituary",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 195.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "224ddaee3e8512ab7e76",
     "entity_id": "ray_austin",
     "entity": "Ray Austin",
@@ -52261,6 +52206,68 @@
       "context: remake",
       "event: health (injury)",
       "source age: 428.2 days"
+    ],
+    "score": 80,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d7cef453969300c7c198",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 80,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "captured": "2026-11-18T22:14:59Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUkpVdkdjbldjWW9RYjhtSi1YeHY0VWdkM09IckM1TnY3WUotUUp6S1pWZ0FHT1dxZGQxOW9YSExLMVFQYkxYNXBHS3p2TUtjaDItelozQU1YWHcxaUpRSjNwbGxFZ01XY0d0eWxqVkFmZEVNdEs1VGdhenJ5TzhxOGZvQnhCMGNYOWpmRXg4WjdRUHFUdTlvcW1CX1JMeGhlSGdLQXZRLVJTYUt5YnlhYUNCVEJRWlNGVFA1NWQ1al8zNDhuTEVJ?oc=5",
+    "source": "Entrevue.fr",
+    "title": "Christophe Lambert collapses during convention in the United States and ends up in hospital - Entrevue.fr",
+    "summary": "Christophe Lambert collapses during convention in the United States and ends up in hospital Entrevue.fr",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "context: convention",
+      "event: health (hospital)",
+      "source age: 100.6 days"
     ],
     "score": 80,
     "route": "Corrupted Chronicle research",

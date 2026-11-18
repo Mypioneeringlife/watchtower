@@ -1,115 +1,5 @@
 [
   {
-    "id": "58f398cefc5281d26174",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 20 May 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNejVSZHRYUFJwaXVjeFUxYU5USVFlTWRiV1dWdFd5anhnS193eHNQdkZrUjZZUWZITXp1NUVid1h1VWZGbnVlc1FQUDRuYl91aEFwdjZSQ1ZicDVFWDZCd3RTNjdhM1NmUFp5TzVtV1pmVjFVMFBoaC0xZkpaLVdVcGJlYkpndm5uMnZybC1oVzVDNTZDZ0hJWg?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Danny Ray Austin Obituary (1964 - 2026) - Trumann, AR - Jonesboro Right Now - Legacy | Obituary",
-    "summary": "Danny Ray Austin Obituary (1964 - 2026) - Trumann, AR - Jonesboro Right Now Legacy | Obituary",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 139.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "7212066c9db93a9be10b",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 12 Aug 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWC10ZTRxOV9RZXRYWW1GOW1BZHpVRllMQjc1T1IwSlZXVThrbXVfNmR1bXg4aVh0MkpLNmswUFFESS1WLWRWZW9FNDd2UkNkejl2Q2NDRFZKXzBEZm1RdU9TdWNWeEE4U0ptTnI2UGxJN3JUTjNQak51VnVkcmdkNWFB?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Gerald Ray Austin Obituary (2026) - Red Bluff, CA - Blair’s Direct Cremation & Burial Services - Red Bluff - Legacy | Obituary",
-    "summary": "Gerald Ray Austin Obituary (2026) - Red Bluff, CA - Blair’s Direct Cremation & Burial Services - Red Bluff Legacy | Obituary",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 55.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "e6a70af56949a6c879b7",
     "entity_id": "ray_austin",
     "entity": "Ray Austin",
@@ -52266,5 +52156,115 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "5495c11261ec77a54c12",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 17 Nov 2026 22:55:47 GMT",
+    "captured": "2026-11-18T10:37:50Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wMml5WGZtWVZiR0ZrS3N0OWdCRjU4MWFKTEZsUk0ycUxBTmF5OWhocUIyUW0wQVZuM3UtMDNXV0FlaEtONlRqMXpBQll6UE50R0FJOWl2LXhjZDV0?oc=5",
+    "source": "Martin Cid Magazine",
+    "title": "Chad Stahelski, the John Wick director betting his stunt method on Highlander - Martin Cid Magazine",
+    "summary": "Chad Stahelski, the John Wick director betting his stunt method on Highlander Martin Cid Magazine",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, director",
+      "also matched: Highlander (70)",
+      "source age: 0.5 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "e8d46703e29f0048beb9",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 80,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "health",
+    "source_date": "Tue, 16 Sep 2025 07:00:00 GMT",
+    "captured": "2026-11-18T10:37:50Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54SWUwcGdzODVDWlBYYWlvdnlad0pZaFdseHhqTXkxbmVxTDRjOTVHU3JXZnp2WWkxV2VYWG5jNW5yMXZiRlRMSkVCMm1OR2REeUlMTmpGTHF3UDdtVm50RWFwOGlNaGZnTVNYZHpWQkNGZlE?oc=5",
+    "source": "ScreenRant",
+    "title": "Despite Henry Cavill’s Injury, His New Remake Promises To Have John Wick-Level Action - ScreenRant",
+    "summary": "Despite Henry Cavill’s Injury, His New Remake Promises To Have John Wick-Level Action ScreenRant",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: remake",
+      "event: health (injury)",
+      "source age: 428.2 days"
+    ],
+    "score": 80,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

@@ -1,888 +1,5 @@
 [
   {
-    "id": "1ddf16d25ae1ee6e0408",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 76,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 23 Mar 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSy1nSzVIT3hHbGwtSk5xTnc3cUdvZy13M3NUakxLbmM5S1hxRlNtdHBuWUNMLXpKWXh5WTFBeW12S05YMzBsMkF5T19DMGdnUGw0M25ZaEZVVEc4aEZweWFmbzVvQVpIalh4cGxtZVFsWUZpZkJfMmJaUDF2bV9RT2pn?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Suess Obituary (2026) - McDonough, GA - Cannon Cleveland Funeral Directors - East Chapel - Legacy | Obituary",
-    "summary": "Richard Martin Suess Obituary (2026) - McDonough, GA - Cannon Cleveland Funeral Directors - East Chapel Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "context: director",
-      "event: death (obituary)",
-      "source age: 197.6 days"
-    ],
-    "score": 76,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "de7a0ac277df297dfd0e",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 13 Mar 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVjdGVi15Q1FhX2FYZEhzcl90ODNoaG95RVE3Nmd5M21PcVREODFJaUJuQml4c2VPWms3dm9XcFFoaWtnUEo3VU8xVGdkS2JDZThvVE9uelFsclFaTWRkYm5JNmtlY0ptRTVFeFpzSDNiWGJNdy1xTkhiQzJ1blRXVVUzU1FrZw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Gleghorn Obituary (2026) - New Port Richey, FL - International Cremation & Funeral Care - Legacy | Obituary",
-    "summary": "Richard Martin Gleghorn Obituary (2026) - New Port Richey, FL - International Cremation & Funeral Care Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 207.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "9ff0e148f44f65622776",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 19 Mar 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQU1YZll6cVkwMm9UVktpSHdKUk9rYlhXeG44NjZEcUdQOXBRdldfcW5Sc0JVLW50MWhURDlTd3JVMUIzYlBoNFcxVGVfUlBUU3VwT0kySVVBQm9HSGlobGwyOTNMX3FfbzN5amJZR2NHWWc3WG80WjVXTFIzbVdCYzRPZjM?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Bithell Obituary (2026) - Siloam Springs, AR - Backstrom-Pyeatte Funeral Home - Siloam Springs - Legacy | Obituary",
-    "summary": "Richard Martin Bithell Obituary (2026) - Siloam Springs, AR - Backstrom-Pyeatte Funeral Home - Siloam Springs Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 201.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "46dd0753fdf3e27d05e5",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 06 Jul 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTTcwOHVsVGNzTXp4SWc3bVpUTjZLU3JWSTFmUHdaNUtuUEF1WHBjdnlJVWI2R1FZX0JWMVg1a2NTOUNsVTQ4V1hYdDRuR1pTaGJ6cTFaNkNtd21YQ1BkdEFkallSNUxVOWdQTms5aTVVWFVvS3VfeGRWZmgyOFdsZG0yNUc3UQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Wennberg Obituary (2026) - Benton, AR - Arkansas Cremation - Legacy | Obituary",
-    "summary": "Richard Martin Wennberg Obituary (2026) - Benton, AR - Arkansas Cremation Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 92.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "16c26de7e9bd6bccc531",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 29 Aug 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUpkSXd3RVJWWGpUTkl3alRNZ3dQMldyYm1vTHlwWWw5aklBMG1IcU9EaGhIM2pwVk1JclROQUF1REFxR0kwVnhsNU0wQUtFWVpUbmszNUNicTV6YlRGOUsya2FaNmFOQmQ4Q3hmQllLeVd0SWhabEVya1hyaE5Vcg?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Dose Obituary (2026) - Tulsa, OK - Collinsville Dolton Funeral Home - Collinsville - Legacy | Obituary",
-    "summary": "Richard Martin Dose Obituary (2026) - Tulsa, OK - Collinsville Dolton Funeral Home - Collinsville Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 38.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "90e925b4ecc3e8642469",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 24 Apr 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92ZmFvcnN3QmtZNDUyRnRLWU52Q3pLWl9sdDl2Z2lhQ0ViWHZSbDNwR1FncndUVlhjQ0h3VlpuZUNZY1VKS1I3NVc3ZU10RW9pV3hBQlJFN3dsQ0NBNlhLMHdWTGlpcldwV0pfVWhsNTZ4U3Z6MFVMZVNBUjZqdEU?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "John Richard Martin Obituary (2026) - White Plains, NY - McMahon, Lyon & Hartnett Funeral Home, Inc. - White Plains - Legacy | Obituary",
-    "summary": "John Richard Martin Obituary (2026) - White Plains, NY - McMahon, Lyon & Hartnett Funeral Home, Inc. - White Plains Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 165.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "62ed1eb681d1cc51682a",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 22 Feb 2026 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMVBEdDZueEdXZFRlZnUxaUtZNDRaSEtRTFNTSWFyMmdyVHdnNHBLN2VfNWs0czltbm1uQVFudm9lcjdPQjk0SGc4cUdzeFdYV1ZXNFRCS3RneUp4Qjdfa1JQYlZ6TmdtQVowV29FQ1pfaU94dEIyaGNZSWg1VVhZb2paNHV4WDU1cVA4Ug?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Obituary (2026) - Hamilton, OH - Dayton Daily News - Legacy | Obituary",
-    "summary": "Richard Martin Obituary (2026) - Hamilton, OH - Dayton Daily News Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 226.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "3bd849ccdf8503afaa02",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 09 Mar 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUWF6X2JlbWc0WXJWeGdRQ3VVWEpkUmR0a0tGU0tMMjZhU21RVjVLUkZNdWplajE1WHh0Ym5Pck9rZUdzM1dtYVh5QXAyMXBnblVLOWdJTlYxeWFNeXFSRG9Ca1Q2dGFmSHJNNHNVTjVHN3hLWXc3Tm41VFF1QmdKZEJlUEg4dw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Majestic Obituary (2026) - Scottsdale, AZ - Messinger Mortuaries- Indian School Mortuary - Legacy | Obituary",
-    "summary": "Richard Martin Majestic Obituary (2026) - Scottsdale, AZ - Messinger Mortuaries- Indian School Mortuary Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 211.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "84227d2e7a149fabe06d",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 29 Jan 2026 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53N2RfTkJqZnc3aElJdkFPQW5JVTdLeU1zekJSYVdWdXJPRV9nZGl0Z3RGWWVlMWp2WkRmNU1tRTVfZU5EZ3djdFVDU21wZFdBT005N0pBOA?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "William Richard Martin Obituary Jan 15, 2026 - Legacy | Obituary",
-    "summary": "William Richard Martin Obituary Jan 15, 2026 Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 250.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5092a8b86e7f2982c642",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 05 Apr 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMS0tcldxTERXd29seUtpUVNKRXRSTzhGTnRuNzM0b25lZ3MyQVRCWGc5VUREUFZWYkhpQlpmc0VxR3JkSjVjWThRU2Y3ZlZmb1ZsYzZQemRwblY0VjZ3SFFTSF9jQXRQSk42V05UX2VzeFJyMC1GLS1naUFNSzhiWmlHQXpFZG05a0lDSg?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Obituary (1942 - 2026) - Springfield, OH - Dayton Daily News - Legacy | Obituary",
-    "summary": "Richard Martin Obituary (1942 - 2026) - Springfield, OH - Dayton Daily News Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 184.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c96c04dbf9343907c500",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 27 Mar 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVE96VjNXNzlUZGQ0RDNzOWFrbVdJTFgxMnFleU1IWFFHY3loVUNDNDQ4dV9wMHUxTldLNjBmV3pWRnhpNGZJek5KSXc3NV9kbi1ldE5VelNMVFBZSzMxQXNyYTdyMEJzSFZZYzhBRmtBUXJCR2JYc20yWDNSWHpSQ1NYcw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Rogers Obituary (2026) - Annville, KY - Lakes Funeral Home - Legacy | Obituary",
-    "summary": "Richard Martin Rogers Obituary (2026) - Annville, KY - Lakes Funeral Home Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 193.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c039c147cb7fcb81f9ac",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 04 Jan 2026 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUlpsZ292UDJVdnJ1eWw5RXJQYVo3VGlnaHhRcm9NQkhfcEJaUThMYjRqQ09vcGo2LVpHdndGNXJqQUQ3OTVNUF8zSUdoaEEwQ2hRalA4VFlKMDhtZmpfTjJfZTZzNy16YUNBRlFGU3RfSmkzR19sanhHSHBfaFl2Rkk5aw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Obituary (2026) - Mena, AR - Bowser Family Funeral Home - Mena - Legacy | Obituary",
-    "summary": "Richard Martin Obituary (2026) - Mena, AR - Bowser Family Funeral Home - Mena Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 275.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "2640f02194aef7821e21",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 04 Jan 2026 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc05GSEttQTJjUTE5YzFMOW9iQlhTRGxweUVXYzlCdXRnbmMwaGRjWU5ubXNmSDcyemdvR3J0c0tvaGtLdGI4a2pkaWJhU0hCMmg5MXAwc2Z3SDc3c25mbU5PUFdKcjFEUWs4TndaOUFPTlhNeEdFMjBLQ3pTVzJ1VEpfNA?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Obituary (2026) - Mena, AR - Bowser Family Funeral Home - Broken Bow - Legacy | Obituary",
-    "summary": "Richard Martin Obituary (2026) - Mena, AR - Bowser Family Funeral Home - Broken Bow Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 275.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "47ee2f98b8fc6586efa2",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 26 Jan 2026 18:28:21 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY254YnVPMjNtazVZamxlY1dJUkFUS1dqRWpNLVBwbWxwcWFYYXlDUEJfYjNaWUF0eDk2MHNHanloTFpSSFdfS2d3TVFrUkpocnFKWGtROW5mM0poc0RaYUE4NXZKQU5qb0o3YkFuT3hkMDlnd0dSYUQ2R2ZRNXY2Y21B?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Roland Richard Martin Obituary (2026) - Sanford, NC - Rogers-Pickard Funeral Home - Legacy | Obituary",
-    "summary": "Roland Richard Martin Obituary (2026) - Sanford, NC - Rogers-Pickard Funeral Home Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 253.1 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "4f3e949f66379b297239",
     "entity_id": "richard_martin",
     "entity": "Richard Martin",
@@ -52175,6 +51292,692 @@
       "matched entity: Virginia Madsen",
       "event: legal (arrest)",
       "source age: 7.1 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "f529b5df3d103510a7be",
+    "entity_id": "charles_wilkinson",
+    "entity": "Charles Wilkinson",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "charles_wilkinson",
+        "name": "Charles Wilkinson",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Brothers in Arms",
+          "Courage",
+          "Double Jeopardy",
+          "Obsession",
+          "Shadows"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Brothers in Arms",
+      "Courage",
+      "Double Jeopardy",
+      "Obsession",
+      "Shadows"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 06 Aug 2008 07:00:00 GMT",
+    "captured": "2026-11-19T22:40:38Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUtienBONm1jUHJxbXhhNVlza241YjZoR1lxVTB2cW9UQmNXbDJvYzdzaGtqUnlOdmFhcmlEdkhjVEpuem11VmhaTWxtd21KdnZFOVhuYW1CQ084U1NwWGUtSWtfbkZpSVhrRURFSDFlSm5jVENDSXJ3S1NBbDZITnk5MEdaUTBIdW9tMTdCUmRLU1k0OHNtaQ?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Charles Wilkinson Obituary (2008) - Stroudsburg, PA - Pocono Record - Legacy | Obituary",
+    "summary": "Charles Wilkinson Obituary (2008) - Stroudsburg, PA - Pocono Record Legacy | Obituary",
+    "evidence": [
+      "matched entity: Charles Wilkinson",
+      "event: death (obituary)",
+      "source age: 6679.7 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "6b8be8dca0c1ca842ab5",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Tue, 18 Mar 2014 06:03:21 GMT",
+    "captured": "2026-11-19T22:40:38Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hWkRCcFA1VURfUW9BcVdiVHpaOVo1bDUyY2NrYzdXMDQ1YUFDQmYyMW5JZUFFSlRWb0VsU0ZpMndFcjRnV2xIUGgwdXdHU0dvaDI3Y0ZwVUxWWEtPREptX01hMzhCdTRGbHpZU0YySQ?oc=5",
+    "source": "Filmaffinity",
+    "title": "Image gallery for \"Highlander: The Source (2007)\" - Filmaffinity",
+    "summary": "Image gallery for \"Highlander: The Source (2007)\" Filmaffinity",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 4629.7 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "86aa8a158661bb0289f8",
+    "entity_id": "duane_clark",
+    "entity": "Duane Clark",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "duane_clark",
+        "name": "Duane Clark",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "The Wrath of Kali",
+          "Timeless"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "The Wrath of Kali",
+      "Timeless"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 07 Nov 2012 08:00:00 GMT",
+    "captured": "2026-11-19T22:40:38Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUpwREczS2VCaDBSMVJzdlpLVWVvUXU2TFBiWjRmRGxqUmhYZ3NSNTZXSTI0dXRtVm8wckR0V0YzYjlaVm5HMTRsSFZUd2xpWFM2SHJoX1FUT3JUeGFGaGZlQ2hyT0RQQ3RQbnVTdEFTdWREMG1VMEMxcWItMFUxYWd3?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Duane Clark Obituary (2012) - Mapleton, IA - Goslar Funeral Home and Monuments - Legacy | Obituary",
+    "summary": "Duane Clark Obituary (2012) - Mapleton, IA - Goslar Funeral Home and Monuments Legacy | Obituary",
+    "evidence": [
+      "matched entity: Duane Clark",
+      "event: death (obituary)",
+      "source age: 5125.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "69b3259a60301e161063",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Thu, 19 Nov 2026 18:00:19 GMT",
+    "captured": "2026-11-19T22:40:38Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmdNLVZqUHA3MUZLTDBJdVFNbm0wbVMwZnR1TVdPUUUzM2plODg5SExkTGtXdURQeV9pRnZ6emtKN2xPeTlTQXpPbDRyOFE2WDR1NjJjZUJXbXoxamdZaTVscjE1cHlmQUpJaGZvU2ZnUHRJaTljTktFTWtOU1ZmYXpkZEtmUE1ja1R4a09hX1R0SHIzQjBOdy00cnpzVU9RRGpnVW53?oc=5",
+    "source": "Bioengineer.org",
+    "title": "Federated Edge Learning Framework Cuts Healthcare Network Energy by 31 Percent - Bioengineer.org",
+    "summary": "Federated Edge Learning Framework Cuts Healthcare Network Energy by 31 Percent Bioengineer.org",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (health)",
+      "source age: 0.2 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "57be870db79c725c617f",
+    "entity_id": "james_thorpe",
+    "entity": "James Thorpe",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_thorpe",
+        "name": "James Thorpe",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Deadly Exposure",
+          "Diplomatic Immunity",
+          "Indiscretions",
+          "Money No Object",
+          "Sins of the Father",
+          "The Modern Prometheus",
+          "The Valkyrie",
+          "Two of Hearts"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Deadly Exposure",
+      "Diplomatic Immunity",
+      "Indiscretions",
+      "Money No Object",
+      "Sins of the Father",
+      "The Modern Prometheus",
+      "The Valkyrie",
+      "Two of Hearts"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 04 May 2024 09:51:47 GMT",
+    "captured": "2026-11-19T22:40:38Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50clRwODZETFdYQTdoV3ZpREdRR2kxRzBMSWtBOWMxdUs3S01lZ3dFejFGQ2NsM2Z1R1NEUHozQjhpVDZmRi12ckJLZXZ0Y0llUzR0M2h2NjNXZWdCeU1iVXU5VS00Y1A3cmVB?oc=5",
+    "source": "East Bay Times",
+    "title": "James Thorpe Obituary - CA - East Bay Times",
+    "summary": "James Thorpe Obituary - CA East Bay Times",
+    "evidence": [
+      "matched entity: James Thorpe",
+      "event: death (obituary)",
+      "source age: 929.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "e59a9c91af47e34fa767",
+    "entity_id": "robin_davis",
+    "entity": "Robin Davis",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "robin_davis",
+        "name": "Robin Davis",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "For Tomorrow We Die",
+          "The Lady and the Tiger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "For Tomorrow We Die",
+      "The Lady and the Tiger"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 15 Apr 2023 07:17:47 GMT",
+    "captured": "2026-11-19T22:40:38Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLXN0YVoyYU93MUY3V0dBeXhsOU5LdXcxRUxPRXk4U3djT0lMcFBXTXhtc0FuRGNJMW8weUlRdDhKbVFqeU5NNnBfdUhhQmVNNjRjdE9SaEZsNE82cW5YaDJnOERoYk1GUnFBc3kzNm9iMGtzQUxJUEdQNThNejJhY195V180b21vQzdPNW9R?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Robin Davis - Legacy | Obituary",
+    "summary": "Robin Davis Legacy | Obituary",
+    "evidence": [
+      "matched entity: Robin Davis",
+      "event: death (obituary)",
+      "source age: 1314.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "936729be569cdffb3ec2",
+    "entity_id": "roger_daltrey",
+    "entity": "Roger Daltrey",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "roger_daltrey",
+        "name": "Roger Daltrey",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series"
+        ],
+        "score": 60,
+        "event_type": "appearance"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: The Series"
+    ],
+    "event_type": "appearance",
+    "source_date": "Sun, 04 Jan 2026 08:00:00 GMT",
+    "captured": "2026-11-19T22:40:38Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5USmZPUjBSM1RrN0NTN1NUNFlEYkhZUV9pS0Exa1lDcXluMEhueEdrS19GamJLWEZaQlJsc1V0YWtKNGh5b0txdVVLTC1CYUtrcmNKeW1DajVkYVQzaXFxSU9Vb2hKNkZjZ00yYU55QWhvVTdiRk5RWm1oMA?oc=5",
+    "source": "Guitar Player",
+    "title": "“How do I get him to come to my kitchen table????” Roger Daltrey makes a rare appearance following the Who’s final tour singing a Johnny Cash classic at a dinner table - Guitar Player",
+    "summary": "“How do I get him to come to my kitchen table????” Roger Daltrey makes a rare appearance following the Who’s final tour singing a Johnny Cash classic at a dinner table Guitar Player",
+    "evidence": [
+      "matched entity: Roger Daltrey",
+      "event: appearance (appearance)",
+      "source age: 319.6 days"
+    ],
+    "score": 60,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "2dd6cbd3fc9d77f19858",
+    "entity_id": "sean_connery",
+    "entity": "Sean Connery",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "sean_connery",
+        "name": "Sean Connery",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Thu, 19 Nov 2026 09:00:00 GMT",
+    "captured": "2026-11-19T22:40:38Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXg1SjJweE9sc1JILU95S3hwS0NGX2FlTnByd0JFcjFWQkY3ZVRMN2dWY3R0Z0FKbXR0aVp2WTJIZ1d2X1h2TGZScTBLMXphc1B4Wm1JS0k0WWlkQm45OGhidlZNZUs5UEhpVVlMXzVxZENOd29BZTNUaDNMdUJuVWR2YkpYeWEyd3BXUG5GTmp3SjVtU0FGMG5MbFV6Z0ZwbTVoMQ?oc=5",
+    "source": "Far Out Magazine",
+    "title": "In 1983, Sean Connery played James Bond for the last time. A year later, he sued 007 for $225 million - Far Out Magazine",
+    "summary": "In 1983, Sean Connery played James Bond for the last time. A year later, he sued 007 for $225 million Far Out Magazine",
+    "evidence": [
+      "matched entity: Sean Connery",
+      "event: legal (sued)",
+      "source age: 0.6 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "dc9c63fda16fb80d5dda",
+    "entity_id": "stewart_copeland",
+    "entity": "Stewart Copeland",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "stewart_copeland",
+        "name": "Stewart Copeland",
+        "kind": "person",
+        "roles": [
+          "composer"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 54,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "composer"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "interview",
+    "source_date": "Thu, 28 Dec 2023 08:00:00 GMT",
+    "captured": "2026-11-19T22:40:38Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QeW9PRXpQT1VXYml1NU53X1BBZ09sd2t0cG9ZTUlWZXg2Nl91eUFVSGMxSHVCWlhZNmtpVDE4MXNzN3BzUmtVZk93WXlhbDNtdFRta1JsTGx6RXVFTm80TnU2bXkzQ1VuVU4yVDRB?oc=5",
+    "source": "The Big Takeover",
+    "title": "Interview: Stewart Copeland - The Big Takeover",
+    "summary": "Interview: Stewart Copeland The Big Takeover",
+    "evidence": [
+      "matched entity: Stewart Copeland",
+      "event: interview (interview)",
+      "source age: 1057.6 days"
+    ],
+    "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "df320733f2c230ed6a80",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 08:00:00 GMT",
+    "captured": "2026-11-19T22:40:38Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcFFNQWtCUC1acmFlVWU2QUtXa0JKM1dJUzRqdVJlZk9MaGZTdFJleDZaMThwNlNjUVI4bVQ4QWRyM2RfdHVIbTA2VXRUeWhBNVFBeHZMc01iUGRvdFA1blFLUlVfSkVyLXNQbWhQMjNfSjNybjc4bkJHQ0R5UEt6cmZYRm9lcm1xbXpQdmpCeGYza3JySUlZTThGSlBwNElTTUwzRFFn0gGrAUFVX3lxTE41WjVIcDMxRnA4MFNfS0xka1lsZkMxWEswVXRTZFRISzJnNTBjaEN2eDE5SkpSTmdER1ZUbUtubXlkcHdmTXlXMjVwVWJKUnk3eWd4aHlubkZvYXFkalRsUHM0eUIzRmphVHh0OEZmaHJqTmg4NUlaYm8yQzJXTEc1cndwR1NsbGFjMkQtRWZaRE9FMzRPa2ZIUmU4X3RuOXhER19EYUt0OXhmZw?oc=5",
+    "source": "Fox News",
+    "title": "Antonio Sabato Jr and Virginia Madsen's son arrested in fatal hit-and-run - Fox News",
+    "summary": "Antonio Sabato Jr and Virginia Madsen's son arrested in fatal hit-and-run Fox News",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 8.6 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "bccdc55ac4d890e73c45",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 08:00:00 GMT",
+    "captured": "2026-11-19T22:40:38Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVhVZ0VkcmhJanF5dTBHRm52S1Badmcwd3ZiQklrQTFFeWxCdk5aRHJmYUlIcVo3QVN3SWlBMmhvWXRmdThpM0JzMDloaHFiLVhvbklmRVlTWm9DS2MzeW5nRmVtczNQY2JkS01zQ1pydmphdlQ5YmM4OUlySmZGSUdRQ2hYQ1BjN0pTOXFQZkJnRVRfM0EyZnZ6cXhKZjdOVk15VmVFTS1WbFdQQW8wQVBBa0RKUjg5ajdNYmtGcHZwM2hycnc?oc=5",
+    "source": "The National Desk",
+    "title": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run - The National Desk",
+    "summary": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run The National Desk",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 8.6 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "e719f1e6f246e5e649de",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 19:13:57 GMT",
+    "captured": "2026-11-19T22:40:38Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1ZmR1ZVY3UzU2tTU0R6TU5JZ29zdFdzMXkwUlFuMENWYVpPSUhWRGRzMk1ablFfWXRjdUlvWWY0SlRILWdwN0JXc1NpTUc4bTdBQy04RDdvWm1RNVd5RHhaWnBlVW5WYm92UUdEbUlFT1VLbHY5Nml4ZFNHNUtYT2JqX2R5WUFxZjRVWHpWbUlmQ1R3ZHRfQno2d3ZTUTlvbG9fV2tldHVCVGtQVGlNSnhCOA?oc=5",
+    "source": "KDSM",
+    "title": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run - KDSM",
+    "summary": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run KDSM",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 8.1 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "6755321f9f22ccbe26dc",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 19:09:58 GMT",
+    "captured": "2026-11-19T22:40:38Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdGFHZWlHeWh1VFpJZV9fSHdyZ1YwM0hFZm51NTZpZjMwdkFDWmR3VGQtNTQ2RDdmNmJSSDNNLVlVVVFDZlN3MWVUclJsSUFQdmVJQlJDQnl2VlZpMDBqWXc3UU5PLWZPeGlITWxTZFBHUE41ZU1kMGl4X3AzaUI3NWlGQV8wNVo0U1RYa0Uxd2xHVXRvcnRucU5iWndLV2FfbjVmcDNmQXNzZEc5eDM2NDZpVktwcTg?oc=5",
+    "source": "KVAL",
+    "title": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run - KVAL",
+    "summary": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run KVAL",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 8.1 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "f13f9439db3a10ae1f1e",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Thu, 12 Nov 2026 00:19:43 GMT",
+    "captured": "2026-11-19T22:40:38Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3NHUjFxUXA3V3lVR2RkMDZPOUVSbnJyVy04THZUVGhFV1M1TmZNQkhDU3pjTy1sUFM4NDdPellEZWxlVm50WUpOUUFMOW43NkxrTzl5Ul9oTFlYWnN0VkVacy1lYlpSOV9IOHJtZlhrZ05Qd1N6VzVCclo4NzRsb0YzeUc0a0VJaFVYdWtfZXVNLVNCblpobHhzN2daNFdXUFlTNFJRTQ?oc=5",
+    "source": "rova",
+    "title": "Antonio Sabata Jr. and Virginia Madsen's son arrested after fatal hit-and-run - rova",
+    "summary": "Antonio Sabata Jr. and Virginia Madsen's son arrested after fatal hit-and-run rova",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 7.9 days"
     ],
     "score": 56,
     "route": "Corrupted Chronicle research",

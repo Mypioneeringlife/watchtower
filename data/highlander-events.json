@@ -1,258 +1,5 @@
 [
   {
-    "id": "4f3e949f66379b297239",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 12 Jan 2026 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZGh4ZFRoeENyY1JPWWVlR01PdU1LX0I3cUM2SHFfMmNnUVRzUzctMnU0OW92RU5MaW1aTzZCdlNQanpJM0p6SFlrZ3RmcG9JUmZOYzZpVlBjR2dFbmRHV1ROTllGWm5zUnlBM3Zmb3J3OTdDNzBkbjR1ZmJaS0s4RzFHc3hEZw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Halperin Obituary (2026) - Savannah, GA - Gamble Funeral Service - Legacy | Obituary",
-    "summary": "Richard Martin Halperin Obituary (2026) - Savannah, GA - Gamble Funeral Service Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 267.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "fc1dd7392fd292727a24",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 07 Jan 2026 19:28:48 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVR5QXZzU05VMjlEQkZ3cXpCV2paSmtrWWEyUmEyaTJFbmhyTklNdnViQW0tWmQ4MTY4N21SUUNmdHJQMkZaT0R0eVlqYUc5UGVKdzFIMGliMjZZU0k0UWlGV1RKV0pUMXFzc1o3QmVEMVFMb2dXR3UwOXJMZ1ZnSlBIZS1ISVlqYnU2UUhjemY4R0o2?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Obituary (2026) - Valley City, ND - Valley City Times-Record - Legacy | Obituary",
-    "summary": "Richard Martin Obituary (2026) - Valley City, ND - Valley City Times-Record Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 272.0 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0bff9f9a3f2b554feba9",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 29 Dec 2025 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXpPMFdhbFJ3aHh2ZTZOV0ZVU2ZuWm1Da1BWNERURG1CLXhxVzJ1YlgtMVZ6Nk5lbUtzRUJKdVZHNDYwM2JKM0pQSTZZYkRpT05aV0VjRjFleHhHSUZXRVppcXNJeks0YzJmNHFjUHFBWTdsSEJjbFpfbllPOHo3Q1dxXzU?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Homer Richard Martin, Jr. Obituary (2026) - Cheyenne, WY - Wiederspahn-Radomsky Chapel of the Chimes - Legacy | Obituary",
-    "summary": "Homer Richard Martin, Jr. Obituary (2026) - Cheyenne, WY - Wiederspahn-Radomsky Chapel of the Chimes Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 281.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "1cb334aaa1eb4dbc4c52",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 76,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 29 Dec 2025 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX2hPYzloTVhzVkNaWVVMX1Vld2NPNmg2cWdCSDJ4d3dWaXBqcFFvSjJmQVllc2EtUTZpcTJ6RGdMTGM3c3BuMlhmS2hjR2U1NDNadFlOSGdtT2xVOGRkYTJ4c0lVWWFlaldVNGt4anFleDJoU05jdnFSSW1BN3hva1dtOA?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Obituary (2025) - Melrose, FL - Phillip & Sons, The Funeral Directors, Inc. - East at Melrose - Legacy | Obituary",
-    "summary": "Richard Martin Obituary (2025) - Melrose, FL - Phillip & Sons, The Funeral Directors, Inc. - East at Melrose Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "context: director",
-      "event: death (obituary)",
-      "source age: 281.5 days"
-    ],
-    "score": 76,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "40ca28dee45a5ce1b70b",
     "entity_id": "richard_martin",
     "entity": "Richard Martin",
@@ -51980,6 +51727,255 @@
       "source age: 7.9 days"
     ],
     "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "666e85046c8faef82535",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 17 Jan 2024 08:00:00 GMT",
+    "captured": "2026-11-20T10:22:27Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjJ0OWJ2TWR0U09KZS14OWotVnoxckJabDdvbFQ1RmxRanMyVF94ZnQyOGZYQU1tUENEbnh0VW84bTRWTlZCUkJjWmJVQ1pWYnY0alVRSVd6dkhUMXlJd2FCa0UwWkR6STk5QTNHTnFaMjVjTUQ1QmFRT3B6em1RcEZKNA?oc=5",
+    "source": "MovieWeb",
+    "title": "Highlander Reboot Will Be Chad Stahelski’s Next Project, John Wick Director 'So Happy' to Be Launching New Franchise - MovieWeb",
+    "summary": "Highlander Reboot Will Be Chad Stahelski’s Next Project, John Wick Director 'So Happy' to Be Launching New Franchise MovieWeb",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "explicit Highlander reference",
+      "context: Highlander, director, reboot",
+      "event: highlander_production (reboot)",
+      "also matched: Highlander (100)",
+      "source age: 1038.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "1057db4082b6b31fa414",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 76,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Thu, 13 Mar 2025 07:00:00 GMT",
+    "captured": "2026-11-20T10:22:27Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGhkb19ycDE2MHIyZWM0S3J2UW14cExNZE5PMnd0eFVrVXpmNGZXTnUwT1llU1BBWEM1V0NnbENsd2R1am1oTXhGSHg1Wm1YY21IOHQ1WGlkUlduNXI5ZXFGWFRCMWNwQ05lVjNwS1F2U2JrZmx2Qm9hN2tQYWdJWUxNNFpZYm9wZTVsbnV5Umh2Ui1pUU9Rd2FRc3FTdG5BT1VfckR6Zk1FNEpXNW12dURjTXNMbkdmTGxF?oc=5",
+    "source": "Daily Mail",
+    "title": "Tarzan star Christopher Lambert, 67, 'rushed to hospital after falling on stairs' - Daily Mail",
+    "summary": "Tarzan star Christopher Lambert, 67, 'rushed to hospital after falling on stairs' Daily Mail",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: health (hospital)",
+      "source age: 617.1 days"
+    ],
+    "score": 76,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "50fa709b9b5a8f5f66b4",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 98,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 13 Jun 2025 07:00:00 GMT",
+    "captured": "2026-11-20T10:22:27Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlRTNjTVd0Z0VHeEsyMjJ6VHBWUUdQQll3SDFsSUY4ZXZqa2tFNXF5emtTclU1djJJcnZuTzkxbXBaU2lTLTRNbzB4b3Zmemhaajl6WHJqOE91ejRQTlVzQXdGWXJPTWlUTE5VMm1KbTBnUQ?oc=5",
+    "source": "Collider",
+    "title": "Henry Cavill's 'Highlander' Finally Sets Filming Dates [Exclusive] - Collider",
+    "summary": "Henry Cavill's 'Highlander' Finally Sets Filming Dates [Exclusive] Collider",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, filming",
+      "event: highlander_production (filming)",
+      "also matched: Highlander (98)",
+      "source age: 525.1 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "79e2f395531c049a5ae5",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Sun, 08 Nov 2026 20:55:40 GMT",
+    "captured": "2026-11-20T10:22:27Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KNWVKazQ2NHVzc2NLU090ZXQtQllHUWxBd3FVVFkyNG9XM1UzbTFHZWJxZnl5aWpTZmUxM2tDaTBDNFk1U0JZRWNLSEF6QQ?oc=5",
+    "source": "IMDb",
+    "title": "Highlander Confirms Second New Release Coming Ahead Of Henry Cavill Era - IMDb",
+    "summary": "Highlander Confirms Second New Release Coming Ahead Of Henry Cavill Era IMDb",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander",
+      "also matched: Highlander (70)",
+      "source age: 11.6 days"
+    ],
+    "score": 74,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"

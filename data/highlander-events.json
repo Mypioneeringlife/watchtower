@@ -1,1381 +1,5 @@
 [
   {
-    "id": "40ca28dee45a5ce1b70b",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 02 Mar 2026 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZmoxVVlac28tNkMyYnpBcXRnU0FOXzgzUGxFYWVOdkwzc2hZaEJNMkNidHEtUzBNNmM1WDNpUS0xdW1XWkdET2paUldkanJaYTV6dy1LYVQxdExqWXQ4cDlvYlZJZEx3ZHBTVGI1Y05IcjRveTQyWjhIZElOX0RJNVNR?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin \"Dick\" Smith Obituary (2026) - Lakeville, MN - White Funeral Home - Lakeville - Legacy | Obituary",
-    "summary": "Richard Martin \"Dick\" Smith Obituary (2026) - Lakeville, MN - White Funeral Home - Lakeville Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 218.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "1a240dc36ed6a035f605",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 12 Feb 2026 14:54:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON3FmWURENWlVeUdtX0I2c18yQW0tdHdYVlB1ZU1PSk5DdUdyblpwQ3BmUExWRE15UnJYZHZydXBiVzQ2Vkd6S3hRVzM1X1EtWElTY2JCWU9NTGU1Y0dSdHk3emI2X0VXN3RhQUwxMVp4ZlNjXzREc2w5d2ZOT0ZWWUN1V2FfQQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Redinger - Legacy | Obituary",
-    "summary": "Richard Martin Redinger Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 236.2 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "007be1c3a63ff73f7fe4",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 14 Nov 2025 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTG1GZ21ET2laOGtDbHJ0N3RJbmV2SXZPcUpTT3BLdzhOcHB5cF9jVGpRZ1BPVTZOQzNkdndvUGRVZF9nOUhES21DZjdoMjJ5cG02cTRhWkhZdTlIOWhfQ0FwQzYwT0ZBYm9HTUhBMG1tSEV1N0RnOTgzZm1iYTZMaEg5SGIyOS1WUXk0S0VaZy0weS1IeDJ2R3NIekZVUUR2anpHelVaelZfSWc?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Richard Martin Obituary (1965 - 2025-11-12) - Kiski Township, PA - The Valley News Dispatch - Legacy | Obituary",
-    "summary": "Richard Martin Obituary (1965 - 2025-11-12) - Kiski Township, PA - The Valley News Dispatch Legacy | Obituary",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 326.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d579321d4c63fb506ba2",
-    "entity_id": "robert_l_mccullough",
-    "entity": "Robert L. McCullough",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robert_l_mccullough",
-        "name": "Robert L. McCullough",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 31 Dec 2025 18:11:39 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa2hDN21GSVZTNkVCMkdFZEtGc25MaXZWazJMbkV3ck1sS2M0Rko5emFvaTVZQjlmd1I5YWRQWkdvUDJOaVk2TGhpZFpTekIxMVk2VU13bjc1Y0FPODNHX3pILXdVWFBDZ1dCTnVKOXB3RG9kbno3Q2xXbWRRb04xbExkdDBZNGc?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Robert L. McCullough Obituary (2025) - Cincinnati, OH - Gilligan Funeral Homes - Kenwood - Legacy | Obituary",
-    "summary": "Robert L. McCullough Obituary (2025) - Cincinnati, OH - Gilligan Funeral Homes - Kenwood Legacy | Obituary",
-    "evidence": [
-      "matched entity: Robert L. McCullough",
-      "event: death (obituary)",
-      "source age: 279.1 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5ef91791059b994513be",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 22 Aug 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUURYNVJhLVh6R0taazNBNHhLelNYa1poZjltRGlWcVk2TkI5ZHN3SVZNOXd6SFhNRFRvcFJXcWl2QUFKSXh4dktqUzc0OFd5d2xJMmpoN29tZ1ZIcUFEMnQwXzM2dWhWSGc1MXY3d1VfLXZfRjJkUE9kUmlvU09iRURYMExLNUVj?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "ROBIN DAVIS Obituary (2026) - Oakdale, CT - The Day - Legacy | Obituary",
-    "summary": "ROBIN DAVIS Obituary (2026) - Oakdale, CT - The Day Legacy | Obituary",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 45.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "ade5af7512c4b9b40b70",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 04 Aug 2025 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uTEo1c1h1VlFOb0tDRGNRSnlPOVdNQmRRT0tXc1ZrSjJSTnhVejF1aUZRLVVfdkFXakw5VXZzNlNERHVsMmxRZmpFY0RuNUttMXVsNmV0MnhTUG5kUDc1RzlIS2dGQm5pbEJlMmpkeHJSYzRpTnVwNnJkbzBZOWM?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Robin Davis Obituary (2025) - Cleveland, GA - Cleveland Funeral Home & Crematory - Legacy | Obituary",
-    "summary": "Robin Davis Obituary (2025) - Cleveland, GA - Cleveland Funeral Home & Crematory Legacy | Obituary",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 428.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "15b1836f7900bb4bc735",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 20 Aug 2024 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVkVCdXNRZ3FpbHRqS2Fua0hjV1BmQ2E0QlRoc2FzZmY3MHI4VE8ySjJOTUFpS2k0QVo2c04tUDg5cHVsc1lwU2RYSGRqRW14UUZyZzhsZVI2QXAtVG9DUWpPQ2VTWEFDMnh3TnBsOGlmQVJsbjFxMm80ZDNreExOdTRZQXlTdVdT?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "ROBIN DAVIS Obituary (2024) - Oakdale, CT - The Day - Legacy | Obituary",
-    "summary": "ROBIN DAVIS Obituary (2024) - Oakdale, CT - The Day Legacy | Obituary",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 777.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "11e59e53f17b2323b77f",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 16 Jul 2023 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa0ZmUTJKa1U1MlFXeFVwTFZSSkJFVjFpTXpBNkNEX0l0ZktnV3NiOE1WZFBPandUaGVOUFFqcm1leVNPOFpMY1B0VjlKZHUtX0RZUW1wZzAtX1NqcWVfU1dNRTRVaFdBeEU5T2FMSjhnMVNlc0ZGenFic0NEUHlfWFM3TW5HZUhPVEdCTDlrQ3A2TzA?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Robin Davis Obituary (2023) - Washington, DC - The Washington Post - Legacy | Obituary",
-    "summary": "Robin Davis Obituary (2023) - Washington, DC - The Washington Post Legacy | Obituary",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 1178.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d23588038179ff014423",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 27 Jan 2023 16:04:19 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOck9KbDhmUjJUbXFrUUZ5cHRaekhWSGpwVU52OFdpNndwUkZkYzllMjRYRGhRaERPSEpYNzF5emdxTUpLaWQyRzRyRVJEdUZta0FOS19qV0g0bkgxV1JQZ3dHTVpNOExqQldVa0h6TVRxb20yQkpuUWdQMGNMNHk4eHdzdG1NVDR1c0tVczUyX1V2WDB1SUhwcGFnbw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Robin Davis Obituary (2020) - Pensacola, FL - the Pensacola News Journal - Legacy | Obituary",
-    "summary": "Robin Davis Obituary (2020) - Pensacola, FL - the Pensacola News Journal Legacy | Obituary",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 1348.2 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "1e06dc5be19e14efb750",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 25 Jan 2025 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1pPNVFfUFUyai00RXVLV2ZsVVNsZzRZaWd4N2ZxU0t4MV8yeTdkeUxmdVFnTmtzcnBqUjhHRE9PczJMSHNwaVBaVmpleS1kRGZmV2F4UklnUlRacDdfRlhXYTE5S3RfYVNrbEpkbkw1d2dEZ3NBLXNFd0VVV2hPSWp4TW5jVmRVcWFSVWJB?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Robin Davis - Legacy | Obituary",
-    "summary": "Robin Davis Legacy | Obituary",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 619.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "1bee6489b24b60e81342",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 09 Apr 2023 01:16:55 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNGtMQnpLSlY5YWJiZEQ5ZFlNMGM4Q1lPS0dlSGtpY1MzTGQxbXJjWlI4M1pDbE40WThnMnI4alVhS3FkTmtWWDNXUkhWNFQzc01OYXJtMWVyQ0I2bkhIUlRicUU1bzQzOGg1Tk1SNXlmR3I5MERWOUZkaFlGZW1Nek1uU0V3T0xhZHJKUHlucw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Robin Davis Obituary (2003) - Norwood, Millis, Wareham, MA - Boston Globe - Legacy | Obituary",
-    "summary": "Robin Davis Obituary (2003) - Norwood, Millis, Wareham, MA - Boston Globe Legacy | Obituary",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 1276.8 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "e3494582d97488b5c8d8",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 28 Dec 2020 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRmZnRk9nbmpNV0c2WVNLYmZBanBBLVkybjhZeHoxOVRoS1BmbW0tOUtsSmRjX2J4RHJRUzJMSWMzbUh4bGZVdXpfa0o1ekJqUDVtWWJ2cEpEM2VrVDh6d1JrNUhLM1AtV1FtazhTTklCUUVRd1lpRjNZTllQa0ZwZVVLSEM3eGFCT09YeDEwSURZT1E?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Robin Davis Obituary (1957 - 2020) - Elkton, MD - The News Journal - Legacy | Obituary",
-    "summary": "Robin Davis Obituary (1957 - 2020) - Elkton, MD - The News Journal Legacy | Obituary",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 2108.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c3ba3a6c1dbca5fc355e",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 30 Jun 2023 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9peWl4bXJoYlA1ZEZYc3NDdElYZ21DakxwOEg1UHhwaFRTQzRVSWwtUTdGTFBlRHNHSmJBcnZWV2NMZHFPRE93RlAtUTJPVDg4cUV3VTBlTEl6VTQyS2hEODF5ZkNIYm1fNTcxcThNbw?oc=5",
-    "source": "Tribute Archive",
-    "title": "Robin Davis Obituary | Bennie Smith Funeral Home Delaware | Dover, DE - Tribute Archive",
-    "summary": "Robin Davis Obituary | Bennie Smith Funeral Home Delaware | Dover, DE Tribute Archive",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 1194.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "41961556b5a5f11de38f",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 08 Nov 2013 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONzA3cDVSZ0NaYVEyWjZCc2xTU2ZvT3IxNDlIdWxUQTdfN09kZG5XcTdLclczRW1jR2c3SjRlZ3J1OXFWWEZJTS1TT0lqVm01WGNCWDE5QjdTUHFNTTNDS0xsUlJmNXhpd1BZNXhMQUZNTF9tNDZsYnVpSWJITG1tZXgtNWZjUkpqbGRLaQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Robin Davis Obituary (2013) - Hanover, Pa., MD - Evening Sun - Legacy | Obituary",
-    "summary": "Robin Davis Obituary (2013) - Hanover, Pa., MD - Evening Sun Legacy | Obituary",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 4715.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "fe311b66f060b565b3e7",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 11 Dec 2016 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMkRyMTlZRUJEVncwTFY5SmJKUmh2QzlpelJNdWRFUy1LUVI3enJaenRYb0ZFaXV4Nld4cUxRc285QUF4RXV0WUJhNTNpNF9menFHWGNDbVFQR0F4Snd5d043Q1E0bW84Q2VvWjdhbS03dWdnVjFua3N2ZFg0OHcwbXFRd0V3YmtRRUNOcUdB?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Robin Davis - Legacy | Obituary",
-    "summary": "Robin Davis Legacy | Obituary",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 3586.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "b0ce726abe2848b9be02",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 17 May 2015 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX01PYkFqUU83SXJaZVA1NXlVNWQ1Q1RIa0hQVHEzd05RZTE4THE5SFdJcGhkWlVoR0I5RUttZzc0UGVCNldHYlhFWWhpUllGc09KVUxjUkRPaVJ2LWhuS3VObzhnMm5iaXI5d2tqQklhcXFQWTlfazZZbjVrVDZnR2JiRmk?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Robin Davis Obituary (2015) - 63, Bay Head, NJ - Asbury Park Press - Legacy | Obituary",
-    "summary": "Robin Davis Obituary (2015) - 63, Bay Head, NJ - Asbury Park Press Legacy | Obituary",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 4160.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "55fdc409f89e8dbe0fce",
-    "entity_id": "robin_davis",
-    "entity": "Robin Davis",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "robin_davis",
-        "name": "Robin Davis",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "For Tomorrow We Die",
-          "The Lady and the Tiger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "For Tomorrow We Die",
-      "The Lady and the Tiger"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 21 Jul 2006 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzVld2dFbW1CZ1NYdUZCSDRWbjVKTVVZS2tZaVF1SjlBMk9fakw1UTZ2QUNoeWR6REZRYUp3SWZTNW40M2J3UzNXM1NfQzlFdDh5cmVVWFZac1dXTFNqcmdnU1JLdDR6aHlBMkZJSm9ZWThiWV9mQ0JHd3MyNjZqXzVRUlJHUTh4cTZ5LW1Saw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Robin Davis Obituary (2006) - Jackson County, OR - Mail Tribune - Legacy | Obituary",
-    "summary": "Robin Davis Obituary (2006) - Jackson County, OR - Mail Tribune Legacy | Obituary",
-    "evidence": [
-      "matched entity: Robin Davis",
-      "event: death (obituary)",
-      "source age: 7382.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "ba1796450a7f34b0009b",
-    "entity_id": "scott_mcneil",
-    "entity": "Scott McNeil",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "scott_mcneil",
-        "name": "Scott McNeil",
-        "kind": "person",
-        "roles": [
-          "voice actor"
-        ],
-        "franchise_titles": [
-          "Highlander: The Search for Vengeance"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "voice actor"
-    ],
-    "franchise_titles": [
-      "Highlander: The Search for Vengeance"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 30 Oct 2019 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0JLY3p5X3NpbTgxRzVvLTN0ektkS0tFMm5SQ0h0RGRRRm9CMmpqRURlWEtDU0FLV1RkOVQwVWYxRkZWVTByNHJ6V2JyVnBUSi12VkNaVGF1Q3RXQ1VBNkIzSjJKOXQ1cGZiQ1FPSzlVTkM1OUh0MjBnM3Y1cVc0Y2lhbmQ5cldnd2g4cnZmQklVM1Ey?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Scott McNeil Obituary (1945 - 2019) - Salt Lake City, UT - The Salt Lake Tribune - Legacy | Obituary",
-    "summary": "Scott McNeil Obituary (1945 - 2019) - Salt Lake City, UT - The Salt Lake Tribune Legacy | Obituary",
-    "evidence": [
-      "matched entity: Scott McNeil",
-      "event: death (obituary)",
-      "source age: 2533.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "b46e38358b9af535e4e9",
-    "entity_id": "scott_mcneil",
-    "entity": "Scott McNeil",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "scott_mcneil",
-        "name": "Scott McNeil",
-        "kind": "person",
-        "roles": [
-          "voice actor"
-        ],
-        "franchise_titles": [
-          "Highlander: The Search for Vengeance"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "voice actor"
-    ],
-    "franchise_titles": [
-      "Highlander: The Search for Vengeance"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 05 May 2014 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTzdzdXU5YUJiekdFSTJ5SHluZExJelBHNVZZc0hpREN4aVZSLTgwV1c3bzhvRG1zLURoS25hdjNlOFBMMDRCQmtKY0Q4cnJ5SF9WM2lldVRyRTJDZERUaktvNW9na2RXSVA2YWhrRU1UMXRpb3owZTJRLTZySGdBNGotZw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Scott McNeil Obituary (2014) - Jacksonville, FL - Legacy | Obituary",
-    "summary": "Scott McNeil Obituary (2014) - Jacksonville, FL Legacy | Obituary",
-    "evidence": [
-      "matched entity: Scott McNeil",
-      "event: death (obituary)",
-      "source age: 4537.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "aa210fdeaa082dabac51",
-    "entity_id": "scott_peters",
-    "entity": "Scott Peters",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "scott_peters",
-        "name": "Scott Peters",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "Reluctant Heroes",
-          "The Immortal Cimoli"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "Reluctant Heroes",
-      "The Immortal Cimoli"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 22 Jun 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1psT3pHMU1MRWlITlFEaTJGWHRQUXIya2lqT3RnbmlNTFJodGljX1VZT2JucmdmU2UwMFRGX0lqQlFEYml4NUlTYmZ6eWtvYVh4Wm1kb1JzeFliREpOdVlTc0ZpYzRhVFNuOVB2alhkaWZTWXdLNGZPdXliTWFQdw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Scott Peters Obituary (2026) - Legacy | Obituary",
-    "summary": "Scott Peters Obituary (2026) Legacy | Obituary",
-    "evidence": [
-      "matched entity: Scott Peters",
-      "event: death (obituary)",
-      "source age: 106.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "34080a0e7ed2affd2b9e",
-    "entity_id": "scott_peters",
-    "entity": "Scott Peters",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "scott_peters",
-        "name": "Scott Peters",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "Reluctant Heroes",
-          "The Immortal Cimoli"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "Reluctant Heroes",
-      "The Immortal Cimoli"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 29 May 2026 19:13:18 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNHk3XzUzLVhYUXVGWEVsc0pYOWhNWXUyV3FidUFCQVVBQi1VSV9YTVZ3LVR3RkNLTERtOVJ5YUhWcEQ4SExIVjYzanFoeEFScUtTeFNhYlFnV3QxbkpCbzF5bUtBSXZUQmpsVG9OU01BakVIZlYybE00R1g2cS1ZMw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Scott Peters Obituary (2026) - Dallas, OR - Bollman's Tribute Center - Legacy | Obituary",
-    "summary": "Scott Peters Obituary (2026) - Dallas, OR - Bollman's Tribute Center Legacy | Obituary",
-    "evidence": [
-      "matched entity: Scott Peters",
-      "event: death (obituary)",
-      "source age: 130.0 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "50b6e1a128e7cd63b252",
-    "entity_id": "scott_peters",
-    "entity": "Scott Peters",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "scott_peters",
-        "name": "Scott Peters",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "Reluctant Heroes",
-          "The Immortal Cimoli"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "Reluctant Heroes",
-      "The Immortal Cimoli"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 22 Apr 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mUVp6UzlnUUZCWjZGMjg3SEhEOGJ4djBJMUI1bG1pcTBRQUc0WTRTdm9PeDM5M0JURDFyS01uV0RReGVERnF1R3JxNm81Zk5fcDQ4UGZHSV9WeDVKcmIxenNMV2p0QUZ6?oc=5",
-    "source": "https://www.riddlefuneralhome.com/",
-    "title": "Jason Scott Peters Obituary Apr 22, 2026 - https://www.riddlefuneralhome.com/",
-    "summary": "Jason Scott Peters Obituary Apr 22, 2026 https://www.riddlefuneralhome.com/",
-    "evidence": [
-      "matched entity: Scott Peters",
-      "event: death (obituary)",
-      "source age: 167.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0a205ea2b73f13fb2e4b",
-    "entity_id": "scott_peters",
-    "entity": "Scott Peters",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "scott_peters",
-        "name": "Scott Peters",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "Reluctant Heroes",
-          "The Immortal Cimoli"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "Reluctant Heroes",
-      "The Immortal Cimoli"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 22 Apr 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR01PVlhjT0kxRnZnSEd1U1NCU2tOUkV2cGkxY0g3NERLeXB3RzNrWmM4VE5UOU43ZlFGRWgzV0tFODBRUFp4UXU0dW8tcXE5X3lBUG1XSmhfRjI4aXhDZHptYU5TOGxFUE9jbi1DcGdFUTRfdVRkaVlveU9FelY0Tw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Jason Scott Peters Obituary (2026) - Vermilion, OH - Riddle Funeral Home & Cremation Services - Vermilion - Legacy | Obituary",
-    "summary": "Jason Scott Peters Obituary (2026) - Vermilion, OH - Riddle Funeral Home & Cremation Services - Vermilion Legacy | Obituary",
-    "evidence": [
-      "matched entity: Scott Peters",
-      "event: death (obituary)",
-      "source age: 167.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "3cc2a06618e11dbcbdac",
-    "entity_id": "sean_connery",
-    "entity": "Sean Connery",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "sean_connery",
-        "name": "Sean Connery",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II: The Quickening"
-        ],
-        "score": 66,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander",
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Fri, 22 May 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbWtBdDJhQUFYeHB0eHRUV3VZMmY2VE1BMXpfV0dXYk04bGdaSGVFNUp0cHE3RTcxZzd2MjRJWmt6eENhNXJ6aUtMWVdCYVNGVjlXaFBwNTFCbVlYNnRFcklxbHQyT1lzVkh0bm9HOHU4WXZTRTYxN0lwLTNpb3FUSF9CZk4tdEJQMHI0ejZSNUwwS29MQ194a2pqUFR5QQ?oc=5",
-    "source": "Looper",
-    "title": "Sean Connery's Zardoz Costume Probably Shouldn't Have Been Greenlit - Looper",
-    "summary": "Sean Connery's Zardoz Costume Probably Shouldn't Have Been Greenlit Looper",
-    "evidence": [
-      "matched entity: Sean Connery",
-      "event: highlander_production (greenlit)",
-      "source age: 137.6 days"
-    ],
-    "score": 66,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "125c4bf78e43a896d46f",
-    "entity_id": "stan_kirsch",
-    "entity": "Stan Kirsch",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "stan_kirsch",
-        "name": "Stan Kirsch",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Series"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Series"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 14 Jan 2020 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnb0VuZVVqVnpyQzI1MXpEV1dIMVJYWW9qUUZPYjhGS1BsTkJJWlRCNnlRdTR2LXREd1VPaWY1MC1KRWdfUTIxNjJCT09UQTk3aVh3U3NIUW01VTF0TVY5OXZxWjJrR2V0dUJqWQ?oc=5",
-    "source": "Extra",
-    "title": "Actor Stan Kirsch Dead at 51 - Extra",
-    "summary": "Actor Stan Kirsch Dead at 51 Extra",
-    "evidence": [
-      "matched entity: Stan Kirsch",
-      "event: death (dead)",
-      "source age: 2457.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "cac64b534c36960df285",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "death"
-      },
-      {
-        "id": "stan_kirsch",
-        "name": "Stan Kirsch",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Series"
-        ],
-        "score": 100,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 14 Jan 2020 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUVpEbTJQQUlxMWdQSklFRXNlQWstLWFjSVJCdDFTYnJ5TW96WkNuUFdUaXlmREtIb1l1ZGt4bk03NFFQNmxMUWpYdEVrZDctZGpZc0trQkZQUzBwLXJ5OUVmQjl5eVY4OHVtM0dtZXg3OWgwZjBSWkY3WE1DU29UNlRyV1VnVjZpR1Y4TVFhNkZ5d1JsMXc?oc=5",
-    "source": "www.the-sun.com",
-    "title": "Tragic End Highlander star Stan Kirsch dead at 51 from suspected suicide - www.the-sun.com",
-    "summary": "Tragic End Highlander star Stan Kirsch dead at 51 from suspected suicide www.the-sun.com",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "event: death (dead)",
-      "also matched: Stan Kirsch (100)",
-      "source age: 2457.5 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "be895b095fc95bdeb913",
-    "entity_id": "stan_kirsch",
-    "entity": "Stan Kirsch",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "stan_kirsch",
-        "name": "Stan Kirsch",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Series"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Series"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 15 Jan 2020 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10QlpqNFU4SlY1d2lQbzRXVHMxZzY3emZlTzJOLXQ2SDVxb0hjTjRQVmEwcEFQREw2d3NsemdRZ1dfbXFOVUZwc3lrc3NtWGkwLWpmU3ZuMnFSRThOMy1ic0hoN1Z1b3lQazg1bUpsZ2wzc3JH?oc=5",
-    "source": "www.who.com.au",
-    "title": "BREAKING: Friends star Stan Kirsch dies in tragic circumstances - www.who.com.au",
-    "summary": "BREAKING: Friends star Stan Kirsch dies in tragic circumstances www.who.com.au",
-    "evidence": [
-      "matched entity: Stan Kirsch",
-      "event: death (dies)",
-      "source age: 2456.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "5eb1fc0a6514e042da48",
     "entity_id": "steve_arnold",
     "entity": "Steve Arnold",
@@ -51976,6 +50600,1330 @@
       "source age: 11.6 days"
     ],
     "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "527ecfc5ed73e9a2ab4d",
+    "entity_id": "chad_stahelski",
+    "entity": "Chad Stahelski",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "chad_stahelski",
+        "name": "Chad Stahelski",
+        "kind": "person",
+        "roles": [
+          "reboot director"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 74,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot director"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 05 Nov 2026 06:50:47 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UWkIzSjVLeWlkOU9UaHhmYkJ3SlJBbXNiZURQb0pyU2stRWJ3cEZFcGhwbGM2NVVQdHJlMTZDSlg0bmFlUVhkOV9ZZHgyeTJON1M2WDRlaHZJQzB1UEZwcA?oc=5",
+    "source": "IMDb",
+    "title": "Karoshi: Chad Stahelski’s ‘John Wick’ Replacement Confirms Trailer Release Date - IMDb",
+    "summary": "Karoshi: Chad Stahelski’s ‘John Wick’ Replacement Confirms Trailer Release Date IMDb",
+    "evidence": [
+      "matched entity: Chad Stahelski",
+      "event: highlander_production (release date)",
+      "source age: 15.6 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "4a89029f49d1f6f6ffdd",
+    "entity_id": "damon_dash",
+    "entity": "Damon Dash",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "damon_dash",
+        "name": "Damon Dash",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "legal",
+    "source_date": "Sun, 20 Jun 2021 07:00:00 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHZqSE9pY1NEbmQtR1RZRDNNXzRucEZZWUxMeXpBUTRRa0ZIX0RJb3N6Z3dhTlRGU21nbVhyOEFqb3VqSmsyVlBSZFpubFhUOHdWNDNna3VFOGtrWlEyUDB0MnFoMEpIdFFnd0ppYjI2QzlwdHVyNkt1V1UxSVltMjI0a1pZdUx6ZGNRMjlNR0lvVkp5V0E?oc=5",
+    "source": "Pitchfork",
+    "title": "Roc-A-Fella Sues Damon Dash Over NFT of JAY-Z’s Reasonable Doubt - Pitchfork",
+    "summary": "Roc-A-Fella Sues Damon Dash Over NFT of JAY-Z’s Reasonable Doubt Pitchfork",
+    "evidence": [
+      "matched entity: Damon Dash",
+      "event: legal (sues)",
+      "source age: 1979.6 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "743b987b804d14ce2490",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 19 Nov 2026 22:35:00 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdTBzWnV4QVVFZ25VN3ZLeWo1TXRwVWNCbTBUSkNRNzl0QWJtb3FlRXUyWXROVjBKTmo1Mk9XdlVMMEk3aTVOWGpWc2lURF9RdUpMQ2NHdV9zeGVBM01YUkJvMy1SNGpCUUR5Smo3R1JFN2RTcWdPa0hLWEttYWZ3X2pQY2QyTGxFMlJCSHJicHhGRVdCTlROUld6S2xsN3REZVZlTi1DWkE3OHVzaGY1YWZNSU1UUUMxbmV3eC1OZV9aT3JRSnFXeWIycUQzTDV0YlRFSXZB?oc=5",
+    "source": "WDEL",
+    "title": "Crash on west edge of City of New Castle leaves one person dead - WDEL",
+    "summary": "Crash on west edge of City of New Castle leaves one person dead WDEL",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (dead)",
+      "source age: 1.0 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "53f92bdb127b8dae3629",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "legal",
+    "source_date": "Fri, 20 Nov 2026 16:28:18 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHROSVdUWGJBNHlLSGxLcGlJeTB4YTY4V1p5RmJGcVhHTDVxd2Z2aXNnUVNCQlQ1Q3BFU0NVczM2VUxDTjFzWEczdllTNXN5aWVxMU9IdF9vY1dPNEl2eFZ5eDgzb2NKYmd0VUdsNllWMmpfMllha3lVTERiak11bWF4cW9jZ0NobGlCRDhReXR5bkVZQ0JjUU9td0dXZkxPcVA2Zg?oc=5",
+    "source": "YouKnowIGotSoul.com",
+    "title": "Sentury Teams Up With Jagged Edge on Emotionally Charged New Single “Enough” - YouKnowIGotSoul.com",
+    "summary": "Sentury Teams Up With Jagged Edge on Emotionally Charged New Single “Enough” YouKnowIGotSoul.com",
+    "evidence": [
+      "matched entity: Edge",
+      "event: legal (charged)",
+      "source age: 0.2 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "c3df120ac1c1649ce475",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 20 Nov 2026 18:10:00 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTEFFaUZoMkVYTXhxZVdXWWl2U2xYS3hwelF4OF9GZVNscGhpaXY5ZlBwaVFiMWMzVThaQjkyUnB2WHNnaVFXVllqUS12XzdmcWwxajNTZ2FLeVU5NUJEQUtpcE5rRVJ0UlZ4bmNSVHJDV1VNVmVuV3R2MUpzTG9xangwdzEtZEVIVlZqSjhIVEZTZnVSYUdQdVg5cGQ3ZFhFb29qWDN6TDdJbkM2Q2gwVzhnMXk1aGozbmhZaTZ0SV9DVm5sOHRMNzBJQXZUMFFVVGZCb0tld3gyRlE4LW4tOXVwb3M1cW1UYldfdGhB?oc=5",
+    "source": "EIN Presswire",
+    "title": "WATER’S EDGE: ERIC ROBERTS, MICHAEL PARÉ, BILL OBERST JR. AND ERIK FELLOWS STAR IN A DEADLY REUNION, STREAMING DEC. 4 - EIN Presswire",
+    "summary": "WATER’S EDGE: ERIC ROBERTS, MICHAEL PARÉ, BILL OBERST JR. AND ERIK FELLOWS STAR IN A DEADLY REUNION, STREAMING DEC. 4 EIN Presswire",
+    "evidence": [
+      "matched entity: Edge",
+      "event: death (dead)",
+      "source age: 0.2 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "9a8af838a34b1f5adaea",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 20 Nov 2026 18:58:21 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmdRb1pYejN1UldLTGc1alVTOTdybklhU3loNW05NU1nOVdRbmVRM1hRVlRZTkQ4MUFCN2ZFdHVSVEpGdFh5UmQ1QjVoUmJmRlpBeUVBWkk1cXlOSldxbTYxdkhpR2RFdFBSVV96OG9aeF9TY2xxcFBqVGFPZU9xTQ?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "James Bruce \"Jim\" Sproul Obituary (2026) - Cranberry Township, PA - Devlin Funeral Home - Cranberry Township - Legacy | Obituary",
+    "summary": "James Bruce \"Jim\" Sproul Obituary (2026) - Cranberry Township, PA - Devlin Funeral Home - Cranberry Township Legacy | Obituary",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 0.1 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "0bf80b35f674bc3a61b7",
+    "entity_id": "karen_harris",
+    "entity": "Karen Harris",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "karen_harris",
+        "name": "Karen Harris",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Rite of Passage",
+          "The Cross of St. Antoine",
+          "Timeless"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Rite of Passage",
+      "The Cross of St. Antoine",
+      "Timeless"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 14 Feb 2012 08:00:00 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmNFdWptRnVXMG9PZUk1WjRvOUVnem8tSzFfbTU2TzZsSjVhdzFCM0ZySFRvejVoSGFGcmVDdVU4UGs0d3Q4VHZOQXl4WGFvZzZlTlc3SUpLX2dNN0t1cFhUU2pzODQzLV9KWkQxVFE0eU5OTnZBb0l0dm5TTnBzNllRZV9LSWVzbXYwYm0wc3hQN0V2RzlmWTNzbzRCVGRx?oc=5",
+    "source": "PennLive.com",
+    "title": "Karen Harris-Washington Obituary (2012) - Harrisburg, PA - PennLive.com",
+    "summary": "Karen Harris-Washington Obituary (2012) - Harrisburg, PA PennLive.com",
+    "evidence": [
+      "matched entity: Karen Harris",
+      "event: death (obituary)",
+      "source age: 5393.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "8bd832a1594b67560464",
+    "entity_id": "larry_ferguson",
+    "entity": "Larry Ferguson",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "larry_ferguson",
+        "name": "Larry Ferguson",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 16 Oct 2017 07:00:00 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazJ1N3kxQTY2OEQ4WE5hZ2FaVkJwMXdLMTVMRmZ2c1NDd0JrTUdxOGxzTy1nYVdTSFQzRnp5VVh3TlNCYWZHT1pPNWNUWjdwZndFOVpLTXcyNUg5ZTdOR1RmQ0RodF9hMHd4MlVHQ0I4V0RYYzlid1BJQ2dXREJma1RJTW11NGFLVmhUWDZURlJfamIxMHQ2dS1QMzlyYTg3Q1RZc0oyNXU?oc=5",
+    "source": "Waikato Times",
+    "title": "Larry FERGUSON Obituary (2017) - Waikato Times",
+    "summary": "Larry FERGUSON Obituary (2017) Waikato Times",
+    "evidence": [
+      "matched entity: Larry Ferguson",
+      "event: death (obituary)",
+      "source age: 3322.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "55f4b67e0fbf94b627e3",
+    "entity_id": "richard_martin",
+    "entity": "Richard Martin",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "richard_martin",
+        "name": "Richard Martin",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Armageddon",
+          "Black Tower",
+          "Diplomatic Immunity",
+          "Duende",
+          "Justice",
+          "The Stone of Scone",
+          "The Valkyrie",
+          "To Be",
+          "Two of Hearts"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Armageddon",
+      "Black Tower",
+      "Diplomatic Immunity",
+      "Duende",
+      "Justice",
+      "The Stone of Scone",
+      "The Valkyrie",
+      "To Be",
+      "Two of Hearts"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 19 Jun 2026 07:00:00 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGRVF1amNxeDVSSlBGVHJNZFV5emVlb0lMTnp5dVZ1NHllME5oUWxEbVhNZHR0WXFIeWpqZHZpeWt5TUhJdFVQY25URUtXUjluejdjb09XZ0k?oc=5",
+    "source": "Butherus, Maser & Love Funeral Home",
+    "title": "Richard Martin Noel Obituary Jun 19, 2026 - Butherus, Maser & Love Funeral Home",
+    "summary": "Richard Martin Noel Obituary Jun 19, 2026 Butherus, Maser & Love Funeral Home",
+    "evidence": [
+      "matched entity: Richard Martin",
+      "event: death (obituary)",
+      "source age: 154.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "3a184839f157f37964a1",
+    "entity_id": "richard_martin",
+    "entity": "Richard Martin",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "richard_martin",
+        "name": "Richard Martin",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Armageddon",
+          "Black Tower",
+          "Diplomatic Immunity",
+          "Duende",
+          "Justice",
+          "The Stone of Scone",
+          "The Valkyrie",
+          "To Be",
+          "Two of Hearts"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Armageddon",
+      "Black Tower",
+      "Diplomatic Immunity",
+      "Duende",
+      "Justice",
+      "The Stone of Scone",
+      "The Valkyrie",
+      "To Be",
+      "Two of Hearts"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 06 Oct 2026 07:00:00 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YUjJTX0N5VXdFVUNNRDlyMklmcUtpbUIzODNIcVI1elc0ckhRTkhQZ1llZDRxZHhLUHRJQm8tX0RNelNOYUNCOUgyTDktRU82XzU5NS1hZGJvaEZzUFhJM3ZhZk5nR2dkNktGTG5tZ0d5c18zV09xXzV4TmhtUQ?oc=5",
+    "source": "Tribute Archive",
+    "title": "Richard Martin Monihan Obituary | Boakes Funeral Home Inc | Mays Landing, NJ - Tribute Archive",
+    "summary": "Richard Martin Monihan Obituary | Boakes Funeral Home Inc | Mays Landing, NJ Tribute Archive",
+    "evidence": [
+      "matched entity: Richard Martin",
+      "event: death (obituary)",
+      "source age: 45.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "922179143b293b93b346",
+    "entity_id": "richard_martin",
+    "entity": "Richard Martin",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "richard_martin",
+        "name": "Richard Martin",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Armageddon",
+          "Black Tower",
+          "Diplomatic Immunity",
+          "Duende",
+          "Justice",
+          "The Stone of Scone",
+          "The Valkyrie",
+          "To Be",
+          "Two of Hearts"
+        ],
+        "score": 58,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Armageddon",
+      "Black Tower",
+      "Diplomatic Immunity",
+      "Duende",
+      "Justice",
+      "The Stone of Scone",
+      "The Valkyrie",
+      "To Be",
+      "Two of Hearts"
+    ],
+    "event_type": "interview",
+    "source_date": "Fri, 30 Oct 2026 06:45:38 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc0xTdkhma1dRbHI1UWhRMm1Mdk9QV3U3eW9XcjFfTWU0YnpkUi1iT0lTT0lrbU5QRm1uaVdOUjZzNFIwWUs0NlVFUUNKdFBOVk9icG1PV2d2R3BlNUVRNW9VYkV6ZWJla0NUbjV3U1BFTXNhTXJVTWdjdTRSVHpIeHhTNGh6S2tJLUIwZXVTeWw2RDAyUWFXVXFaODY0WFh4VnpLRDlQQm85d1ZEdXl0TzRsTFZZVW1TcTV3dEM2cw?oc=5",
+    "source": "Ground Engineering",
+    "title": "Q&A: Richard Martin, managing director at Churngold Construction Ltd - Ground Engineering",
+    "summary": "Q&A: Richard Martin, managing director at Churngold Construction Ltd Ground Engineering",
+    "evidence": [
+      "matched entity: Richard Martin",
+      "context: director",
+      "event: interview (q&a)",
+      "source age: 21.6 days"
+    ],
+    "score": 58,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "94ea955ed95511f907be",
+    "entity_id": "roger_daltrey",
+    "entity": "Roger Daltrey",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "roger_daltrey",
+        "name": "Roger Daltrey",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: The Series"
+    ],
+    "event_type": "health",
+    "source_date": "Thu, 19 Nov 2026 17:11:21 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSXp2eFhSR3oweWpTQVZMZFlNWFAyQ0ladm5JUi1nZXg1NWNKejRnTlNCQ1A2NVpqVEVBQjJBVTI5TUt4UnNCeHBKaUFFNmVhbE5FaHhGRFNmWW1qWVJTM0FvWkl6a09hYWNtTDV0MU52M2tmaHFDNC15MDlZa0ZLdThTZ1VaQ2Vw?oc=5",
+    "source": "Men's Health",
+    "title": "‘I Don’t Do Much’: Roger Daltrey Is Still Performing at 82 – Here's His Twice-a-Week Gym Routine - Men's Health",
+    "summary": "‘I Don’t Do Much’: Roger Daltrey Is Still Performing at 82 – Here's His Twice-a-Week Gym Routine Men's Health",
+    "evidence": [
+      "matched entity: Roger Daltrey",
+      "event: health (health)",
+      "source age: 1.2 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "2555376cf0a81d53c80f",
+    "entity_id": "stewart_copeland",
+    "entity": "Stewart Copeland",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "stewart_copeland",
+        "name": "Stewart Copeland",
+        "kind": "person",
+        "roles": [
+          "composer"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 52,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "composer"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "new_project",
+    "source_date": "Fri, 20 Nov 2026 00:07:05 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa0VuMG9lX1l2ZU9mbWxVeThmaFY0N0F6VzdvTExWcmc0ZmdmbWFxdHdOV2d6U0Q1QmpNUktsMGZEdTBqb2NFSlQzMWFhM3hzanRGN3N4TE1rTTZnc1FuckgtekdJNWFqMHJ4RVNBX202ZDlVSnJJLXN4RUpDel80Vkh2MDFIWEh3dFg1bFRrallrMzctQXE5X2V2aHNDOE1CbVcwcVdtOEd6ZmRnalJ6UGV5RjNlZUdST0VOQ2pjcktGZEJ0YTRMVUY2anA5X2l5VHhCYkF0cUlDZw?oc=5",
+    "source": "Facebook",
+    "title": "Stewart Copeland has announced a 2027 tour to mark the 50th anniversary of The Police, which streaked across the rock 'n' roll landscape during the late 1970s and early 1980s with songs like \"Roxanne,\" \"Message in a Bottle,\" \"Don't Stand So Close to Me\" a - Facebook",
+    "summary": "Stewart Copeland has announced a 2027 tour to mark the 50th anniversary of The Police, which streaked across the rock 'n' roll landscape during the late 1970s and early 1980s with songs like \"Roxanne,\" \"Message in a Bottle,\" \"Don't Stand So Close to Me\" a Facebook",
+    "evidence": [
+      "matched entity: Stewart Copeland",
+      "event: new_project (announced)",
+      "source age: 0.9 days"
+    ],
+    "score": 52,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "56fb1edb8d51e48f76ce",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Mon, 16 Nov 2026 23:30:49 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZWJjWXd5SFNTT05GTE9udVZielNZV1gwNFRLSHhrNVdlS0lfTkg4UE9mYjNfNkZjUnVobWV1bUJNUGhQREQxck5mVmZnUF8tbnp1b2QxRktDeTlPOHJCeGNrbktZZWRmOG1mb3V1elRkcFZXTHVxTXpjNl9SYmd6Xzhia0xucDNqUjlMMWEzSVBNQngyRjlkTzVKRVNFZXBhejh4cld3bU1BOFZwSWNqZXRyM3lTa09pVTFHTmpFa25Tcmo3OWRZU2d6dEJVX19D?oc=5",
+    "source": "National News Desk",
+    "title": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run - National News Desk",
+    "summary": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run National News Desk",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 3.9 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "0e1d045d3b891a324b3e",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Thu, 12 Nov 2026 10:00:00 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaU1UcGY5WVdSdGFIVXd3LWI2bkJRSmRkSXg1YWpsRENfa1VvS29XdGswcmlId282cklxTzFXU2NGR0ZvR015TUNFQzdRUXl6ZkRvNTF5VnV6R281ZktpZkdid211SEVIVFZGcmQ2YVFrb2c0SzZqOTJyOVFjV3A2ZzY2VUJsSW5vUjM1Qlc5SVpFQUFWNFE?oc=5",
+    "source": "Jefferson City News Tribune",
+    "title": "Son of Virginia Madsen, Antonio Sabato Jr. gets arrested in fatal Alaska hit-and-run - Jefferson City News Tribune",
+    "summary": "Son of Virginia Madsen, Antonio Sabato Jr. gets arrested in fatal Alaska hit-and-run Jefferson City News Tribune",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 8.5 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "5d43495c7bf51e66a1fe",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 08:00:00 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb2drV2E1SFFneTNVNkFOMTNfUzNjSDBzbVlSUFNuVzhhakFJN3VyaUFqVzAtMHhybEpEdU5YYU1Sc19MbVdSTGMxMzNfZmhiVGRmQlJzY0E5QmRMZUYydjBzcHJCSlhXSGo1c2c2SWhBejZjVTVVMUg0UnRjUGJodzVlRFB4WjNONHNuWWVGaU5WYnRBdUxEdzdIUUtIRlRHOGFNeTFWWU5EM2s4TjBhdWowMmY4RlBlcEc0WEctTHhiQjJkUy10VVJmODhHUGZF?oc=5",
+    "source": "KDSM",
+    "title": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run - KDSM",
+    "summary": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run KDSM",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 9.6 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "ab7684fdedfe05e611a1",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 19:08:46 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODFmcUpZbFVBTUQxQ0xvNnJiZDJRQUM0TVFqdDZzbkZURlFyR0FSdW5HbjBsYnNaSnRrbVU2anhkRGx4Z18zM0NJcUdvMWx5al9pc0Izd3NDd3Vpb0xId1ZibTBya3NwZUd2Yks4WUFBbkhSNmo0NDNEdE1UbGJnVXE5a3c4Zkw0T3JJMl9PTWVvWlp6X2tyWEI1d2JOcnJVOHdJcmI5c205ZnZ4NUdHUDBWV2lDZjQ?oc=5",
+    "source": "KCBY",
+    "title": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run - KCBY",
+    "summary": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run KCBY",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 9.1 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "9818d5c3e2da988b9d00",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Mon, 16 Nov 2026 06:14:00 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSkRyWTVKRWpxMlVlbUQxalFQaXA5bENqcnFZbTM5VTZrdGYxM2gtSnFnNjV5MWo4bnNka2RwTWlHUDYyNjI0YzZLOHZrWnBDMk1iOUJ1MHdrLUNZLS10bXZvR1BGMXRWc2RDQmp5VkhoNVlkbXNXTk9palBVS3dUeEdmWktfcTFibkpzZGZrcjFINmhEUmIzcGlFdko5THI3TEd2cHI2elFsbWdFWWFHb21IWFR5SW8xZFAyQTZVM2FZMTVqcEVEQlVGa21Jck1TSkx2MWRJT0w?oc=5",
+    "source": "The Star",
+    "title": "Virginia Madsen and Antonio Sabato Jr’s son arrested in fatal Alaska hit-and-run - The Star",
+    "summary": "Virginia Madsen and Antonio Sabato Jr’s son arrested in fatal Alaska hit-and-run The Star",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 4.7 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "d9de1be4966ce6929450",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Tue, 10 Nov 2026 08:00:00 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81UDVQaHMtbDcxT0E2MDh6QnF4WmhtTWVKQkZIUXB5TEltb2lYNjBVNXFXRkU0ZnU1WXBYX0Y5RG96Mzh3eWpZWnVQRE9xSVZpbkVROC1VLXhiZy1DOVpkajViX1dtYjF5UnJBYVR0UzRYRDJqbjVZOGRVM2k?oc=5",
+    "source": "AOL.com",
+    "title": "Jack Sabàto, Son of Virginia Madsen and Antonio Sabàto, Arrested for Fatal Hit-and-Run - AOL.com",
+    "summary": "Jack Sabàto, Son of Virginia Madsen and Antonio Sabàto, Arrested for Fatal Hit-and-Run AOL.com",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 10.6 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "081d49ce387e25d03b44",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 19:04:37 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2FyQ1pGUGJjNV94eUd2M0k3aHVUdHdudlZjV2VvM0lYRWcySkZBNE5oU1EyaFVVOEFFb2dvdDc4YVBoODZXal93V0VWVE9obXhkQ0ZfMUx4eXBRbS1LblBfUEhFN1pUaU82SldkRW1ra0tBQ2tQUGh1QU05cER3RU5jUEtSQkxTX2lZUUtOTlF5T3JCamZ4c1l4VGRLa1NFcG0yY2JGV0tIXzdnSFAzdEhuZGRkUmYzbVJobDAxdVpHcjBEXzF4WmhINlF5SnljYmRXSGhQZmQ0U28?oc=5",
+    "source": "National News Desk",
+    "title": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run - National News Desk",
+    "summary": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run National News Desk",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 9.1 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "10ea1a8fbfd704ff0347",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 17:23:57 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNXBsT09NeTdsaFBuTE1LTlROX0RrWUx6Ti0wSnpuQl9ucU1KWnN4M0dpNjBmbXB0WmVhMHNQQ1JCbDFWaVIxZmQ5dmZFQ1JfU2huNnBJZmVPT1ctRDZrWFo4OFJnS0pYZzdXdHV6MjUyWF9BNDlDWS1FS1BUd2Y3R3FtN2wwX2M4VmxlNGRaYXNSMmdSd3MtUExHbVk1QWVNNnBjSUduYzh6T3ZCM0psanFOUmlMaDRKVE94ck1lQmRSVzcxQkkxZEF3RzItbUlqbFBEZHZtTVptZw?oc=5",
+    "source": "E! News",
+    "title": "Antonio Sabáto Jr., Virginia Madsen’s Son Jack Sabáto Arrested in Connection to Fatal Hit-and-Run - E! News",
+    "summary": "Antonio Sabáto Jr., Virginia Madsen’s Son Jack Sabáto Arrested in Connection to Fatal Hit-and-Run E! News",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 9.2 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "accb439eea651c5e2bdc",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 10 Nov 2026 08:00:00 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQW1kZXlTOTMxQlF3M2FTM2NnZXNDZTA1MGZDTFp6R2dqOUxrS0R2SW9yaHk3eTd3SGw5a3M5WTZBLXRmTEMyOWI3WFdZSTR6a3NwS0VTUzA5cXhQLUFpVDFMNU1fN08xdnRNR1p3RGtuWmM4WE9yMU1kTEdwZEJXa0R5RmVobG8?oc=5",
+    "source": "AOL.com",
+    "title": "Virginia Madsen's son remains in custody as he faces charges for deadly hit-and-run crash - AOL.com",
+    "summary": "Virginia Madsen's son remains in custody as he faces charges for deadly hit-and-run crash AOL.com",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: death (dead)",
+      "source age: 10.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "7586d3dc411778f76de6",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 19:08:23 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT1R1c2JVOTJDSWM0R0haRUxBZjY4ckJveG9WZk4tNUdaUFFJdzdaWVJLTTJZVHEwaGlfckhQSTJFSXdFcEtsaGdSUWpRdGlVZEdBVlAxTDNadVM5LVVPQmZTdnYwTzR6Z0VSa1pGZWFvcWt6ci0yYW1HVnRQSDQtRVR3YVlXaW94Q1UyOHZCajFINkRXRHhNMEdUQ3ZWTVAxZWpoMFlMRS1NY0s4bTJRS2wyTldiTnV2ZUhZbFNzNHJIQQ?oc=5",
+    "source": "WLOS",
+    "title": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run - WLOS",
+    "summary": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run WLOS",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 9.1 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "ec4f284f2a9593770662",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Tue, 10 Nov 2026 08:00:00 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iOU9vZmNVT3RkVG1XOGhINUUyWHJoOFhvVDNVeWJLSFhZVXZ1bHBXay1NLVBHYzBwcTF2cHZORUQwelNMZml3T3VzY0tLMlNKbmtXb0l5aGU1WXJraXREWXdGYzhVMW9KdUYtaWZ2MDZ4eUdJc0RLZ25NdnpWWXc?oc=5",
+    "source": "AOL.com",
+    "title": "Antonio Sabáto Jr. and Virginia Madsen’s Son Jack Arrested in Fatal Alaska Hit-and-Run - AOL.com",
+    "summary": "Antonio Sabáto Jr. and Virginia Madsen’s Son Jack Arrested in Fatal Alaska Hit-and-Run AOL.com",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 10.6 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "77d1423207d3c5477f7d",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 19:48:32 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYXQ2d0hQNmRYUmVZYlA4V3h0MjgyaWdLTVMtTTNxM0huWGtaNTlCQWY1a0FVQ0doMFNqNm15ZTlPRm9QSkV1TUVrTmhuQ05abFpPRHVrUDdIWXlRNXZTODRObUxjRE5EZERMblk0N0xNMnZ2ZmhvWjBQZjJWaFB1TTZmSnFNYy1icjFUTGNVczJ2ZG0zemFCM3IxblB0aTRIbmE4Y213UzRUWnNDQW5QNWJEUWZRNHhHVkY0cXFxR2g4TTJGOUdjNXU5bGc?oc=5",
+    "source": "KATU",
+    "title": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run - KATU",
+    "summary": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run KATU",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 9.1 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "f65a293afa5bfd359a67",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Thu, 12 Nov 2026 13:35:19 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOF9UeXFVbGhZR19QVnJkLS01Y1pyMmRUTWtObXE3SVhlZ2RJTkFyT3NVX2ptRmhNU1VEUk8ySkZ2ZURnWHM4MkNYcFhIUTNsVVJYRTJaVmpuNDAzdHplTGVtdXZOOVlfV3Zza05NX0pvM3ltdEVZZ2VCSlVuWDd2SlhYRjA4SVFhR1d0eHBHY3QwbjItVFMwNXBMN0xWWTdLZ0JZRDJqZElpMnpXYWF30gGvAUFVX3lxTE04X1R5cVVsaFlHX1BWcmQtLTVjWnIyZFRNa05tcTdJWGVnZElOQXJPc1Vfam1GaE1TVURSTzJKRnZlRGdYczgyQ1hwWEhRM2xVUlhFMlpWam40MDN0emVMZW11dk45WV9XdnNrTk1fSm8zeW10RVlnZUJKVW5YN3ZKWFhGMDhJUWFHV3R4cEdjdDBuMi1UUzA1cEw3TFZZN0tnQllEMmpkSWkyeldhYXc?oc=5",
+    "source": "94.5 The Buzz",
+    "title": "Virginia Madsen and Antonio Sabàto Jr.’s Son Arrested in Fatal Hit-and-Run - 94.5 The Buzz",
+    "summary": "Virginia Madsen and Antonio Sabàto Jr.’s Son Arrested in Fatal Hit-and-Run 94.5 The Buzz",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 8.4 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "8f947188d99d49fa9f73",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 19:14:52 GMT",
+    "captured": "2026-11-20T22:15:32Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWU9waGlVaWI5QzluQWw2UmRBVi1hY3ZZV29HdkluVElWczNzRVItTktXTTRXVXR6aWNXV194MVVqVk14Z0I2YWczYkJwSkpQTXZIdXBSUUZaMVF1NzJsbEg5QzVZUzdpcmxrZHBiaGJmM2tSemhiYUZmVTFZeFpKSktFYl9Bc0ZfdUc0a1R5MmlnM2MyenJ5MzhYLWF0cnRVWXdBZUlGRnA3bjhFaHczUVRPQkRxOTlaTkdZc0dBMVNqQ3BW?oc=5",
+    "source": "KRCR",
+    "title": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run - KRCR",
+    "summary": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run KRCR",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 9.1 days"
+    ],
+    "score": 56,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"

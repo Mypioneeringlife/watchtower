@@ -1,522 +1,5 @@
 [
   {
-    "id": "90b9886d44c366915f7c",
-    "entity_id": "stewart_copeland",
-    "entity": "Stewart Copeland",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "stewart_copeland",
-        "name": "Stewart Copeland",
-        "kind": "person",
-        "roles": [
-          "composer"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening"
-        ],
-        "score": 60,
-        "event_type": "appearance"
-      }
-    ],
-    "roles": [
-      "composer"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "appearance",
-    "source_date": "Sun, 19 Jul 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13am1VRTE4aUZlQmVINUJRY3NvU0ZDMGI2WFdvWmk4dURMeEN4ZGlOeEo5T3lTUFdEZ3NqVFRGM2V5QkhfNXNEQTBYYTF0UFhjb1RUVWdKMlF5QTBPdnB4N0dCLXlrRmZmdjlGUmNFY3pMNGJBLXQ4VWVR?oc=5",
-    "source": "The Zebra",
-    "title": "Stewart Copeland Returns Home to Alexandria for Rare Birchmere Appearance Tonight - The Zebra",
-    "summary": "Stewart Copeland Returns Home to Alexandria for Rare Birchmere Appearance Tonight The Zebra",
-    "evidence": [
-      "matched entity: Stewart Copeland",
-      "event: appearance (appearance)",
-      "source age: 79.6 days"
-    ],
-    "score": 60,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d6be5335d0839c18bebd",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 21 Aug 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHY2lvX0lDS0MxZWNLOTRpZmo1Ykg2ZE1DZHFBeWw1RjhPM1FLSmE3ai1GenpXUW5LYW44YWpCbTZBcGVOWG1PSjVhMHpPNTliczh6VjZUWUVJS3NWMmhaM3FOTWRoNjBjSVdlQjdhcmFhUTVuUnJ4M2FOLS0?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Terry Nelson Lee Obituary (2026) - Elmhurst, IL - Ahlgrim Funeral Home - Elmhurst - Legacy | Obituary",
-    "summary": "Terry Nelson Lee Obituary (2026) - Elmhurst, IL - Ahlgrim Funeral Home - Elmhurst Legacy | Obituary",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 46.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "45013c311548803a2c66",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 29 Nov 2020 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93NEFrSW43VDQ3REQxNzJSLVVOQUZsYlJ5SmtyR3llN2lzOXFjMVdSYWlUUk1ZNnZFQlNrNmFScmdJQ2FBZTVuVEstRVFnR0RMempURjU5akd4R0lWd2pGSXQxNDlwZw?oc=5",
-    "source": "www.eastgatefuneral.com",
-    "title": "Terry Nelson Obituary Nov 29, 2020 - www.eastgatefuneral.com",
-    "summary": "Terry Nelson Obituary Nov 29, 2020 www.eastgatefuneral.com",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 2137.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "e86bfef7afc38b86a209",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 21 Jun 2023 06:54:36 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQkttcmhvaFlKRUhYRzF2WGZLbV9IYXJqdUQzdEdUWGxVbnpPZDFjeUxCU09hVlZSZlhObWRIY25iT1Q0UE80NnBXaVJfcE83aWZwTGctU3U0QmVHUHVLQmxja3pqWkdCSmQwa05yR1g3STREaDdMeWdCSXhsNW5XZkMtN1JkZnpjVEdEOC03RlZvUnM?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Terry NELSON Obituary (1950 - 2019) - Victoria, BC - The Times Colonist - Legacy | Obituary",
-    "summary": "Terry NELSON Obituary (1950 - 2019) - Victoria, BC - The Times Colonist Legacy | Obituary",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 1203.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "f133281f3c647a1dca50",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 04 Nov 2021 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HWWJwLXpiRllkMm5KdkktNEZMQlJYUmlibG1nMEZxNkxIc1d6VDFtZXBuQ2RkZ0VONTVBd1NhUnpkSzNQUXY4aDhWOGpFLU5mTWNDaHAzZVc1dWVkb2pZank5dm4zNDk4b0lIREpZSE8?oc=5",
-    "source": "www.floralhaven.com",
-    "title": "James Terry Nelson's Obituary, Visitation & Funeral Information - www.floralhaven.com",
-    "summary": "James Terry Nelson's Obituary, Visitation & Funeral Information www.floralhaven.com",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 1797.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "051fd1444e1a19ab0659",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 24 Jun 2021 21:22:07 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVUFhVllYSlF5X1E0aUM5dzZpQ2RjUHZtSFQwMDNOczZUTU45SUJEakwyR0JBMlBnUlhyUV9uLURFMU0xUHI0aUc4aXlVTDVFSlRvZzBISlJRTkJDb2R6U044QmwtRTZFV1lHblZoLWdxcmZxT3BBakY2S3hSQnVhckNR?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Terry Nelson Langford Obituary (2021) - Ogden, UT - Leavitt's Mortuary & Aultorest Memorial Park - Legacy | Obituary",
-    "summary": "Terry Nelson Langford Obituary (2021) - Ogden, UT - Leavitt's Mortuary & Aultorest Memorial Park Legacy | Obituary",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 1930.0 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "a66352b37067af982eb3",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 29 Dec 2018 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekxyQ09nVk0zdTV0RGtRX2N0bjhDUk5Sa2dfd3B5Wl9XUEppQzRWbFJyc09BcjlEVVhiSlZQV0h5TVZXTkY0WkgwaGtOdTk4bF94M3FrQVl5QU9FTGg4Q01CZjVVeDJDc0hTcEpWUHRES0ZQUEJjS1J6TDllWlBueUhTaDc1Tkk5?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Terry Nelson Obituary (1944 - 2019) - San Francisco, CA - San Francisco Chronicle - Legacy | Obituary",
-    "summary": "Terry Nelson Obituary (1944 - 2019) - San Francisco, CA - San Francisco Chronicle Legacy | Obituary",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 2838.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "cfb3f64af2c4d2d11a1e",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 17 Apr 2022 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR1ZkcUZKMm9VWU42RTZGVHFHbUkzZm1UeE5MQm9KUUZPSTFHbEtyaG4xMHFreU1GZjFVbGZrdEhfV25KTzZCMExrUm9UX3J6Q19UM0E5RmpUa3VKRVUzazc1dkkxYVVPLTJ0dXRtM09wdU1nRnRRaFBRY2JtWGFEbEdJa3lHbm1lS1VF?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Terry Nelson Obituary (1953 - 2022) - Mc Farland, WI - Madison.com - Legacy | Obituary",
-    "summary": "Terry Nelson Obituary (1953 - 2022) - Mc Farland, WI - Madison.com Legacy | Obituary",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 1633.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "7a463448b17ec7727007",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 56,
-        "event_type": "legal"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "legal",
-    "source_date": "Wed, 13 Apr 2022 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMnlJQk5VRnZJZ2R6SUhwUllmY3RIVl9PMDR2cnU5SzFERUZmOS13dzVYNHowekFld2NHRE42V29aQlVsSVpveVN4ZGpxdzdYbm9NNE1IUl9Oc0MxYTN4dWdHWkw0bm43NTVGSF9wb2VmcEIyQy04YVVpbTVVWVVHamhrVDhRaWR2N0hNSmZwaHYxVWNzUzdXZ2V1dGltLXZ2RHhuSkhrNDE4dw?oc=5",
-    "source": "Newswire",
-    "title": "Terry Nelson's New Book 'Black Lives Don't Matter in America's Criminal Justice System' Brings Focus to the Urgent Issues in America's Current Criminal Justice System - Newswire",
-    "summary": "Terry Nelson's New Book 'Black Lives Don't Matter in America's Criminal Justice System' Brings Focus to the Urgent Issues in America's Current Criminal Justice System Newswire",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: legal (sues)",
-      "source age: 1637.6 days"
-    ],
-    "score": 56,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "1a2c25fb7c25a6c41b72",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 05 Feb 2017 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdVFfZUFaMU5SbTdxd1lxV3JVNFVFVTY5ZW1raU03QjF3am5ybGVzR2pscGR2UkpKNzl1Vkx0RTc4Q19Ic3hrYktaVU1leUZPV1RDdXhvTmgxWm1NUnI5UHhVRm9sRExCWGlTUl9OeXBPbFpEQW94S3VMd2kyYkNqTFNxdTc3NGIxNzd6WTZjVUxXM0MtaGVBQi1idTI?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Terry Nelson Obituary (1960 - 2017) - Gillett, WI - Green Bay Press-Gazette - Legacy | Obituary",
-    "summary": "Terry Nelson Obituary (1960 - 2017) - Gillett, WI - Green Bay Press-Gazette Legacy | Obituary",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 3530.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "1536e7d03a6945a0df32",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 09 Sep 2012 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZTRKME5xbWFzajJ5SERkT2dtZ1UxYlNIT3NLalR1LWdyYnhZM2t4NDNBZEdaMWQwVjllcmRTdGlNMENReU5VS2VJY0pOVUFjdkpHeUR4dFk0YWVwWFZoTV9rRDJ6ZUdLeFRuUWs1T0RVSC1Ed2FXYk5wNHJOR0kwSGJtZGRFS0M2N0JF?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Terry Nelson Obituary (2012) - Milwaukee, WI - Milwaukee Journal Sentinel - Legacy | Obituary",
-    "summary": "Terry Nelson Obituary (2012) - Milwaukee, WI - Milwaukee Journal Sentinel Legacy | Obituary",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 5140.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "dbc05075a110a0ba8ac1",
     "entity_id": "terry_nelson",
     "entity": "Terry Nelson",
@@ -51932,5 +51415,538 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "4fa152b3c8e1f6e3d049",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sat, 21 Nov 2026 19:40:15 GMT",
+    "captured": "2026-11-21T20:55:22Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObnkxam0tbHpqQ2RRRU5OdlYxbnRKZjZfNUk0NzhwQWJMejJITFBlNl9zLXRrZ2RMeW1iS3VMVHNkaE9xVlJmMkNNbk9iS2lWZnZpQW9leUdGRTZIS3NDdWo5allxUjRjc1pqb2N2SU05amJBS3M3VklMMGtrNTFwbzJqaGFoTUtScjVrRWRRanhvZXZFY1Rzd1V2cUdwbXNsOXJYZnR1MjJjamY4dHhmRFY3b3duUQ?oc=5",
+    "source": "Austin American-Statesman",
+    "title": "Colin Simmons injury update: Texas star edge rusher won't play vs. Arkansas - Austin American-Statesman",
+    "summary": "Colin Simmons injury update: Texas star edge rusher won't play vs. Arkansas Austin American-Statesman",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.1 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "765fe1206ba955a9b78d",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "legal",
+    "source_date": "Sat, 21 Nov 2026 18:00:00 GMT",
+    "captured": "2026-11-21T20:55:22Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORkFUYWFCcGdIWHpqY0RmLUUzWEg5NnctNkhuaXUtNkRRYzBtWE1HVUhIRU5SUVNJdnZwV2NpX29JX2x3YmxGRl9pTGVmbHRMaUhrS2MyckF6aUxnbHJQbFk0ZlhCT3NWR0Nmb29XbDdDY3BhR2ExZGhieEw5a2VKTEVtdGQ4ZzQ5cG9iMVdUemlSdVNRVjQyUVowa19MX29nbkROYnJ5NmJ2ZDA?oc=5",
+    "source": "Blazer's Edge",
+    "title": "Branden Carlson Might Become Portland’s Frontcourt Fallback - Blazer's Edge",
+    "summary": "Branden Carlson Might Become Portland’s Frontcourt Fallback Blazer's Edge",
+    "evidence": [
+      "matched entity: Edge",
+      "event: legal (court)",
+      "source age: 0.1 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "855b5df6056bbc44ce66",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Fri, 20 Nov 2026 22:23:28 GMT",
+    "captured": "2026-11-21T20:55:22Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa01RY1JzeTdpOVpMTlJSMVdOOWJ4aTVjajFmZGEzZTVsMTBPckRjc0g2ODBkQ2s3aTRwSm9nM1pybmZiblRBVUhBVk5Xb1hMQ2M5MTktM2JOQXBpcjNRWmN5b05hZlAtZ2J0OG5hNTVxU291bndfZkRZOGw0eE1xUXhielpnaVFrdUE?oc=5",
+    "source": "DNVR",
+    "title": "Broncos-Raiders Preview: Bo Nix’s streak, Denver’s injury edge, why Riley Moss got paid - DNVR",
+    "summary": "Broncos-Raiders Preview: Bo Nix’s streak, Denver’s injury edge, why Riley Moss got paid DNVR",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.9 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "12c5100f99ff1fff0800",
+    "entity_id": "elizabeth_baxter",
+    "entity": "Elizabeth Baxter",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "elizabeth_baxter",
+        "name": "Elizabeth Baxter",
+        "kind": "person",
+        "roles": [
+          "screenwriter"
+        ],
+        "franchise_titles": [
+          "Bless the Child",
+          "Eye For An Eye",
+          "Legacy",
+          "Reasonable Doubt",
+          "Reunion",
+          "Saving Grace"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "screenwriter"
+    ],
+    "franchise_titles": [
+      "Bless the Child",
+      "Eye For An Eye",
+      "Legacy",
+      "Reasonable Doubt",
+      "Reunion",
+      "Saving Grace"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 18 Mar 2022 05:22:37 GMT",
+    "captured": "2026-11-21T20:55:22Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QUhwMjk0aXBxeUZnU3ZaTjFwSEhhRUs0OFJFYmRFR3VWRWdueGZqZUhkX01pOUNLT2ZKOE9VTHBxSnFKSW1QeFktRzdjdnVpWGFSV3g5N1NsY1kzNWlvV3ZvVEcyWlpoNDFQUmd5TWxjdmZGLUdHVE12UXJObHM?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Rita Elizabeth Baxter Obituary (2022) - Roanoke Rapids, NC - Hockaday Funeral & Cremation Service - Legacy | Obituary",
+    "summary": "Rita Elizabeth Baxter Obituary (2022) - Roanoke Rapids, NC - Hockaday Funeral & Cremation Service Legacy | Obituary",
+    "evidence": [
+      "matched entity: Elizabeth Baxter",
+      "event: death (obituary)",
+      "source age: 1709.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "febd7bdd3ede615e0813",
+    "entity_id": "harvey_weinstein",
+    "entity": "Harvey Weinstein",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "harvey_weinstein",
+        "name": "Harvey Weinstein",
+        "kind": "person",
+        "roles": [
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "producer"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 24 Aug 2022 07:00:00 GMT",
+    "captured": "2026-11-21T20:55:22Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZRTB0LWlVSGxQWFFTOEpBeWdDMkx0ZkJ1TVlsMUkwdVlXc0Q0cjZLMEZhZWNfdmZob3ZIT1dlS3FMcXJZTXh3bjlsQU9PVVdleUxjRmNIemRQZDlOS0p0bzFpMHZTUUNBWXNSRXRxNVBXVGxxbEVpbTdiYkpnUQ?oc=5",
+    "source": "Global News",
+    "title": "Harvey Weinstein granted appeal of 2020 rape conviction by New York court - Global News",
+    "summary": "Harvey Weinstein granted appeal of 2020 rape conviction by New York court Global News",
+    "evidence": [
+      "matched entity: Harvey Weinstein",
+      "event: legal (court)",
+      "source age: 1550.6 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "3278ebd48048e4bdb3b0",
+    "entity_id": "harvey_weinstein",
+    "entity": "Harvey Weinstein",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "harvey_weinstein",
+        "name": "Harvey Weinstein",
+        "kind": "person",
+        "roles": [
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "producer"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sat, 27 Apr 2024 07:00:00 GMT",
+    "captured": "2026-11-21T20:55:22Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBESEl2SXY1STVTTkFwS0NiY2V0Vy0tNWFUeEZkdHpQZ1ZDbFE0d2xYVkpOSENTOTdlRmphNWJ6VFpsRFFBQ3RCa0ZNdzduSHBlRGplY2pySi1UT1ZWamVXZVlFMHNtSnVhWnM0WE84WE42elo5?oc=5",
+    "source": "Global News",
+    "title": "Harvey Weinstein hospitalized after return to jail following rape conviction overturn - Global News",
+    "summary": "Harvey Weinstein hospitalized after return to jail following rape conviction overturn Global News",
+    "evidence": [
+      "matched entity: Harvey Weinstein",
+      "event: health (hospital)",
+      "source age: 938.6 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "010ba950b446863197d7",
+    "entity_id": "robin_davis",
+    "entity": "Robin Davis",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "robin_davis",
+        "name": "Robin Davis",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "For Tomorrow We Die",
+          "The Lady and the Tiger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "For Tomorrow We Die",
+      "The Lady and the Tiger"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 19 May 2021 07:00:00 GMT",
+    "captured": "2026-11-21T20:55:23Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14dGExa2Vjem9qZE5QRGtsTTVKN19qYU9hNG1XT2QtZVBZa0REdTJ6RHVfVnhIQWNyT3psRUZNMDVGT1Y4a25aNVAxNzhkLWhtU1VscEJQa0NuSVBUYkh5cC0yWnl5YUZPQ1p5UEdtcGZJWHdJd1Y5OGljQVFfTWM?oc=5",
+    "source": "Dignity Memorial",
+    "title": "Robin Davis Obituary - Holland, MI - Dignity Memorial",
+    "summary": "Robin Davis Obituary - Holland, MI Dignity Memorial",
+    "evidence": [
+      "matched entity: Robin Davis",
+      "event: death (obituary)",
+      "source age: 2012.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "9c98291778d4edcda3de",
+    "entity_id": "sean_connery",
+    "entity": "Sean Connery",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "sean_connery",
+        "name": "Sean Connery",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Sat, 21 Nov 2026 18:42:02 GMT",
+    "captured": "2026-11-21T20:55:23Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHlRWl9Dc3RkY3FNb3FfSW0tLWdxUnozZTU0TTJkTFg1Mnk1QkhKZk1PVzJkLXN2SGd0ME1FVmo2eHAtTktWMGt5ZElQNFA1SzUyb3BVbUJneS1NUDFYS1dzS3lXb1k3bEpEQkd4blFISEJ2TG1jd1o3akpncDRZQzhrV2tvQkZqaTdTUHlDT0ZRTHA0Mk10Rl8zNG5YUGZZemN4RVF6MXhWek5nQnM4QQ?oc=5",
+    "source": "Foro3D",
+    "title": "Sean Connery and the lawsuit that changed franchise contracts - Foro3D",
+    "summary": "Sean Connery and the lawsuit that changed franchise contracts Foro3D",
+    "evidence": [
+      "matched entity: Sean Connery",
+      "event: legal (lawsuit)",
+      "source age: 0.1 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "549f462acb3cc0418111",
+    "entity_id": "sean_connery",
+    "entity": "Sean Connery",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "sean_connery",
+        "name": "Sean Connery",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II: The Quickening"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "death",
+    "source_date": "Sat, 31 Oct 2026 07:00:00 GMT",
+    "captured": "2026-11-21T20:55:23Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVTZWbGI5WElwbGx1dTlBUFRFWnpCQm1udXp2T2tMcHQ5VFVEaTR0RzVQSjhGa0FrcFNXU245RWdYdXJQRld5ZkJiYW9wQkhvVnh6TUhWajlYNk5nMVYwR0NEWW1qNXpjdWN6YW9aaFJ1enNzUHZfb0dMMDVKeEpkaFIyY1BKdFhCYWfSAY8BQVVfeXFMT1JxMVVMOVpSZmhFT2hnZGpoUm1sb0xWa1JNcWxWZEFzbW9hMnVjNE5Nc0hwbzNFbGlGTUdlcTFISlJiOVZNOVNzVUVSX2xJMnQtX2FaZkpuR0hid3kwQ3RGVV9BTEt5YjVndDBSUTRnWUhxMzB5bmZlQmpXM05OUXBmYl9UWElUeGU3S3RQSm8?oc=5",
+    "source": "Mirror",
+    "title": "Sean Connery 'not able to express himself' in final days before sad death - Mirror",
+    "summary": "Sean Connery 'not able to express himself' in final days before sad death Mirror",
+    "evidence": [
+      "matched entity: Sean Connery",
+      "event: death (death)",
+      "source age: 21.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "41e2af9ea7a33b123116",
+    "entity_id": "steve_arnold",
+    "entity": "Steve Arnold",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "steve_arnold",
+        "name": "Steve Arnold",
+        "kind": "person",
+        "roles": [
+          "director of photography"
+        ],
+        "franchise_titles": [
+          "Highlander: The Source"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director of photography"
+    ],
+    "franchise_titles": [
+      "Highlander: The Source"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 17 Aug 2016 07:00:00 GMT",
+    "captured": "2026-11-21T20:55:23Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdnFjbjdOa2NQalVzQTl0R1NWV3BaaW1DQ182RFEzNjQtS3dubk93VzlvV0FselpKX2ROUUtkR3lNMTRPcElua3VFUmUyVkFoNXJkelpkeFR0d24yYWN6VWxaS015dVFVTzRTc1Y1U0t2TDByQWR3OTFSNlowVFRrcW83OXB2YjkzX0QyeC1FZw?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Steve Arnold Obituary (1962 - 2016) - Modesto, CA - Modesto Bee - Legacy | Obituary",
+    "summary": "Steve Arnold Obituary (1962 - 2016) - Modesto, CA - Modesto Bee Legacy | Obituary",
+    "evidence": [
+      "matched entity: Steve Arnold",
+      "event: death (obituary)",
+      "source age: 3748.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "0b9c6370dddf7a99a5ea",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 10 Nov 2026 08:00:00 GMT",
+    "captured": "2026-11-21T20:55:23Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXg0SG54OUFRME5ObVBvVTFET0x6SUxXOXoyQUlpYm5NM1BRd0hLMS1aM0k5a0FmNTdyT24zVXIzc2Z1YTVjTkxoRzU1cW1JN0dubVFRSUw2Qmt1NHNpby1SMTNMMnVSU29UaTExLV9oZnJvaXY4ejA1UUdKNUNUWVRkN3NiZmZyZHdEYkpaaU9vR09pUGhUcXJlTG9NVFlUNDNsa014dTBremNZYUFDU1Fqcw?oc=5",
+    "source": "Daily Mail",
+    "title": "Virginia Madsen and Antonio Sabato Jr's son arrested in connection with deadly hit-and-run crash in Alaska - Daily Mail",
+    "summary": "Virginia Madsen and Antonio Sabato Jr's son arrested in connection with deadly hit-and-run crash in Alaska Daily Mail",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: death (dead)",
+      "source age: 11.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

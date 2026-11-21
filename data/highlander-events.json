@@ -1,193 +1,5 @@
 [
   {
-    "id": "5eb1fc0a6514e042da48",
-    "entity_id": "steve_arnold",
-    "entity": "Steve Arnold",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "steve_arnold",
-        "name": "Steve Arnold",
-        "kind": "person",
-        "roles": [
-          "director of photography"
-        ],
-        "franchise_titles": [
-          "Highlander: The Source"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director of photography"
-    ],
-    "franchise_titles": [
-      "Highlander: The Source"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 08 Jun 2026 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MMmtCekJnd1FhMThwTUhfb052UVNzQmRZUHBlRkpCbl9tMzNtVXM4Y3N0RVhRNzVoM254MjE4cWMzTVo5TFhvUGZnb3hsWjNTOXVGY2hrVEhDcVd5R2xlSEVOOTBEOEpEb0FSSk5yOFBpcTV1SDBtNlJUeTVHSG8?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Steve Arnold Adams Obituary (2026) - Whitesburg, KY - Letcher Funeral Home, Inc. - Whitesburg - Legacy | Obituary",
-    "summary": "Steve Arnold Adams Obituary (2026) - Whitesburg, KY - Letcher Funeral Home, Inc. - Whitesburg Legacy | Obituary",
-    "evidence": [
-      "matched entity: Steve Arnold",
-      "event: death (obituary)",
-      "source age: 120.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "9471347f988d2d3518ac",
-    "entity_id": "steve_arnold",
-    "entity": "Steve Arnold",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "steve_arnold",
-        "name": "Steve Arnold",
-        "kind": "person",
-        "roles": [
-          "director of photography"
-        ],
-        "franchise_titles": [
-          "Highlander: The Source"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director of photography"
-    ],
-    "franchise_titles": [
-      "Highlander: The Source"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 16 Jan 2024 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNnZGVU5xTWQ5RWlLYWxKOVVSakRDZVViX3FNamdDOG5CQVJ5cGg2WFJWT1JuSDV2b3k4QkZjZUxkdVVwc2VGRHRwYTU1V2hhUnl6SEVpbW1Zbnlqb1R5MHJqOHZ0SjJPOWxVLTMtRjg5VUtRUGplRGlkWk4zRWdqTw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Steve Arnold Murphy Obituary (2024) - Kings Mountain, NC - Harris Funeral Home - Kings Mountain - Legacy | Obituary",
-    "summary": "Steve Arnold Murphy Obituary (2024) - Kings Mountain, NC - Harris Funeral Home - Kings Mountain Legacy | Obituary",
-    "evidence": [
-      "matched entity: Steve Arnold",
-      "event: death (obituary)",
-      "source age: 994.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "88d1b4d1bf63d8d39e31",
-    "entity_id": "steve_arnold",
-    "entity": "Steve Arnold",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "steve_arnold",
-        "name": "Steve Arnold",
-        "kind": "person",
-        "roles": [
-          "director of photography"
-        ],
-        "franchise_titles": [
-          "Highlander: The Source"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director of photography"
-    ],
-    "franchise_titles": [
-      "Highlander: The Source"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 28 Apr 2023 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjI3VXozUk00cS0xUFE4aGRzeE81Vnp6U1Q4VDRIdGJhZFNRVHI3YW16dEFlVno4SWUxQWQ2bmxzbnBScFRsMjRMNjIxT0NSOXpTa1R5c0pOZ082eHRtaDdxbkE1TFM1LXVFdHdKZHFSSmgxUGFCNUJFcW0wWk5fQg?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Steve Arnold Obituary (2023) - High Point, NC - Wright Funerals-Cremations - High Point - Legacy | Obituary",
-    "summary": "Steve Arnold Obituary (2023) - High Point, NC - Wright Funerals-Cremations - High Point Legacy | Obituary",
-    "evidence": [
-      "matched entity: Steve Arnold",
-      "event: death (obituary)",
-      "source age: 1257.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "635eda1c11221c9e391b",
-    "entity_id": "steve_arnold",
-    "entity": "Steve Arnold",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "steve_arnold",
-        "name": "Steve Arnold",
-        "kind": "person",
-        "roles": [
-          "director of photography"
-        ],
-        "franchise_titles": [
-          "Highlander: The Source"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director of photography"
-    ],
-    "franchise_titles": [
-      "Highlander: The Source"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 29 Jan 2010 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ01vMVBORE9PUmJYWjVYN0pNM0UwNTNrVVctaDlpVzk2ZHhVUXFLOGs0bXowWjVSWDg1NjVjbW00NEhaUUNRR0pCSkR3Nk9CVk9SMzh4ejJnSGRBaEk3X256Yk4wWkMxODdQQ2k2bTRBTDZOOUM0ZkFHQ3lTRzlwRg?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Steve Arnold Obituary (2010) - Trinity, AL - Legacy | Obituary",
-    "summary": "Steve Arnold Obituary (2010) - Trinity, AL Legacy | Obituary",
-    "evidence": [
-      "matched entity: Steve Arnold",
-      "event: death (obituary)",
-      "source age: 6094.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "90b9886d44c366915f7c",
     "entity_id": "stewart_copeland",
     "entity": "Stewart Copeland",
@@ -51927,5 +51739,198 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "b9f5e87185e04c4746c1",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 74,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 20 Nov 2026 04:54:21 GMT",
+    "captured": "2026-11-21T20:38:30Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjNNNDZENzJaUUdQY1FSOHBKVWdWdy16U00zWENGdjRjbzgtZ2UzMnZfaU5ZRklMSTV1QllwMWdLLVlEYjNpOHZSSmFlcExILWkxeGZIZWVhNnktMkw0VGtBTlk3TGdGVERBWDRXNi1Mc0thWms2djFVUWRpOTQxdHNMSzMwa1RFbnhHMDRSWXl2c0ZHNkxUYVg5MzdxNUFGR0E?oc=5",
+    "source": "TVGuide.co.uk",
+    "title": "Highlander II: The Quickening (1991) - TVGuide.co.uk",
+    "summary": "Highlander II: The Quickening (1991) TVGuide.co.uk",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Quickening",
+      "source age: 1.7 days"
+    ],
+    "score": 74,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "5cd4ff21a4236b3aee2f",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 58,
+        "event_type": "award"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "award",
+    "source_date": "Sat, 21 Nov 2026 15:47:08 GMT",
+    "captured": "2026-11-21T20:38:30Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01MHg2VG9XbExoanpMbFE3VU5tZG1TVU9sNlU2SXdYbVB0UHFRQ0dob1h1WHcxSzcyNUpCeURpMlNMbW1qR0huRERLRkdUNkV6eVFhUGJ0WVZ6eG1NOG1aUzR5NDFzNWplZHV5YjdwSVRHcmh4?oc=5",
+    "source": "Demokratis.co.id",
+    "title": "Robert Pattinson Wins Bond Role as Henry Cavill Joins Netflix Spy Film - Demokratis.co.id",
+    "summary": "Robert Pattinson Wins Bond Role as Henry Cavill Joins Netflix Spy Film Demokratis.co.id",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: award (wins)",
+      "source age: 0.2 days"
+    ],
+    "score": 58,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "ab211c5aa1519abf96c0",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Fri, 11 Sep 2026 07:00:00 GMT",
+    "captured": "2026-11-21T20:38:30Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdU9WTHIxZnRKYm5EdGxGVnpCemoxOWFPbVU2WjV6NDUya1BlRFVRQUtSQnpsWHo5Y1BTQjVfMzZoeGsyQldtTWhSa0JjWmRQd09Xb0xQaGxsS3JFNkxQVmwxTWVFR2p2X1N3bDNsbDl0MGNOSnhJbWZNTnhINF9KZ3A4dDFuUnUxcmlZT1Rjc3J6ak11ZV8yMGlmOA?oc=5",
+    "source": "Head Topics",
+    "title": "Russell Crowe News Highlander Reboot Cast and Streaming Success - Head Topics",
+    "summary": "Russell Crowe News Highlander Reboot Cast and Streaming Success Head Topics",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 71.6 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "db26a0ba23b3f55e8630",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 16 Apr 2026 07:00:00 GMT",
+    "captured": "2026-11-21T20:38:30Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmpHc3ozUG5CajJOSmE4MEhzR2tONFNPeDdvNi00MllVbUxhNXpHMXBuMVE1SFZ4RHN1a2p5YlZyR3gtbmhzdHBSREUyWWNHUzZhWDAzbUIxRi1NODFvMndIRk5lTHRmMENQc2gteEYyc3ZtcnFYY3lqck5oLUhnSE9jQWF1dk1IX1NMVWhfVExzejJ5R3MxZTZmZWo4Zw?oc=5",
+    "source": "ScreenRant",
+    "title": "Highlander Reboot: Cavill's Immortal MacLeod Battles In New Footage - ScreenRant",
+    "summary": "Highlander Reboot: Cavill's Immortal MacLeod Battles In New Footage ScreenRant",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "context: Immortal, reboot",
+      "event: highlander_production (reboot)",
+      "source age: 219.6 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

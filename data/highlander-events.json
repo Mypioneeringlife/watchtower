@@ -1,240 +1,5 @@
 [
   {
-    "id": "dbc05075a110a0ba8ac1",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 08 Mar 2015 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUy1MamtMZEowa1FqOWVfcDRBS2xoaU1mT2JqMVdvMDFRUmxUOFdHT2E1Wl9FZUh5R09rVWhHWWUwZkpER3lSRl9PeEFvYml3T01UR2I4SE51ZWVlNmhqN3YtVjB1d1F4QjdsbUVEYWlndDVxN0lDYXVpeGtLQmFveEw2WHVRa3JWdVlPTnlyaEM?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Terry Nelson Obituary (2015) - Temperance, MI - The Blade - Legacy | Obituary",
-    "summary": "Terry Nelson Obituary (2015) - Temperance, MI - The Blade Legacy | Obituary",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 4230.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "55c4798efad1c97a387d",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 14 Jul 2009 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYkF6N19iYm8xVDJ1YzZURnpObmVIcUZqT3FiODlLRWI3V2RvQlpkRkRyVWNCSUg1dng0b0tWX0pkbTdEbG9yaFBWeUJEbHhqc3RldmxpaHFlVnQ1Zy1qd0lKSTg5VjVLX2JJeHR6MGNuRThqdmpURm9qMnRtWlBNMHR2aFhrUQ?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Terry Nelson Obituary (1947 - 2009) - CORSICANA, TX - Star-Telegram - Legacy | Obituary",
-    "summary": "Terry Nelson Obituary (1947 - 2009) - CORSICANA, TX - Star-Telegram Legacy | Obituary",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 6293.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "a72597c3f66785b0b69c",
-    "entity_id": "terry_nelson",
-    "entity": "Terry Nelson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "terry_nelson",
-        "name": "Terry Nelson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "The Road Not Taken"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "The Road Not Taken"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 09 Jan 2025 08:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMzBDaE40S2tPcVF5MU5yMkhic0lqTDNOS3JwRU1mX1B3R19ZNzR4UTI3cFZTdzlra1AxazVzM19SZDhnS3ZHclh4emNtS3N4VlpNdnRINkF5R3QtVkJ3TUJ0N2s2XzBvM0laMU91ODBDY0k2alk5SEg3OTFmbnFMT3Y5dmQxMUJMcmNNellHbmk1V05m?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Terry Nelson Obituary (1957 - 2025) - Fremont, NE - Fremont Tribune - Legacy | Obituary",
-    "summary": "Terry Nelson Obituary (1957 - 2025) - Fremont, NE - Fremont Tribune Legacy | Obituary",
-    "evidence": [
-      "matched entity: Terry Nelson",
-      "event: death (obituary)",
-      "source age: 635.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "5db7a2badd8274f87fa4",
-    "entity_id": "virginia_madsen",
-    "entity": "Virginia Madsen",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "virginia_madsen",
-        "name": "Virginia Madsen",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 03 Jul 2025 07:00:00 GMT",
-    "captured": "2026-10-06T20:21:46Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVhWc0dyb0xzSFVkbDFKTWlRbWUxZHNpNm9HWFppSTJ6anc1U2ZmM0lVajI3Ymp3OVBtT0M1dFdGWWRnOTd3QUpQSm9xV3FTWUoxZ0ZIQkNtSmtHc00xYk5fTm9sOURBaFVPVV9QQmtGRnJzY1FqRkhhWjJBNEppOE9idTBqN2kwbU9QanFvdHVZaE1rS3VfMENKWEFfN1pKc0N0cGJMcnIyUHU0UmNrcDhxSQ?oc=5",
-    "source": "Parade Magazine",
-    "title": "Actress Virginia Madsen Releases Heartbreaking Statement on Brother Michael Madsen's Death - Parade Magazine",
-    "summary": "Actress Virginia Madsen Releases Heartbreaking Statement on Brother Michael Madsen's Death Parade Magazine",
-    "evidence": [
-      "matched entity: Virginia Madsen",
-      "event: death (death)",
-      "source age: 460.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "38df8d876445b5b125d5",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 68,
-        "event_type": "appearance"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "appearance",
-    "source_date": "Tue, 06 Oct 2026 20:43:08 GMT",
-    "captured": "2026-10-07T00:01:05Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91bFlpdkpUdlhpYncyTlpnU0VJVDVxQjQwMnBzUXJnajFXQ213WFJWalROUVBITkQtRG40YmVLWlpZQWlLUWsycDcwdURYNFhPemZIaldyWXFmZ3N4UXNZc1lfd2xNM3M?oc=5",
-    "source": "IMDb",
-    "title": "‘Enola Holmes’ Star Henry Cavill’s (43) Googlebook Launch Appearance Has Fans Asking Who Called Him Too Old - IMDb",
-    "summary": "‘Enola Holmes’ Star Henry Cavill’s (43) Googlebook Launch Appearance Has Fans Asking Who Called Him Too Old IMDb",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "event: appearance (appearance)",
-      "source age: 0.1 days"
-    ],
-    "score": 68,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
     "id": "fe5254dbbe702d0758b3",
     "entity_id": "chad_stahelski",
     "entity": "Chad Stahelski",
@@ -51948,5 +51713,258 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "a14c11be3c1db3ae803c",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 22 Nov 2026 18:33:02 GMT",
+    "captured": "2026-11-22T21:04:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aLTNTTkMtYVRLUWJTb0tQNEJpRjdXa2tNWVVuaGxjTXVaRzloNVo2d0NzMUVfU2tUb0lwTF9Ga2JKSk5qaklJY1ZkWlMtaWxFUTN4NzFsbHRSdmJjZ2F1RXhwQ3Yzbk4tZUtRa3hNZVJEdE5YSkVYazk3QnR4Mjg?oc=5",
+    "source": "Steelers Now",
+    "title": "Steelers Star Edge Rusher Leaves Game with Injury - Steelers Now",
+    "summary": "Steelers Star Edge Rusher Leaves Game with Injury Steelers Now",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.1 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "5ce16fcb0e3f7dff1fa6",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 09 Nov 2026 08:00:00 GMT",
+    "captured": "2026-11-22T21:04:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNlhCZHFqRUhYNDdGVDVKVTJNaElIX244TTNublNUZnBaT2VlWHN1RUgyc2tqSy1Sa2NMX2I3dlhZNEZfcHRhQVJLQnBOR0R4M3BITTI3c0cyaVg4Yk4zQjhVeW9YY29HZjJweGFkdExMT3JUU25LbjlZdGJ2RDgyQnZKUQ?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "James Bruce Thompson Obituary (2026) - Jacksonville, FL - Crevasse's Simple Cremation - Jacksonville - Legacy | Obituary",
+    "summary": "James Bruce Thompson Obituary (2026) - Jacksonville, FL - Crevasse's Simple Cremation - Jacksonville Legacy | Obituary",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 13.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "f4f7f5c2fec77c24c170",
+    "entity_id": "michael_jayston",
+    "entity": "Michael Jayston",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "michael_jayston",
+        "name": "Michael Jayston",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander III: The Sorcerer"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander III: The Sorcerer"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 05 Feb 2024 08:00:00 GMT",
+    "captured": "2026-11-22T21:04:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb2xBYjZlVlV5dENFMDVLejVCV2k4M01CWm13SDNLWEMxSDVuZ1hDZFFEX0JON2tEQ0RibnpnUElsendTVDdRR0ZZanFZN0RFQWJ6eHk4WlhVMUVnMGZ1RGFBY2g0QVZhY0VoRzVMaHV5Q25vY2FJLXhkalhLWE9QdENpWXdVWjdoc20zbjd2dFdCVjJacjVCYW1ZZDV4bnpYS1Bn?oc=5",
+    "source": "Offaly Independent",
+    "title": "Only Fools And Horses actor Michael Jayston dies, aged 88 - Offaly Independent",
+    "summary": "Only Fools And Horses actor Michael Jayston dies, aged 88 Offaly Independent",
+    "evidence": [
+      "matched entity: Michael Jayston",
+      "event: death (dies)",
+      "source age: 1021.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "9d4405b47a2280d6f80a",
+    "entity_id": "michael_jayston",
+    "entity": "Michael Jayston",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "michael_jayston",
+        "name": "Michael Jayston",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander III: The Sorcerer"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander III: The Sorcerer"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 05 Feb 2024 08:00:00 GMT",
+    "captured": "2026-11-22T21:04:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjJTRWF5eE5acjBiZG11QllnQlNMdTRZMmRjUW5Ba09QTVBUSzJTbGFPd2NnTkxVM2pfYzQ4UHdMX0VZdUZ0eFR0V29PUU1KWHJHUVUwaXlERFh0cmhheS1HNGhFR2lIX1ktZFZjazlTWkttWE1jN05YTktxb2tCMWdsejNOV1ZBM1RzVlkzVQ?oc=5",
+    "source": "Daily Mail",
+    "title": "Only Fools and Horses star Michael Jayston dies aged 88 - Daily Mail",
+    "summary": "Only Fools and Horses star Michael Jayston dies aged 88 Daily Mail",
+    "evidence": [
+      "matched entity: Michael Jayston",
+      "event: death (dies)",
+      "source age: 1021.5 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "6c07d28a5fd8a307ff68",
+    "entity_id": "richard_martin",
+    "entity": "Richard Martin",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "richard_martin",
+        "name": "Richard Martin",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Armageddon",
+          "Black Tower",
+          "Diplomatic Immunity",
+          "Duende",
+          "Justice",
+          "The Stone of Scone",
+          "The Valkyrie",
+          "To Be",
+          "Two of Hearts"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Armageddon",
+      "Black Tower",
+      "Diplomatic Immunity",
+      "Duende",
+      "Justice",
+      "The Stone of Scone",
+      "The Valkyrie",
+      "To Be",
+      "Two of Hearts"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 02 Aug 2019 07:00:00 GMT",
+    "captured": "2026-11-22T21:04:32Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VWFZmaUJwUGVoVVJEWFpQS1hsOWR4SXVQNFhNQ05xSlhXb0JsVUctcENZbmt4eUhxRlpyS0U5SDRMXzJOVy03LTk1alM1YmZDTVgzVmpRSjZ5ZTVfRDFlU0FVYkhlMnRROS0tSGxsUUJzMkt5YU10OU92M1o?oc=5",
+    "source": "Parsell Funeral Homes & Crematorium",
+    "title": "James Richard Martin's Obituary, Visitation & Funeral Information - Parsell Funeral Homes & Crematorium",
+    "summary": "James Richard Martin's Obituary, Visitation & Funeral Information Parsell Funeral Homes & Crematorium",
+    "evidence": [
+      "matched entity: Richard Martin",
+      "event: death (obituary)",
+      "source age: 2669.6 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

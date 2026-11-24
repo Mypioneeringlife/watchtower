@@ -1,261 +1,5 @@
 [
   {
-    "id": "fe5254dbbe702d0758b3",
-    "entity_id": "chad_stahelski",
-    "entity": "Chad Stahelski",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "reboot director"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Fri, 30 Jul 2021 07:00:00 GMT",
-    "captured": "2026-10-07T20:06:31Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbjZHdjZ6WXRuSkp1ZmdKNGhSR0NSWjM1R1lOelRhalU2NTVaUGpIbnBvdXlCOFd0YklhdUdKYkF3QlZSaFoxRnp3VWE3ZUI0eW9SSVU4YjhFUzAwMVZ4cEJZQW5SYTdFVk0tMXhiaFpTcWVac0ZNR3VBSXgwQ2ZMckhnSEdMQjFEOXfSAY8BQVVfeXFMTnFQWUlCZ01Da2NCUkxzY3JDci1CMURVbVRSQlNrSUpFNXEwazFRYmNzX3ZmVlEzRjBLYW1BOFBnMWVXNnlEUzBNM3FUV2d5TlFpS0hzSG1sOVFpaFVpVmRTLWQzcmN6NXhWby1ST1M0OU8xUm1NVUJlUlBxY2NGWW1VaXVFb05QSm9UQzhybzA?oc=5",
-    "source": "JoBlo",
-    "title": "Chad Stahelski is hoping not to f**k up his Highlander reboot - JoBlo",
-    "summary": "Chad Stahelski is hoping not to f**k up his Highlander reboot JoBlo",
-    "evidence": [
-      "matched entity: Chad Stahelski",
-      "explicit Highlander reference",
-      "context: Highlander, reboot",
-      "event: highlander_production (reboot)",
-      "source age: 1895.5 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "74a142e2a99b66e08e1f",
-    "entity_id": "dennis_berry",
-    "entity": "Dennis Berry",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "dennis_berry",
-        "name": "Dennis Berry",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Archangel",
-          "Avatar",
-          "Counterfeit, Part 2",
-          "Deadly Exposure",
-          "Deliverance",
-          "Eye For An Eye",
-          "Eye of the Beholder",
-          "Finale, Part 2",
-          "Highlander: The Raven",
-          "Indiscretions",
-          "Legacy",
-          "Methos",
-          "Not To Be",
-          "Nowhere to Run",
-          "One Minute to Midnight",
-          "Patient Number 7",
-          "Pharaoh's Daughter",
-          "Prophecy",
-          "Reasonable Doubt",
-          "Run For Your Life",
-          "Sins of the Father",
-          "Something Wicked",
-          "Testimony",
-          "The Colonel",
-          "The Innocent",
-          "The Lamb",
-          "The Return of Amanda",
-          "The Revolutionary",
-          "The Samurai",
-          "The Vampire",
-          "Through a Glass, Darkly",
-          "Till Death",
-          "Unusual Suspects"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Archangel",
-      "Avatar",
-      "Counterfeit, Part 2",
-      "Deadly Exposure",
-      "Deliverance",
-      "Eye For An Eye",
-      "Eye of the Beholder",
-      "Finale, Part 2",
-      "Highlander: The Raven",
-      "Indiscretions",
-      "Legacy",
-      "Methos",
-      "Not To Be",
-      "Nowhere to Run",
-      "One Minute to Midnight",
-      "Patient Number 7",
-      "Pharaoh's Daughter",
-      "Prophecy",
-      "Reasonable Doubt",
-      "Run For Your Life",
-      "Sins of the Father",
-      "Something Wicked",
-      "Testimony",
-      "The Colonel",
-      "The Innocent",
-      "The Lamb",
-      "The Return of Amanda",
-      "The Revolutionary",
-      "The Samurai",
-      "The Vampire",
-      "Through a Glass, Darkly",
-      "Till Death",
-      "Unusual Suspects"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 19 Nov 2006 08:00:00 GMT",
-    "captured": "2026-10-07T20:39:12Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXBIbTYtb3F5bHMyczllWk41RHEteE1OMEotODd5WnNaNHJicTJkWjkzVExvMnNXZThtSGVMYXV5b1FUZURZVkFTWGdVOU1UNmlMU3NnOXNNM3NaTnlrd2Zuc2pneDhFY0Itd3hCTXp3cWxDLWVhN0wwdjBhMEExREFPR01LbzNacHhOaWo3ZllFR3M?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Dennis Berry Obituary (2006) - The Times Colonist - Legacy | Obituary",
-    "summary": "Dennis Berry Obituary (2006) - The Times Colonist Legacy | Obituary",
-    "evidence": [
-      "matched entity: Dennis Berry",
-      "event: death (obituary)",
-      "source age: 7262.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4a2b1e5485be110ad956",
-    "entity_id": "don_douglas",
-    "entity": "Don Douglas",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "don_douglas",
-        "name": "Don Douglas",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Sun, 15 Oct 2023 07:00:00 GMT",
-    "captured": "2026-10-07T20:39:12Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TaFJiSjJNZUVJOU9zM215NFBNbEpSNzg5WjBnRWFyVE50WjVWRTB1SVJSQlNJSnp2NS1TRHg5U3hObGJGMlFfaFZpSWw1MW5BVWdId21nVnVYdHla?oc=5",
-    "source": "Tres Hewell Mortuary",
-    "title": "Rev. Don Douglas Vlasak Obituary Oct 15, 2023 - Tres Hewell Mortuary",
-    "summary": "Rev. Don Douglas Vlasak Obituary Oct 15, 2023 Tres Hewell Mortuary",
-    "evidence": [
-      "matched entity: Don Douglas",
-      "event: death (obituary)",
-      "source age: 1088.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "ab4536b998bf5a6dfb0e",
-    "entity_id": "duane_clark",
-    "entity": "Duane Clark",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "duane_clark",
-        "name": "Duane Clark",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "The Wrath of Kali",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "The Wrath of Kali",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 24 Oct 2006 07:00:00 GMT",
-    "captured": "2026-10-07T20:39:12Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVUJCZkwwSktHWUxMUDAzM3ZzVUxJaXc4bTJXUVdJdWJzdWxSZFd1RGk5QkN6eEU2NTJBTzRCTHNzSVFhR0M2YXdzcDNrbGdZV1dnWUtNLU5CZTJhYTdTZU1jX0dmZ0U1cENTSzZkWjZfWklpUDdPMTBybXNnZkpSRVVBSXNoSGVqWW1XcFAyZHZsVHFMTnc?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Duane Clark Obituary (2006) - Taylors, SC - The Greenville News - Legacy | Obituary",
-    "summary": "Duane Clark Obituary (2006) - Taylors, SC - The Greenville News Legacy | Obituary",
-    "evidence": [
-      "matched entity: Duane Clark",
-      "event: death (obituary)",
-      "source age: 7288.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "467fc723423bf5c0d8d0",
     "entity_id": "edge",
     "entity": "Edge",
@@ -51963,6 +51707,239 @@
       "source age: 2669.6 days"
     ],
     "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "748cbeafe45d26f570dc",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Sat, 24 Jan 2015 06:25:53 GMT",
+    "captured": "2026-11-24T01:50:58Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UWEg4RWVRSmZicmY1UGZDUTRtM0Z5dFZ0S2o5bWJFMTc0WFZCN1hGOXBfaVdLbEtYM2hudDFmTU1EODd1SXhnY1pZMnVNQQ?oc=5",
+    "source": "IMDb",
+    "title": "Highlander: The Source (TV Movie 2007) ⭐ 3.0 | Action, Adventure, Drama - IMDb",
+    "summary": "Highlander: The Source (TV Movie 2007) ⭐ 3.0 | Action, Adventure, Drama IMDb",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 4321.8 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "bc039b890978b03fd65e",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 100,
+        "event_type": "health"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sat, 15 Aug 2026 15:47:37 GMT",
+    "captured": "2026-11-24T01:50:58Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQTDdpWmV2OE1jN0dXc2JNZzc0VjRmZVZEODVQR1JVZ2dVMXlJLXpfOWRwQUlXc2ZCWVhJcTRYZEwtYXlRVEl5Z19KTHdwUQ?oc=5",
+    "source": "IMDb",
+    "title": "Highlander Star Christopher Lambert Suffers Medical Emergency at Fan Convention - IMDb",
+    "summary": "Highlander Star Christopher Lambert Suffers Medical Emergency at Fan Convention IMDb",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "explicit Highlander reference",
+      "context: Highlander, convention",
+      "event: health (medical)",
+      "also matched: Highlander (100)",
+      "source age: 100.4 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "2f9dae92e3aa3225b502",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 80,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "captured": "2026-11-24T01:50:58Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1VhbHk0aXhhYVAzWGdadnBvQ2pBZ3psN1NvUUhpT2NYM2NMU2pwZ2trazRPaDB6TXAwaDBaNllmd2xQTUVoSXlvMWpXWldGLTJRTUZ2MElRYWRpS0NqSWxuY0RCbjhfYWVtOXlMRURydGhRdk5IRDV6dGJwRmwya3BNN3NJSmpPT2c?oc=5",
+    "source": "Haberler.com",
+    "title": "Famous actor Christopher Lambert collapsed to the ground while giving autographs at an event he attended. - Haberler.com",
+    "summary": "Famous actor Christopher Lambert collapsed to the ground while giving autographs at an event he attended. Haberler.com",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "context: actor",
+      "event: health (collapsed)",
+      "source age: 106.8 days"
+    ],
+    "score": 80,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "550af782641768a7dbd9",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Thu, 16 Jun 2016 07:00:00 GMT",
+    "captured": "2026-11-24T01:50:58Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONjJUUUhKNUd3c0twaEZVdVZiYk9mZV9ZVW1uT2NKaUdONG9NWG1fcms4MEVOakZIc0o3dzJRcEU1Q0QwXzhnaURrSFRsNFp2WmVwMXdxYU92R0g5N0RUMk5MeUxxVGNnWGxIWC01ZVIyRUR0c2xOajRzZmhhWXA3N1ppSC16aVNEOWxxNklFb1JtRDZ5RC1keVptOWVhREJBM2c?oc=5",
+    "source": "The Telegraph",
+    "title": "There can be only one: why Highlander will live forever - The Telegraph",
+    "summary": "There can be only one: why Highlander will live forever The Telegraph",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 3812.8 days"
+    ],
+    "score": 70,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

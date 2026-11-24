@@ -1,587 +1,5 @@
 [
   {
-    "id": "3fd45da1fba989996d70",
-    "entity_id": "beatie_edney",
-    "entity": "Beatie Edney",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "beatie_edney",
-        "name": "Beatie Edney",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander: Endgame"
-        ],
-        "score": 52,
-        "event_type": "new_project"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander",
-      "Highlander: Endgame"
-    ],
-    "event_type": "new_project",
-    "source_date": "Wed, 14 Jan 2026 08:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLVNQdGdRQ2tValg5X3JYOW93Rmt3akgxcWVhN0hNTGxBRWs3Q3FmTlVtd1lXc25lTkx5cDhJWFhFQlNhNmk2X29uOW52eTRxTlNwMmc3c3UyeU5OdTdxM3huZUpxeFB4dHV0VnhSMXY5SUpUalBFelNjM2F1SU5jNjZTOUFFMmtQNVNUNkJuVFZvU2NSNW1qMFZVV0RvcFZzQVg5TzFscmJXYjZGdklZeHAzZ3JHSERYZkl0MW41b0FCZW5SMF9pNVNFaGotckY4LXh1Rg?oc=5",
-    "source": "facilitiesmanagement.caboodleai.net",
-    "title": "Review: 'The Pearl Comb,' starring Beatie Edney, is a British short film by Ali Cook - facilitiesmanagement.caboodleai.net",
-    "summary": "Review: 'The Pearl Comb,' starring Beatie Edney, is a British short film by Ali Cook facilitiesmanagement.caboodleai.net",
-    "evidence": [
-      "matched entity: Beatie Edney",
-      "event: new_project (starring)",
-      "source age: 267.5 days"
-    ],
-    "score": 52,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "027c1cdc0d33c078d085",
-    "entity_id": "bob_weinstein",
-    "entity": "Bob Weinstein",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "bob_weinstein",
-        "name": "Bob Weinstein",
-        "kind": "person",
-        "roles": [
-          "producer"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 56,
-        "event_type": "legal"
-      }
-    ],
-    "roles": [
-      "producer"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "legal",
-    "source_date": "Mon, 07 May 2018 07:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPakFxLU55U3dPZTBSc0lUbEw0V1EySU1EcEZwdFRSR05nYkotMW92ZURFS1N4RWhoVjJxc2FjMnd1ang2eTVrMXFETkYtaDdWeHdxRGhHejBFVlVpX2dtTFVxdDFrcEhBZ0F2dHhvUk41V0t0Q1RfQlFpdkQwMmVEbnpOVGlZRUtXSS1qazFPdHR3ZTdybEg0YXRmMWo2dWY2RFJhN0Rn?oc=5",
-    "source": "Yahoo",
-    "title": "Bob Weinstein Will Be Out After Weinstein Company Sale, Court Documents Say - Yahoo",
-    "summary": "Bob Weinstein Will Be Out After Weinstein Company Sale, Court Documents Say Yahoo",
-    "evidence": [
-      "matched entity: Bob Weinstein",
-      "event: legal (court)",
-      "source age: 3076.6 days"
-    ],
-    "score": 56,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "df6439ca6f08fdcb681e",
-    "entity_id": "brian_clemens",
-    "entity": "Brian Clemens",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "brian_clemens",
-        "name": "Brian Clemens",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening",
-          "See No Evil"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening",
-      "See No Evil"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 12 Jan 2015 08:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAycm5lek84NEp6LTdydEd1V2pTeVl6TndBWXk5Y2xxdVZac2tYZkxpVlNKZzN4UVAyVVJlVzR6a3dDUEVDU0xVU2ZmYUNXZTRWMUxNZ1pDNA?oc=5",
-    "source": "BBC",
-    "title": "Avengers and Professionals writer Brian Clemens dies - BBC",
-    "summary": "Avengers and Professionals writer Brian Clemens dies BBC",
-    "evidence": [
-      "matched entity: Brian Clemens",
-      "event: death (dies)",
-      "source age: 4287.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "99008fe3035662ed37e6",
-    "entity_id": "charles_wilkinson",
-    "entity": "Charles Wilkinson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "charles_wilkinson",
-        "name": "Charles Wilkinson",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Brothers in Arms",
-          "Courage",
-          "Double Jeopardy",
-          "Obsession",
-          "Shadows"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Brothers in Arms",
-      "Courage",
-      "Double Jeopardy",
-      "Obsession",
-      "Shadows"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 25 Jul 2022 07:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMDh0Y3JjLTV4ZGMwNmgySzBGc25HaW5aWHRPTVQyZEVlMW51eE5xVjUzRUhjSFdEN3NSV0lwdWJ1MFR2RlNOb3F1YWRMeE9Hcy04NWUySE1ZRHBHdm5DUFU1RnhhZmdQTWhMU21KajJGUVNnZDFhak9WdUhnSDhDdGlVSUhJTFE?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Maurice Charles Wilkinson Obituary (2022) - Laurens, SC - Gray Funeral Home & Crematory - Clinton - Legacy | Obituary",
-    "summary": "Maurice Charles Wilkinson Obituary (2022) - Laurens, SC - Gray Funeral Home & Crematory - Clinton Legacy | Obituary",
-    "evidence": [
-      "matched entity: Charles Wilkinson",
-      "event: death (obituary)",
-      "source age: 1536.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "e89f17200d482208724e",
-    "entity_id": "dan_gordon",
-    "entity": "Dan Gordon",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "dan_gordon",
-        "name": "Dan Gordon",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Innocent Man",
-          "The Gathering"
-        ],
-        "score": 54,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Innocent Man",
-      "The Gathering"
-    ],
-    "event_type": "interview",
-    "source_date": "Sun, 15 Feb 2026 08:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNeThyV0dRVm5KZkxyT2x4blVwZXFJLTZuWkFFSlhNMUp4U2dvOW5CR29pRjFWYXB1VHJleXdGek11VXhnTTZiRWZSVkNPYXB0X2ZsQm1ZZEhyRHcxdVZlcGhuSlNsZjkwNVN4STB1YzdhYl9tbXZqOUxzVzZjSHNPZmhMX2Vvem5BRDlkS01tMXFDZzlEcmdTR3ppZ3Z0X0w4RDJYNFZqRllwdkpDWW4wQV9Xa0VsamVZWXIwR19YMURTNFMtNEIyRERJWlNSSW11ZjRBT01mUmlYUmVxeUd6VzQ0LTEwcktxV0RtMFFPSThkSkJVcEdOY19OX05WTExITEZmanM1eDNCcHFmQ0UyYlFnSldHMEdPa2lsVlBZeVBfUHZEWXFqb0pONkFjMS04QkNmUV9EMDdhRGV0Njg0NjlGMkFRcDI1WFh3SklwOWdFSFpHbDBwV0FKMmwwdlUtTk0tZkdhUTRNUXkzVDgtemFuSGJzcjNoSTJBalRBNndpdw?oc=5",
-    "source": "The Irish News",
-    "title": "‘I said to the lads this last few weeks, what Jody would have loved the most was the fight and character that the boys have displayed’ - Dan Gordon reflects on emotional Abbey CBS MacRory Cup victory - The Irish News",
-    "summary": "‘I said to the lads this last few weeks, what Jody would have loved the most was the fight and character that the boys have displayed’ - Dan Gordon reflects on emotional Abbey CBS MacRory Cup victory The Irish News",
-    "evidence": [
-      "matched entity: Dan Gordon",
-      "event: interview (reflects on)",
-      "source age: 235.5 days"
-    ],
-    "score": 54,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c66684c62c573ae31729",
-    "entity_id": "duane_clark",
-    "entity": "Duane Clark",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "duane_clark",
-        "name": "Duane Clark",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "The Wrath of Kali",
-          "Timeless"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "The Wrath of Kali",
-      "Timeless"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 11 Apr 2022 07:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80Q1VLZTkzNG5pdlAtUjAtdlRwQlFzcTJEWmpqVWg1ZTN4ZFRRVDZBcGxlbXRTcklyelJIdlJCaWloeHROcmo5Z2xvcVc4Y2Z6SWZnWU9DNDhKMVUxLVNvWXhUQ0djQWp1RG1ueFBn?oc=5",
-    "source": "O'Guinn Family Funeral Homes",
-    "title": "Obituary information for Duane Clark - O'Guinn Family Funeral Homes",
-    "summary": "Obituary information for Duane Clark O'Guinn Family Funeral Homes",
-    "evidence": [
-      "matched entity: Duane Clark",
-      "event: death (obituary)",
-      "source age: 1641.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "a408689b0ddf14413120",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 08 Oct 2026 18:25:47 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVFpjSlRGcVpzc0UzcTR6VFJJV1BaVy1LelBPS1RjWGxDOTc3aVRuaUk3TEFXSC1mVFhqbEhUNy12eEhOM1pxQVRmZTExVHFNaV91cUNMVTBSa3gyMFQ1bnJtT0RtVnI0QzZmVUFIMEhQVnpGb3g1LWpGZUd0SnJ4ZURFZG1QbFRzQlVSYk9MclNCZy1oSktMXzhwV0VoZnVfOEVn?oc=5",
-    "source": "WWAYTV3",
-    "title": "Southport police chief responds to death penalty decision in Nigel Edge case - WWAYTV3",
-    "summary": "Southport police chief responds to death penalty decision in Nigel Edge case WWAYTV3",
-    "evidence": [
-      "matched entity: Edge",
-      "event: death (death)",
-      "source age: 0.1 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "9a72d67fcb97c6ac24b7",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Thu, 08 Oct 2026 17:32:43 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkROVnJXbFI1b0hjT3NLY2lKMmxnUmVGWGpNU2laU2tDWktRNVFBVVZzb3RNNVJISXJ3cWI0S3VPTmxyM0JDVEZkdW5KLTYzX3VSeFRaeUZ1ZW5xYkZ6MHVUMG9YcTRVanZYaExNSHZYdU42cWpzbTBoNTgydm5sOU94eHd2bmZ1?oc=5",
-    "source": "The State Port Pilot",
-    "title": "Edge to face death penalty for Southport mass shooting - The State Port Pilot",
-    "summary": "Edge to face death penalty for Southport mass shooting The State Port Pilot",
-    "evidence": [
-      "matched entity: Edge",
-      "event: death (death)",
-      "source age: 0.1 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "c1ffb19aeb54a059d613",
-    "entity_id": "harvey_weinstein",
-    "entity": "Harvey Weinstein",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "harvey_weinstein",
-        "name": "Harvey Weinstein",
-        "kind": "person",
-        "roles": [
-          "producer"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "producer"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 15 May 2026 07:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM2E2b0k4NGRqcGpwbDRubkZNRDkwSkJrY21OQXRkUlNsRkU2V0ZyQnRCclJKSWNNNXVQaWdDRTRBc1dIdnhieXExeXl5al9UNjV0a2hRQk8zMy1OVXNLRGE2WUMxNjZNNzd2NmhWQnhVRWdqcnBqMUZqLUFOZTRZOEtsOGtjNWVRNDJhRVJjTjdSOUpLdnF3ajlBWHBXODgwLS1vbUVqSW4zVW8zUlEycUZTdGo2TWtWMEM0QmMwSE9jQjJVb25TMS1YRWVZUQ?oc=5",
-    "source": "NBC 4 New York",
-    "title": "Mistrial declared in Harvey Weinstein rape retrial after jury deadlocks on allegations - NBC 4 New York",
-    "summary": "Mistrial declared in Harvey Weinstein rape retrial after jury deadlocks on allegations NBC 4 New York",
-    "evidence": [
-      "matched entity: Harvey Weinstein",
-      "event: death (dead)",
-      "source age: 146.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "c313f5d7002243705b1b",
-    "entity_id": "harvey_weinstein",
-    "entity": "Harvey Weinstein",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "harvey_weinstein",
-        "name": "Harvey Weinstein",
-        "kind": "person",
-        "roles": [
-          "producer"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "producer"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 15 May 2026 07:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTzBnQmlSeFY1Nlp2R19wNDBMYzF1S2JwcW5XSVUyV0dOb2ZtY3ZkYnNCM0NIdFZITUJQNmxwaTQyNmhoRzN6UHByZWs0TE5fUGRxbWFOWWFkQ0xvM0VvWllVMnBrX01mWHpBUWpHN2dCeUE5WHUwRnk3VnoyWjhMQU5mdEswUTRiWEd5VUNqRlJ6Y2VjNENVZW5qQ3RVQndBY3JnRmEyM0d1SE5IQ0ROUnhzZURMRDdfR05uSG9UUXZrV2Ex?oc=5",
-    "source": "Los Angeles Times",
-    "title": "Judge declares mistrial in Harvey Weinstein’s rape retrial after jury deadlocked - Los Angeles Times",
-    "summary": "Judge declares mistrial in Harvey Weinstein’s rape retrial after jury deadlocked Los Angeles Times",
-    "evidence": [
-      "matched entity: Harvey Weinstein",
-      "event: death (dead)",
-      "source age: 146.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "f5a797eff4659c2a222f",
-    "entity_id": "harvey_weinstein",
-    "entity": "Harvey Weinstein",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "harvey_weinstein",
-        "name": "Harvey Weinstein",
-        "kind": "person",
-        "roles": [
-          "producer"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "producer"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 15 May 2026 07:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbVVsb3hCUUJMdFViRjNQaDBRa2VvSkRCSEtBZmhIWFBNUzM3dUdfd2kyN0JsYlNPemZCclBTME9yQXNLOVA1MEwtOVR1WkJwMHZPOGtsTVB0RTJIVXlqMW1LQnRzajIwRk1kbWpadm5yZ2N2Mm01Wm9YUEYtR1c1cW1BYTNyT3VsRjBHT3JlVTE5MzFz?oc=5",
-    "source": "Spectrum News NY1",
-    "title": "Judge declares mistrial in Harvey Weinstein's rape retrial after jury deadlocks - Spectrum News NY1",
-    "summary": "Judge declares mistrial in Harvey Weinstein's rape retrial after jury deadlocks Spectrum News NY1",
-    "evidence": [
-      "matched entity: Harvey Weinstein",
-      "event: death (dead)",
-      "source age: 146.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0bb4c8f66233b7c8f9c6",
-    "entity_id": "james_bruce",
-    "entity": "James Bruce",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_bruce",
-        "name": "James Bruce",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Haunted",
-          "The Messenger"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Haunted",
-      "The Messenger"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 10 Feb 2025 08:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nSGxKNzllTU51SEtVSkM5cHEwREpnMTI1c0xHRUFRN0dYelNCUGs4Nk9qMnpQTlZEX1libE55MkxwallBVzJGWUVZRlR6OEczd3N5djRraDNrRzRhRmRWMk5YY3QyZnNl?oc=5",
-    "source": "Peebles Fayette County Funeral Homes & Cremation Center",
-    "title": "James Bruce Cocke Obituary February 10, 2025 - Peebles Fayette County Funeral Homes & Cremation Center",
-    "summary": "James Bruce Cocke Obituary February 10, 2025 Peebles Fayette County Funeral Homes & Cremation Center",
-    "evidence": [
-      "matched entity: James Bruce",
-      "event: death (obituary)",
-      "source age: 605.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "aaf75646ef1fc1f1296b",
     "entity_id": "james_cosmo",
     "entity": "James Cosmo",
@@ -51964,5 +51382,581 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "bf8e9367eb2d11c64f9b",
+    "entity_id": "duane_clark",
+    "entity": "Duane Clark",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "duane_clark",
+        "name": "Duane Clark",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "The Wrath of Kali",
+          "Timeless"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "The Wrath of Kali",
+      "Timeless"
+    ],
+    "event_type": "death",
+    "source_date": "Mon, 11 Apr 2022 07:00:00 GMT",
+    "captured": "2026-11-24T23:54:42Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XNHFvMXNkaFp4OHBFWlBoa01fN3l4cVhwZHp1ZmtoZDJXeXNUVEthTHpzUjh5X3RRMVdfTHBBSjVLSU1wSk9XVHBhSklVeTc3X1FVYzZhbW1VMGs2bDdFVHU3aW1EYUpyLUtPdXZZQQ?oc=5",
+    "source": "Tribute Archive",
+    "title": "Duane Clark Obituary | O'Guinn Funeral Homes | Montrose, MI - Tribute Archive",
+    "summary": "Duane Clark Obituary | O'Guinn Funeral Homes | Montrose, MI Tribute Archive",
+    "evidence": [
+      "matched entity: Duane Clark",
+      "event: death (obituary)",
+      "source age: 1688.7 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f601f6f8ac9f2e2a9e16",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 54,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "interview",
+    "source_date": "Tue, 24 Nov 2026 21:38:51 GMT",
+    "captured": "2026-11-24T23:54:42Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU19NNnNFSmRFY0o0bXI3dkM3MG1wR2VyUFd3MS1OUE1HNEJiYWRRQmlUcUJSdl9sV29sazdhYmRrcFA2X1hTR0EtajBDVmxrMlVCYnJBVGZ3elBVMllKZC1XMHNpOVRFUHZHNzlIVk9fZW1QblhrMXFXN2I3YS0zQTgwS2dSblEtVV9qUjhfdVFMQ0FTZFJ2LXhiWlRsc2xubjhLNjFBX0RQNm1haW8yTURuZlpUUHd1V2Z6R0FuRFQ2Z29zSkY1YmJhOA?oc=5",
+    "source": "BroadwayWorld",
+    "title": "Interview: Rick Yaconis of Two Edge Theater Company - BroadwayWorld",
+    "summary": "Interview: Rick Yaconis of Two Edge Theater Company BroadwayWorld",
+    "evidence": [
+      "matched entity: Edge",
+      "event: interview (interview)",
+      "source age: 0.1 days"
+    ],
+    "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "cf68fd76eb08daaa8361",
+    "entity_id": "harvey_weinstein",
+    "entity": "Harvey Weinstein",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "harvey_weinstein",
+        "name": "Harvey Weinstein",
+        "kind": "person",
+        "roles": [
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "producer"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "legal",
+    "source_date": "Tue, 24 Nov 2026 08:30:13 GMT",
+    "captured": "2026-11-24T23:54:42Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMlNKeklMWHh0Q0xZcHdMNjlqa2xVRUQ2MzJuSGcxY1lCY2wtejVOVEZqLTNGUWJtNklpRDljT3R2bE03Tk00MzJjNmQ0UHFKb2hUc0dsTkpJdUpXNXNBZlR4NUY1MDY3TnFnaFlfRUtQVTY5enNDTVRDRlNET0ZZbThmcW9remtmTjdiQVUtT1NhQVpYUDktdG5vLU5qVlhPUl8xZg?oc=5",
+    "source": "Yeni Safak English",
+    "title": "NY attorney general sues The Weinstein Company, Harvey Weinstein - Yeni Safak English",
+    "summary": "NY attorney general sues The Weinstein Company, Harvey Weinstein Yeni Safak English",
+    "evidence": [
+      "matched entity: Harvey Weinstein",
+      "event: legal (sues)",
+      "source age: 0.6 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "34f3facb36c15c47a674",
+    "entity_id": "harvey_weinstein",
+    "entity": "Harvey Weinstein",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "harvey_weinstein",
+        "name": "Harvey Weinstein",
+        "kind": "person",
+        "roles": [
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "producer"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "legal",
+    "source_date": "Fri, 26 Jun 2026 07:00:00 GMT",
+    "captured": "2026-11-24T23:54:42Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORVRlWjFlVG96NnpOVmQ3enB2R0VER3k3YzdMbnREajd1MExnZlp3NnZmMGs3VXcweEs4V1lTeEt1WVZEaW9Qd3ZlVzloZFN0dFV1cTJCT2NaYlA0SnViNTBnQi04MWNZR3RYeE8td2MwUGZqSzUtUzQ1WDZxclZKcl82Vk5jV2FXS3dBNno4ZEttOHBuX2Q3UmNuTVJzLUhSbkxV?oc=5",
+    "source": "Courthouse News Service",
+    "title": "Harvey Weinstein's rape conviction affirmed on appeal, sentence vacated - Courthouse News Service",
+    "summary": "Harvey Weinstein's rape conviction affirmed on appeal, sentence vacated Courthouse News Service",
+    "evidence": [
+      "matched entity: Harvey Weinstein",
+      "event: legal (court)",
+      "source age: 151.7 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ab7afd846c320060934e",
+    "entity_id": "harvey_weinstein",
+    "entity": "Harvey Weinstein",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "harvey_weinstein",
+        "name": "Harvey Weinstein",
+        "kind": "person",
+        "roles": [
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "producer"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Thu, 02 Jul 2026 07:00:00 GMT",
+    "captured": "2026-11-24T23:54:42Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUzJPZUdxYmZwTUZBUkFHTXZHdGlsSWZ4dHlHNUJfSUpCWlZwZnpsZ19QdURRT05lSjRucFlEbVhrWTBnbC1KMGdQNWMtTnBQdWZua0llbHBEYW5yeW45OVJoaFp2OTVEUlJhTHpiZV9KbXhvNnFJR0RZV2MwNmpJLVI3ZUhRa1hLRkE?oc=5",
+    "source": "WBAL-TV",
+    "title": "Harvey Weinstein hospitalized with 'heart and breathing issues' - WBAL-TV",
+    "summary": "Harvey Weinstein hospitalized with 'heart and breathing issues' WBAL-TV",
+    "evidence": [
+      "matched entity: Harvey Weinstein",
+      "event: health (hospital)",
+      "source age: 145.7 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "29fc48d356301820a519",
+    "entity_id": "harvey_weinstein",
+    "entity": "Harvey Weinstein",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "harvey_weinstein",
+        "name": "Harvey Weinstein",
+        "kind": "person",
+        "roles": [
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "producer"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "legal",
+    "source_date": "Fri, 26 Jun 2026 07:00:00 GMT",
+    "captured": "2026-11-24T23:54:42Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUs2R1VfSXZHU3hGeVBySHMyaTd1cDFxd1ZfZTZoa0h5T29NbGpBSi1qS0ZOZExSa0V3UWpORlRTZ0RKMFJOWUZnVGpsTkx3dkdrRUExYk5JTU5NR1ZEZ3ozT2RmSHhuX1JKMGVvZkhHa2ZrbHFJTTc3aHNhenBibHY3Z1lPTmpRZEhuWjVaNU1neUxoT1RRcG1YTkJRakhjdm4waGN2dU5FamFQbzNSeWFaWVJ4MXNIRS1aYjRkNzhBN0k?oc=5",
+    "source": "The Hollywood Reporter",
+    "title": "Appeals Court Orders Harvey Weinstein Resentencing, Though Conviction Stands - The Hollywood Reporter",
+    "summary": "Appeals Court Orders Harvey Weinstein Resentencing, Though Conviction Stands The Hollywood Reporter",
+    "evidence": [
+      "matched entity: Harvey Weinstein",
+      "event: legal (court)",
+      "source age: 151.7 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "8a9c5ba826bd36601abb",
+    "entity_id": "harvey_weinstein",
+    "entity": "Harvey Weinstein",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "harvey_weinstein",
+        "name": "Harvey Weinstein",
+        "kind": "person",
+        "roles": [
+          "producer"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "producer"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "legal",
+    "source_date": "Sun, 05 Jul 2026 07:00:00 GMT",
+    "captured": "2026-11-24T23:54:42Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSlNXX2xrRXBmNUNsVjZ5VS1zRTJIZkttdHVidkNqQzVNbU93aXFlU25tMW1laVgzYUpnZlJjR2dHS2hUYzBVT1hvMmdqbmtpbmwtZkdsT2QtMFBfQjd3ckY0ajNRQk9ialZWMGxUU3VEeWpfZXd0R2VPbExaUVN5VW53TUdRWE4xTlhCRV9ySTZQVDRMck1Dcl83eUtTVkJiZkFkOHVjU1NaNXJsY1FXaEtmdmNORXpZOWdsRkNpakk1Q0xoSFdR?oc=5",
+    "source": "The North State Journal",
+    "title": "Harvey Weinstein’s California rape conviction upheld, but court says he must be resentenced - The North State Journal",
+    "summary": "Harvey Weinstein’s California rape conviction upheld, but court says he must be resentenced The North State Journal",
+    "evidence": [
+      "matched entity: Harvey Weinstein",
+      "event: legal (court)",
+      "source age: 142.7 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ab5af0330592bf298ebe",
+    "entity_id": "mako",
+    "entity": "Mako",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "mako",
+        "name": "Mako",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander III: The Sorcerer"
+        ],
+        "score": 66,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander III: The Sorcerer"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Mon, 23 Nov 2026 00:46:34 GMT",
+    "captured": "2026-11-24T23:54:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLXViZktFUGdVd0QzVExsaDJZMEJPRHNWR2d6LUdYakFOd2l4MDByRmhNMEtxRUtmOWQyZ2h4eExVS0g1SEM3QjBlM19hdzJXb1ZMTDYtTkxGRjlrOHpNdUJ3bi04SWFfX000dGhKRGFVSERqcEdncm4walEySVd4akdBWXM?oc=5",
+    "source": "Happy Gamer",
+    "title": "Kitase Wanted Bolder FF7 Remake Changes, but Hamaguchi Kept the Mako Reactors - Happy Gamer",
+    "summary": "Kitase Wanted Bolder FF7 Remake Changes, but Hamaguchi Kept the Mako Reactors Happy Gamer",
+    "evidence": [
+      "matched entity: Mako",
+      "event: highlander_production (remake)",
+      "source age: 2.0 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "fa83053603b91fa99413",
+    "entity_id": "michael_ironside",
+    "entity": "Michael Ironside",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "michael_ironside",
+        "name": "Michael Ironside",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 14 Oct 2025 07:00:00 GMT",
+    "captured": "2026-11-24T23:54:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KZmRpLTZsOTVhdE4wMUJrMTVTSWt2Tmd0VGhha2hwdEx1ZUljbnBtRWhjOXZZT0lKamc0bW92M3VRNEZGMXJfTXlWVUdWZXRlQnFkN3o2WHVmMXlhamk3azQ2bXNlSU1RbUkybjBWRWhJX2NUTXREb0RWQQ?oc=5",
+    "source": "ScreenRant",
+    "title": "Who Voices Sam Fisher In Splinter Cell: Deathwatch (& Why It's Not Michael Ironside) - ScreenRant",
+    "summary": "Who Voices Sam Fisher In Splinter Cell: Deathwatch (& Why It's Not Michael Ironside) ScreenRant",
+    "evidence": [
+      "matched entity: Michael Ironside",
+      "event: death (death)",
+      "source age: 406.7 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "8efaa642c72a0b7903a6",
+    "entity_id": "paul_johansson",
+    "entity": "Paul Johansson",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "paul_johansson",
+        "name": "Paul Johansson",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: The Raven"
+        ],
+        "score": 66,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: The Raven"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Wed, 20 Dec 2023 08:00:00 GMT",
+    "captured": "2026-11-24T23:54:43Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVWpyOThWMjBkSUZ1aWJMRFhCOUN3UUNnWUZmUEJ3enRwQ2pXaE4wbzZNVzNyRmZXNlJRbEdMa21nNzN1QTV2S21lWWdPZ2ptRWhORU1VazBRS052djZSaTEwNXdTS2FFSmpzZjRkOFhQNHdISVpQSzZVWjNIajVZR1Bwekt1NjYtRTh0WjFDLWFuTHNZUjg5TlJLakFFclFNNE1zbHpZUkdjUWlrS01kejl3VjBJcUtFbldLRmNtUFlnMTgwT3VxNVEzbzNsRG1sSlZuMQ?oc=5",
+    "source": "Just Jared",
+    "title": "‘One Tree Hill’s Paul Johansson Reveals He Struggled With Depression & Alcoholism While Filming the Show - Just Jared",
+    "summary": "‘One Tree Hill’s Paul Johansson Reveals He Struggled With Depression & Alcoholism While Filming the Show Just Jared",
+    "evidence": [
+      "matched entity: Paul Johansson",
+      "event: highlander_production (filming)",
+      "source age: 1070.7 days"
+    ],
+    "score": 66,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "273905f2e5d05a9e5759",
+    "entity_id": "peter_ellis",
+    "entity": "Peter Ellis",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "peter_ellis",
+        "name": "Peter Ellis",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Dramatic License",
+          "Manhunt",
+          "Studies in Light",
+          "The Fighter",
+          "Unholy Alliance, Part 1",
+          "Unholy Alliance, Part 2"
+        ],
+        "score": 54,
+        "event_type": "interview"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Dramatic License",
+      "Manhunt",
+      "Studies in Light",
+      "The Fighter",
+      "Unholy Alliance, Part 1",
+      "Unholy Alliance, Part 2"
+    ],
+    "event_type": "interview",
+    "source_date": "Fri, 07 Oct 2022 07:00:00 GMT",
+    "captured": "2026-11-24T23:54:43Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFRocnNIS1VNWjZLYmQ1dEFJUWh3S0tlT2czdnpjaXczeVBtQUlNTHRVdmN1VXJaR0Q2VGJySmpJUGlMWVlVNGpfcVQxbmk4RVlzS19aVkhleHNuZC1meWluUDRDVUVMWVFOR2xnYmJtendSRFBTeUlYMDBaV1NIT1owQ2Znb0czUmNMN296TzZ6djNZSnlFNWhHTnRDX0g3UEJsMzBmS3FXSmxkSnlOYlBfNjItRGF5NHJrTHFDY2RKODAxeG5fN2Q2aU4?oc=5",
+    "source": "RNZ",
+    "title": "Prison chaplain reflects on quashing of Peter Ellis' conviction - RNZ",
+    "summary": "Prison chaplain reflects on quashing of Peter Ellis' conviction RNZ",
+    "evidence": [
+      "matched entity: Peter Ellis",
+      "event: interview (reflects on)",
+      "source age: 1509.7 days"
+    ],
+    "score": 54,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "e16c0a48a0d7f522625b",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "other",
+    "source_date": "Wed, 25 Feb 2026 08:00:00 GMT",
+    "captured": "2026-11-24T23:54:43Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLVVCd25WUTUyQXZYeFl1b0Z4bF9nZUFxb3d1SkxWRTBMdjZpcUxORm1iRWxKVURTYlQyVzF5dUFROTNQT25BQ2dsTXFDRTFuRDQwaU9SLURib0NmWDNiYUJPTFhMQVdNZ1RscEE4OVFZOEpZb2t5TDczZ3F1bFQtY2NDMnotaVVYYXd4MWJoUFk2OUsxTW5XLXh3X0dQTV9lU2dkVzVhMGZfUG5iVWdscEthbHRrSEVNU1FzWnFULUxNR3ZRS3c0OVo2WW_SAdIBQVVfeXFMTW9rV2xxbnk0ZllqeFdnaGFyajFURFI0Qk02SDllQVl0bDAyRWFuNlZldV9DRUdNRlhHdElBd0FyRkhSaEY5b1k0MEc0bmo3MUJLZXNWLXFkNzNhdGk4b1hEeUFWdUkwWHdSU05jNC1kam9RRGJKbjM0TUtmVllFUXRPWmlRMVJyRF9SQ2Nfb0xhSngyeTFVM3hsUTF0MTYwME03TlNwVVZpeV83X0tnbGlEcXlVWGpCbUNrVmNYMTRMSGlCYTFncUhXWHpOUGg5T3RB?oc=5",
+    "source": "SuperHeroHype",
+    "title": "The Art & Making of Highlander Features Never-Before-Seen Photos of Action Movie | Exclusive - SuperHeroHype",
+    "summary": "The Art & Making of Highlander Features Never-Before-Seen Photos of Action Movie | Exclusive SuperHeroHype",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "source age: 272.7 days"
+    ],
+    "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]

@@ -1,52 +1,5 @@
 [
   {
-    "id": "aaf75646ef1fc1f1296b",
-    "entity_id": "james_cosmo",
-    "entity": "James Cosmo",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_cosmo",
-        "name": "James Cosmo",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 54,
-        "event_type": "interview"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "interview",
-    "source_date": "Wed, 18 Jan 2023 08:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "medium",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWpmUXBaN3MzQlBsbGRCWjRWdkJ5YUJzc0JoM2hnMnUyR3lKa1pnS2pCM3JQWEFNWDVVd3RRN3ctVUp5VnhZUGNxRDRLTHBwQVRWeEZLZkczZEo0YUFQZ1EzLWhDOUVGZTlia2VFVk1DTDRKb0UtTGZWOWlkTkZIbzRVQ1k2MUt5aUV1ME1ueXNVRU43bldBeXJra2dvMVNlNkhV?oc=5",
-    "source": "Fox News",
-    "title": "‘Game of Thrones’ actor James Cosmo reflects on working with Mel Gibson in ‘Braveheart’: ‘A huge break’ - Fox News",
-    "summary": "‘Game of Thrones’ actor James Cosmo reflects on working with Mel Gibson in ‘Braveheart’: ‘A huge break’ Fox News",
-    "evidence": [
-      "matched entity: James Cosmo",
-      "event: interview (reflects on)",
-      "source age: 1359.5 days"
-    ],
-    "score": 54,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "f9183ca8106311470967",
     "entity_id": "james_thorpe",
     "entity": "James Thorpe",
@@ -51955,6 +51908,67 @@
       "source age: 272.7 days"
     ],
     "score": 70,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "e15dcffc30b00e89bdae",
+    "entity_id": "christopher_lambert",
+    "entity": "Christopher Lambert",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "christopher_lambert",
+        "name": "Christopher Lambert",
+        "kind": "person",
+        "roles": [
+          "Connor MacLeod",
+          "actor",
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander",
+          "Highlander II",
+          "Highlander II: The Quickening",
+          "Highlander III",
+          "Highlander III: The Sorcerer",
+          "Highlander: Endgame"
+        ],
+        "score": 80,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "Connor MacLeod",
+      "actor",
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander",
+      "Highlander II",
+      "Highlander II: The Quickening",
+      "Highlander III",
+      "Highlander III: The Sorcerer",
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 21 Oct 2015 07:00:00 GMT",
+    "captured": "2026-11-25T23:14:50Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV09CSGdPaENzQ3ktb0tJeF84Y2g5ajI1U0dEOHQ2N0ZWRHJRWE5ydm1leEY0LXplekxSMV9TVnVKdVpoclpmelJac1NWNzdBdDdUYVdCenp0b2d6XzlBellfN2E2MzVxUnM4VHdwQ3JXYWFLNHdRYWdjS0xKXzI5eV9sSC12OHVQdVo5dm1Ncnp6TUVlZWlFX19QRQ?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Christopher Lambert Obituary (2015) - Beaufort, SC - The Island Packet - Legacy | Obituary",
+    "summary": "Christopher Lambert Obituary (2015) - Beaufort, SC - The Island Packet Legacy | Obituary",
+    "evidence": [
+      "matched entity: Christopher Lambert",
+      "event: death (obituary)",
+      "source age: 4053.7 days"
+    ],
+    "score": 80,
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"

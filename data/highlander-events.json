@@ -1,857 +1,5 @@
 [
   {
-    "id": "f9183ca8106311470967",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 11 Aug 2020 07:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Jd0ZXZkdweTZ3NW5fWHNEU2RhbFpTLXlqU2R6dXRhMy1uaTNrd1Z0RjFHUmxONmhxVmw5UE9GdjNkQWc4eERUb3ZSNUcyUERpZUhxS0FkWnVtc3pk?oc=5",
-    "source": "M. L. Ford & Sons Funeral Home",
-    "title": "Obituary for James Thorpe Ruhl, Sr. - M. L. Ford & Sons Funeral Home",
-    "summary": "Obituary for James Thorpe Ruhl, Sr. M. L. Ford & Sons Funeral Home",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 2249.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "fbbd60fa36013fad00cd",
-    "entity_id": "james_thorpe",
-    "entity": "James Thorpe",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "james_thorpe",
-        "name": "James Thorpe",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Deadly Exposure",
-          "Diplomatic Immunity",
-          "Indiscretions",
-          "Money No Object",
-          "Sins of the Father",
-          "The Modern Prometheus",
-          "The Valkyrie",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Deadly Exposure",
-      "Diplomatic Immunity",
-      "Indiscretions",
-      "Money No Object",
-      "Sins of the Father",
-      "The Modern Prometheus",
-      "The Valkyrie",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 22 Jan 2020 08:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORUVJX242cF9WWVRnM2laNlBNLUw2eGxNRFlFRDdDbXdoMXdFTkJHRmhyNXVmYzZxMmtHeFAxcHpDU0FhTHNwUkJTdmFwNXFlaWdSSG5JdlJxWER2UDVqQkc2X2cxU24xNWx0OFo0eXhmZURhbmhma1RjVUNoWlQxNzhBZw?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "James Thorpe Obituary (2020) - Oxford, NC - Betts & Son Funeral Home - Oxford - Legacy | Obituary",
-    "summary": "James Thorpe Obituary (2020) - Oxford, NC - Betts & Son Funeral Home - Oxford Legacy | Obituary",
-    "evidence": [
-      "matched entity: James Thorpe",
-      "event: death (obituary)",
-      "source age: 2451.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "2c0bd855a60c3e27773b",
-    "entity_id": "john_c_mcginley",
-    "entity": "John C. McGinley",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "john_c_mcginley",
-        "name": "John C. McGinley",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander II: The Quickening"
-        ],
-        "score": 66,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander II: The Quickening"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Wed, 19 Nov 2025 10:12:49 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KSTk3NjBETTZ4OUExRkxTS0M2cjZ6SXY4OGF1elpZX0poZTBUd21mTTNRa1hXOGVxQkJrVHZOQXk4cTQ1WXVlemdQbl90QQ?oc=5",
-    "source": "IMDb",
-    "title": "‘Scrubs’: John C. McGinley To Reprise Dr. Cox Role On ABC Reboot - IMDb",
-    "summary": "‘Scrubs’: John C. McGinley To Reprise Dr. Cox Role On ABC Reboot IMDb",
-    "evidence": [
-      "matched entity: John C. McGinley",
-      "event: highlander_production (reboot)",
-      "source age: 323.4 days"
-    ],
-    "score": 66,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0048e1eb233212c56268",
-    "entity_id": "larry_ferguson",
-    "entity": "Larry Ferguson",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "larry_ferguson",
-        "name": "Larry Ferguson",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Fri, 16 Oct 2015 07:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUkhCTG9KUzV4LXhFUUVoa1hyQXNqSDRfaVh3d1NwY1BoUE1IVGlEb0lVMDJZS3BNc1BadnljRExidFE4NEMyeFdneVFaTHRHWHJIbFFGS0JiU2RKLUF0UmlDZW5wRUJ1WTVLWEphbHlUQTJzaGh2ZzZORExFYjhDRWtKbUlrbi1LZ0wzM3NWSGtCM2tMOFNBeWpmek9uSUNBclVTY2FseV8?oc=5",
-    "source": "Waikato Times",
-    "title": "Larry FERGUSON Obituary (2015) - Waikato Times",
-    "summary": "Larry FERGUSON Obituary (2015) Waikato Times",
-    "evidence": [
-      "matched entity: Larry Ferguson",
-      "event: death (obituary)",
-      "source age: 4010.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "0617c5b13f2cc0d8a879",
-    "entity_id": "mako",
-    "entity": "Mako",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "mako",
-        "name": "Mako",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander III: The Sorcerer"
-        ],
-        "score": 68,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander III: The Sorcerer"
-    ],
-    "event_type": "health",
-    "source_date": "Tue, 14 Jul 2026 07:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVkpwQkNMYjJPUHJmVk5IaTRZS05udHdYMkJYMVNKNjNmQTZPLXRUZGVzUFRPRnJtWWpnSU80U1FlbjY2R2RkU3cxWXA3cHlCSXZ6V1cwSFJsVC1semhXUUVoUmhqRXpMT2RRZF9TRkVVVVZiNDBhUm54SnFfN1Z4QjNNYktacDNFZ25fZ20zdzlZV1RFa2RWWWtILUw3TTI2b2NtRVRIc3lfVUpSZ0hkMzlud0lTa3VHUFExNTVFUWx0T05SVGJnZHdtS3hKRFhqU2RtZ1BJbw?oc=5",
-    "source": "Florida Hospital News and Healthcare Report",
-    "title": "Jupiter Medical Center is First in the World to Offer Mako 4.0 Robotic Shoulder Replacement - Florida Hospital News and Healthcare Report",
-    "summary": "Jupiter Medical Center is First in the World to Offer Mako 4.0 Robotic Shoulder Replacement Florida Hospital News and Healthcare Report",
-    "evidence": [
-      "matched entity: Mako",
-      "event: health (hospital, health, medical)",
-      "source age: 86.6 days"
-    ],
-    "score": 68,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "4cb2d4c55f9c104e3a98",
-    "entity_id": "mako",
-    "entity": "Mako",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "mako",
-        "name": "Mako",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander III: The Sorcerer"
-        ],
-        "score": 68,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander III: The Sorcerer"
-    ],
-    "event_type": "health",
-    "source_date": "Tue, 04 Aug 2026 07:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SQnlNYnh1UW11RGcwV2JCS2NlZkpOTlZjTHoxaFNNT1kxVFp0UXFGam1DNnotVjdYVnBlbUo2NWJQRF9IS0VJV0VaM0pjQ184c3FTYV9nMTVCTWd4REM3cDB6bTF4RWN1VFRWUHB3RTVEdw?oc=5",
-    "source": "The Business Journal",
-    "title": "Saint Agnes first in Valley to perform spine surgery with Mako 4 - The Business Journal",
-    "summary": "Saint Agnes first in Valley to perform spine surgery with Mako 4 The Business Journal",
-    "evidence": [
-      "matched entity: Mako",
-      "event: health (surgery)",
-      "source age: 65.6 days"
-    ],
-    "score": 68,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "dceeb2b13ef89872bc19",
-    "entity_id": "michael_jayston",
-    "entity": "Michael Jayston",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "michael_jayston",
-        "name": "Michael Jayston",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander III: The Sorcerer"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander III: The Sorcerer"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 05 Feb 2024 08:00:00 GMT",
-    "captured": "2026-10-08T20:42:54Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOTRteUFoLXdPZy1mRU1NMzQycDJBOERrYjRJTWJDc1F4Z050SGRkRm1YVS1jRVJmVFIwUTdNbzdsY0o5S2dYUmkxT0VTdnAxbFN2SjdNYWY2N3VHY3RDdmhHTldRcS1nbFJRWEQ1RmRrV0JQUGx5a2VOQ3A4WGRUb0piOVl1SWI4N0h0SzZ3eDdkSW5hT09XcWVRYkV5bWdnYlVR?oc=5",
-    "source": "News Shopper",
-    "title": "Only Fools And Horses actor Michael Jayston dies aged 88 - News Shopper",
-    "summary": "Only Fools And Horses actor Michael Jayston dies aged 88 News Shopper",
-    "evidence": [
-      "matched entity: Michael Jayston",
-      "event: death (dies)",
-      "source age: 976.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "79b9a9f7cea624a261dc",
-    "entity_id": "patricia_gage",
-    "entity": "Patricia Gage",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "patricia_gage",
-        "name": "Patricia Gage",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: The Raven"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: The Raven"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 28 Apr 2020 07:00:00 GMT",
-    "captured": "2026-10-08T20:42:55Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd08tWC00MGJTb0hXdDVXSHJIRXQ5dVJwQW8wTExOMENfQnhZMEgwNm1icHlxdVpib0JnNGpCdWhDZ2F5bWx3TWpkRUhKcTV3Nlc1MDExQ2wwQUFmM29FakJmQXRIYzlscGxmdDNMQmZVdkxKOHh3TXBxa0FEUC1NVkozSkhwZE1GRkpQM3RSUlpDRDg?oc=5",
-    "source": "Legacy | Obituary",
-    "title": "Patricia Gage Obituary (1935 - 2020) - Schenectady, NY - The Daily Gazette Co. - Legacy | Obituary",
-    "summary": "Patricia Gage Obituary (1935 - 2020) - Schenectady, NY - The Daily Gazette Co. Legacy | Obituary",
-    "evidence": [
-      "matched entity: Patricia Gage",
-      "event: death (obituary)",
-      "source age: 2354.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "58c04f1ce02d8162909c",
-    "entity_id": "ray_austin",
-    "entity": "Ray Austin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "ray_austin",
-        "name": "Ray Austin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Deadly Medicine",
-          "Eyewitness",
-          "For Evil's Sake",
-          "Revenge Is Sweet",
-          "Saving Grace"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Deadly Medicine",
-      "Eyewitness",
-      "For Evil's Sake",
-      "Revenge Is Sweet",
-      "Saving Grace"
-    ],
-    "event_type": "death",
-    "source_date": "Tue, 08 Dec 2020 08:00:00 GMT",
-    "captured": "2026-10-08T20:42:55Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11Vk80V1BLZXBUcEVneUdtaFBkLVdZS3hRaVhyNGhlT2VaQ0hRM3R2S2duT1REZ1RCdS0yWkZTdTUxa1lxbXFCNThHMHBxVFhUVnlTRkYyd1VRUHpoMWszaGVrWDJXaXU0NU5jSmZzek8xRHRGMnZOZ1JuOV8?oc=5",
-    "source": "Broussard's Mortuary",
-    "title": "Obituary information for Ray Austin Evans - Broussard's Mortuary",
-    "summary": "Obituary information for Ray Austin Evans Broussard's Mortuary",
-    "evidence": [
-      "matched entity: Ray Austin",
-      "event: death (obituary)",
-      "source age: 2130.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "8c6f29f13a805a77e26f",
-    "entity_id": "richard_martin",
-    "entity": "Richard Martin",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "richard_martin",
-        "name": "Richard Martin",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Armageddon",
-          "Black Tower",
-          "Diplomatic Immunity",
-          "Duende",
-          "Justice",
-          "The Stone of Scone",
-          "The Valkyrie",
-          "To Be",
-          "Two of Hearts"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Armageddon",
-      "Black Tower",
-      "Diplomatic Immunity",
-      "Duende",
-      "Justice",
-      "The Stone of Scone",
-      "The Valkyrie",
-      "To Be",
-      "Two of Hearts"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 07 Oct 2026 09:29:36 GMT",
-    "captured": "2026-10-08T20:42:55Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJNWw3QWdGdXVxSXNMM2QyT0FIUVJnNFhKTTYzNU1PbGFucXR0YnI4MlYyUG5DVDN1Q3BIVTNYWGRNSm10N1V3d2R2Vm1yekRGdWFqNXlQc3doY01UMjQ4UllMck1Yb1NqZ0ZLUGJraDFSaFE?oc=5",
-    "source": "Tribute Archive",
-    "title": "Richard Martin Obituary | Burrier-Queen Funeral Home and Crematory | Sykesville, MD - Tribute Archive",
-    "summary": "Richard Martin Obituary | Burrier-Queen Funeral Home and Crematory | Sykesville, MD Tribute Archive",
-    "evidence": [
-      "matched entity: Richard Martin",
-      "event: death (obituary)",
-      "source age: 1.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "0b4f5dc9ecebe90b3c39",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Fri, 04 Feb 2022 06:40:20 GMT",
-    "captured": "2026-10-08T20:42:55Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ualRIdU9Xc0ZqRUstYlhramVDWDB5V0VKSnFmc1BxMUJCeHJRY2E5Y0JwRE9IdFdsd0NBNC14UTZZc0JMc0FqbndGd2dUdGZjMmY1YUQyLWh6VU1UTDJMNkxaTW1NMHNISlpxVml0OA?oc=5",
-    "source": "IMDb",
-    "title": "Highlander (1986) - IMDb",
-    "summary": "Highlander (1986) IMDb",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 1707.6 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "d8870331a8beaf1fc5c1",
-    "entity_id": "chad_stahelski",
-    "entity": "Chad Stahelski",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "chad_stahelski",
-        "name": "Chad Stahelski",
-        "kind": "person",
-        "roles": [
-          "reboot director"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 82,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "reboot director"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Tue, 21 Jul 2026 12:17:23 GMT",
-    "captured": "2026-10-09T09:32:03Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLQkxtUDdaN2tuNDh3SFlJMmc0czRZSHhNRmw3clhxQjlCTC00eFJ1Z3dTNXRSV0k3NGJjOUlpVVdNX0xpX0JETGhlU1U5d0U?oc=5",
-    "source": "玩具人 TOY PEOPLE",
-    "title": "\"John Wick\" Director Chad Stahelski Reportedly Tapped for Marvel's \"Blade\" Reboot, Now Set After \"Avengers: Secret Wars\" - 玩具人 TOY PEOPLE",
-    "summary": "\"John Wick\" Director Chad Stahelski Reportedly Tapped for Marvel's \"Blade\" Reboot, Now Set After \"Avengers: Secret Wars\" 玩具人 TOY PEOPLE",
-    "evidence": [
-      "matched entity: Chad Stahelski",
-      "context: director, reboot",
-      "event: highlander_production (reboot)",
-      "source age: 79.9 days"
-    ],
-    "score": 82,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "57e693db3c99aa136c57",
-    "entity_id": "christopher_lambert",
-    "entity": "Christopher Lambert",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_lambert",
-        "name": "Christopher Lambert",
-        "kind": "person",
-        "roles": [
-          "Connor MacLeod",
-          "actor",
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander",
-          "Highlander II",
-          "Highlander II: The Quickening",
-          "Highlander III",
-          "Highlander III: The Sorcerer",
-          "Highlander: Endgame"
-        ],
-        "score": 100,
-        "event_type": "health"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "Connor MacLeod",
-      "actor",
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander",
-      "Highlander II",
-      "Highlander II: The Quickening",
-      "Highlander III",
-      "Highlander III: The Sorcerer",
-      "Highlander: Endgame"
-    ],
-    "event_type": "health",
-    "source_date": "Sun, 09 Aug 2026 07:00:00 GMT",
-    "captured": "2026-10-09T09:32:03Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNelAxM3FlRDRPTmVIanJ6SU9HN21ZcFB1d050R3J4cDQxR0EyV1NPejlxN2dpZkxScnNQc1JHWk1heUpJMkxEa3FGU2cycHNuMmZ4SUNDMkk0cE1qeGY5V2Z3Y0k0dmNaNTUtc0JIb3VsemhkTks1bmpSaWJ2UldjYWVaTWRFSE85cDkwNEdhN0pXX1ExaWFqUnNpR2dIRXRwN2tUWlVUdUZOV2U3R1dRQ0NYSHBkeTNYeE5KU0I5VV9HZ1djNDBGdDV30gHSAUFVX3lxTE5iT1dHcDRwZWZNYnphSG1Yejcyam9KMWdvZXlrZXhzdExia2Y2VEYySUJxUENMZUp5OWNZLTFZbjhZM0JwenVmMk1mN0pKcmhKeTVuLUxiaExJd1luZFBSUTlJV1pfSGhfUS1fZjRKUEZWTzY3cURvelk3c2xvWXM3ckJqRUNvczJXbjI4eWFCZURsX1VpcU9FdGQzY3V6Z1V1d0Q4LVJrZWVJVElkOFNheVVZVVh5ajd2Ui1Xa0pweE1HRnRudkpYUmlyWXczWjMtZw?oc=5",
-    "source": "NBC Los Angeles",
-    "title": "‘Highlander' star Christopher Lambert leaves Pittsburgh fan convention early after health scare - NBC Los Angeles",
-    "summary": "‘Highlander' star Christopher Lambert leaves Pittsburgh fan convention early after health scare NBC Los Angeles",
-    "evidence": [
-      "matched entity: Christopher Lambert",
-      "explicit Highlander reference",
-      "context: Highlander, convention",
-      "event: health (health)",
-      "also matched: Highlander (100)",
-      "source age: 61.1 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "2c35f77cba5abf181960",
-    "entity_id": "henry_cavill",
-    "entity": "Henry Cavill",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "henry_cavill",
-        "name": "Henry Cavill",
-        "kind": "person",
-        "roles": [
-          "reboot cast"
-        ],
-        "franchise_titles": [
-          "Highlander reboot"
-        ],
-        "score": 74,
-        "event_type": "other"
-      },
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "reboot cast"
-    ],
-    "franchise_titles": [
-      "Highlander reboot"
-    ],
-    "event_type": "other",
-    "source_date": "Thu, 16 Apr 2026 07:00:00 GMT",
-    "captured": "2026-10-09T09:32:03Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXF1WXRhZVBmQllsakp6QUNCbVY1REFiVnUyWkk1b1ZpUEsxSDdrbFRTclZISWw3UXBTYTVXaXdORjJIWmo3UjNOWlV1RE1zM1RnNFJ6V19Ic0VsT3dUR2gxdkVKR3pMc0pjZjdJakxHYnFHSThUQkt3a2JvQk9kamdtbXUwckdwdXJlTjNna2taQ2VBLTN3NA?oc=5",
-    "source": "Variety Australia",
-    "title": "‘Highlander’ Footage Unveils Henry Cavill’s ‘John Wick’-Like Action - Variety Australia",
-    "summary": "‘Highlander’ Footage Unveils Henry Cavill’s ‘John Wick’-Like Action Variety Australia",
-    "evidence": [
-      "matched entity: Henry Cavill",
-      "explicit Highlander reference",
-      "context: Highlander",
-      "also matched: Highlander (70)",
-      "source age: 176.1 days"
-    ],
-    "score": 74,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "3a8aa7f1396ec91631d7",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 70,
-        "event_type": "other"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "other",
-    "source_date": "Fri, 18 Sep 2026 07:00:00 GMT",
-    "captured": "2026-10-09T19:40:03Z",
-    "urgency": "low",
-    "impact": "low",
-    "actionability": "archive unless useful",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxVERjMnZWN2c5S2ozWmQ3dUFIckdPYXZTVXA4OFBRLWFVaFNPamFuLXJMM2IzNWFfWXZ6MUJtdmFpUVNFYmJET2QzbWQ4Skl5TUtLSEZSNzNMdEkt?oc=5",
-    "source": "YouTube",
-    "title": "How Highlander: The Source DESTROYED the Franchise - YouTube",
-    "summary": "How Highlander: The Source DESTROYED the Franchise YouTube",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "source age: 21.5 days"
-    ],
-    "score": 70,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
-    "id": "96f686188607606072f2",
-    "entity_id": "highlander_franchise",
-    "entity": "Highlander",
-    "entity_kind": "franchise",
-    "entities": [
-      {
-        "id": "highlander_franchise",
-        "name": "Highlander",
-        "kind": "franchise",
-        "roles": [
-          "franchise"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 100,
-        "event_type": "highlander_production"
-      }
-    ],
-    "roles": [
-      "franchise"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "highlander_production",
-    "source_date": "Wed, 23 Feb 2022 08:00:00 GMT",
-    "captured": "2026-10-09T19:40:03Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wTjJvcEhHLW9GQnNIbmRadTI2Yl9wNkpIVElPQzJZbF9xckZnVEJSY2RRNS1qX0pCVmlpWDdmTkxCMHR4Z0ZnWEJZdTEyeDUweC1wRGZYVXlibkVITHpOUzZsOHIxQXJ3N0MzS285Qm1qMVZJX0E?oc=5",
-    "source": "SciFiPulse.Net",
-    "title": "Will the Highlander Reboot be a Success? - SciFiPulse.Net",
-    "summary": "Will the Highlander Reboot be a Success? SciFiPulse.Net",
-    "evidence": [
-      "matched entity: Highlander",
-      "explicit Highlander reference",
-      "context: reboot",
-      "event: highlander_production (reboot)",
-      "source age: 1689.5 days"
-    ],
-    "score": 100,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "48c477b1ef3aafeb5a73",
     "entity_id": "brett_leonard",
     "entity": "Brett Leonard",
@@ -51972,5 +51120,888 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "402d448155d8a082e0a6",
+    "entity_id": "bruce_payne",
+    "entity": "Bruce Payne",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "bruce_payne",
+        "name": "Bruce Payne",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 18 Apr 2007 07:00:00 GMT",
+    "captured": "2026-11-25T23:37:46Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBic3hpenNlcVp5OThCVkZWM3FrYnI5THNBTnp6b3c5R29OZ1YtR2tTNnp6N3VXZzMyVEx2dmpwak5IMGZUSXNFYmsyMTdQRnViV09rU2w4WDBRTXJ1VmtVVkZuYjNEQU5Y?oc=5",
+    "source": "Parsons Funeral Home",
+    "title": "David Bruce Payne Obituary Apr 18, 2007 - Parsons Funeral Home",
+    "summary": "David Bruce Payne Obituary Apr 18, 2007 Parsons Funeral Home",
+    "evidence": [
+      "matched entity: Bruce Payne",
+      "event: death (obituary)",
+      "source age: 7161.7 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "aa839bcf7bd80f898702",
+    "entity_id": "dennis_berry",
+    "entity": "Dennis Berry",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "dennis_berry",
+        "name": "Dennis Berry",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Archangel",
+          "Avatar",
+          "Counterfeit, Part 2",
+          "Deadly Exposure",
+          "Deliverance",
+          "Eye For An Eye",
+          "Eye of the Beholder",
+          "Finale, Part 2",
+          "Highlander: The Raven",
+          "Indiscretions",
+          "Legacy",
+          "Methos",
+          "Not To Be",
+          "Nowhere to Run",
+          "One Minute to Midnight",
+          "Patient Number 7",
+          "Pharaoh's Daughter",
+          "Prophecy",
+          "Reasonable Doubt",
+          "Run For Your Life",
+          "Sins of the Father",
+          "Something Wicked",
+          "Testimony",
+          "The Colonel",
+          "The Innocent",
+          "The Lamb",
+          "The Return of Amanda",
+          "The Revolutionary",
+          "The Samurai",
+          "The Vampire",
+          "Through a Glass, Darkly",
+          "Till Death",
+          "Unusual Suspects"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Archangel",
+      "Avatar",
+      "Counterfeit, Part 2",
+      "Deadly Exposure",
+      "Deliverance",
+      "Eye For An Eye",
+      "Eye of the Beholder",
+      "Finale, Part 2",
+      "Highlander: The Raven",
+      "Indiscretions",
+      "Legacy",
+      "Methos",
+      "Not To Be",
+      "Nowhere to Run",
+      "One Minute to Midnight",
+      "Patient Number 7",
+      "Pharaoh's Daughter",
+      "Prophecy",
+      "Reasonable Doubt",
+      "Run For Your Life",
+      "Sins of the Father",
+      "Something Wicked",
+      "Testimony",
+      "The Colonel",
+      "The Innocent",
+      "The Lamb",
+      "The Return of Amanda",
+      "The Revolutionary",
+      "The Samurai",
+      "The Vampire",
+      "Through a Glass, Darkly",
+      "Till Death",
+      "Unusual Suspects"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 18 Jun 2019 07:00:00 GMT",
+    "captured": "2026-11-25T23:37:46Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OdmJON2hZd0U3VmlWSDNJcGQ1bEx2UXVRRi0ySnd1VnI1Vm1SbS03RnBndEhJQy1RNmNjTTV2ZUdpU2hSaWhDcmVvN2pZNXJYamJGMm1kVXNBWGNPZEcyZ0FTWGR4N3JoOU5pR3BVNnh6bUMxdzNNcUtYdU13bU0?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "Dennis Berry Obituary (2019) - Tebbetts, MO - Maupin Funeral Home - Fulton - Legacy | Obituary",
+    "summary": "Dennis Berry Obituary (2019) - Tebbetts, MO - Maupin Funeral Home - Fulton Legacy | Obituary",
+    "evidence": [
+      "matched entity: Dennis Berry",
+      "event: death (obituary)",
+      "source age: 2717.7 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "6630a344189b6799544b",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Wed, 25 Nov 2026 17:20:40 GMT",
+    "captured": "2026-11-25T23:37:47Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1BCT0c4MHZmZmNoaWtEWXNtbk15SVdzNWF3a3lmMzdLelQwSmNETlQtd3kwM2tMR1ZDVlJFcGc2T3Y0MlBmeHVLUmRFTlBONmFENzNkSnhxX050YVgwREozeWF4Z21KdVV2RGt6TC1aeFF2MC1mZl9lMDFjZTJQTFZhRVBYMkZNMjFReFRWaVF0Tl9xNmRsWHF1dXFhVFRoUGhicHBNeDhxZlU3X2NYQzhxS0xhaXVKWFRIU2pB?oc=5",
+    "source": "Stampede Blue",
+    "title": "Colts announce tough injury update on promising rookie edge Caden Curry - Stampede Blue",
+    "summary": "Colts announce tough injury update on promising rookie edge Caden Curry Stampede Blue",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (injury)",
+      "source age: 0.3 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "c5a8c83c8a77f21ea0dd",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 25 Nov 2026 18:04:00 GMT",
+    "captured": "2026-11-25T23:37:47Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFhfY01OYWQ2WnFtcXQyeWY0Z1NuUEZpaHNYRU9BMzBYaEN2ZW1LUmdsalpLdHhYQTAzVk51a0liUWRFYndaNWRjU2tnV2pyYUEwNUNOWTBTYW90dGJ6SEFCOFViLUVEa0x1THBoSk5PSkhLZjU0bDRKclZvV0ZjNW1zNU9tWTVXUXBSOU0wbWgxYVNyUEUzbg?oc=5",
+    "source": "VIBE.com",
+    "title": "Jagged Edge Singer Brandon Casey Hit With Lawsuit Accusing Him of Sexual Assault - VIBE.com",
+    "summary": "Jagged Edge Singer Brandon Casey Hit With Lawsuit Accusing Him of Sexual Assault VIBE.com",
+    "evidence": [
+      "matched entity: Edge",
+      "event: legal (lawsuit)",
+      "source age: 0.2 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "33d3eef67c4359775389",
+    "entity_id": "edge",
+    "entity": "Edge",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "edge",
+        "name": "Edge",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: Endgame"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: Endgame"
+    ],
+    "event_type": "health",
+    "source_date": "Wed, 25 Nov 2026 21:56:15 GMT",
+    "captured": "2026-11-25T23:37:47Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CclZ2MkJzdVZ2TDZnZHk2aml1c1NYejdpMUt3MFkwY3NESEMwUHhkYmFuM05ZLWE5V3Q5LW1PQndPWmZMYnJwSUVYdU1ia3E1RmxoLVJFNS1LMWNDTUh3RzJmZ1Y?oc=5",
+    "source": "TMCnet",
+    "title": "EDDA Technology and ONYX Healthcare to Demo Edge AI Surgical Navigation on NVIDIA IGX Thor at RSNA 2026 - TMCnet",
+    "summary": "EDDA Technology and ONYX Healthcare to Demo Edge AI Surgical Navigation on NVIDIA IGX Thor at RSNA 2026 TMCnet",
+    "evidence": [
+      "matched entity: Edge",
+      "event: health (health)",
+      "source age: 0.1 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "64c47aa54ee1dad3a7f2",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 20 Nov 2026 18:58:21 GMT",
+    "captured": "2026-11-25T23:37:47Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmdRb1pYejN1UldLTGc1alVTOTdybklhU3loNW05NU1nOVdRbmVRM1hRVlRZTkQ4MUFCN2ZFdHVSVEpGdFh5UmQ1QjVoUmJmRlpBeUVBWkk1cXlOSldxbTYxdkhpR2RFdFBSVV96OG9aeF9TY2xxcFBqVGFPZU9xTQ?oc=5",
+    "source": "Legacy obituary",
+    "title": "James Bruce \"Jim\" Sproul Obituary (2026) - Cranberry Township, PA - Devlin Funeral Home - Cranberry Township - Legacy obituary",
+    "summary": "James Bruce \"Jim\" Sproul Obituary (2026) - Cranberry Township, PA - Devlin Funeral Home - Cranberry Township Legacy obituary",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 5.2 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "e4ff1e9c98b2cbdc5635",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Fri, 13 Feb 2026 08:00:00 GMT",
+    "captured": "2026-11-25T23:37:47Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13aU8tTmgxUmdoUmxhNVhmQXJ2RTJULUZkdTIzZmk1ZFg2SzlSeDlkU1JHazFTbFdaVkJFTWFwRXRzeFA1WmtRNlBHUXMzRDJBcmUwTjV4Rm1fc1RLR0xTb2tVRVlZQ1FfLUJxaHB2N1cweDNhNk9PRHFyTTdoOTA?oc=5",
+    "source": "Legacy obituary",
+    "title": "James Bruce Obituary (2026) - Memphis, TN - Serenity Funeral Home - Legacy obituary",
+    "summary": "James Bruce Obituary (2026) - Memphis, TN - Serenity Funeral Home Legacy obituary",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 285.7 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "f263d3009476f665debb",
+    "entity_id": "james_bruce",
+    "entity": "James Bruce",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "james_bruce",
+        "name": "James Bruce",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Haunted",
+          "The Messenger"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Haunted",
+      "The Messenger"
+    ],
+    "event_type": "death",
+    "source_date": "Tue, 10 Sep 2024 07:00:00 GMT",
+    "captured": "2026-11-25T23:37:47Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTVlBZUDk0VnFicjg3RExZNW0ta2FUZDFPcGtNX2lydVhUaG96QWgza0RXMTYwUlU5NDdhcElXanBoUWZiOEduNTQyUHo5WThUekNoX3lFRzNhWUpRMnNacXp3TmtMaUctV05YYmktbzcteXlNNld4MkNvdw?oc=5",
+    "source": "Tierney Funeral Home",
+    "title": "Obituary information for James Bruce - Tierney Funeral Home",
+    "summary": "Obituary information for James Bruce Tierney Funeral Home",
+    "evidence": [
+      "matched entity: James Bruce",
+      "event: death (obituary)",
+      "source age: 806.7 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "20f5805472c7cc18f590",
+    "entity_id": "mako",
+    "entity": "Mako",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "mako",
+        "name": "Mako",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander III: The Sorcerer"
+        ],
+        "score": 68,
+        "event_type": "health"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander III: The Sorcerer"
+    ],
+    "event_type": "health",
+    "source_date": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "captured": "2026-11-25T23:37:47Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRjV1WGF1QnFCbVp5b0tpY21WaTNaSlI5VkR2M0VCbDg3UGVRT1dfUW1QaFJwclRBNHVQU0V5Q2YzT2lxQnpNODRPV1dpd3llbUxDZ3JoMG14MVVYRU90U1R5dUt5R1A1M1V4YUItcE9GOHdoLTh0endUNV8zNGlBYVpKV2pib1RFWmMyWDJJOWhUc0Y4cEoyMFdiU3V5QjN1dG84bE15bEo4NWh1UC01M0h1LURhRlFmbEFUVkhjTnhVdw?oc=5",
+    "source": "GreatNews.Life",
+    "title": "Franciscan Health Michigan City offering new Mako SmartRobotics shoulder replacement surgery - GreatNews.Life",
+    "summary": "Franciscan Health Michigan City offering new Mako SmartRobotics shoulder replacement surgery GreatNews.Life",
+    "evidence": [
+      "matched entity: Mako",
+      "event: health (health, surgery)",
+      "source age: 98.7 days"
+    ],
+    "score": 68,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "d26df232b7aea056d814",
+    "entity_id": "patricia_gage",
+    "entity": "Patricia Gage",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "patricia_gage",
+        "name": "Patricia Gage",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: The Raven"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander: The Raven"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 01 Dec 2011 08:00:00 GMT",
+    "captured": "2026-11-25T23:37:47Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdDQ5bjFfQnBibE9oZG5SWkdURjhMREd1SHVGcFVpM0lwYUhXZk5tckg5TEN6UFhqLVUtR0VJWm9Rbnhma2RCSUdJUzRzNGZmUXJ6M2NSdjh3TlRUR1NGNm1pb20taUFtN3Z0cHBIaGFJZ3RvTlNDYTRUcVhNZHFWNU8xZ3ZpdTNXODFoSElJaHA0bXM1VWdhVDE2azU?oc=5",
+    "source": "Legacy | Obituary",
+    "title": "PATRICIA GAGE Obituary (2011) - Colchester, VT - The Burlington Free Press - Legacy | Obituary",
+    "summary": "PATRICIA GAGE Obituary (2011) - Colchester, VT - The Burlington Free Press Legacy | Obituary",
+    "evidence": [
+      "matched entity: Patricia Gage",
+      "event: death (obituary)",
+      "source age: 5473.7 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "ba3f12fd30c59c6cb087",
+    "entity_id": "richard_martin",
+    "entity": "Richard Martin",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "richard_martin",
+        "name": "Richard Martin",
+        "kind": "person",
+        "roles": [
+          "director"
+        ],
+        "franchise_titles": [
+          "Armageddon",
+          "Black Tower",
+          "Diplomatic Immunity",
+          "Duende",
+          "Justice",
+          "The Stone of Scone",
+          "The Valkyrie",
+          "To Be",
+          "Two of Hearts"
+        ],
+        "score": 72,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "director"
+    ],
+    "franchise_titles": [
+      "Armageddon",
+      "Black Tower",
+      "Diplomatic Immunity",
+      "Duende",
+      "Justice",
+      "The Stone of Scone",
+      "The Valkyrie",
+      "To Be",
+      "Two of Hearts"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 05 Feb 2026 08:00:00 GMT",
+    "captured": "2026-11-25T23:37:47Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5VUppaTdySWs4Y1JXcnJreFFxQ1E4dUVOLTZtODVGUW1YVXJlYmNzZVJTeGMzRU1rWEllbFkwaUdKMWEtVHY1ZVR6TGVSNlNyTzJNR1doUkl6VFVXMVhfVGFka2lHVDYtci1TSWVXOEJnRVVpMGhOYi1R?oc=5",
+    "source": "Tribute Archive",
+    "title": "Richard Martin Doan Obituary | Brewer and Sons Funeral | Brooksville, FL - Tribute Archive",
+    "summary": "Richard Martin Doan Obituary | Brewer and Sons Funeral | Brooksville, FL Tribute Archive",
+    "evidence": [
+      "matched entity: Richard Martin",
+      "event: death (obituary)",
+      "source age: 293.7 days"
+    ],
+    "score": 72,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "13a0ebcf63556aeecda4",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "death"
+      },
+      {
+        "id": "stan_kirsch",
+        "name": "Stan Kirsch",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series"
+        ],
+        "score": 100,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 15 Jan 2020 08:00:00 GMT",
+    "captured": "2026-11-25T23:37:47Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSk9qMUNrRFN1eVk3VXdCdG5rS0NTTzBoOHZobnhCemlBbWg5YThqbnZLc2F4RjJaQ09NTnF1MjVLcC1abEhkZjhTNlN6MUx4TktsTEhteVQ4UjZjQUlOY3ZqYnl0Y3pXZXQyT3RJZTQ4UVN6eUtJSGwtbWdiV0wxdkhjT3QzUEtkM2poY3pR0gGTAUFVX3lxTE1iUDJzWW9vSk9QbnNhZ29ETk1RMjc3ODNMZHBMakU3VjBlcG9SalZCWGN3dmhlMXJWMnJmY2FISXpzRDJrQU5SRnptVXZKTWFTNnpJb0d1ZjdsN3JpVnNJbzNyMVp5c3BBUjVXVFZOV0NxVlo3NXI3NE1XQ3M5ZlQ0cGRoa0tHWVp6amtjWmg4dkNmYw?oc=5",
+    "source": "The Mirror",
+    "title": "Highlander and Friends star Stan Kirsch dies in tragic suicide aged 51 - The Mirror",
+    "summary": "Highlander and Friends star Stan Kirsch dies in tragic suicide aged 51 The Mirror",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: death (dies)",
+      "also matched: Stan Kirsch (100)",
+      "source age: 2506.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "4fa4d51bccab09430e8f",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "death"
+      },
+      {
+        "id": "stan_kirsch",
+        "name": "Stan Kirsch",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series"
+        ],
+        "score": 100,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 15 Jan 2020 08:00:00 GMT",
+    "captured": "2026-11-25T23:37:47Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOREtxamxBN3dHbS1xZW83MEJYWUlYSlpTRFIyckh6ckN4MGhXLTNaVTRPcHZTNkFPaXBDbUlUaEYxY3lfeENKSjNOREx1eXdNb0FvZW5jQ0dSVFVMNk9hdmJyZURIN3k5cW1iSWh3WDNsSUZMRFNSelR3TFgxRmNEZ0g1a01EazVKcFg5YUdHWjhSZVBEVERrZkVB?oc=5",
+    "source": "Belfast Live",
+    "title": "Highlander and Friends actor Stan Kirsch dies, aged 51 - Belfast Live",
+    "summary": "Highlander and Friends actor Stan Kirsch dies, aged 51 Belfast Live",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: death (dies)",
+      "also matched: Stan Kirsch (100)",
+      "source age: 2506.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "9f9cfdf6091362b0021c",
+    "entity_id": "highlander_franchise",
+    "entity": "Highlander",
+    "entity_kind": "franchise",
+    "entities": [
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 100,
+        "event_type": "death"
+      },
+      {
+        "id": "stan_kirsch",
+        "name": "Stan Kirsch",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander: The Series"
+        ],
+        "score": 100,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "franchise"
+    ],
+    "franchise_titles": [
+      "Highlander"
+    ],
+    "event_type": "death",
+    "source_date": "Wed, 15 Jan 2020 08:00:00 GMT",
+    "captured": "2026-11-25T23:37:47Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXRHVXYwMDI2OFFJakFLVzRTbFNMelF2WVpvdG5Ud0xfaUE4YU95dEN1V19yNkRmaHhKYzdqQ1RIbU10VUVKVUNmYkJPTE1ZZE0wMVJJTWVmcTY2ZzFWV040S0JWamJtUFZUV1p3cFZ5by14U2FGQ3JiS0pIQld1T0RuU01DelpXSXk4Z2xubDJIWDJwYTZwS0d5WQ?oc=5",
+    "source": "The Sentinel",
+    "title": "Highlander and Friends actor Stan Kirsch dies, aged 51 - The Sentinel",
+    "summary": "Highlander and Friends actor Stan Kirsch dies, aged 51 The Sentinel",
+    "evidence": [
+      "matched entity: Highlander",
+      "explicit Highlander reference",
+      "event: death (dies)",
+      "also matched: Stan Kirsch (100)",
+      "source age: 2506.7 days"
+    ],
+    "score": 100,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "4f59c90ce0c919ef14ec",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 08:00:00 GMT",
+    "captured": "2026-11-25T23:37:47Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdlJydlBpeUZPMW1SNGV0dkhuNG1uV0s3dmFzbDhUVWhEa05RQ0lpd2t4Yng2eGs2bzFqNnU5VHM1YkJ0NGk1UDZVT3h4NUlDMTBvbk04SkZ4aG1mOGMySnhvcUF0bmJaM3VXR1hWZ0ZrWGZEdEtRS2JFUm9QRGZLQ1h2SlhPWWlqRHNVcDJ4c3pVclZqWXBrMXlscl9yTWVyTnd6NVVwYzY?oc=5",
+    "source": "930 WFMD Free Talk",
+    "title": "Antonio Sabato Jr and Virginia Madsen’s son arrested in fatal hit-and-run - 930 WFMD Free Talk",
+    "summary": "Antonio Sabato Jr and Virginia Madsen’s son arrested in fatal hit-and-run 930 WFMD Free Talk",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 14.7 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "2473c17123ebf6ad9080",
+    "entity_id": "virginia_madsen",
+    "entity": "Virginia Madsen",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "virginia_madsen",
+        "name": "Virginia Madsen",
+        "kind": "person",
+        "roles": [
+          "cast member"
+        ],
+        "franchise_titles": [
+          "Highlander II: The Quickening"
+        ],
+        "score": 56,
+        "event_type": "legal"
+      }
+    ],
+    "roles": [
+      "cast member"
+    ],
+    "franchise_titles": [
+      "Highlander II: The Quickening"
+    ],
+    "event_type": "legal",
+    "source_date": "Wed, 11 Nov 2026 08:00:00 GMT",
+    "captured": "2026-11-25T23:37:47Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb0VPQzFXZjJseWRuVVZiMUpGcEZwYVZnM0V4ZWhsNC1YQm1ZYTBVVXJFRlIycVR0WThQTWNxRFFONUFpcXpCeXFtUU5jUjhXYVVYamdDSEdzQW0zN0xIOXBlU2cxS3JkR2NvdWViYWVlaGRWWVA4Z3A1bDNWcmZHLVZyZnVpQWVNMTZ3M0gyZzdyWVJ3RWwxM2l4YXFCaGd1cVIzdXhBZmRWVlpUdFFQTnBCajctd0dtMVE?oc=5",
+    "source": "WCTI",
+    "title": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run - WCTI",
+    "summary": "Antonio Sabáto Jr. and Virginia Madsen's son arrested in alleged fatal hit-and-run WCTI",
+    "evidence": [
+      "matched entity: Virginia Madsen",
+      "event: legal (arrest)",
+      "source age: 14.7 days"
+    ],
+    "score": 56,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

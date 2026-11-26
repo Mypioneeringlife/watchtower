@@ -1,210 +1,5 @@
 [
   {
-    "id": "28e72449676dd5376a6b",
-    "entity_id": "christopher_malcolm",
-    "entity": "Christopher Malcolm",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "christopher_malcolm",
-        "name": "Christopher Malcolm",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander"
-    ],
-    "event_type": "death",
-    "source_date": "Wed, 19 Feb 2014 08:00:00 GMT",
-    "captured": "2026-10-09T20:07:43Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWU5jWW5BcW9GMTlySHZ0WnhHZUNJTlU3RDdPb1RNVVNBNkxZVEJtM2NKSGlxSU00UDJPb2pWQmY4MllXRTlxTGF3dDJ5d2p5NjMxVkVFai03ODFkNHJYWkF5OEh4RTRQZ2VqTjZfVDhRNVkzRUt3VDBFTnk0RFhNV3JKWElySnNnRGdGeHJLUWw2TkYyXzd1eWpIQmQ0d1lqbFhuUzdFczBIZWpfaWc?oc=5",
-    "source": "Belfast Telegraph",
-    "title": "Actor Christopher Malcolm dies - Belfast Telegraph",
-    "summary": "Actor Christopher Malcolm dies Belfast Telegraph",
-    "evidence": [
-      "matched entity: Christopher Malcolm",
-      "event: death (dies)",
-      "source age: 4615.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "16c588e54cc5c7da122b",
-    "entity_id": "david_tynan",
-    "entity": "David Tynan",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "david_tynan",
-        "name": "David Tynan",
-        "kind": "person",
-        "roles": [
-          "screenwriter"
-        ],
-        "franchise_titles": [
-          "Archangel",
-          "Avatar",
-          "Comes a Horseman",
-          "Counterfeit, Part 1",
-          "Counterfeit, Part 2",
-          "Deliverance",
-          "Double Eagle",
-          "Double Jeopardy",
-          "Eyewitness",
-          "Finale, Part 1",
-          "Finale, Part 2",
-          "Homeland",
-          "Judgment Day",
-          "Line of Fire",
-          "Manhunt",
-          "Not To Be",
-          "One Minute to Midnight",
-          "Patient Number 7",
-          "Prodigal Son",
-          "Prophecy",
-          "Shadows",
-          "Something Wicked",
-          "Song of the Executioner",
-          "Testimony",
-          "The Messenger",
-          "The Ransom of Richard Redstone",
-          "The Return of Amanda",
-          "The Sea Witch",
-          "The Wrath of Kali",
-          "To Be",
-          "Turnabout",
-          "Unholy Alliance, Part 1",
-          "Unholy Alliance, Part 2"
-        ],
-        "score": 68,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "screenwriter"
-    ],
-    "franchise_titles": [
-      "Archangel",
-      "Avatar",
-      "Comes a Horseman",
-      "Counterfeit, Part 1",
-      "Counterfeit, Part 2",
-      "Deliverance",
-      "Double Eagle",
-      "Double Jeopardy",
-      "Eyewitness",
-      "Finale, Part 1",
-      "Finale, Part 2",
-      "Homeland",
-      "Judgment Day",
-      "Line of Fire",
-      "Manhunt",
-      "Not To Be",
-      "One Minute to Midnight",
-      "Patient Number 7",
-      "Prodigal Son",
-      "Prophecy",
-      "Shadows",
-      "Something Wicked",
-      "Song of the Executioner",
-      "Testimony",
-      "The Messenger",
-      "The Ransom of Richard Redstone",
-      "The Return of Amanda",
-      "The Sea Witch",
-      "The Wrath of Kali",
-      "To Be",
-      "Turnabout",
-      "Unholy Alliance, Part 1",
-      "Unholy Alliance, Part 2"
-    ],
-    "event_type": "health",
-    "source_date": "Wed, 20 May 2009 07:00:00 GMT",
-    "captured": "2026-10-09T20:07:44Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWpZUW5ZU0JLOFU0YlFreGVEWS1XU2dJZ2R2eGxWaFZZdXFCRWVoUnlIY3psZzc5b3UwVHpPNWJtaFFqM2E5T3RGZjM0STRoVnFFZEl0RnlvZWQyMXpYa3F4ei13UFhSN1pxRjYzSUFjR0VzcG04NG9tSXkwTVNjMzJPSE41M2kyTm5Jd1pQZzV5MS1ENWR2ZE9iQQ?oc=5",
-    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-    "title": "AUDIO: Dr David Tynan talks about his role in the power-drill surgery. - ABC News & Headlines – Australian Broadcasting Corporation",
-    "summary": "AUDIO: Dr David Tynan talks about his role in the power-drill surgery. ABC News & Headlines – Australian Broadcasting Corporation",
-    "evidence": [
-      "matched entity: David Tynan",
-      "event: health (surgery)",
-      "source age: 6351.5 days"
-    ],
-    "score": 68,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "bf3c6791c2f338f9704c",
-    "entity_id": "edge",
-    "entity": "Edge",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "edge",
-        "name": "Edge",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 68,
-        "event_type": "health"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "health",
-    "source_date": "Fri, 09 Oct 2026 15:46:00 GMT",
-    "captured": "2026-10-09T20:07:44Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "new",
-    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaVQxTC1ta1ZLUFRZU0JLaFJSR2p4NTR3cno0SDVVR1hrQUVEblNLd1F5UVF3OFdoZ0h2UWVDd2ZIN1ZOYUJYb2htcGd5UHAwb2ZSZzl0clZRM0VIVGJLekw0Ym9LbnZtbEQ2QmlUbDNITWVIR3FKRllzcGdROVVoOTMwN2pNZUpVNElJRWRlaXNoSnZGTUtYNnp2ajF4aVBkblE?oc=5",
-    "source": "Yahoo Finance",
-    "title": "UnitedHealth vs. Humana: Which Healthcare Giant Has the Edge? - Yahoo Finance",
-    "summary": "UnitedHealth vs. Humana: Which Healthcare Giant Has the Edge? Yahoo Finance",
-    "evidence": [
-      "matched entity: Edge",
-      "event: health (health)",
-      "source age: 0.2 days"
-    ],
-    "score": 68,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "new"
-  },
-  {
     "id": "3e3da26089f69bcfb773",
     "entity_id": "edge",
     "entity": "Edge",
@@ -52004,5 +51799,162 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "historical"
+  },
+  {
+    "id": "b8e83c1dc3aa35070e1e",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "other"
+      },
+      {
+        "id": "highlander_franchise",
+        "name": "Highlander",
+        "kind": "franchise",
+        "roles": [
+          "franchise"
+        ],
+        "franchise_titles": [
+          "Highlander"
+        ],
+        "score": 70,
+        "event_type": "other"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "other",
+    "source_date": "Fri, 12 Sep 2025 07:00:00 GMT",
+    "captured": "2026-11-26T23:13:20Z",
+    "urgency": "low",
+    "impact": "low",
+    "actionability": "archive unless useful",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQTZxTVQ0Tmw4QkZLclpNR3RlQ2hGeG5SUVg2REtnYW5sR2hvTEFoMEJvX3c3WGxkWWluZjF4bGkzczJBbkp0bzFfSXVwUjFYdUZsNVJxc0EwZkg1NmlrY1JwNDRPcEs5aTJPcXhjN1A3M0t5MEgzcURxbzhPWG1WeXdtdE1BUQ?oc=5",
+    "source": "Comics Beat",
+    "title": "HIGHLANDER: Henry Cavill injured, delaying production start to 2026 - Comics Beat",
+    "summary": "HIGHLANDER: Henry Cavill injured, delaying production start to 2026 Comics Beat",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "explicit Highlander reference",
+      "context: Highlander, production",
+      "also matched: Highlander (70)",
+      "source age: 440.7 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
+  },
+  {
+    "id": "b75f7c622cc498c32adf",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 26 Nov 2026 23:03:05 GMT",
+    "captured": "2026-11-26T23:13:20Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNWVUQVNvQlRvUmE0eUxIZU1oYkxwTVh2UXNtNWxDazhvcnFCN0JSU1M5akdpNTRwV05EQllhUnF6MzNLRkQ3Ylg5NVNSOUNfSk1oQ0R1dFYtZE5iT1BtRjNjZVd5MWdHbzdUd3VNRVdtZ2hKcHRMM1ZIajJmZ2J4VnpNbEI1TEpoSWFfWlpR?oc=5",
+    "source": "Comic Book Resources",
+    "title": "Henry Cavill's New '80s Fantasy Reboot Is Already the Biggest Movie in Prime Video History - Comic Book Resources",
+    "summary": "Henry Cavill's New '80s Fantasy Reboot Is Already the Biggest Movie in Prime Video History Comic Book Resources",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 0.0 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "c2ddda1a1a8d613b7ea0",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 60,
+        "event_type": "new_project"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "new_project",
+    "source_date": "Wed, 11 Nov 2026 08:00:00 GMT",
+    "captured": "2026-11-26T23:13:20Z",
+    "urgency": "low",
+    "impact": "medium",
+    "actionability": "archive unless useful",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcl9QenU1ako3Z1k3Z01yNS1rSnp2N3hyem1SdElCSzZHLWJJeGVtX2RzNjhWZ2FjU3ZJbE82eXhZZFhvYUNsSGh1UEN4MXAtZmVIZERZZGc5SzdIbXctUUItU01VU25SaWZhczNzWXhHTVJrRTVqY0FtTlFIdlJzZHY1NEZkSVpQTms5bjV0WmRJN3o2X0dFVk80TEhvdzhhOV9mTXBYTm5YclpPS0NCd1k1emk?oc=5",
+    "source": "Nacionale",
+    "title": "Is Henry Cavill coming back as Superman? He says 'never say never,' but no deal is announced - Nacionale",
+    "summary": "Is Henry Cavill coming back as Superman? He says 'never say never,' but no deal is announced Nacionale",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: new_project (announced)",
+      "source age: 15.6 days"
+    ],
+    "score": 60,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
   }
 ]

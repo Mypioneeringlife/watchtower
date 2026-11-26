@@ -1,99 +1,5 @@
 [
   {
-    "id": "48c477b1ef3aafeb5a73",
-    "entity_id": "brett_leonard",
-    "entity": "Brett Leonard",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "brett_leonard",
-        "name": "Brett Leonard",
-        "kind": "person",
-        "roles": [
-          "director"
-        ],
-        "franchise_titles": [
-          "Highlander: The Source"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "director"
-    ],
-    "franchise_titles": [
-      "Highlander: The Source"
-    ],
-    "event_type": "death",
-    "source_date": "Mon, 06 Mar 2023 08:00:00 GMT",
-    "captured": "2026-10-09T20:07:43Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KaUdnbEgyUWFkUHlXMllJWGF5cXBQMlZoRzIyNFBwdXo4UG9jMlFqdmxaMEJheU4td1VEdGVQRWVZQ1RUejcydWVBUnlCN29yZDhQS2NWc3FBUy1DOTJSemRfYTdMcWswRXFCaWdaTVZLZw?oc=5",
-    "source": "Limestone Chapel Funeral Home",
-    "title": "William Brett Leonard - View Obituary & Service Information - Limestone Chapel Funeral Home",
-    "summary": "William Brett Leonard - View Obituary & Service Information Limestone Chapel Funeral Home",
-    "evidence": [
-      "matched entity: Brett Leonard",
-      "event: death (obituary)",
-      "source age: 1313.5 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
-    "id": "16566c7ffc164aae4c82",
-    "entity_id": "bruce_payne",
-    "entity": "Bruce Payne",
-    "entity_kind": "person",
-    "entities": [
-      {
-        "id": "bruce_payne",
-        "name": "Bruce Payne",
-        "kind": "person",
-        "roles": [
-          "cast member"
-        ],
-        "franchise_titles": [
-          "Highlander: Endgame"
-        ],
-        "score": 72,
-        "event_type": "death"
-      }
-    ],
-    "roles": [
-      "cast member"
-    ],
-    "franchise_titles": [
-      "Highlander: Endgame"
-    ],
-    "event_type": "death",
-    "source_date": "Sat, 03 Sep 2022 05:36:19 GMT",
-    "captured": "2026-10-09T20:07:43Z",
-    "urgency": "low",
-    "impact": "high",
-    "actionability": "review for Corrupted Chronicle coverage",
-    "novelty": "late_historical",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41WTJDVUNuYzVnVWt1OENfMUc2U2QzdHFWTEozTnN1NWJQaF8yUlVjZHpfV2c2YkFBaHU0TnVEREdUWm1OYWJDTlVpUjZLT3Q2WTM2MUE0NnM2ZERKS3I1WHRyLXNvQnc5MUtMc2NqeFZ4Q3BKV1RCY1p3?oc=5",
-    "source": "Bliley's Funeral Home",
-    "title": "Obituary information for Charles Bruce Payne, Sr. - Bliley's Funeral Home",
-    "summary": "Obituary information for Charles Bruce Payne, Sr. Bliley's Funeral Home",
-    "evidence": [
-      "matched entity: Bruce Payne",
-      "event: death (obituary)",
-      "source age: 1497.6 days"
-    ],
-    "score": 72,
-    "route": "Corrupted Chronicle research",
-    "notify_candidate": false,
-    "status": "historical"
-  },
-  {
     "id": "28e72449676dd5376a6b",
     "entity_id": "christopher_malcolm",
     "entity": "Christopher Malcolm",
@@ -52003,5 +51909,100 @@
     "route": "Corrupted Chronicle research",
     "notify_candidate": false,
     "status": "new"
+  },
+  {
+    "id": "730c52626c409beea733",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 78,
+        "event_type": "highlander_production"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "highlander_production",
+    "source_date": "Thu, 26 Nov 2026 04:45:00 GMT",
+    "captured": "2026-11-26T11:24:06Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "new",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdXZGOWJ5ekpwY2d2cVFjd0VHb3BhUU9KeUxhdmpxX3FIeDduX01xeDFCRU1TSGJfMzVhOFFqWFc0ZUtQY3BLTVFwTlhPM1R3M2NjS2s0bm9jUGg5NG5VLVRFTk9YTmxLVlBiTzNIRkEzS1JoRzZoR0dIMUVSVzdKbmdSVlQ?oc=5",
+    "source": "Comic Book Resources",
+    "title": "Forget James Bond, This '80s Fantasy Reboot Is The Perfect Role For Henry Cavill - Comic Book Resources",
+    "summary": "Forget James Bond, This '80s Fantasy Reboot Is The Perfect Role For Henry Cavill Comic Book Resources",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "context: reboot",
+      "event: highlander_production (reboot)",
+      "source age: 0.3 days"
+    ],
+    "score": 78,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "new"
+  },
+  {
+    "id": "54b149ea4e42ab27ab98",
+    "entity_id": "henry_cavill",
+    "entity": "Henry Cavill",
+    "entity_kind": "person",
+    "entities": [
+      {
+        "id": "henry_cavill",
+        "name": "Henry Cavill",
+        "kind": "person",
+        "roles": [
+          "reboot cast"
+        ],
+        "franchise_titles": [
+          "Highlander reboot"
+        ],
+        "score": 80,
+        "event_type": "death"
+      }
+    ],
+    "roles": [
+      "reboot cast"
+    ],
+    "franchise_titles": [
+      "Highlander reboot"
+    ],
+    "event_type": "death",
+    "source_date": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "captured": "2026-11-26T11:24:06Z",
+    "urgency": "low",
+    "impact": "high",
+    "actionability": "review for Corrupted Chronicle coverage",
+    "novelty": "late_historical",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82dWl5RGU2NkRzM3UxYWFydGpfX3VDZnd2TUVsbUxmQy1GSGZEQktlWVNINGpobUJwWjJwSGt3bUE1UEhETXQ4OHZ0cnd0T0Q4c0NybS1mM2IwOXhMay1VVHBkWVNVb2lxZFlpM0RfYTV2R0hZWnVUbGZR?oc=5",
+    "source": "FandomWire",
+    "title": "Henry Cavill’s Quest to Revive a Dead $46.6M Franchise Gets Exciting Update - FandomWire",
+    "summary": "Henry Cavill’s Quest to Revive a Dead $46.6M Franchise Gets Exciting Update FandomWire",
+    "evidence": [
+      "matched entity: Henry Cavill",
+      "event: death (dead)",
+      "source age: 77.2 days"
+    ],
+    "score": 80,
+    "route": "Corrupted Chronicle research",
+    "notify_candidate": false,
+    "status": "historical"
   }
 ]
